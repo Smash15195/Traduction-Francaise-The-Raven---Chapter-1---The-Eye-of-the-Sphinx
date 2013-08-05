@@ -1,0 +1,333 @@
+loca_key_foo;Value is Bar
+text_quest01_slot01_titel;Legrand überzeugen
+text_quest01_slot01_content;Ich muss Legrand überzeugen, dass ich nützlich sein kann. Wenn ich dem Professor helfe die Tür zu öffnen, wäre das ein guter Anfang.
+text_quest01_slot02_content;Wenn ich die Geldbörse der Baronin wiederbeschaffe, könnte mir das Pluspunkte bei Legrand einbringen.
+text_quest02_slot01_titel;Kabinentür des Professors öffnen
+text_quest02_slot01_content;Die Tür von Professor Luciens Kabine wurde verschlossen, wohlmöglich sogar von innen. Ich muss einen Weg finden das Schloss zu öffnen.
+text_quest02_slot02_content;Der Werkzeugkoffer könnte mir beim Öffnen von Professor Luciens Kabinentür helfen. Mir fehlt nur ein Schlüssel.
+hint_quest02_slot02;Das Bahnpersonal müsste doch Zugang zu dem Schlüssel haben.
+text_quest02_slot03_content;Ich muss die verschlossene Schublade hinter der Bar aufbekommen. Vielleicht enthält sie einen Schlüssel für die Kabinentüren.
+hint_quest02_slot03;Vielleicht haben die anderen Passagiere eine Idee, wie ich die Schublade aufbekomme.
+text_quest03_slot01_titel;Fingerabdrücke untersuchen
+hint_quest03_slot01;Vielleicht kann ich die Fingerabdrücke am Fenster in der Kabine des Archäologen irgendwie untersuchen!
+text_quest04_slot01_titel;Brieftasche der Baronin finden
+text_quest04_slot01_content;Die Baronin hat mich beauftragt, ihre Geldbörse zu finden. Nicht gerade das Verbrechen des Jahrhunderts – wenn es denn ein Verbrechen ist. Aber es ist meine Aufgabe als Polizist.
+hint_quest04_slot01;Ich sollte die anderen Passagiere befragen, ob sie etwas über den Verbleib der Geldbörse wissen.
+text_quest04_slot02_content;Die Gesellschafterin von Lady Westmacott meinte, dass ihr Sohn Matt mir vielleicht weiterhelfen kann. Wo steckt der Schlingel bloß?
+text_quest04_slot03_content;Matt ist beleidigt, weil ich ihm seine Pistole weggenommen habe. Würde er mit mir reden, könnte ich ihn nach der Geldbörse der Baronin fragen. 
+hint_quest04_slot03;Seine Pistole kann ich ihm nicht zurückgeben, aber vielleicht lässt er sich auf andere Weise aufheitern.
+text_quest04_slot04_content;Matt hat am Bahnsteig gesehen, wie der Geiger etwas aufgehoben und eingesteckt hat…
+text_quest04_slot05_content;Der Geiger behauptet, nichts von der Geldbörse zu wissen. Wenn ich doch nur einen Blick in seinen Geigenkoffer werfen könnte…
+hint_quest04_slot05;Vielleicht kann ich ihn irgendwie ablenken, so dass er seinen Geigenkoffer für eine Weile unbeaufsichtigt lässt.
+text_quest05_slot01_titel;Transportwagen abkoppeln 
+text_quest05_slot01_content;Ich muss den Transportwagen abkoppeln, bevor der Rauch im Tunnel uns erstickt.
+text_quest05_slot02_content;Der Koppelmechanismus ist im Dunkeln nicht zu erkennen. Ich brauche mehr Licht!
+text_quest05_slot03_content;Streichhölzer reichen nicht aus, also brauche ich eine bessere Lichtquelle.
+hint_quest05_slot03;Vielleicht kann ich mir irgendwie eine Fackel bauen.
+text_quest05_slot04_content;Die Fackel brennt nur schwach und geht bei kleinster Bewegung aus. Ich muss die Flamme irgendwie verstärken.
+hint_quest05_slot04;Gibt es hier vielleicht irgendwo Wachs, Öl oder etwas in der Art?
+text_quest06_slot01_titel;Mit Matt reden
+text_quest06_slot01_content;Ich habe Matt gefunden, aber er hat ziemliche Angst. Ich muss ihn irgendwie beruhigen.
+hint_quest06_slot01;Wenn Matt das Gefühl hat, sich verteidigen zu können, wird er vielleicht ruhiger.
+text_quest06_slot02_titel;Lok abkoppeln
+text_quest06_slot02_content;Die Lok wird nicht von alleine bremsen und ich komme wegen dem Feuer nicht ins Führerhaus.
+text_quest06_slot03_content;Die Tür ist zu heiß um sie mit bloßer Hand zu berühren. Ich muss etwas finden, dass mich vor der Hitze schützt.
+text_quest06_slot04_content;Der Rauch und die Funken sind zu stark. Ich muss mein Gesicht schützen.
+text_quest07_slot01_titel;Aufs Schiff kommen
+text_quest07_slot01_content;Legrand will mich nicht auf das Schiff lassen. Ich muss einen Weg finden trotzdem mitzufahren.
+hint_quest07_slot01;Ich sollte mich am Pier genau umschauen.
+text_quest07_slot02_content;Die verdächtige Kiste, die ich beim Verladen gesehen habe, muss irgendwo im Lagerraum sein. Ist der Rabe darin an Bord gekommen?
+text_quest08_slot01_titel;Befreien
+text_quest08_slot01_content;Wer hat mich niedergeschlagen und gefesselt? Viel wichtiger noch: Wie kann ich mich befreien?
+hint_quest08_slot01;Ich bin zwar gefesselt, kann aber trotzdem einige Dinge in der Umgebung erreichen.
+text_quest08_slot02_content;Jemand hat anscheinend auf eine Kiste geschossen. Ich vermute, dass das Projektil noch im Holz steckt, doch mit bloßen Fingern kann ich es nicht herausholen.
+text_quest08_slot03_content;Ich bekomme die Tür mit bloßen Händen nicht auf. Vielleicht brauche ich ein Hilfsmittel.
+text_quest08_slot04_content;Das Schiff hat während meiner Ohnmacht abgelegt, also bin ich jetzt offizieller Passagier.
+text_quest08_slot05_titel;Rabenjagd
+text_quest08_slot05_content;Eine schwarzgekleidete Gestalt wurde auf den Dächern gesichtet. Sind wir dem Raben auf der Spur?
+hint_quest08_slot05;Ich sollte mich auf der Backbordseite umschauen.
+text_quest09_slot01_titel;Wer ist der Mörder?
+text_quest09_slot01_content;Es wurde noch kein Verdächtiger im Mordfall der Baronin gefunden. Ich schaue mal, ob ich von den anderen Passagieren hilfreiche Informationen bekommen kann.
+text_quest09_slot02_content;Ich sollte nach Indizien suchen, die uns weiterhelfen können.
+hint_quest09_slot02;Vielleicht hat der Schuss, den ich im Laderaum gehört habe, mit dem Mord zu tun.
+text_quest09_slot03_content;Legrand hat mir erlaubt, die Kabine der Baronin zu durchsuchen.
+hint_quest09_slot03;Ich sollte die Kabine gründlich nach Spuren durchsuchen.
+text_quest09_slot04_content;Es könnte außer den Federn noch etwas in der Vase stecken, aber meine Hand ist nicht schmal genug, um hineinzugreifen.
+text_quest09_slot05_content;Der Blutfleck auf der Matratze sieht seltsam aus.
+hint_quest09_slot05;Wenn ich eine Probe von dem Blutfleck nehme, könnte man sie untersuchen.
+text_quest09_slot06_content;Konstabler Oliver will mich nicht zum blinden Passagier im Lagerraum vorlassen. Ich muss ihn irgendwie ablenken.
+hint01_quest09_slot06;Vielleicht können ihn körperliche Bedürfnisse von seinem Platz locken.
+hint02_quest09_slot06;Matt kennt sich mit Streichen besser aus als ich.
+text_quest09_slot07_content;Ich könnte die Indizien in Legrands Kabine auf eigene Faust untersuchen.
+hint01_quest09_slot07;Stammen die Projektile aus dem Frachtraum und der Kabine der Baronin aus derselben Waffe?
+hint02_quest09_slot07;Warum sieht das Blut auf dem Bett der Baronin so seltsam aus?
+text_quest09_slot08_content;Die Spur führt zur Krankenstation.
+text_quest10_slot01_titel;Suche nach Beweisen
+text_quest10_slot01_content;Vielleicht finde ich in der Krankenstation weitere Spuren, die mir weiterhelfen.
+text_quest10_slot02_content;Dr. Gebhardt hat mich gefesselt und will mich umbringen. Ich muss schnell handeln!
+hint_quest10_slot02;Vielleicht hilft es, wenn ich Zeit schinde.
+text_quest11_slot01_titel;Umsehen
+text_quest11_slot01_content;Solange der Tresor noch nicht eingetroffen ist, sollte ich die Zeit nutzen und mich umschauen.
+text_quest11_slot02_titel;Schatzkammer betreten
+text_quest11_slot02_content;Das Tor der Schatzkammer ist zu. Ich muss einen Weg finden es zu öffnen.
+text_quest11_slot03_content;Die Mechanik vom Tor klemmt. Ich muss einen Weg finden, es wenigstens einen Spalt weit zu öffnen.
+text_quest11_slot04_content;Eine Stange reicht nicht, um das Tor aufzuhebeln.
+hint_quest11_slot04;Vielleicht gibt es hier noch irgendwo eine zweite Stange.
+text_quest12_slot01_titel;Keller Betreten
+text_quest12_slot01_content;Die Vitrine mit dem Auge ist bei der Explosion in ein Loch gestürzt. Ich muss irgendwie da runter kommen und nachschauen ob der Stein noch da ist.
+text_quest12_slot02_titel;Geheimtür öffnen
+text_quest12_slot02_content;Ich muss herausfinden was hinter der Geheimtür ist, bevor die Polizei eintrifft und die Tore wieder öffnet.
+text_quest12_slot03_content;Was bedeutet der Satz an der Geheimtür?
+hint_quest03_slot03;Vielleicht kann mir der Museumsdirektor den Satz übersetzen.
+text_quest12_slot04_content;„Die Söhne des Horus“. Mensch, Pavian, Schakal und Falke. 
+hint_quest12_slot04;Im Museum finde ich sicher mehr Hinweise zu den Söhnen des Horus.
+text_quest13_slot01_titel;Steige in den Zug
+text_quest13_slot01_content;Ich muss irgendwie in den Zug kommen. Aber einfach reinmarschieren geht nicht.
+text_quest14_slot02_titel;Transportwagen untersuchen
+text_quest13_slot02_content;Es darf niemand bemerken wie ich in den Zug steige. 
+hint_quest13_slot02;Solange der Polizist mit dem Arzt redet, komme ich nicht ungesehen in den Zug.
+text_quest14_slot01_titel;Abteil verlassen
+text_quest14_slot01_content;Ich muss ungesehen aus dem Abteil kommen, aber die Leute vor der Tür machen diesen Weg schon mal unmöglich.
+text_quest14_slot02_content;Die Sicht in den Transportwagen ist versperrt. Irgendwie muss ich mir Einblick verschaffen.
+hint_quest14_slot02;Ein Spiegel könnte Abhilfe schaffen.
+text_quest14_slot03_titel;Dachluke öffnen
+text_quest14_slot03_content;Die Dachluke des Transportwagens ist verschraubt. Ich benötige Werkzeug um sie zu öffnen.
+text_quest14_slot04_content;Die herunterfallende Schraubenmutter hätte mich fast verraten. Ich muss verhindern, dass so etwas noch einmal passiert.
+hint_quest14_slot04;Vielleicht kann ich die zweite Mutter irgendwie festhalten, damit sie nach dem Abschrauben nicht runterfällt.
+text_quest15_slot01_titel;Aus der Kiste befreien
+text_quest15_slot01_content;Der Deckel der Kiste lässt sich nicht öffnen. Ich muss hier irgendwie rauskommen.
+text_quest15_slot02_content;Mehr als einen Arm kann ich nicht durch den Spalt des Deckels stecken, aber vielleicht erreiche ich ja etwas Brauchbares.
+text_quest15_slot03_content;Ich habe den Gurt durchschnitten, aber die Kiste steht immer noch im Regal.
+hint_quest15_slot03;Wenn das Regal sich schon nicht bewegen lässt, kann ich vielleicht wenigstens die Kiste bewegen.
+text_quest15_slot04_content;Der Gurt ist nicht am Regal hängengeblieben, sondern hat nur Gegenstände umgeworfen.
+text_quest15_slot05_content;Vielleicht kann ich irgendwie an das Rohr herankommen.
+hint_quest15_slot05;Ich könnte danach angeln.
+text_quest15_slot06_content;Ich habe das Rohr, sitze aber immer noch in der Kiste fest.
+text_quest16_slot01_titel;Kabine der Baronin betreten
+text_quest16_slot01_content;Ich muss in die Kabine der Baronin gelangen und ihr Geheimversteck öffnen.
+text_quest16_slot02_content;Über die Tür kann ich mir keinen Zugang verschaffen. Das Risiko entdeckt zu werden ist zu groß.
+text_quest16_slot03_content;Der Lüftungsschacht wäre eine Möglichkeit, aber er ist verschraubt.
+hint_quest16_slot03;Vielleicht finde ich in unserer Kabine Werkzeug.
+text_quest16_slot04_content;Der Penny lässt sich per Hand nicht fest genug drehen. Ich brauche mehr Hebelwirkung.
+text_quest16_slot05_content;Solange ich keine Möglichkeit habe ohne Spuren zu hinterlassen wieder herauf zu klettern, lasse ich mich nicht in die Kabine hinab.
+hint_quest16_slot05;Ich brauche etwas, um mich abzuseilen.
+text_quest16_slot06_content;Irgendwo in der Kabine muss das Geheimversteck sein. Nur wo?
+text_quest16_slot07content;Adil hatte Recht. Um das Geheimversteck zu öffnen muss ich eine Kombination eingeben.
+text_quest16_slot08_content;Vielleicht kann ich vom Allgemeinwissen der anderen Passagiere profitieren.
+hint01_quest16_slot08;Jeder Hinweis kann mich eventuell im Gespräch mit einer anderen Person weiterbringen.
+hint02_quest16_slot08;Adil kann mir vielleicht auch weiterhelfen.
+text_quest17_slot01_titel;Zelle verlassen 
+text_quest17_slot01_content;Es darf keine weiteren Opfer geben. Ich muss aus diesem Käfig rauskommen und Wachtmeister Zellner warnen.
+hint_quest17_slot01;Vielleicht erreiche ich außerhalb vom Käfig etwas, das mir weiterhilft.
+text_quest17_slot02_content;Beide Türen des Frachtraums sind verschlossen. Es muss noch einen anderen Weg hier raus geben.
+text_quest17_slot03_content;Mit der Hand bekomme ich das Lüftungsgitter nicht auf. Vielleicht kann ich es irgendwie raushebeln.
+hint_quest17_slot03;Der Kran könnte mir weiterhelfen, aber direkt am Gitter kann ich ihn nicht befestigen.
+text_quest18_slot01_titel;Finde Dr. Gebhardt
+text_quest18_slot01_content;Wo ist Dr. Gebhardt? Ich muss ihn finden!
+text_quest19_slot01_titel;Museum betreten 
+text_quest19_slot01_content;Ich muss irgendwie ins Museum gelangen, um an den versteckten Grundriss der Schatzkammer zu kommen.
+text_quest19_slot02_content;Der Wachmann lässt mich nicht ins Museum. Ich muss ihn überzeugen, dass mir der Zutritt erlaubt ist.
+hint_quest19_slot02;Ein Teil des Museums scheint renoviert zu werden. Vielleicht kann ich mich als Handwerker ausgeben.
+text_quest19_slot03_content;Mist, der Name auf den gestohlenen Klamotten steht nicht auf der Liste der Handwerker.
+text_quest19_slot04_content;Übers Dach komme ich momentan nicht rein. Vielleicht finde ich einen Hinweis, wenn ich den Grundriss habe.
+text_quest19_slot05_content;Auf dem Grundriss ist eine Notiz neben dem Dach vermerkt. Vielleicht komme ich so ins Museum.
+hint01_quest19_slot05;Auf dem Grundriss befindet sich dasselbe Symbol wie auf dem Schornstein. Vielleicht haben die Zahlen daneben auch etwas mit dem Schornstein zu tun.
+hint02_quest19_slot05;In der arabischen Welt liest man von rechts nach links.
+text_quest20_slot01_titel;Licht im Keller
+text_quest20_slot01_content;Im Dunkeln kann ich im Keller nicht viel sehen. Ich muss irgendwie für Licht sorgen.
+text_quest20_slot02_content;Lichtschalter, Kabel, Lampenfassung… alles vorbereitet. Nur der Rost auf dem Kontakt der Birne steht zwischen mir und einem hellen Keller.
+hint_quest20_slot02;Mangels Schmirgelpapier muss ich eine andere rauhe Oberfläche zum abschmirgeln des Rosts finden.
+text_quest20_slot03_content;Ich muss das Fenster öffnen, aber sobald die elektronischen Kontakte sich nicht mehr berühren wird der Alarm ausgelöst.
+hint_quest20_slot03;Vielleicht lässt sich der Kontakt irgendwie überbrücken?
+text_quest20_slot04_content;Ich bin in der Schatzkammer, aber zwischen mir und dem Auge ist immer noch das Sicherheitsglas der Vitrine.
+hint_quest20_slot04;Vielleicht lässt sich die Scheibe mit einem Hilfsmittel zerstören.
+index_note_start_01;Rückkehr des Raben
+a00_common_01_diary;Dies ist das persönliche Notizbuch von Wachtmeister Anton Jakob Zellner. Sollten Sie dieses Buch finden, schicken Sie es bitte an die Polizeidirektion Zürich Mitte.
+a00_common_02_museum;23.09.1963 \n Aus dem Britischen Museum in London wurde ein wertvoller Rubin gestohlen. Eines der beiden legendären „Augen der Sphinx“. Die Presse ist außer sich. Sie beschuldigt den „neuen Raben“ das Ansehen des alten Raben zu beschmutzen, weil es bei dessen Einbrüchen nie Verletzte gab.
+a00_common_03_task;24.9.1963 \n Ich habe es getan! Ich bin aufgestanden und habe dem Hauptmann geradeheraus ins Gesicht gesagt, dass ICH den Auftrag haben will. Er war zu überrascht um zu widersprechen. Inspektor Nicolas Legrand bei uns in der Schweiz! Das kann ich mir nicht entgehen lassen. Was er wohl hier will? 
+a00_common_04_newspaper_a;London Post, 11.9.1963 \n Legrand jagt den „Erben des Raben“! \n Nach Informationen unserer Zeitung hat Nicolas Legrand (33), französischer Sonderermittler bei Interpol, die Ermittlungen im Fall „Erbe des Raben“ übernommen. Legrand gilt in Polizeikreisen als hartnäckiger Ermittler und geschickter Spürhund. Talente, die er erstmalig vor fünf Jahren unter Beweis stellte, als der junge Polizist völlig überraschend Europas meistgesuchten Einbrecher, den Raben, stellen konnte. Bei der Verhaftung kam es zu einem Schusswechsel, bei dem der für seine genialen Einbrüche in der Bevölkerung bewunderte Einbrecher den Tod fand. \n 
+a00_common_04_newspaper_b;Seit einigen Monaten treibt ein Trittbrettfahrer sein Unwesen, der zwar ebenfalls Rabenfedern an den Tatorten hinterlässt, ansonsten aber bei seinen Einbrüchen die Raffinesse des alten Raben vermissen lässt. Bei den letzten drei Einbrüchen wurden insgesamt fünf Personen verletzt, einer davon schwer. \n Scotland Yard, Interpol und Inspektor Legrand waren für ein Statement nicht zu erreichen.
+index_note_inspektor_01;Inspektor Nicolas Legrand
+a00_inspektor_dialog_01;Legrand sieht anders aus als auf den Fotos. Älter, abgekämpfter. Er ist immer noch ein erfolgreicher Spürhund. Aber es gibt Gerüchte, dass seine Methoden in den letzten Jahren… rücksichtsloser… geworden sind.
+a05_inspektor_note_inWater_01;Er will den Raben unbedingt fassen. Er setzt dafür seine Karriere aufs Spiel. Er könnte den Rest seines Lebens von seinem Ruhm zehren. Aber das will er nicht. Er will sich beweisen. Ein wahrhaft respekteinflößender Gegner für den Raben.
+a05_inspektor_raven_back_01;Legrand hält es für möglich, damals in Paris den falschen Mann erschossen zu haben! Er glaubt, der alte Rabe könne noch leben und zurückgekehrt sein!
+a07_inspektor_writer_ta_inspektor_01;Lady Westmacott sagt, Legrand hätte etwas Getriebenes in seinen Augen. Mir ist das auch schon aufgefallen. Er macht bei der Jagd nach dem Raben nicht einfach seinen Job. Es ist mehr…
+a07_inspektor_drugs_01;Ich habe Legrand dabei erwischt, wie er sich etwas gespritzt hat. Vermutlich ein Aufputschmittel oder etwas in der Art. Das könnte seine Stimmungsschwankungen zum Teil erklären.
+a10_inspektor_a10_start_01;Legrand scheint davon überzeugt zu sein, dass Doktor Gebhardt der Rabe – der alte Rabe – war. Irgendetwas stimmt da nicht. Legrand hat sich zu einfach überzeugen lassen…
+a11_inspektor_not_ambassy_01;Legrand hat gesagt, er gehe zur französischen Botschaft. Aber Konstabler Oliver sagt, dass das nicht der Fall ist. Einer von beiden lügt… aber warum?
+index_note_legrands_trap_01;Legrands Falle
+a00_legrands_trap_talkto_01;Legrand scheint dem neuen Raben eine Falle stellen zu wollen. Ich sollte mehr darüber in Erfahrung bringen…
+a01_legrands_trap_wagon_01;Inspektor Legrand und Konstabler Robert Oliver von Scotland Yard bewachen einen Tresor im Transportwagen. Ob der Rabe sich davon anlocken lässt? Und wenn ja… können die beiden ihn stellen? Ich habe da so meine Zweifel.
+a02_legrands_trap_bomb_01;Eine Bombe! Im Tresor war eine Bombe! \n Er hätte uns alle in die Luft gejagt. Verfluchter Verbrecher! \n Legrand macht sich Vorwürfe, dass er die Geldkassette nicht überprüft hat. Aber ich denke nicht, dass er Grund dazu hatte. Der Rabe muss die Bombe in der Kassette platziert haben, bevor sie in der Bank in den Tresor gelegt wurde – eine erstaunliche Leistung! Und der Umschlag… wie hat er den Umschlag auf dem Tresor platzieren können, obwohl drei Leute in der Nähe standen? \n Das Ziel des Anschlags ist jedenfalls klar. Der Rabe wollte Legrand aus dem Weg räumen, um sich irgendwann später ungestört das zweite Auge holen zu können. Aber er hat das Gegenteil erreicht. Legrand wird nicht aufgeben, das sieht man ihm an. Und auch ich habe nun einen weiteren Grund, diesen Verbrecher zur Strecke zu bringen!
+a05_legrands_trap_terrorist_01;Konstabler Oliver hat mich beschuldigt, den Umschlag platziert zu haben. Er sagt, nur er, Inspektor Legrand und ich wären anwesend gewesen… und da ist ja durchaus was dran…
+index_note_fiddler_01;Der Geiger
+index_note_fiddler_02;Der Geiger (David Kreutzer)
+a01_fiddler_whoishe_01;Im Großraumwagon des Zuges sitzt ein Mann mit einem Geigenkoffer. \n Er behauptet Solo-Geiger zu sein. Er macht einen etwas… angeschlagenen Eindruck. Seine Hand zittert. \n Er ist auf den Weg nach Venedig. Von dort soll es mit dem Schiff nach Kairo gehen, wo er ein Konzert im Ägyptischen Museum gibt.
+a01_fiddler_wallet_01;Er hat eine Gelegenheit genutzt und eine verlorene Brieftasche eingesteckt. Er scheint Geldprobleme und eine zweifelhafte Moral zu haben. Eine gefährliche Kombination.
+a01_fiddler_writer_ta_fiddler_01;Lady Westmacott hält Herrn Kreutzer für jemanden, der anderen Leuten auf der Tasche liegt.
+a07_fiddler_pistol_01;Herr Kreutzer hat sich gestern Abend angeblich betrunken und kann sich an nichts mehr erinnern. Die Mordwaffe gehört ihm. Eine Luger 08. Ist er tatsächlich ein hemmungsloser Säufer? Oder ist das nur ein Ablenkungsmanöver? Vielleicht will ihm auch jemand etwas anhängen. Das würde erklären, warum die Luger nicht im Meer entsorgt wurde. Sie lenkt den Verdacht auf den Geiger.
+index_note_indy_01;Professor Edgar Lucien
+a01_indy_first_talk_01;Ich habe Professor Lucien vom Britischen Museum in London kennengelernt. Er behauptet, vom Einbruch ins Museum kaum etwas mitbekommen zu haben. Ich glaube ihm nicht. Er macht einen nervösen Eindruck.
+a01_indy_baroness_ta_indy_01;Baronin von Trebitz hat gesagt, Professor Lucien sei Ägyptologe und als Bereichsleiter unterstand das gestohlene Auge der Sphinx seiner Obhut. Mir gegenüber hat er das nicht erwähnt. Mehr noch, er hat gelogen. Was verbirgt er?
+a07_indy_forecastle_01;Professor Lucien scheint etwas für Miss Miller übrig zu haben. Auch seine nervliche Verfassung schien besser geworden zu sein… zumindest bis ich ihm klar machte, dass es vermutlich immer noch einen Dieb und einen Mörder an Bord gibt. Daraufhin hat er sich überraschend in seine Kabine verabschiedet.
+a10_indy_eye_01;Der Professor hat das Auge der Sphinx in London an sich gebracht und es versteckt. Er befürchtete, es sei im Tresor nicht sicher. Mutig, aber auch dumm. Wäre ihm jemand auf die Schliche gekommen, wäre es ein Leichtes gewesen, ihm den Stein zu entwenden. \n Immerhin erklärt diese Aktion, warum der Professor im Zug und auf dem Schiff so nervös war. Und von der Liste der Verdächtigen kann ich ihn wohl auch streichen. Er hätte alle Zeit der Welt gehabt, den Stein zu stehlen.
+index_note_closed_door_01;Die verschlossene Kabinentür
+a01_closed_door_01;Die Tür zu Professor Luciens Kabine wurde verschlossen. Von außen? Von innen? Und von wem?
+a01_closed_door_open_window_01;Ich glaube, die Tür wurde von innen verschlossen und derjenige, der sie verschlossen hat, ist aus dem Fenster entkommen. Wenn ich damit Recht habe, sind tatsächlich Diebe oder dergleichen hier im Zug.
+a01_closed_door_button_01;Ich habe in der Kabine einen Knopf gefunden. Könnte ein Hinweis sein. Vielleicht aber auch nicht.
+index_note_butler_01;Butler James
+a01_butler_first_talk_01;Die Baronin von Trebitz und ihr Butler belegen eine der großen Luxuskabinen im Zug. Meiner Einschätzung nach ist allerdings keine Kabine der Welt groß genug, um sie mit der Baronin teilen zu wollen. Butler James muss eine Engelsgeduld haben.
+a01_butler_wound_01;Butler James hat am rechten Arm eine Verletzung davongetragen. Er sagt, es sei ein Andenken an den Krieg. Wie es scheint, ist der Arm nicht ganz taub. Aber es sieht aus, als könne er ihn nur eingeschränkt bewegen. Er macht das Beste daraus. 
+a07_butler_staircase_talk_01;Butler James macht sich Sorgen um seine berufliche Karriere, wenn der Mörder nicht gefasst wird. Ihm scheint der Tod der Baronin nicht sehr nahe zu gehen. Vermutlich, weil er erst seit einigen Monaten bei ihr war.
+index_note_missing_wallet_01;Verschwundene Brieftasche
+a01_missing_wallet_first_01;Eine verschwundene Brieftasche… nicht gerade der Fall des Jahrhunderts. Und ich kann mir auch nicht vorstellen, dass der Rabe damit zu tun hat. Und dennoch… ich bin Polizist und sollte mich bemühen, die Brieftasche zu finden.
+a01_missing_wallet_found_01;Ich vermute, die Baronin hat die Brieftasche verloren und Herr Kreutzer, der Geiger, hat sie gefunden und eingesteckt. Und damit hat er sich strafbar gemacht.
+a01_missing_wallet_checked_01;Ich konnte nicht widerstehen und habe einen Blick in die Brieftasche geworfen. Ich hätte das nicht tun sollen. Nicht nur, dass es sich für einen Mann des Staates nicht gehört, in anderer Leute Brieftaschen herum zu schnüffeln, es hat noch nicht einmal neue Erkenntnisse gebracht. 
+index_note_baroness_01;Baronin von Trebitz
+a01_baroness_first_01;Die Baronin scheint es gewohnt zu sein, im Mittelpunkt zu stehen. Eine anstrengende Person, wie mir scheint. Aber auch eine Philanthropin. Sie reist durch die halbe Welt und unterstützt Museen und Galerien. Sie bezahlt die Ausstellung, in der die Augen der Sphinx erstmalig seit Jahrzehnten gemeinsam in Kairo ausgestellt werden sollten.
+a07_baroness_dead_01;Baronin von Trebitz wurde ermordet. Schrecklich. Die erste Leiche, die ich von Nahem gesehen habe. Sie lag in einer Lache ihres eigenen Blutes auf ihrem Bett. Obwohl ich mich zu dem Zeitpunkt schon kaum mehr auf den Beinen halten konnte – dieses Bild werde ich nicht vergessen.
+a07_baroness_butler_talk_01;Die Baronin war Alkoholikerin und zuckerkrank. Dennoch ging sie nie zum Arzt. Vermutlich hatte sie eine Aversion gegen die Halbgötter in Weiß. Sie war unordentlich und hat das Chaos mit den Fotos in ihrer Kabine nach Aussage des Butlers selber veranstaltet.
+a07_baroness_diary_01;Die Baronin hatte einen schweren Verlust zu beklagen. In ihrem Tagebuch berichtet sie von Albträumen und sie trägt viele Fotos mit sich herum. Ich vermute, dass Familienmitglieder von ihr während des Krieges getötet wurden.
+a07_baroness_why_01;Ich kenne das Motiv des Doktors nicht. Aber ich vermute, dass es in der Vergangenheit der beiden liegt.
+index_note_writer_01;Lady Clarissa Westmacott
+a01_writer_first_talk_01;Wie ich sie verehre! Für mich ist sie die größte Schriftstellerin des Jahrhunderts! Die Erfolgreichste ist sie allemal. \n Eine Schande, dass sie mit dem Schreiben aufgehört hat. Bisher ist davon nichts an die Öffentlichkeit gelangt. Es wird einen Aufschrei unter ihren Fans überall auf der Welt geben! \n Die erfolgreichsten Kriminalromane der Clarissa Westmacott: \n Kleine Indianer \n Der Tod auf der Schiene \n Mord in Ägypten \n Unter einem vollen Mond \n Das schwächste Glied in der Kette \n Das Pfarrhaus im Spiegel \n Vier Frauen in Paddington \n Maurice Partouts Ostern\n „Kleine Indianer“ hat sich über 100 Millionen Mal verkauft und gilt damit als erfolgreichster Kriminalroman aller Zeiten.
+a07_writer_ta_boy_01;Lady Westmacott kümmert sich sehr um Miss Miller und vor allem um Matt. Sie weiß auch überraschend viel über deren Geschichte. Ich kann mir nicht vorstellen, dass sie bei allen ihren Angestellten solch ein Interesse an den Tag legt!
+a10_writer_ta_boy_02;Lady Westmacott ist die Großmutter von Matt! Sie hat einen Sohn, von dem sie sich entfremdete. Er heiratete eine junge Amerikanerin und zog mit ihr in die USA, wo sie einen Sohn bekamen. \n Das erklärt, warum Lady Westmacott so an Matt interessiert ist. Vielleicht will sie einiges gut machen, das sie bei ihrem eigenen Sohn falsch gemacht hat.
+index_note_caretaker_boy_01;Miss Mary Miller und Matt Miller
+a01_caretaker_boy_woodpistol_01;Miss Miller wurde mir als „Gesellschafterin“ von Lady Westmacott vorgestellt. Ich denke, sie ist in Wahrheit eine Art Pflegerin. Sie macht auf mich einen angespannten Eindruck. Sie scheint nervös und unausgeglichen. Vielleicht hat es mit Matt, ihrem Jungen zu tun? \n Ich mag Matt. Er ist ein aufgeweckter und lebhafter Junge. Aber seine Mutter scheint mit ihm manchmal überfordert zu sein.
+a01_caretaker_boy_father_01;Miss Miller und Matts Vater scheinen sich getrennt zu haben. Es scheint, als gebe der Junge ihr dafür die Schuld. Lady Westmacott scheint Matt sehr zu mögen. Sie bezahlt ihm eine gute Ausbildung.
+a03_caretaker_boy_why_train_01;Der dumme Junge konnte sich nicht beherrschen und ist in den Zug geschlichen, um seine Holzpistole zu holen. Das war gefährlich und mutig und abenteuerlustig… Ich will ihm böse sein, doch ich kann es nicht.
+a07_caretaker_boy_romance_01;Es scheint sich eine Romanze zwischen Miss Miller und Professor Lucien zu entwickeln… und Matt scheint das nicht zu gefallen. Vielleicht will er seine Mutter nicht teilen – oder er will sie beschützen.
+a10_caretaker_boy_romance_02;Professor Lucien wird Miss Miller auf der Nilkreuzfahrt begleiten. Man kann sich nie sicher sein – aber ich glaube, die beiden haben eine Chance.
+a10_caretaker_boy_romance_03;Die Romanze zwischen Miss Miller und Professor Lucien ist beendet, bevor sie richtig begonnen hat. Wer weiß, vielleicht ist es besser so.
+index_note_doctor_01;Doktor Gebhardt
+a01_doctor_first_talk_01;Ich habe mit Doktor Gebhardt schon in Zürich gesprochen. Er ist ein deutscher Arzt, der seine letzten Berufsjahre in Italien verbringen will. Er ist mir nicht wirklich sympathisch. Er ist höflich und zuvorkommend. Aber ich nehme ihm seine Freundlichkeit nicht ab. Etwas stimmt mit ihm nicht.
+a05_doctor_talk_pier_01;Doktor Gebhardt sieht seinem neuen Job, seinem neuen Leben, erwartungsvoll entgegen. Und er hat mir geraten, alles ruhiger angehen zu lassen. Wenn ich auf mich aufpassen würde, würde mein Herz vielleicht noch ein paar Jahre mitspielen. Aber was wären das für letzte Jahre?
+a07_doctor_blood_01;Die Bettdecke in der Kabine der Baronin war mit falschem Blut getränkt. Warum ist Doktor Gebhardt das nicht aufgefallen? Und wo ist die Bettdecke? 
+a09_doctor_murder_01;Es war Doktor Gebhardt! ER hat die Baronin ermordet und wollte dasselbe mit mir tun. Er hat mich unter Drogen gesetzt und ich konnte ihm nur knapp entkommen. Er sprach davon, dass ich ihm etwas anhängen wolle, das ich Beweise platziert hätte und fragte, warum ich ihn nicht einfach hätte in Ruhe lassen können. Ich glaube, er ist wahnsinnig.
+a10_doctor_missing_01;Von Doktor Gebhardt fehlt jede Spur. Vielleicht hat er sich ins Meer gestürzt, wie er in seinem Abschiedsbrief geschrieben hat. Oder… könnte er noch leben?
+index_note_constable_01;Konstabler Robert Oliver
+a01_constable_first_01;Der Konstabler macht auf mich einen ehrlichen aber auch nicht allzu cleveren Eindruck. Er bewundert Legrand, das merkt man. Er ist stolz, an der Seite des großen Ermittlers arbeiten zu dürfen – was ich zugegebenermaßen auch wäre.
+a01_constable_read_01;Konstabler Oliver war in der Nacht des Diebstahls im Britischen Museum! Ist das nicht seltsam? Er war nur wenige Meter vom neuen Raben entfernt, als dieser das erste Auge stahl. Und nun lässt man ihn das zweite Auge bewachen?
+a07_constable_first_dialog_01;Dem Konstabler schmeckt es nicht, dass ich mit an Bord bin. Er ist neidisch, glaube ich. ER will die rechte Hand Legrands sein. Dabei will ich ihm diesen Job gar nicht streitig machen. Ich habe lieber meinen eigenen Kopf, als dass ich die Hand von jemand anderem bin.
+a10_constable_guard_01;Ich habe Konstabler Oliver überrascht, wie er sich über eine ohnmächtige Wache in der Wachstube beugte. Ich weiß nicht, ob er sie niedergeschlagen hat. Aber ist es nicht auffällig, dass jedes Mal, wenn der Rabe zuschlägt, Konstabler Oliver in der Nähe ist?
+index_note_dark_figure_01;Dunkle Gestalt
+a05_dark_figure_train_01;Matt hat im Zug eine dunkle Gestalt gesehen. Doch war es der neue Rabe? Jemand muss den Umschlag auf den Tresor gelegt haben, sicher. Aber der Rabe hat seinerzeit Komplizen bezahlt. Vielleicht hält es der Neue genauso? \n Die Gestalt hat ein Ticket für eine Mittelmeerkreuzfahrt verloren. Das Ziel der Reise: Kairo. Ich glaube ich weiß, was mit diesem Schiff auf Reisen geht. 
+a06_dark_figure_talk_constable_01;Schon wieder ein Schatten! Dieses Mal hat Konstabler Oliver ihn gesehen. Ist es dieselbe Person?
+index_note_three_keys_01;Die drei Schlüssel
+a05_three_keys_talk_safe_01;Laut Legrand ist der Tresor, mit dem das Auge der Sphinx nach Kairo gebracht werden soll, mit drei Schlössern gesichert. Die Schlüssel haben Professor Lucien, Baronin von Trebitz und Dr. Mokthar, der Direktor des Museums in Kairo. \n Wir müssen davon ausgehen, dass sich der Rabe im Zug bereits einen Abdruck von Professor Luciens Schlüssel besorgt hat. Auch den Schlüssel des Museumsdirektors könnte er sich schon kopiert haben. Bleibt der Schlüssel von Baronin von Trebitz…
+a07_three_keys_third_01;Legrand hat alle getäuscht! Er hat sich den dritten Schlüssel von der Baronin aushändigen lassen. Angeblich, weil er ihre Unordnung fürchtete. So oder so… der dritte Schlüssel war nie in Gefahr. Doch die Baronin ist tot und Legrand muss sich fragen, ob er dafür mitverantwortlich ist. Er hat alle in dem Glauben gelassen, SIE hätte den dritten Schlüssel.
+a10_three_keys_legrand_01;Die drei Schlüssel haben nichts genützt. Der Tresor war leer. Professor Lucien hat in der Bank unbemerkt das Auge der Sphinx in seine Tasche gesteckt und nur so getan, als lege er es in den Tresor.
+index_note_old_raven_01;Alter Rabe, neuer Rabe
+a05_old_raven_tw_investigator_01;Inspektor Legrand hegt den Verdacht, vor fünf Jahren den falschen Mann erschossen zu haben. Wenn dem so wäre, könnte der Rabe zurückgekehrt sein. Als Hinweise darauf führt Legrand die Rabenfeder und die Handschrift des Briefschreibers an, sowie dass dieser ihn „Nico“ nennt, was angeblich nur der alte Rabe getan hätte. 
+a05_old_raven_tw_investigator_02;Aber sind das überzeugende Hinweise? Für mich nicht. Die Rabenfeder als Zeichen des Raben war allgemein bekannt. Handschriften kann man fälschen und dass Legrand auf seiner Jagd damals als „Nico“ verspottet wurde, könnte ein Polizist oder sonst jemand, der damals mit dem Fall zu tun gehabt hatte, verraten haben. \n Die Vorgehensweise passt einfach nicht, das muss man doch sehen! Der alte Rabe war darauf bedacht, niemanden bei seinen Einbrüchen zu verletzen. Der neue Rabe wollte uns in die Luft jagen. Ich glaube, Legrand ist auf dem Holzweg.
+a05_old_raven_doctor_confession_01;Das Bekennerschreiben des Doktors hat mich nachdenklich gemacht. Mein Bauchgefühl sagt mir, dass er nicht hinter allem steckt. Aber ich habe keine Beweise dafür. \n Das Schreiben ist aber auch aus einem anderen Grund höchst interessant. Es beweist, dass derjenige, der hinter allem steckt, vor fünf Jahren beim vermeintlichen Tod des Raben anwesend war. Ist es also doch der alte Rabe, der zurückgekehrt ist, so wie die Zeitungen behaupten?
+a10_old_raven_article_01;Kommentar: \n Die spektakulären Entwicklungen im Fall „Augen der Sphinx“ (Siehe Titelseite, Seite 3, 5 und 9) zeigen uns vor allem eins: Verbrecher bleiben Verbrecher. Viele von uns, unsere Zeitung eingeschlossen, haben einige der Taten des Raben im Laufe seiner Karriere als gelungene Streiche und clevere Gaunereien verharmlost. Für einige war er eine Art Held, der die Polizei an der Nase herum führte und uns schmunzeln ließ.  \n Doch nun müssen wir uns eingestehen, dass wir einem Mörder applaudiert haben. Einem Mann, der mit Sprengladungen Menschenleben in Gefahr brachte und in mindestens einem Fall ein Menschenleben genommen hat. \n Verbrecher sind und bleiben Verbrecher. Wir als Gesellschaft sollten das nicht wieder vergessen.  \n Rupert Turner, Chefredakteur
+index_note_captain_01;Kapitän di Conti
+a05_captain_tw_doctor_01;Der Kapitän der Lydia ist laut Doktor Gebhardt eine Art Kriegsheld. Aber mit seiner Gesundheit soll es nicht gut stehen. Vermutlich hat man ihn auf diesen Posten abgeschoben.
+a07_captain_ship_01;Das Schiff macht keinen allzu gepflegten Eindruck. Es war früher mal ein Frachtschiff, das im Krieg dann zum Truppentransporter und später nochmals zum Kreuzfahrtschiff umgebaut wurde. Man merkt ihm sein Alter an. Aber es ist nicht nur das. Ich glaube, Kapitän  di Conti hat seine Mannschaft nicht im Griff. Sie tut nur das Nötigste, wie es scheint.
+index_note_stowaway_01;Der blinde Passagier
+a06_stowaway_start_01;Ein blinder Passagier hat sich in einer Kleidertruhe an Bord der Lydia geschmuggelt und mich dann niedergeschlagen. Doch wer ist es? Der Rabe? Ein Helfer des Raben? Oder jemand ganz anderes?
+a07_stowaway_captured_01;Unser blinder Passagier ist ein junger Mann arabischer Herkunft. Konstabler Oliver hat ihn auf dem Oberdeck beobachtet und Legrand hat ihn dort gestellt. Er behauptet, er hätte nur frische Luft schnappen wollen. Ich glaube ihm nicht. Ich vermute, ich habe ihm meine Beule zu verdanken. \n Fest steht, dassBaronin von Trebitz erschossen wurde, während wir uns mit dem blinden Passagier beschäftigt haben. Arbeitet der er mit dem Mörder zusammen und sollte für Ablenkung sorgen?
+a07_stowaway_dialog_01;Der Blinde Passagier behauptet, sein Name sei Adil. Natürlich hätte er mich nicht niedergeschlagen und könne keiner Fliege was zu Leide tun. Er lügt, das ist klar. Aber lügt er, weil er wirklich nur wieder nach Hause will, wie er behauptet? Oder hat er im Auftrag des Mörders für Ablenkung gesorgt?
+index_note_shot_01;Schuss im Frachtraum
+a06_shot_start_01;Im Frachtraum hat jemand geschossen! Wer, auf wen und warum weiß ich nicht.
+a07_shot_found_projectile_01;Wer immer geschossen hat, er hat auf eine Kiste gefeuert. Er hatte es also nicht auf mich abgesehen. Und das Projektil steckte noch im Holz. Darum ging es ihm also auch nicht.
+a07_shot_compared_01;Der Schuss im Frachtraum wurde mit derselben Waffe abgefeuert mit der die Baronin erschossen wurde!
+a08_shot_tape_01;Er wurde aufgenommen! Der Schuss aus dem Frachtraum wurde auf Tonband aufgenommen! Es ging nie um das Projektil. Es ging um den Knall!
+index_note_murder_baroness_01;Mord an Baronin von Trebitz
+a07_murder_baroness_first_01;Die Baronin wurde ermordet als Legrand, Konstabler Oliver und Doktor Gebhardt auf der Suche nach einem Schatten waren, den der Konstabler gesehen hatte. Wir hörten den Schuss und waren Augenblicke später bei der Kabine der Baronin. \n Die Tür war von innen verschlossen und die Baronin war tot. Sie lag in einer Blutlache auf ihrem Bett, Doktor Gebhardt konnte nur noch ihren Tod feststellen. 
+a07_murder_baroness_talk_doctor_01;Laut Doktor Gebhardt wurde der Baronin aus kurzer Distanz ins Herz geschossen. Ein Schuss. Sie war sofort tot.
+a07_murder_baroness_anasthetic_01;Wurde die Baronin betäubt, bevor die ermordet wurde? Sie schwankte stark und machte einen sehr müden Eindruck, als wir sie im Treppensaal trafen. 
+a09_murder_baroness_motiv_01;Baronin von Trebitz wurde von Doktor Gebhardt erschossen. Ich kenne das Motiv nicht. Müsste ich raten, würde ich wetten, dass es mit dem Krieg und den toten Familienangehörigen der Baronin zu tun hat.
+index_note_backout_01;Ohnmacht
+a07_blackout_first_01;Ich bin gestern Abend ohnmächtig geworden. Nachdem ich mit den anderen aus dem Salon gekommen war, ging es mir bereits nicht gut… und von da an mit jeder Minute schlechter. Schließlich bin ich auf dem Nebendeck zusammengebrochen, gerade als der Feueralarm losging. 
+a07_blackout_anastethic_law_01;Es war Betäubungsmittel im Champagner, den ich gestern Abend im Salon getrunken habe. Das erklärt die Müdigkeit und die Ohnmacht. Ob Baronin von Trebitz auch betäubt wurde? Sie war ebenfalls sehr wackelig auf den Beinen, als wir sie vor ihrer Kabine trafen.
+a07_blackout_anasthetic_captain_01;Laut dem Kapitän haben mehrere Leute Champagner aus derselben Flasche getrunken. Das Schlafmittel muss also im Glas gewesen sein, nicht in der Flasche. Kapitän  di Conti behauptet, er hätte mir das Champagnerglas von Doktor Gebhardt gegeben. Sollte gar nicht ich, sondern der Doktor betäubt werden?
+index_note_traces_01;Spuren und Hinweise
+a07_traces_pistol_01;Legrand und der Konstabler haben die Tatwaffe auf der Gangway am Schiffsrumpf gefunden. Vielleicht wollte der Mörder sie unauffällig entsorgen und hatte das Pech, dass er sich auf dem Schiff nicht auskannte. Aber irgendetwas gefällt mir daran nicht. Wäre ich ein Mörder und wollte ein wichtiges Beweisstück verschwinden lassen… ich würde verdammt noch mal dafür sorgen, dass es verschwunden bleibt.
+a07_traces_projectil_doctor_01;Bei dem Projektil, das Doktor Gebhardt aus dem Herz der Baronin operiert hat, handelt es sich um ein Projektil aus einer 7,65mm Parabellum Patrone.
+a07_traces_pillow_01;Ich habe in der Kabine der Baronin ein Kopfkissen mit Schmauchspuren gefunden. Es sieht aus als sei es benutzt worden, um den Knall eines Schusses zu dämpfen. Anschließend hat es der Schütze in eine Vase gestopft, weil er mit dem Kissen nicht entdeckt werden wollte. \n Das Einzige, was seltsam daran ist… wir alle haben den Schuss gehört!
+a07_traces_projectiles_01;Die Mordwaffe ist die Luger 08 vom Geiger David Kreutzer. Beide Projektile, jenes, das die Baronin tötete und jenes, das im Frachtraum abgefeuert wurde, stammen aus dieser Waffe.
+a07_traces_light_blood_01;Mir ist das Blut auf dem Bettlaken der Baronin aufgefallen. Irgendetwas stimmt damit nicht. Es ist so… rot. Nach so vielen Stunden an der Luft müsste es brauner sein…
+a07_traces_blood_checked_01;Es ist kein Blut! Ich habe es getestet und ES – IST – KEIN – BLUT! Es ist irgendeine rote Flüssigkeit, die wie frisches Blut aussieht. Aber eben nicht wie 12 Stunden altes! Warum ist Doktor Gebhardt nichts aufgefallen? Er MUSS doch bemerkt haben, dass da etwas faul war!
+a07_traces_tape_01;Auf der Krankenstation habe ich eine Tonbandspule gefunden. Darauf ist ein Schuss zu hören! Ich möchte wetten, es ist der Schuss, den wir gestern Abend alle gehört haben.
+index_note_museum_01;Museum
+a10_museum_first_01;Das Museum ist heute tagsüber für die Allgemeinheit geschlossen. Und heute Abend, bei der Gala, sind nur geladene Gäste zugelassen. Ich schätze, dass der Rabe dann zuschlagen wird – sofern ich Recht habe und er immer noch auf freiem Fuß ist.
+a10_museum_treasury_01;Das Auge der Sphinx befindet sich in einer Panzerglasvitrine, es gibt Videokameras und alles ist elektronisch gesichert. Das Sicherheitssystem des Museums ist auf dem Stand der Technik, keine Frage.
+a10_museum_telephone_01;Die Telefone sind tot. Wir können niemanden zu Hilfe rufen
+index_note_director_01;Museumsdirektor
+a10_director_museum_first_01;Museumsdirektor Mokhtar scheint zu glauben, dass Legrand Doktor Gebhardt entlarvt hat. Irgendjemand hat die Zeitungen informiert und wohl einige Tatsachen durcheinander gebracht.
+a10_director_after_legrand_01;Doktor Mokhtar hatte sichtlich keine Lust, einen kleinen Beamten wie mich durchs Museum zu führen. Ich glaube, er ist eher für den großen Auftritt zu haben. Wichtige, reiche und berühmte Leute, das ist eher seine Kragenweite.
+a10_director_after_explosion_01;Ich glaube, Doktor Mokhtar steht unter Schock. Nicht verwunderlich. Immerhin wurde gerade die Schatzkammer seines Museums in die Luft gejagt. Ich lasse ihn kurz in Ruhe, damit er sich sammeln kann.
+a11_director_talk_basement_01;Doktor Mokhtar behauptet, er wisse nichts von irgendwelchen Kellern und Geheimgängen. Durchaus möglich… allerdings sollte jemand einmal nachprüfen, wie lange er schon hier ist. Sollte er auch schon vor zwanzig Jahren, zu Kriegszeiten, hier im Museum gearbeitet haben, dürfte er seine Behauptung nicht aufrechterhalten können.
+index_note_escape_raven_01;Fluchtweg des Raben
+a10_escape_raven_after_explosion_01;Es gab eine Explosion! Das Sicherheitssystem hat das Museum und die Schatzkammer sofort abgeriegelt. Ich weiß nicht, was in der Schatzkammer geschehen ist, aber ich befürchte, mein Gegner geht mit dem Vorschlaghammer zu Werk, nicht mit dem Florett. \n Wir sind im Museum eingesperrt und mit uns der Rabe… wenn er denn keinen anderen Fluchtweg hätte, wovon ich aber ausgehe. Ich muss ihm folgen!
+a11_escape_raven_treasury_01;Teile der Schatzkammer sind zerstört. Es gibt weniger Schäden als ich befürchtet habe, aber einige Kunstgegenstände dürften für immer verloren sein. Der Rabe hatte keinen Fluchtweg aus der Schatzkammer, also hat er sich einen gemacht. Ein großes Loch klafft dort, wo noch vor Kurzem die Vitrine mit dem Auge der Sphinx stand.
+a11_escape_raven_secretdoor_01;Unter der Schatzkammer gibt es einen Geheimkeller. Von dort führt eine versteckte Tür zur Großen Halle. Der Keller ist schon hier seit das Museum gebaut wurde. Die Geheimtür könnte später, zu Zeiten des Zweiten Weltkriegs, gebaut worden sein. Immerhin erklärt sie die fluchende Statue, die Matt gehört hat. Jemand war hier im Keller und hat vermutlich die Sprengladungen vorbereitet, als ich mich mit Lady Westmacott unterhalten habe.
+a11_escape_raven_secretdoor_02;Es gibt eine zweite Geheimtür im Keller. Durch die muss der Rabe entkommen sein! \n Leider ist die Tür versperrt. Es gibt drehbare Scheiben mit verschiedenen Tiersymbolen.  \n Außerdem stehen in arabischer Schrift über der Tür folgende Zeichen:
+a11_escape_raven_after_explosion_04;Laut Doktor Mokhtar lautet die Übersetzung: „Die Söhne des Horus“. \n Den vier Söhnen sind vier Symbole zugeordnet: Mensch, Pavian, Schakal und Falke. Sie zieren Begräbnisgefäße, die sogenannten Kanopen.
+index_note_start_2_01;Startnotizen
+a12_start_2_inch_01;Es hat lange gedauert. Aber endlich hat Inch mich engagiert. Ich soll für ihn die Drecksarbeit machen. Sei’s drum. Ich bin in seiner Nähe, darum geht es. Früher oder später wird er zum großen Schlag ausholen!
+a12_start_2_eyes_01;Die Augen der Sphinx! Keine schlechte Wahl. Sie gehören zu den wertvollsten Edelsteinen der Welt und sind dem Raben würdig. Ich soll den ersten Stein im Britischen Museum stehlen. Inch hat dafür gesorgt, dass die Alarmanlage in einem Teil des Museums nicht aktiviert wird. Er hat hervorragende Kontakte.
+a12_start_2_plan_01;Der Plan war, dass ich das Auge der Sphinx unbemerkt gegen eine Triplette austauschen sollte. „Leider“ kamen mir genau zum „falschen Augenblick“ ein Wachmann und ein Bobby in die Quere, bevor ich die Fälschung platzieren konnte. Es lief also alles nach Plan… wenn man davon absieht, dass Inch eine Bombe gezündet hat, um die beiden auszuschalten. Ich wäre ihnen auch so entkommen, ganz ohne Spektakel und die Gefährdung von Menschenleben.
+index_note_inch_01;Inch
+a12_inch_start_01;Es war schwierig, an Inch heranzukommen. Er hat viele Helfer, bleibt selber aber immer im Verborgenen. Das macht es so schwer ihn zu ergreifen… er macht sich selber nicht die Hände schmutzig. Er lässt andere für sich arbeiten. Andere wie mich. \n Mein Glück ist, dass er jemanden braucht, der ihm seinen kaputten Arm ersetzt. Sonst wäre ich nicht so dicht an ihn herangekommen.
+a12_inch_talk_station_01;Inch vertraut mir noch immer nicht richtig. Egal. Ich bin in der Position, in der ich sein will. Und so lange Inch mich für einen engagierten aber etwas unbedarften Nachwuchsdieb hält, ist alles im grünen Bereich.
+a14_inch_bomb_01;Eine Bombe! Er zündet eine verdammte Bombe, um Legrand und die anderen loszuwerden. Das hätte ich ihm nicht zugetraut. Er ist skrupelloser als ich es für möglich gehalten hätte. Ein Grund mehr, ihn schnell auszuschalten. \n Sollte ich der Polizei einfach einen Tipp geben und die Sache beenden? Ich würde, wenn sie sie beenden könnten. Aber Inch muss mit der Hand in der Keksdose erwischt werden, sonst windet er sich aus jeder Anklage heraus.
+a17_inch_talk_cell_01;Ich habe ein sehr beunruhigendes Gefühl. Es scheint, als wisse Inch mehr als er sollte. Hat er etwas über mich herausgefunden? Oder über Alex? Unseren Plan? \n Alex würde das nicht gefallen… aber ich mache mir Sorgen um sie.
+a19_inch_start_01;Kairo. Am Ende des heutigen Tages wird Inch im Gefängnis sitzen und seinen Meister gefunden haben – wenn alles gut geht.
+index_note_inchs_plan_01;Inchs Plan
+a12_inchs_plan_talk_station_01;Wir wollten das erste Auge in London stehlen, ohne dass es jemand bemerkt. Erst nachdem das zweite Auge in Kairo gestohlen worden wäre, hätte sich jemand das andere Auge genauer ansehen und bemerken sollen, dass es durch eine Fälschung ausgetauscht wurde. Ich hatte nie vor, die Fälschung dort zu lassen… aber auch Inch hat einen eigenen Plan verfolgt. Von einer Bombe in einem der Papierkörbe war nie die Rede. \n Nun die Sache mit dem Brief… keine Ahnung, was das soll. Welche Planänderung gibt es als nächstes? 
+a14_inchs_plan_talk_pier_01;Inch weiht mich noch immer nicht in seine Pläne ein und wird das wohl auch nicht mehr tun. Damit war zu rechnen und dennoch gefällt es mir nicht.
+a19_inchs_plan_start_01;Doktor Gebhardt zu ermorden ist unentschuldbar – ganz gleich, was er getan hat. Und dennoch muss ich Inch Respekt zollen. Er hat den Be- kennerbrief geschrieben und dann die Presse in- formiert. Die Meldung, dass erst jetzt der wahre Rabe gefasst wurde, muss Wellen bis nach Paris geschlagen haben. Legrand wird den ganzen Tag damit beschäftigt sein, seiner Re- gierung, den ägyptischen Behörden und schließlich der Presse Rede und Antwort zu stehen. Damit glaubt Inch seinen gefährlichsten Gegner ausgeschaltet zu haben.
+a20_inchs_plan_left_ravennest_01;Inchs Plan könnte funktionieren. Ich stehle das Auge und das Tor zur Schatzkammer hält mir die Wachen vom Leib, bis ich zurück auf dem Dach bin. Jeder würde vermuten, dass ich von dort die Feuerleiter zur Flucht genutzt habe… tatsächlich bin ich aber durch die Geheimtür zurück ins Museum gegangen und warte dort, bis sich die Wogen geglättet haben. \n Doch all das ist irrelevant. Inch hat andere Pläne – und wir auch.
+index_note_my_part_01;Meine Rolle
+a13_my_part_talk_doctor_01;Ein erfolgreicher Einbrecher ist der, der in einer Menge verschwinden kann, der unauffällig ist. Insofern bin ich nicht prädestiniert ein Einbrecher zu sein, ich falle auf – zumindest in diesen Breiten. \n Nur die Vorurteile der Leute schützen mich. Sie würden mir zutrauen eine Handtasche zu stehlen, doch niemand sieht mich als Meister-Ganove.
+a17_my_part_first_01;Der arme, naive arabische Tagelöhner – einer meiner erfolgreichsten Charaktere. Ich bin Spanier und spreche kein Arabisch… aber bisher ist mir noch niemand auf die Schliche gekommen. Die Leute beginnen durch einen hindurchzusehen, sobald man nicht zu ihrer eigenen Klasse, nicht zu ihrer eigenen Rasse gehört. Von einem Individuum wird man zum Teil einer Gruppe und in einer Gruppe kann man leicht verschwinden.
+index_note_alex_01;Alex
+a15_alex_end15_01;„Sie ist das Beste, was mir jemals passiert ist“… diesen Satz habe ich nie verstanden, bis Alex mir passiert ist. Es ist ein… seltsames Gefühl. Man hat plötzlich das Gefühl, dass einem ein anderer genauso wichtig oder wichtiger ist als das eigene Leben. Plötzlich denkt man nicht mehr als Erstes „Was will ich“, sondern „Was will sie“. Oder, noch besser: „Was wollen wir“. \n Wir haben uns in Südfrankreich kennengelernt. Die reiche Tochter aus gutem Hause und der arabische Kellner in ihrem Hotel. Wir beide waren nicht das, was wir vorgaben und haben das schnell bemerkt. Man erkennt seinesgleichen. \n „Patricia Mayers“ war die Rolle, die sie auch damals schon gespielt hat. Sie mag Patricia, glaube ich. Alex ist sehr klug… und Patricia Mayers bedeutet Urlaub von dieser Intelligenz.
+index_note_adil_01;Adil
+a16_adil_start_01;Was ich an ihm mag ist nicht an erster Stelle sein gutes Aussehen. Auch nicht, dass er ein geschickter Dieb ist, dass er clever ist, dass er mich liebt. Es ist sein Wesen. Er hätte viele Gründe verbittert oder zynisch zu sein, doch er ist es nicht. Er genießt das Leben. Er sieht das Positive in allen Menschen und in jeder Situation. Er ist bescheiden, er kann sich über kleine Dinge freuen. \n Ich habe nie über Kinder nachgedacht, bis ich ihn getroffen habe. Er wäre ein fantastischer Vater. Er würde unseren Kindern beibringen, positiv auf das Leben zu schauen, sich nicht von den Umständen erdrücken zu lassen. Er würde ihnen alles mitgeben, um ein zufriedenes Leben zu führen.
+index_note_plan_01;Der Plan
+a16_plan_talk_about_01;Unser Plan ist einfach: Ich tausche unbemerkt das in London gestohlene Auge der Sphinx gegen die Triplette aus. Inch wird vielleicht einen kurzen Blick auf den Stein werfen, aber er wird keine Gelegenheit haben ihn genau zu prüfen und somit hoffentlich nicht bemerken, dass die Steine vertauscht wurden. Den zweiten Stein holen wir uns in Kairo. Inch wird glauben, alles im Griff zu haben… Bis er seinen Irrtum bemerkt, sind wir über alle Berge.
+a16_plan_corps_seen_01;Das gehörte nicht zum Plan! Ganz und gar nicht. Wer hat die Baronin erschossen? Inch? Aber wieso? Das ist nicht gut. Das ist gar nicht gut.
+a16_plan_arab_arrested_01;Adil wurde verhaftet. Eine gefährliche Situation! Wenn man den Mörder nicht findet, könnte man versuchen ihm den Mord in die Schuhe zu schieben. Und selbst wenn nicht, es könnte Tage dauern, bis er aus der Untersuchungshaft entlassen wird!
+a19_plan_start_01;Der Mord an Baronin von Trebitz war eine unerfreuliche Ablenkung. Aber ich habe das Gefühl, dass nun wieder alles nach Plan läuft. Inch glaubt, die Kontrolle zu haben. Sein Ende rückt näher.
+a20_plan_left_ravensnest_01;Ihr wird nichts passieren. Ihr DARF nichts passieren! Ich hasse es, nicht bei ihr sein zu können. Sie kann auf sich aufpassen, das weiß ich. Aber Alex allein mit diesem Irren? Ich darf nicht dran denken. Ich muss mich auf meine Aufgabe konzentrieren.
+index_note_mayers_01;Patricia Mayers
+a16_mayers_talk_arab_plan_01;Patricia Mayers ist einer meiner Lieblingscharaktere. Eine hübsche Tochter aus gutem Hause… niemand traut denen auch nur das Geringste zu. Es gibt nur ein Problem… Leute, die Patricia für dumm halten, obwohl sie sie nicht kennen, ärgern mich manchmal so sehr, dass ich sie auflaufen lasse. Eine dumme, verwöhnte Blondine, die immer mal wieder clevere Antworten gibt… das ist nicht optimal. Daran muss ich arbeiten.
+a16_mayers_talk_fiddler_01;Es ist erstaunlich. Patricia bringt Leute dazu zu reden. Ich weiß nicht warum. Vielleicht weil sie sie für harmlos halten… vielleicht wollen sie sie schockieren. Aber es passiert mir immer wieder, dass mir Leute ihr Herz ausschütten, wenn ich Patricia spiele. Als Alex kommt das viel seltener vor. Da begegnen mir die Menschen eher mit… Respekt? Vorsicht? 
+index_note_doctor_baroness_01;Der Doktor und die Baronin
+a17_doctor_baroness_dialog_butler_01;Doktor Gebhardt soll Baronin von Trebitz ermordet haben? Was haben die beiden miteinander zu tun? Der Doktor war mir alles andere als sympathisch, genau wie die Baronin... Aber sofern sie sich nicht bei einem Treffer der anonymen Unsympathen getroffen haben, wüsste ich nicht, woher sie sich kennen sollten.
+a18_doctor_baroness_story_01;Eine schreckliche Geschichte. Ein Mann, dessen Liebe nicht erwidert wurde und der daraufhin alle Moral, allen Anstand über Bord warf und sich rächte. Die Baronin muss zu der Zeit schon studiert haben. Nur deswegen wurde sie nicht mit dem Rest ihrer Familie ermordet. Vermutlich kannte sie Gebhardt von Fotos… den Freund der Familie, ihren Retter, der ein Auge auf die kleine Schwester der Baronin geworfen hatte. In Venedig sah sie ihn dann aufs Schiff gehen. Sie war sich vielleicht nicht ganz sicher, ob er es wirklich war oder sie wollte einen Beweis haben. Sie suchte das Foto, fand es und wollte den Doktor beim Umtrunk im Salon vor aller Augen bloßstellen. Leider hatte auch der Doktor sie erkannt oder er hat ihren Namen gehört und wusste sofort, dass sie sein neues Leben zerstören konnte, das er sich nach dem Krieg aufgebaut hatte.
+a18_doctor_baroness_doctor_dead_01;Früher oder später wird herauskommen, dass Doktor Gebhardt nicht der Rabe gewesen sein kann. Er wird für einen der Einbrüche ein Alibi haben. Doch bis dahin können Tage, vielleicht Wochen vergehen. Es geht um Einbrüche in zig verschiedenen Ländern, einige vor fünfzehn Jahren verübt. \n Vielleicht wird man seine Leiche finden, doch ich bezweifle es. Doktor Gebhardt – und wer immer er vorher war, sind tot.
+text_quest_default;Wer ist der Rabe?
+text_quest_default_content;Finde Hinweise und ermittle, wer der Rabe ist.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

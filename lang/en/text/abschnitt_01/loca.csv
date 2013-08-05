@@ -1,0 +1,1785 @@
+characters_araber;Araber_verkleidet
+characters_archaeologe;Archäologe
+characters_arzt;Arzt
+characters_baronin;Baronin
+characters_butler;Butler
+characters_ermittler;Ermittler
+characters_geiger;Geiger
+characters_junge;Junge
+characters_ohi;Ohi
+characters_pflegerin;Pflegerin
+characters_schriftstellerin;Schriftstellerin
+characters_wachmann;Wachmann
+texts__top_a01_butler_goodbye_tseq_title;Say goodbye
+spokentexts_arzt_top_a01_arzt_auf_wiedersehen_tseq_st_1;Oh, dear! Something just occurred to me.
+spokentexts_arzt_top_a01_arzt_auf_wiedersehen_tseq_st_2;I'll come back later.
+spokentexts__top_a01_butler_goodbye_tseq_st_3;Certainly, sir.
+spokentexts__top_a01_butler_goodbye_tseq_st_4;Goodbye, James. Or... Alfred.
+spokentexts__top_a01_butler_goodbye_tseq_st_5;Goodbye, James.
+spokentexts__top_a01_butler_goodbye_tseq_st_6;Goodbye, sir.
+texts_archaeologe_mo_ex_1;Examine Professor Lucien
+texts_archaeologe_mo_talk_mit_1-2;Talk to Professor Lucien
+texts_archaeologe_mo_talk_mit_2;Speak to Professor Lucien
+texts_a01_archaeologe_top_a01_archaeologe_auf_wiedersehen_tseq_title;Say goodbye
+spokentexts_a01_archaeologe_top_a01_archaeologe_auf_wiedersehen_tseq_st_1;Godspeed, Professor Lucien.
+spokentexts_a01_archaeologe_top_a01_archaeologe_auf_wiedersehen_tseq_st_2;Thanks.
+spokentexts_a01_archaeologe_top_a01_archaeologe_auf_wiedersehen_tseq_st_3;Professor.
+sequences_a01_archaeologe_top_a01_archaeologe_auf_wiedersehen_tseq#5;[Ohi briefly nods, the professor does not react.]
+sequences_a01_archaeologe_top_a01_archaeologe_auf_wiedersehen_tseq#6;[Ohi leaves the cabin. Outside on the corridor of the Wagon it goes on.]
+texts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_title;Burglary at the museum.
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_1;So you were, shall we say, an eyewitness to the burglary two days ago?
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_2;If you work in the British Museum, then you must have experienced the burglary first-hand!
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_3_direction;nervous
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_3;N-no. I wouldn't say that.
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_4_direction;surprised
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_4;Oh no?
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_5;There... was a lot of commotion. But I didn't really pay much attention to it.
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_6_direction;curious, incredulous
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_6;There was a break-in in your museum and it didn't concern you?
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_7_direction;trying, nervously
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_7;Well... Let's just say that nothing that's happened in the last 2000 years concerns me. He he.
+texts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_title;Inspector Legrand
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_1;Whatever you say.
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_2;Just a moment, please.
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_3;The famous Inspector Legrand is on the train. I imagine you know him?
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_5_direction;lying
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_5;Err. No. Should I?
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_6;You don't know him?
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_7_direction;something sneaky
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_7;And you also don't know what he's doing here?
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_8_direction;nervous, lying
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_8;No! W-why should I?
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_9;Just a thought... You're a representative of the British Museum... There's a guarded safe on the train...
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_10;I'm sorry. I don't know what you're trying to imply.
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_11;And now, please excuse me.
+texts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_title;He knows Legrand
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_1;And Inspector Legrand? Whom you allegedly don't know?
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_2;That's not quite true, is it?
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_3;I believe you and the Inspector do know each other.
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_4_direction;surprised
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_4;What makes you think that?
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_5;It seems like the two of you are running a haulage company specializing in safes.
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_7;I won't comment on that. It's a matter of international importance.
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_10;Tell me, Professor... Would you happen to have a key in your briefcase?
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_11;A...
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_12;And, if so... Would it still happen to be there?
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_13;Then all would be as it should.
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_14;That's what we hope, at least.
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_15;All the same, it would have been a simple matter for a thief to take an impression of it, right Professor?
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_16_direction;is aware of the consequences
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_16;Oh...
+texts_a01_archaeologe_top_a01_archaeologe_herrlicher_zug_tseq_title;Say goodbye
+spokentexts_a01_archaeologe_top_a01_archaeologe_herrlicher_zug_tseq_st_1;He he. Very droll.
+spokentexts_a01_archaeologe_top_a01_archaeologe_herrlicher_zug_tseq_st_2;I don't want to take up any more of your valuable time.
+spokentexts_a01_archaeologe_top_a01_archaeologe_herrlicher_zug_tseq_st_5;But you do understand, don't you, that what concerns me is the present, and especially the robbery at the museum?
+spokentexts_a01_archaeologe_top_a01_archaeologe_herrlicher_zug_tseq_st_6;Of course, of course! It's just... I'm in rather a hurry.
+texts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_title;Valuables
+spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_1;So, what are you hiding in your bag? What do you have that would be worth stealing?
+spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_2;You seem to have something in your bag that would be worth stealing.
+spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_3;No! Nothing!
+spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_4;No valuables?
+spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_5;Certainly not! Not on my salary!
+spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_6;It was enough for a first-class compartment on a luxury train...
+spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_7_direction;do not know what to say
+spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_7;That's... my business.
+spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_10;You're playing a dangerous game, Professor Lucien.
+texts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_title;Head of the Egyptian Department
+spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_1;And the break-in? It wasn't an issue for you? Even though you're the head of the department where it occurred?
+spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_2;You're head of the Egyptian Department of the British Museum.
+spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_3;And you want to tell me that the burglary didn't matter to you?
+spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_4_direction;gives up
+spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_4;All right.
+spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_5;The burglary was most upsetting. And shocking... And I didn't know what to do, OK?
+spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_6;And you couldn't just tell me that?
+spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_7;The fewer people who know about it, the better.
+spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_8_direction;half to himself
+spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_8;I can't trust anyone.
+texts_a01_archaeologe_top_a01_archaeologe_reise_nach_aegypten_tseq_title;Cairo
+spokentexts_a01_archaeologe_top_a01_archaeologe_reise_nach_aegypten_tseq_st_1;You're not only going to Venice, are you?
+spokentexts_a01_archaeologe_top_a01_archaeologe_reise_nach_aegypten_tseq_st_2;Could it be that your journey will continue? All the way to Egypt, perhaps?
+sequences_a01_archaeologe_top_a01_archaeologe_reise_nach_aegypten_tseq#2;[The archaeologist nods.]
+spokentexts_a01_archaeologe_top_a01_archaeologe_reise_nach_aegypten_tseq_st_3;I'm on your side!
+spokentexts_a01_archaeologe_top_a01_archaeologe_reise_nach_aegypten_tseq_st_4;But the more you lie to me, the more difficult you make my job.
+texts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_title;Seen anything suspicious?
+spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_1;Just one more thing...
+spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_2;Did you notice anything unusual on the train?
+spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_3_direction;nervously
+spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_3;Here? On the train?
+spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_4;No. I can't say that I have.
+spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_5;Although I did spend most of the time in my compartment.
+texts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_title;Lost purse
+spokentexts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_st_1;Do you by chance know anything about a purse that's gone missing?
+spokentexts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_st_2;You think there's a thief on the train?
+spokentexts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_st_3;Two, I suspect. One of whom isn't after purses.
+spokentexts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_st_4_direction;intimidated
+spokentexts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_st_4;Oh.
+spokentexts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_st_5_direction;confused
+spokentexts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_st_5;Well, I don't know anything about a missing purse.
+texts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_title;Locked door
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_1;Do you have any idea why the door was locked?
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_2_direction;evasive
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_2;I don't know.
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_3;Maybe... the constant vibrations caused the lock to lock itself?
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_4;You can't possibly believe that.
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_5_direction;slightly annoyed
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_5;Then what's your theory?
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_6;The conductor could have locked it from the outside.
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_7;On the other hand, it could have been someone here in the compartment who locked the door from the inside.
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_8;Who? And where have they gone?
+sequences_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq#8;[Ohi points to the window.]
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_9;They could have climbed out there.
+sequences_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq#10;[The archaeologist looks incredulously at the window.]
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_10;Who would be that insane?
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_11;You tell me, Professor.
+texts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_title;Destination of his trip
+spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_2;May I ask where are you going?
+spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_3;Of course. To Venice.
+spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_4;I'm... going to meet some colleagues there.
+spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_5;Oh, Venice!
+spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_6;A beautiful city or so I'm told.
+spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_7;Indeed. But I really have to take my leave now.
+texts_archaeologe_top_a01_archaeologe_nichts_tseq_title;Oh, nothing
+spokentexts_archaeologe_top_a01_archaeologe_nichts_tseq_st_1;Oh, nothing.
+spokentexts_archaeologe_top_a01_archaeologe_nichts_tseq_st_2_direction;irritated
+spokentexts_archaeologe_top_a01_archaeologe_nichts_tseq_st_2;Well... Good!
+sequences_archaeologe_top_a01_archaeologe_nichts_tseq#2;[The archaeologist returns to its read-idle.]
+sequences_archaeologe_top_a01_archaeologe_nichts_tseq#3;[The conversation is over.]
+texts_archaeologe_top_a01_archaeologe_umsehen_tseq_title;Look around
+spokentexts_archaeologe_top_a01_archaeologe_umsehen_tseq_st_1;I'd like to have a look around the compartment.
+spokentexts_archaeologe_top_a01_archaeologe_umsehen_tseq_st_2;Oh... err. Of course.
+spokentexts_archaeologe_top_a01_archaeologe_umsehen_tseq_st_3;I'd like to look around a bit.
+spokentexts_archaeologe_top_a01_archaeologe_umsehen_tseq_st_4;Of course.
+sequences_archaeologe_top_a01_archaeologe_umsehen_tseq#7;[The player takes control.]
+spokentexts_archaeologe_ex_1_st_1;He doesn't make a very balanced impression.
+spokentexts_archaeologe_ex_1_st_2;And he of all people isn't bothered by a robbery in his own museum?
+spokentexts_archaeologe_ex_2_st_1;He's hiding something from me and I have to find out what it is!
+spokentexts_archaeologe_talk_mit_03_st_1;I didn't find the conductor but I should be able to open the door for you with these pliers.
+spokentexts_archaeologe_talk_mit_03_st_2_direction;impatient, slightly pleading
+spokentexts_archaeologe_talk_mit_03_st_2;Then go right ahead...!
+spokentexts_archaeologe_talk_mit_1_st_1;Professor Lucien?
+sequences_archaeologe_talk_mit_1#2;[The professor looks at Ohi.]
+spokentexts_archaeologe_talk_mit_1_st_2_direction;rushed, expectantly
+spokentexts_archaeologe_talk_mit_1_st_2;Yes?
+spokentexts_archaeologe_talk_mit_1_st_3_direction;rushed, expectantly
+spokentexts_archaeologe_talk_mit_1_st_3;Do you have the key?
+spokentexts_archaeologe_talk_mit_1_st_4;Actually, I wanted...
+spokentexts_archaeologe_talk_mit_1_st_5;Please - I have to go back to my compartment!
+sequences_archaeologe_talk_mit_1#8;[The professor looks back to the door and knocks once with the fist on it.]
+spokentexts_archaeologe_talk_mit_2_st_1;First I'd better see about getting the door open and then have another talk with the professor.
+spokentexts_archaeologe_talk_mit_2_st_2;It doesn't seem like I'll get anything out of him as long as the door is still locked.
+spokentexts_archaeologe_talk_mit_4_st_1;Professor Lucien?
+sequences_archaeologe_talk_mit_4#2;[The professor looks up, puts himself in talk position.]
+spokentexts_archaeologe_talk_mit_4_st_2;Yes?
+sequences_archaeologe_talk_mit_4#4;[Dialogue between Ohi and archaeologists starts.]
+texts_arzt_mo_ex_1;Examine Dr. Gebhardt
+texts_arzt_mo_talk_mit_1-3;Talk to Dr. Gebhardt
+texts_arzt_top_a01_arzt_auf_wiedersehen_tseq_title;Say good-bye
+spokentexts_arzt_top_a01_arzt_auf_wiedersehen_tseq_st_3;As you like.
+spokentexts_arzt_top_a01_arzt_auf_wiedersehen_tseq_st_4;Auf Wiedersehen, Doctor Gebhardt!
+spokentexts_arzt_top_a01_arzt_auf_wiedersehen_tseq_st_5;Goodbye, Constable. It was a pleasant chat, really.
+sequences_arzt_top_a01_arzt_auf_wiedersehen_tseq#7;[The doctor picks up the newspaper, begins to read again.]
+texts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_title;Anything suspicious?
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_1;Tell me, did you notice anything suspicious here on the train or in Zurich?
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_2;You mean except for the fact that my suitcase was stolen on the platform?
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_3;No.
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_4;Is there any reason to be concerned?
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_5;No. Just routine.
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_6_direction;senior teacher like
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_6;Constable Zellner.
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_7;Please don't think I'm naive. I spotted the inspector from Interpol.
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_8;Legard is his name, if I recall correctly.
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_9;Legrand.
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_10;If you say so.
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_11;At the train station in Zurich he put a cash box into the safe and then kept close watch as it was loaded onto the train.
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_12;Don't tell me that a man at his pay grade routinely tramps across the Alps just to keep an eye on cash boxes.
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_13;A cash box? Like the ones you'd find in safe deposit boxes?
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_14;Precisely. And I believe we both have a good idea just what's inside.
+texts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_title;Missing purse
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_1;I meant to ask...
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_2;The baroness is missing her purse...
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_3;A baroness?
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_4;"This train is really full of the crème de la crème. The ""Queen of Crime"" is over there, and now a baroness as well!"
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_5;Have you seen the purse?
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_6;Unfortunately, no.
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_7;Do you know Lady Westmacott? You were talking to her.
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_8;Well, I'm an admirer of her work.
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_9;Like so many others. I once read in the newspaper that only Shakespeare and the Bible sell more copies than her crime novels.
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_10;I've read that, too.
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_11;She must be filthy rich. As a doctor, I'd have to work a thousand years to earn that kind of money!
+texts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_title;Gloves
+spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_1;You're wearing gloves?
+spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_2;I've been wondering why you're wearing gloves.
+spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_3;Are your hands really so sensitive? Or are you cold?
+sequences_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq#5;[The doctor raises one of his hands, looks at it.]
+spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_4;Oh, well. It's an old habit.
+spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_5;As a doctor, one is so conscious of all the pathogens, bacteria and viruses that surround us.
+spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_6;Though of course, perhaps I do tend to be a bit TOO cautious.
+spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_7_direction;slightly sneaky
+spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_7;I know exactly what you mean.
+spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_8;As a policeman, I sense subterfuge and lies everywhere.
+texts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_title;Cash box
+spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_1_direction;unsure
+spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_1;I do indeed have a theory... but... what's yours?
+spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_2;The cash box in the safe... What do you think it contains?
+sequences_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq#4;[The doctor lifts up the newspaper (idle).]
+spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_3;A ruby was stolen in London. One of the legendary ''Eyes of the Sphinx''.
+spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_4;The second jewel, an emerald, is rumored to be in a Swiss bank vault, if I remember correctly.
+spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_5;Both jewels were supposed to be exhibited together in Cairo for the first time in 50 years.
+spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_6;It does make one wonder...
+sequences_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq#9;[The doctor lowers the paper again.]
+spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_7_direction;thoughtfully
+spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_7;Indeed...
+texts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_title;Robbery in London
+spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_1;Any news about the robbery in London?
+sequences_arzt_top_a01_arzt_was_neues_zum_raub_tseq#1;[Ohi points at the newspaper.]
+spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_2;Quite something, wasn't it?
+spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_3;It must have been professionals. The way they disabled one of best security systems in the world... Most impressive.
+spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_4_direction;slightly reproachfully
+spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_4;People were injured!
+sequences_arzt_top_a01_arzt_was_neues_zum_raub_tseq#5;[Doctor makes a smudge off of his hand.]
+spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_5;Well. One cannot execute a robbery of that scale without... collateral damage.
+spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_6;It seems like the Raven has finally found a worthy successor. We can look forward to new and spectacular coups!
+spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_7;I'm afraid I won't enjoy his exploits this time around if the new Raven is so reckless.
+spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_8_direction;(bored, slightly snapped)
+spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_8;That's your prerogative.
+texts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_title;Conductor
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_1;There's something else...
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_2;Do you know where the conductor is?
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_3;I'd like to know that myself!
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_4;I told him to search for my missing suitcase in Zurich. He hasn't got back to me yet.
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_7_direction;is getting more in
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_7;He's probably in cahoots with the thieves and didn't bother getting back on the train.
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_8_direction;is getting more in
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_8;If we don't crack down on vermin like them, the rabble will rule the world one day!
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_9_direction;soothingly
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_9;Well... At the moment, we still don't know what really happened.
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_10_direction;bossy
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_10;He's not here doing his job. That's bad enough.
+texts_arzt_top_a01_arzt_zeitung_tseq_title;Newspaper
+spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_1;May I borrow your newspaper?
+spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_2;Your newspaper caught my eye.
+spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_3;May I borrow it for a second?
+spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_4;You can take the section with the article on the burglary.
+spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_5;You're interested in that bit, aren't you?
+spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_6_direction;Ohi with blinking eye
+spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_6;You caught me out.
+sequences_arzt_top_a01_arzt_zeitung_tseq#8;[The doctor takes the newspaper, then he gives Ohi a part of it. The rest he lays down again.]
+spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_8;Here you go.
+sequences_arzt_top_a01_arzt_zeitung_tseq#11;[The doctor gives Ohi a part of the newspaper. The rest he lays down again.]
+spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_9;Dankeschön.
+spokentexts_arzt_ex_1_st_1;I made the acquaintance of Dr. Gebhardt on the platform in Zurich.
+spokentexts_arzt_talk_mit_1_st_1;Hello, Dr. Gebhardt!
+sequences_arzt_talk_mit_1#2;[The doctor lowers the newspaper and goes into his talk-status-Idle.]
+spokentexts_arzt_talk_mit_1_st_2;Ah! Mr...
+spokentexts_arzt_talk_mit_1_st_3;Zellner.
+spokentexts_arzt_talk_mit_1_st_4;Right! Right. How can I help you?
+sequences_arzt_talk_mit_2#2;[The doctor lowers the newspaper and goes into his talk-status-Idle.]
+spokentexts_arzt_talk_mit_2_st_2;Ah! Mr. Zellner.
+sequences_arzt_talk_mit_2#4;[Dialogue between Ohi and Doctor starts.]
+spokentexts_arzt_talk_mit_3_st_1;I'd better let him read his newspaper if I don't have any pressing questions.
+texts_baronin_top_a01_baronin_einbruch_im_museum_tseq_title;Burglary at the museum
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_1;Have you heard about the burglary at the British Museum?
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_2;Heard about it?!
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_3;I'm directly affected by it!
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_4_direction;irritated
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_4;How so?
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_5;"I'm in charge of the ""Friends of the British Museum"" and for you information, I'm financing the exhibition."
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_6;Exhibition? What exhibition?
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_7;The exhibition in Cairo! Where did you think we were going?
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_9;The Eyes of the Sphinx were supposed to be exhibited together for the first time in decades.
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_10;Now that one of them is gone, the exhibition will be rather less sensational than we'd hoped.
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_11;On the other hand there's a chance that all the uproar will generate more attention and that the exhibition will still be a great success!
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_12;Perhaps. But we wanted to show them BOTH TOGETHER. That was the whole point.
+texts_baronin_top_a01_baronin_mitreisende_tseq_title;Fellow passengers
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_1;Can you tell me anything about your fellow passengers, Baroness?
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_2;No, not really. I could hardly care who's penned up in here with me.
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_3;No, no, no - wait a minute....
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_4;Lucien is here. The professor.
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_5;Poor fellow. The Eye of the Sphinx that was stolen belonged to his collection.
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_6_direction;surprised
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_6;Professor Lucien is an Egyptologist?
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_7_direction;laughing
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_7;But of course!
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_8;As director of the Egyptian Department of the British Museum, he has to be!
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_10;The whole burglary thing really upset him. 
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_11;Director Thomas told me he was a nervous wreck.
+texts_baronin_top_a01_baronin_verabschiedung_tseq_title;Say goodbye
+spokentexts_baronin_top_a01_baronin_verabschiedung_tseq_st_1;I'll take my leave of you now, Baroness, and I do hope your journey becomes more bearable.
+sequences_baronin_top_a01_baronin_verabschiedung_tseq#1;[Ohi taps his head.]
+spokentexts_baronin_top_a01_baronin_verabschiedung_tseq_st_2_direction;sarcastic laugh
+spokentexts_baronin_top_a01_baronin_verabschiedung_tseq_st_2;Ha!
+spokentexts_baronin_top_a01_baronin_verabschiedung_tseq_st_3;Yes, indeed, Inspector.
+spokentexts_baronin_top_a01_baronin_verabschiedung_tseq_st_4;Constable.
+sequences_baronin_top_a01_baronin_verabschiedung_tseq#5;[Ohi makes a little bow in the direction of Butler.]
+spokentexts_baronin_top_a01_baronin_verabschiedung_tseq_st_5;James.
+sequences_baronin_top_a01_baronin_verabschiedung_tseq#7;[Ohi leaves the wagon.]
+texts_baronin_top_a01_baronin_zweck_der_reise_tseq_title;Purpose of the trip
+spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_1;May I ask you where this beautiful train is taking you?
+spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_2;To the madhouse, I'm afraid.
+spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_3;One is close to the brink of insanity, with this constant shaking and rattling!
+spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_4;Have you ever tried flying, Baroness?
+spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_7_direction;contemptuous snort
+spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_7;Pfff!
+sequences_baronin_top_a01_baronin_zweck_der_reise_tseq#7;[The Baroness makes a dismiss gesture.]
+spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_8;Do you know how little luggage one is permitted upon an aeroplane?
+spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_9;It defies all reason - and good taste.
+texts_butler_mo_ex_1;Look at the butler
+texts_butler_mo_talk_mit_1-2;Talk to the butler
+texts_butler_top_a01_butler_andere_mitreisende_tseq_title;Other passengers
+spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_1;If I might ask you a few questions about your fellow passengers...
+spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_2_direction;loud on the background
+spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_2;I thought he was looking for my purse!
+spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_3_direction;quietly, to Butler
+spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_3;James! Tell him to look for my purse.
+spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_4;The baroness wishes that you search for her purse.
+sequences_butler_top_a01_butler_andere_mitreisende_tseq#4;[Ohi looks past the butler, tries to talk directly with the Baroness.]
+spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_5_direction;loud
+spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_5;But couldn't we perhaps...
+sequences_butler_top_a01_butler_andere_mitreisende_tseq#6;[The butler shook his head as if to announce to Ohi, that there is no point.]
+sequences_butler_top_a01_butler_andere_mitreisende_tseq#7;[Ohi looks back to Butler.]
+spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_6_direction;fits to his fate
+spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_6;All right. First the purse.
+texts_butler_top_a01_butler_beruf_des_butlers_tseq_title;Butler's career
+spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_1;"Isn't ""butler"" an odd choice of career?"
+spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_2;Butler... many would say it's a strange job.
+spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_3;It is true that I am one of a dying breed, sir.
+spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_4;The war claimed a generation of butlers.
+spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_5;Have you been to war as well?
+sequences_butler_top_a01_butler_beruf_des_butlers_tseq#5;[Ohi points to the arm of the butler.]
+spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_6;Indeed, Sir. I was a groom for a cavalry officer.
+spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_7;When you British talk about war, one is never sure which war you mean. It seems the situation hasn't changed much since the Thirty Years' War, has it?
+spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_8_direction;slightly angry
+spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_8;Shrapnel from a bomb dropped by a Fokker would not have wounded me in the Thirty Year's War, sir.
+spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_9_direction;apologetically
+spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_9;No. Of course not.
+texts_butler_top_a01_butler_die_baronin_tseq_title;The baroness
+spokentexts_butler_top_a01_butler_die_baronin_tseq_st_15;What can you tell me about the baroness?
+spokentexts_butler_top_a01_butler_die_baronin_tseq_st_10;Nothing, sir.
+spokentexts_butler_top_a01_butler_die_baronin_tseq_st_11;A butler does not tattle.
+texts_butler_top_a01_butler_gestohlene_brieftasche_tseq_title;Lost purse
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_1;You're missing a purse? Was it stolen?
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_2;At the very least, I cannot find it, sir.
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_3_direction;loud on the background
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_3;It was stolen!
+sequences_butler_top_a01_butler_gestohlene_brieftasche_tseq#3;[Ohi looks past the butler, tries to talk directly with the Baroness.]
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_4_direction;laut
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_4;When did you...
+sequences_butler_top_a01_butler_gestohlene_brieftasche_tseq#5;[Ohi is clear that this will not work. He looks back to Butler.]
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_5_direction;quietly, to Butler
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_5;When was the last time the Baroness saw her purse?
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_6_direction;loud from behind, did not understand
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_6;What?!
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_7;In Zurich, on the platform, sir.
+sequences_butler_top_a01_butler_gestohlene_brieftasche_tseq#9;[Ohi looks past the butler, tries to talk directly with the Baroness.]
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_8_direction;loud
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_8;I just asked where you last saw your purse...
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_9_direction;loud from behind
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_9;In Zurich, on the platform.
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_10_direction;quietly, to Butler
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_10;James, tell him that I still had it when I got out to stretch my legs.
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_11;The Baroness says...
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_12_direction;loud
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_12;Maybe you lost it there?
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_14;The baroness never looses anything, sir.
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_15_direction;loud from behind
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_15;I never lose anything.
+sequences_butler_top_a01_butler_gestohlene_brieftasche_tseq#18;[Ohi looks back to the Butler.]
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_16;Very well then. I shall be on the lookout for your purse.
+texts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_title;Is James his real name?
+spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_1;If you you'll pardon a rather odd question...
+spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_2;"Are you really named ""James""?"
+spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_3;That would be a lucky coincidence in your line of work.
+spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_4;My name, sir, is Clive Alfred Inch.
+spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_5_direction;irritated
+spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_5;"Your second name is ""Alfred"" yet the baroness calls you ""James""?"
+spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_6;"Madam considers ""James"" to be the only forename suited to a butler. Sir."
+texts_butler_top_a01_butler_verabschieden_tseq_title;Say goodbye
+spokentexts_butler_top_a01_butler_verabschieden_tseq_st_1;I, err, will have a look around.
+spokentexts_butler_top_a01_butler_verabschieden_tseq_st_2;Thank you, sir.
+sequences_butler_top_a01_butler_verabschieden_tseq#2;[Ohi takes a step back.]
+sequences_butler_top_a01_butler_verabschieden_tseq#3;[The Butler closes the door.]
+texts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_title;Burglary in London
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_1;Where did you and the baroness board the train?
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_2;In Paris, sir.
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_3;The baroness was there on behalf of a charity that she's supported for many years.
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_4;So you weren't in London when they broke into the British Museum?
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_5_direction;considered
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_5;We may have been, actually. We left for Dover bright and early the morning after the burglary.
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_6;But it was in Paris when we first we heard of it. The morning paper in London didn't mention the unfortunate event, sir.
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_7_direction;impressed
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_7;And just two days later you're on a train bound for Switzerland! The baroness certainly gets around.
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_8;Indeed, sir. we're practically always on the go.
+spokentexts_butler_ex_1_st_1;The butler, this James, seems to have escaped the baroness.
+sequences_butler_ex_1#2;[The butler is the whole time at the poster and studied it (idle).]
+spokentexts_butler_talk_mit_1_st_1;Good day to you, sir.
+sequences_butler_talk_mit_1#2;[The butler turns around, goes into his talk-status Idle.]
+spokentexts_butler_talk_mit_1_st_2;Can I be of any assistance, sir?
+spokentexts_butler_talk_mit_1_st_3;I wanted to ask you a few questions.
+spokentexts_butler_talk_mit_2_st_1;Hello.
+sequences_butler_talk_mit_2#2;[The butler turns around.]
+spokentexts_butler_talk_mit_2_st_2;Yes, sir?
+sequences_butler_talk_mit_2#4;[Dialogue between Ohi and the professor will start.]
+spokentexts_butler_talk_mit_3_st_1;I don't think he can tell me anything more of interest.
+texts_ermittler_top_a01__der_erbe_des_raben_tseq_title;The Raven' Heir
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_1;"What do you know of this ""Raven's Heir""?"
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_2_direction;outraged excitedly
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_2;He tried to blow me up!
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_3_direction;sympathetic but firm
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_3;Robert.
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_4;We don't know who we're dealing with yet.
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_5;"In any event, the ""New Raven"" is a more dangerous man than the old one."
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_6;How do you know that it's a man? It could just as easily be a woman!
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_7;Or even several men?
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_8;"And anyway, how do you know that it's a ""new"" Raven?"
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_9_direction;surprised, irritated
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_9;Monsieur?!
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_10_direction;appease
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_10;Never mind.
+texts_ermittler_top_a01_ermittler_constabler_tseq_title;Constable Robert Oliver
+spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_1;Constable Robert Oliver... Is it possible that I read your name in the newspaper?
+spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_2_direction;with pride
+spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_2;Could be sir, could very well be.
+spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_3;Robert was there when the first Eye of the Sphinx was stolen.
+spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_4;Why were you in the museum? Did you spot something from outside?
+sequences_ermittler_top_a01_ermittler_constabler_tseq#4;[The guard stiffened slightly. The question annoys him and he has something to hide.]
+spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_5;Well sir, I noticed that a door was ajar, which was suspicious. And it was my duty to investigate, sir.
+spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_6;Scotland Yard gave him a commendation and assigned him to me as a liaison.
+spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_7;A great honor, sir!
+sequences_ermittler_top_a01_ermittler_constabler_tseq#8;[Ohi looks back to the guard.]
+texts_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq_title;Personal investigations
+spokentexts_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq_st_1_direction;formally
+spokentexts_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq_st_1;I hope you'll acknowledge that I, as a Swiss policeman, can undertake investigations in my own country?
+sequences_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq#1;[The investigator does, as if trying to look through the metal shielding to the outside.]
+spokentexts_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq_st_2;Are we still in Switzerland?
+spokentexts_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq_st_3;I could be your eyes on the train as long as you're here in the freight car.
+spokentexts_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq_st_4_direction;doubtful, suspicious
+spokentexts_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq_st_4;Oh really?
+texts_ermittler_top_a01_ermittler_falle_tseq_title;Trap
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_1;You want to set a trap for someone?
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_2;Then I was right!
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_3;You really do want to lure someone into a trap!
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_4;That's none of your business!
+sequences_ermittler_top_a01_ermittler_falle_tseq#6;[The investigator rise a hand and brings the guard so to silence.]
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_5;Perhaps that someone recently struck in London?
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_6;And how would I bait my trap, then?
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_7;With an Eye?
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_8;An Eye on its way from Zurich to Cairo?
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_9;Someone has done his homework! Well done, Constable.
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_10_direction;unsure
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_10;With something inside the safe!
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_11_direction;played disappointed
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_11;Tut tut... Someone hasn't done his homework
+texts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_title;Archaeologist's compartment
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_1;There is a certain Professor Lucien on the train.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_2;He's an archaeologist from London.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_3_direction;interested
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_3;And what's his story?
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_4;Well... It seems someone locked him out of his compartment.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_5_direction;irritated
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_5;Locked him out?
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_6;Well, yes. The door was locked and he was standing outside.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_7;He claimed that he hadn't locked himself out.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_8;Did you help him?
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_9;I did.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_10;I got Professor Lucien into his compartment using a pair of pliers.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_11;Did you notice anything inside the compartment?
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_12;The window was open. Someone could have climbed out.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_13;And the professor?
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_14;Acted suspiciously. He rummaged around in his leather bag.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_15_direction;curious
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_15;And?
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_16;He seemed to have found what he was searching for.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_17_direction;half to himself
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_17;Good.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_18;Good work!
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_19;Now, perhaps you could give me some information?
+texts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_title;Archaeologist's compartment
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_4;Well... It seems someone locked him out of his compartment.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_6;Well, yes. The door is locked and he's standing outside without a key.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_7;Was it locked from inside?
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_8;It may have been.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_9_direction;thoughtful, a little worried
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_9;Hmm.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_10;Do you think the locked door could be important?
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_11;Professor Lucien plays an important role in this story...
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_12;Well then, Constable Zellner. Be my eyes and ears on the train and see that Professor Lucien gets back into his compartment.
+sequences_ermittler_top_a01_ermittler_kabine_archaeologe_tseq#12;[As he speaks, a short cut on Öhis face that brightens. He is pleased. Then cut to the guard, who is obviously not agree now to get a competition.]
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_13;Report back to me when you're through.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_14_direction;pleased
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_14;My pleasure, monsieur!
+texts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_title;Say goodbye
+spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_1;I'll go attend to the door now.
+spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_2;Good.
+sequences_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq#2;[Ohi is turning half, wants to get out.]
+spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_3;And... Constable Zellner?
+sequences_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq#4;[Ohi stops, turns around.]
+spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_4;Yes?
+spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_5;Don't bother us unless you have something new to report.
+spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_6;Of course. A thief might get anxious if there's too much activity in the freight car.
+spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_7;Exactement. Knock twice. Then we'll know that it's you.
+spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_8;Understood.
+sequences_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq#10;[Ohi leaves the wagon.]
+texts_ermittler_top_a01_ermittler_verabschieden_tseq_title;Say goodbye
+spokentexts_ermittler_top_a01_ermittler_verabschieden_tseq_st_1;I'll get back to work now.
+spokentexts_ermittler_top_a01_ermittler_verabschieden_tseq_st_2;Good.
+sequences_ermittler_top_a01_ermittler_verabschieden_tseq#2;[Ohi leaves the wagon.]
+texts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_title;Wallet
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_1;And then there's the baroness. She's missing her purse.
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_2;Baroness von Trebitz told me that she's missing her purse.
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_3;Baroness von Trebitz?
+sequences_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq#3;[Investigator is looking at the guard.]
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_4;Interesting...
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_5;Indeed, Sir.
+sequences_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq#6;[Investigator looks back to Ohi.]
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_6_direction;thoughtfully
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_6;But... It has nothing to do with our case.
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_7;So I shouldn't concern myself with the matter?
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_8;Ah, why not? It's your job as a policeman.
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_9;But don't expect me to be particularly interested in a lost purse.
+texts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_title;Purse
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_1;And then there's the baroness. She's missing her purse.
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_2;Baroness von Trebitz told me about her missing purse...
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_3;Baroness von Trebitz?
+sequences_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq#3;[Investigators looks to the guard.]
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_4;She is financing everything, isn't she?
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_5;Indeed, Sir.
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_6;I found the purse, David Kreutzer, a violinist from Austria, had it.
+sequences_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq#7;[Investigator looks back to Ohi.]
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_7;Hmm. Probably nothing to do with our case... All the same, good work.
+texts_geiger_mo_ex_4;Observe the violinist
+texts_geiger_mo_talk_mit_1-7;Talk to the violinist
+texts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_title;The baroness' purse
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_1;A passenger is missing her purse. Perhaps you've seen it?
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_2;I haven't left my seat.
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_3;So there are thieves on the train!
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_4;It's been missing for some time now. Probably since Zurich.
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_5;Hahaha! The Swiss don't let go of money easily, do they?
+sequences_geiger_top_a01_geiger_brieftasche_gesehen01_tseq#7;[Ohi looks slightly reproachfully.]
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_6;Oh, pardon me.
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_7;No, I haven't seen the purse.
+texts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_title;The baroness' purse
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_1;About the purse...
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_2;Oh, yes. Has it been found?
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_3;A passenger is missing her purse. Perhaps it was stolen.
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_4;Really?
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_5;Someone saw you with your violin case on the platform in Zurich...
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_6_direction;indignant
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_6;What's the meaning of this! I didn't steal anything!
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_7_direction;surprised, irritated
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_7;Nobody said you did!
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_8;I just wanted to ask you whether you might have noticed anything on the platform.
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_9;Ah... Well...
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_10;Why did you think I was accusing you?
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_11;Well, I thought... Because you mentioned my violin case in the context of the purse...
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_12;Apropos. May I have a look at your violin? It must be a very extraordinary piece!
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_13;Oh, that's... That's not possible. It's a genuine Guarneri.
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_14_direction;throws in short
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_14;Very valuable!
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_15;Very! And also very sensitive.
+sequences_geiger_top_a01_geiger_brieftasche_gesehen02_tseq#17;[Ohi looks around.]
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_16_direction;blankly
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_16;What could harm it here? Light? Air?
+sequences_geiger_top_a01_geiger_brieftasche_gesehen02_tseq#19;[The Geiger does not know what to say.]
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_17_direction;sternly
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_17;May I ask you to open the violin case?
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_18;No, you may not! I'm not guilty of anything!
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_20;I am afraid I have to insist.
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_21;Then I'm afraid you need a warrant. I will not stand back and let you rifle through my belongings!
+sequences_geiger_top_a01_geiger_brieftasche_gesehen02_tseq#25;[The Geiger turns back to the window, the dialog is closed.]
+texts_geiger_top_a01_geiger_ende_tseq_title;Say goodbye
+spokentexts_geiger_top_a01_geiger_ende_tseq_st_3;Very well.
+spokentexts_geiger_top_a01_geiger_ende_tseq_st_4_direction;as adoption
+spokentexts_geiger_top_a01_geiger_ende_tseq_st_4;Have a good trip!
+spokentexts_geiger_top_a01_geiger_ende_tseq_st_5;Thank you.
+sequences_geiger_top_a01_geiger_ende_tseq#7;[The Geiger returns to its idle.]
+texts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_title;Unusual occurrences
+spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_1_direction;embarrassed, tried to bring the conversation back in transition
+spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_1;Oh... Of course.
+spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_2;What I really wanted to ask is: did you notice anything unusual on the train?
+spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_3;I'm sure your recital will be a great success!
+spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_4;But tell me... Did you notice anything unusual on the train?
+spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_5;Anything unusual?
+spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_6;Persons acting suspiciously, for instance.
+spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_7;For heaven's sake! Is there cause for concern?
+spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_8;Everything is in order, sir. We Swiss are just very cautious people.
+spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_9;I understand... No. I didn't notice anything.
+texts_geiger_top_a01_geiger_wer_ist_er_tseq_title;Who is he?
+spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_1;If I'm not mistaken, you're a violinist?
+spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_2;That's true.
+spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_3;A wonderful instrument! The violin music touches the soul.
+sequences_geiger_top_a01_geiger_wer_ist_er_tseq#3;[The Geiger smiles and remembers better times.]
+spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_4;That's why I learned to play it.
+spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_5;Do you play in an orchestra?
+spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_6;No. Orchestras aren't really part of my world.
+spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_7;A solo violinist! The best soloists travel a great deal and make a pile of money, or so they say.
+sequences_geiger_top_a01_geiger_wer_ist_er_tseq#9;[The face of the geiger petrifies.]
+spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_9_direction;petrified, slightly bitter
+spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_9;In that case, I'm probably not one of the best.
+texts_geiger_top_a01_geiger_wohin_reist_er_tseq_title;Where is he travelling to?
+spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_1_direction;embarrassed, tried to bring the conversation back in transition
+spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_1;Oh... So, you're travelling to Istanbul?
+spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_2;Are you travelling to Istanbul non-stop?
+spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_3;No. I'll transfer in Venice.
+sequences_geiger_top_a01_geiger_wohin_reist_er_tseq#6;[Ohi is slightly irritated.]
+spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_5_direction;explaines
+spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_5;To a ship. I'm on my way to Cairo.
+spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_6_direction;excited
+spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_6;Cairo!
+spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_7;I'm performing at a reception in the Egyptian Museum there.
+spokentexts_geiger_ex_1_st_1;The violinist is a good looking fellow. And he's travelling through the most beautiful mountain landscape in the world.
+spokentexts_geiger_ex_1_st_2;But one can only hope that his violin is better tuned than he.
+spokentexts_geiger_ex_2_st_1;There could be many reasons for the violinist's shaking hand. Strained nerves, an illness...
+spokentexts_geiger_ex_2_st_2;My money's on alcohol. He wouldn't be the first musician who ruined his career that way.
+spokentexts_geiger_ex_3_st_1;Matt says the violinist put something in his violin case on the platform. Seemed suspicious somehow.
+spokentexts_geiger_ex_3_st_2;The question is, how credible is a statement from an imaginative boy?
+spokentexts_geiger_ex_4_st_1;There's no way to say whether he planned on stealing the purse or whether chance played a role.
+spokentexts_geiger_ex_4_st_2;Financial problems, lack of morals... Opportunity makes a thief.
+spokentexts_geiger_ex_5_st_1;The violinist doesn't seem to be very happy about the window.
+spokentexts_geiger_ex_6_st_1;I'll inform the authorities in Venice. They'll decide what to do with him.
+spokentexts_geiger_ex_7_st_1;The window is jammed!
+spokentexts_geiger_ex_7_st_2;But I should hurry. Sooner or later he'll resort to brute force and succeed!
+sequences_geiger_talk_mit_1#1;[Idle as the Geiger thoughtfully sits on his place and looks out the window, maybe he's lying with one are on the window and supports his head with his hand. He looks out the window melancholy. Two idle variations. In one example, he could hand rub (as if it were cold / deaf). In the other he could e.g. short stop to look out the window and look down the aisle instead and scratching it.]
+sequences_geiger_talk_mit_1#2;[Ohi goes towards the Geiger.]
+sequences_geiger_talk_mit_1#3;[Cut to the hand of the Geiger in closeup.]
+sequences_geiger_talk_mit_1#4;"[From Idle out the Geiger consideres his trembling hand (""Has it been that bad?"") Clenches, and then shuts the eye (""Pull yourself together""). He opens his eyes, noted that Ohi has approached him and looks at him.]"
+spokentexts_geiger_talk_mit_1_st_1;Hello, sir.
+spokentexts_geiger_talk_mit_1_st_2;Hello.
+sequences_geiger_talk_mit_1#7;[The Geiger goes in talk-Status]
+spokentexts_geiger_talk_mit_2_st_1;If I may trouble you once more...
+sequences_geiger_talk_mit_2#2;[The Geiger goes in talk-Status]
+sequences_geiger_talk_mit_2#3;[A dialogue between Ohi and the Geiger begins.]
+spokentexts_geiger_talk_mit_3b_st_1;I don't know what more to ask. He hasn't noticed anything suspicious.
+spokentexts_geiger_talk_mit_4_st_1;Excuse me, sir...
+sequences_geiger_talk_mit_4#2;[The Geiger looks bad at Ohi.]
+spokentexts_geiger_talk_mit_4_st_2;No, I will not excuse you. I told you that I want the window closed and you opened it again!
+spokentexts_geiger_talk_mit_4_st_3;But just because...
+spokentexts_geiger_talk_mit_4_st_4;It seems I cannot cure people of their insolence.
+spokentexts_geiger_talk_mit_4_st_5;But at least I can refuse to speak to them!
+sequences_geiger_talk_mit_4#7;[The Geiger turns away from Ohi, don't want to talk no more.]
+spokentexts_geiger_talk_mit_5_st_1;Not a chance. He won't talk to me anymore.
+spokentexts_geiger_talk_mit_6_st_1;Hello, sir.
+spokentexts_geiger_talk_mit_6_st_2;The window stays closed!
+spokentexts_geiger_talk_mit_6_st_3;I didn't come because of the window. I'd like to take a look at your violin case.
+spokentexts_geiger_talk_mit_6_st_4_direction;indignant
+spokentexts_geiger_talk_mit_6_st_4;This is all too much!
+spokentexts_geiger_talk_mit_6_st_5;First the fuss about the window and now you want to look in my violin case?
+spokentexts_geiger_talk_mit_6_st_6;Well that's how it is.
+spokentexts_geiger_talk_mit_6_st_7;Absolutely not!
+spokentexts_geiger_talk_mit_6_st_8;Get yourself a warrant or whatever it's called. Until then: adieu!
+spokentexts_geiger_talk_mit_6_st_9;But...
+spokentexts_geiger_talk_mit_6_st_10;Adieu!
+spokentexts_geiger_talk_mit_7a_st_1;The violinist is uncooperative. I'm not authorized to search his belongings against his will and without a good reason... and he knows it.
+spokentexts_geiger_talk_mit_7a_st_2;I have to come up with something.
+spokentexts_geiger_talk_mit_8_st_1;Excuse me, sir!
+texts_junge_benutzt_karamellbonbons;Give Matt a butterscotch
+texts_junge_mo_ex_1;Examine Matt
+texts_junge_mo_talk_mit_1-4;Talk to Matt
+texts_junge_top_a01_junge_ablenken_ja_tseq_title;Yes, distract him.
+spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_1;Hmm. What do you suggest?
+spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_2;I... I could tell him that there's a suitcase full of money in the next carriage. If he's a thief, he'll definitely want to take a look at it.
+spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_3;I don't think he'll fall for that.
+spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_4;Or I could insult him and then run away. He'll try to catch me and you'll have a chance to look in the violin case.
+spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_5_direction;ihm wird klar, dass er einen Fehler gemacht hat
+spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_5;Now that I think about it, this is something I have to attend to on my own. It would be expecting a bit much from a little boy.
+spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_6_direction;indignant
+spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_6;Little boy?! You must be kidding!
+spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_7;Sorry, er sheriff. But your idea about distracting him is good all the same.
+texts_junge_top_a01_junge_ablenken_nein_tseq_title;No, too dangerous.
+spokentexts_junge_top_a01_junge_ablenken_nein_tseq_st_1;No, I'm sorry. That's police work.
+spokentexts_junge_top_a01_junge_ablenken_nein_tseq_st_2_direction;protests
+spokentexts_junge_top_a01_junge_ablenken_nein_tseq_st_2;But I'm a sheriff!
+spokentexts_junge_top_a01_junge_ablenken_nein_tseq_st_3;But this isn't the Wild West. They'd flay me alive if I dragged a little boy into the investigation.
+spokentexts_junge_top_a01_junge_ablenken_nein_tseq_st_4_direction;indignant
+spokentexts_junge_top_a01_junge_ablenken_nein_tseq_st_4;Little boy?! You must be kidding!
+spokentexts_junge_top_a01_junge_ablenken_nein_tseq_st_5;Sorry, sheriff. But your idea about distracting him is good all the same.
+sequences_junge_top_a01_junge_ablenken_nein_tseq#5;[The conversation is over.]
+texts_junge_top_a01_junge_lady_mestmacott_tseq_title;Lady Westmacott
+spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_1;Your mother is Lady Westmacott's companion, correct?
+spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_2;Yeah, but it's not like you think.
+spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_3;"At first I thought, ""Boy, you must really be wicked if you need to pay for friends!"""
+spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_4;But the lady's really OK.
+spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_5;She's a bit odd. And really old.
+spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_6;But other than that, she's great! She likes me.
+spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_7;The lady has peculiar taste.
+spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_8_direction;lachend, protestierend
+spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_8;Hey!
+texts_junge_top_a01_junge_machs_gut_tseq_title;Say goodbye
+spokentexts_junge_top_a01_junge_machs_gut_tseq_st_1;I just remembered, there's something I forgot.
+spokentexts_junge_top_a01_junge_machs_gut_tseq_st_3_direction;bold
+spokentexts_junge_top_a01_junge_machs_gut_tseq_st_3;That happens at your age!
+spokentexts_junge_top_a01_junge_machs_gut_tseq_st_4;So Long.
+spokentexts_junge_top_a01_junge_machs_gut_tseq_st_5;So longer!
+texts_junge_top_a01_junge_steward_tseq_title;Steward
+spokentexts_junge_top_a01_junge_steward_tseq_st_1;Tell me, have you seen the steward anywhere?
+spokentexts_junge_top_a01_junge_steward_tseq_st_2;Hmm. Nope. He was walking around a little while ago though.
+spokentexts_junge_top_a01_junge_steward_tseq_st_3;Hopefully they didn't forget him in Zurich.
+spokentexts_junge_top_a01_junge_steward_tseq_st_4;Hehe.
+spokentexts_junge_top_a01_junge_steward_tseq_st_5;What's he supposed to do?
+spokentexts_junge_top_a01_junge_steward_tseq_st_6;I'm looking for a key to open a compartment door.
+spokentexts_junge_top_a01_junge_steward_tseq_st_7;Did you check his things behind the counter?
+spokentexts_junge_top_a01_junge_steward_tseq_st_8;I did. But the most promising drawer was locked.
+spokentexts_junge_top_a01_junge_steward_tseq_st_9;I'm sure the drawers will be locked.
+spokentexts_junge_top_a01_junge_steward_tseq_st_10;Can't you break it open? Or pick the lock - like the Raven!
+spokentexts_junge_top_a01_junge_steward_tseq_st_11;Perhaps. But I'd need a piece of wire or something like that.
+spokentexts_junge_top_a01_junge_steward_tseq_st_12;Ask my mom!
+spokentexts_junge_top_a01_junge_steward_tseq_st_13;She has a lot of hairpins. She doesn't like the wind messing up her hair.
+spokentexts_junge_top_a01_junge_steward_tseq_st_14;Hmm. Thanks for the tip!
+texts_junge_top_a01_junge_unkooperativer_geiger_tseq_title;Uncooperative violinist
+spokentexts_junge_top_a01_junge_unkooperativer_geiger_tseq_st_1;The violinist won't let me check his violin case.
+spokentexts_junge_top_a01_junge_unkooperativer_geiger_tseq_st_2;Of course he won't. He's hiding something!
+spokentexts_junge_top_a01_junge_unkooperativer_geiger_tseq_st_3;Should I distract him? Then you can have a look in his case.
+texts_junge_top_a01_junge_verschwundene_brieftasche_tseq_title;Missing purse
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_1;Something completely different this time.
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_2;The baroness in the second compartment over there is missing her purse.
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_3;Do you have an idea where it could be?
+sequences_junge_top_a01_junge_verschwundene_brieftasche_tseq#4;[The boy gets big eyes, looks over to Geiger.]
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_4_direction;inhales surprised
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_4;Hhhhh!
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_5;Do I ever!
+sequences_junge_top_a01_junge_verschwundene_brieftasche_tseq#7;[The boy nods several times in the direction of the Geiger. Ohi is irritated.]
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_6;Hmm?
+sequences_junge_top_a01_junge_verschwundene_brieftasche_tseq#9;"[The boy rolls his eyes (""How stupid is he doing""), then he gives Ohi to understand with a finger that he should come closer. Ohi bends down (idle).]"
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_7;That guy over there. With the violin case!
+sequences_junge_top_a01_junge_verschwundene_brieftasche_tseq#11;[The boy nods again in the direction of the violinist. Ohi looks around, then looks back at the boy.]
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_8;What about him?
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_9;He picked up something in Zurich and put it in his violin case.
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_10;Really?
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_11;Yeah and he made sure that nobody saw him.
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_12;But you saw him?
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_13_direction;"""Yes"""
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_13;Mmm-hmm.
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_14;Did you also see what it was?
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_15;No not really. 
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_16;But now that I think of it, it must have been the baroness' purse!
+sequences_junge_top_a01_junge_verschwundene_brieftasche_tseq#21;[Ohi looks around again, looks back at the boy.]
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_17;I should look into it, shouldn't I?
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_18;I think so.
+texts_junge_top_a01_junge_was_will_er_mal_werden_tseq_title;The boy's plans
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_1_direction;affected
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_1;Oh. And, er, how old are you now?
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_2;How old are you, Matt?
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_3;In eight months I'll be nine years old!
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_4;And do you already know what you want to be when you grow up? A burglar?
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_5_direction;laughs
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_5;Heh. No.
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_6;We'll see. Maybe an actor.
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_7_direction;doubtful
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_7;Really? Well, I don't know...
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_8;You need a lot of talent for that!
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_9;I'm an actor in a theater group, you know!
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_10_direction;doubtful
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_10;You are?
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_11;Oh yes! And I'm one of the best in our group, if I may say so.
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_12;I get really deep into my roles, you know?
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_13;I don't just talk like the character. I THINK like him. I BECOME him. It's the only way to...
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_14_direction;coughs
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_14;Cough cough.
+sequences_junge_top_a01_junge_was_will_er_mal_werden_tseq#16;[The boy coughs and starts to choke, as if he had swallowed itself.]
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_15;Matt?
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_16_direction;worried
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_16;Are you okay?
+sequences_junge_top_a01_junge_was_will_er_mal_werden_tseq#19;[The boy choked increasingly, pointing to his neck.]
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_17_direction;cough
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_17;COUGH COUGH! HAUGH! 
+sequences_junge_top_a01_junge_was_will_er_mal_werden_tseq#21;[Ohi rushes to the boy, raises him from behind. Suddenly, the boy is very loose.]
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_18;I think you just have to be good at copying things to be an actor.
+sequences_junge_top_a01_junge_was_will_er_mal_werden_tseq#23;[Ohi is still in shock, then he lets the boy slide down again and turns back to his position. The boy cheeky grin.]
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_19_direction;still in shock
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_19;That... That wasn't bad.
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_20_direction;still in shock
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_20;Disturbing. But not bad.
+texts_junge_top_a01_junge_wo_ist_sein_vater_tseq_title;His father
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_1;And how long has your mother worked for the lady?
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_2;Tell me... How long has your mother been working for the lady?
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_3;Two years.
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_4;And your father? What does he do?
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_5_direction;sad
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_5;He stayed home.
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_6;I used to go fishing with him. And hunting!
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_7_direction;excited
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_7;He even let me shoot a real gun!
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_8;And then?
+sequences_junge_top_a01_junge_wo_ist_sein_vater_tseq#10;[The boy is just hanging his head.]
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_9_direction;gloomy
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_9;Then mom fought with him and he left.
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_10;I was seven.
+texts_junge_top_a01_junge_wo_wohnt_er_tseq_title;Where does he live?
+spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_1;You and your mother... do you both live on Lady Westmacott's estate?
+spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_2;You and your mom, you both live on Lady Westmacott's estate?
+spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_3;I'm only there for the holidays.
+spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_4;Most of the time I'm at boarding school.
+spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_5;I imagine that's not very pleasant.
+spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_6;No, it's fine. I have friends there.
+spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_7;You always have to be so quiet in the lady's house, and I'm not allowed to bring any friends.
+spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_8_direction;understanding
+spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_8;Such a big house with so many places to hide... And no one to play hide and seek with.
+spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_9;You said it!
+spokentexts_junge_ex_1_st_1;Matt doesn't really seem to be content...
+spokentexts_junge_ex_2_st_1;Matt is digging in his heels.
+spokentexts_junge_ex_2_st_2;I won't get anything out of him as long as he's angry with me.
+spokentexts_junge_ex_3_st_1;The kid's not on the warpath anymore. I don't think he'll be causing any more trouble...
+spokentexts_junge_ex_3_st_2;...for the next half hour, anyway.
+spokentexts_junge_talk_5_st_1;Hey, Matt! The violinist really did steal the purse. Well observed.
+spokentexts_junge_talk_5_st_2;I knew it! I bet he's got more stuff planned.
+spokentexts_junge_talk_5_st_3;I'll stay here and keep an eye on him, secretly. OK?
+spokentexts_junge_talk_5_st_4;Sounds like a plan.
+spokentexts_junge_talk_mit_1_st_1;Hello, Matt!
+sequences_junge_talk_mit_1#2;[The boy is not responding.]
+spokentexts_junge_talk_mit_1_st_2;Oh, come on!
+spokentexts_junge_talk_mit_1_st_3;Are you going to be angry with me for the rest of the trip?
+spokentexts_junge_talk_mit_1_st_4_direction;defiantly
+spokentexts_junge_talk_mit_1_st_4;Until I get my pistol back.
+spokentexts_junge_talk_mit_1_st_5;I gave it to your mother.
+sequences_junge_talk_mit_1#7;[The boy looks at Ohi (idle).]
+spokentexts_junge_talk_mit_1_st_6_direction;offended, annoyed
+spokentexts_junge_talk_mit_1_st_6;Oh, man!
+spokentexts_junge_talk_mit_1_st_7;Couldn't you have just raked me over the coals?
+spokentexts_junge_talk_mit_1_st_8;Would you have learned anything from that?
+spokentexts_junge_talk_mit_1_st_9_direction;defiantly
+spokentexts_junge_talk_mit_1_st_9;I didn't learn anything from this either!
+sequences_junge_talk_mit_1#12;[The boy turns back.]
+spokentexts_junge_talk_mit_2_st_1;Come on, Matt!
+sequences_junge_talk_mit_2#2;[The boy is not responding.]
+spokentexts_junge_talk_mit_2_st_2;Do you really think that you can ignore me for longer than I can ignore you?
+spokentexts_junge_talk_mit_2_st_3;I'm Swiss! It's practically a national sport!
+sequences_junge_talk_mit_2#5;[The boy is not responding.]
+sequences_junge_talk_mit_2#6;[Ohi shrugs.]
+spokentexts_junge_talk_mit_3_st_1;All right, Matt. Tell me now...
+spokentexts_junge_talk_mit_4_st_1;Hi, Matt. What I wanted to ask is...
+sequences_junge_talk_mit_4#2;[Dialogue between Ohi and the boy starts.]
+spokentexts_junge_talk_mit_5_st_1;I've no idea what I'd say to Matt.
+sequences_junge_used_mit_karamellbonbons#1;[Ohi stands before the boy, picks into his pocket, pulls out a few sweets and shows him on the open hand (idle).]
+spokentexts_junge_used_mit_karamellbonbons_st_1;Would you like a butterscotch?
+sequences_junge_used_mit_karamellbonbons#3;[The boy looks at the candy and then turns back.]
+spokentexts_junge_used_mit_karamellbonbons_st_2;You think you can bribe me?
+spokentexts_junge_used_mit_karamellbonbons_st_3;I have no reason to. You made trouble and got punished for it.
+spokentexts_junge_used_mit_karamellbonbons_st_4;Take it as a peace offering.
+sequences_junge_used_mit_karamellbonbons#7;[The boy thinks for a moment, then looks back.]
+spokentexts_junge_used_mit_karamellbonbons_st_5;Just four?
+spokentexts_junge_used_mit_karamellbonbons_st_6;If I'm faster than you, there'll only be three!
+sequences_junge_used_mit_karamellbonbons#10;[The boy is smiling and accessing. Ohi pulls the hand back quickly. The boy laughs.]
+spokentexts_junge_used_mit_karamellbonbons_st_7_direction;laughing
+spokentexts_junge_used_mit_karamellbonbons_st_7;Hey!
+sequences_junge_used_mit_karamellbonbons#12;[The boy picks Ohis hand, turns the finger and takes the candy. Ohi finally give him the candys and stroke his hair.]
+spokentexts_junge_used_mit_karamellbonbons_st_8;Friends again?
+sequences_junge_used_mit_karamellbonbons#14;[The boy put a piece of candy in his mouth and nods. The other ones he puts in his pocket.]
+spokentexts_junge_used_mit_karamellbonbons_st_9_direction;yes, with his full mouth
+spokentexts_junge_used_mit_karamellbonbons_st_9;Mmm-hmm.
+spokentexts_junge_used_mit_karamellbonbons_st_10;All right then.
+sequences_junge_used_mit_karamellbonbons#17;[Ohi raises cautionary the finger.]
+spokentexts_junge_used_mit_karamellbonbons_st_11;And no dangerous nonsense anymore!
+spokentexts_junge_used_mit_karamellbonbons_st_12_direction;is annoyed, do not like it
+spokentexts_junge_used_mit_karamellbonbons_st_12;Okay.
+texts_pflegerin_mo_ex_1;Look at Mrs. Miller
+texts_pflegerin_mo_talk_mit_1__2;Talk to Mrs. Miller
+texts_pflegerin_mo_text_used_mit_haarnadel;Give the hairpins back to Mrs. Miller.
+texts_pflegerin_top_a01_pflegerin_brieftasche_tseq_title;Missing purse
+spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_2;A passenger's purse has gone missing.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_3;I suppose you haven't seen it?
+sequences_pflegerin_top_a01_pflegerin_brieftasche_tseq#2;[The nurse shakes her head.]
+spokentexts_pflegerin_top_a01_pflegerin_brieftasche_tseq_st_3;Sorry, no.
+spokentexts_pflegerin_top_a01_pflegerin_brieftasche_tseq_st_4;Nor have I.
+spokentexts_pflegerin_top_a01_pflegerin_brieftasche_tseq_st_5;Have you ask my little boy?
+spokentexts_pflegerin_top_a01_pflegerin_brieftasche_tseq_st_6;Matty is good at finding things.
+spokentexts_pflegerin_top_a01_pflegerin_brieftasche_tseq_st_7;I haven't asked him yet, but I will.
+texts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_title;Noticed anything?
+spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_2;Oh, I'm afraid not. I was totally focused on my work.
+spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_3;She's always got an awful lot to do, my Mary.
+sequences_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq#3;[Nurse looks forward to the table.]
+spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_4_direction;upset
+spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_4;You have to tell me if that's not all right with you.
+spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_5;Good Lord, child! Knit as much as you want!
+spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_6;So, nothing out of the ordinary?
+spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_7;No, Constable. 
+sequences_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq#7;[Nurse looks back to Ohi.]
+texts_pflegerin_top_a01_pflegerin_goodbye_tseq_title;Say goodbye
+spokentexts_pflegerin_top_a01_pflegerin_goodbye_tseq_st_1;Goodbye, Ms. Miller.
+spokentexts_pflegerin_top_a01_pflegerin_goodbye_tseq_st_2;Goodbye, Constable.
+sequences_pflegerin_top_a01_pflegerin_goodbye_tseq#2;[The nurse begins to knit again.]
+texts_pflegerin_top_a01_pflegerin_haarnadel_zurueck_tseq_title;Hairpin
+spokentexts_pflegerin_top_a01_pflegerin_haarnadel_zurueck_tseq_st_1;Thank you for your hairpin, Ms. Miller. It really got me out of a jam.
+sequences_pflegerin_top_a01_pflegerin_haarnadel_zurueck_tseq#1;[Ohi gets out the needle, and give it to the nurse.]
+spokentexts_pflegerin_top_a01_pflegerin_haarnadel_zurueck_tseq_st_2;Oh, really? That's good to hear!
+sequences_pflegerin_top_a01_pflegerin_haarnadel_zurueck_tseq#3;[The nurse takes the hairpin and puts it into the pockets.]
+spokentexts_pflegerin_top_a01_pflegerin_haarnadel_zurueck_tseq_st_3;And thank you for bringing it back to me. Not everybody would have.
+spokentexts_pflegerin_top_a01_pflegerin_haarnadel_zurueck_tseq_st_4;I'm a Swiss policeman, madam. I couldn't do otherwise even if I tried.
+texts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_title;Hairpins
+spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_1_direction;slightly embarrassed
+spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_1;Please excuse my unusual request, but Matt said you have some hairpins. Could I borrow one?
+spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_2_direction;blankly, slightly shocked
+spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_2;One of my hairpins?!
+spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_3;It's a long story but it would be a big help.
+spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_4_direction;unsure
+spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_4;Well, if you really need one...
+spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_5;Go ahead, Mary! The constable won't do it any harm, will you, Mr. Zellner?
+sequences_pflegerin_top_a01_pflegerin_haarnadeln_tseq#5;[Ohi bows toward the writer.]
+spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_6;Of course not, madam.
+sequences_pflegerin_top_a01_pflegerin_haarnadeln_tseq#7;[The nurse still do not know what to make of it. But then she pulls himself together, takes her purse and pulls out a hairpin,showing it to Ohi.]
+spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_7;Is this one OK?
+sequences_pflegerin_top_a01_pflegerin_haarnadeln_tseq#9;[Ohi takes the hairpin.]
+spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_8;It'll do nicely, madam. How very kind of you.
+sequences_pflegerin_top_a01_pflegerin_haarnadeln_tseq#11;[The nurse is still looking irritated to Ohi as he already turns away. She shrugs her shoulders and lays the bag away.]
+texts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_title;Matt, the boy
+spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_1;The little boy, Matt... He's your son.
+spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_2_direction;happy, proud
+spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_2;Oh, yes.
+spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_3_direction;surprised, afraid
+spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_3;*gasp* Has he done something?
+spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_4;No, no.
+spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_5;I've already met him. A clever little fellow.
+spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_6_direction;relieved
+spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_6;"We always call him ""professor"" because he's so precocious."
+spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_7_direction;moody
+spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_7;If only someone could just drive the mischief out of him!
+spokentexts_pflegerin_ex_1_st_1;Ms. Miller made a good impression. She wanted to protect Lady Westmacott from me, a pushy admirer. Very diligent.
+spokentexts_pflegerin_ex_1_st_2;But she does seem a little nervous and tense.
+spokentexts_pflegerin_ex_1_st_3;I imagine she has her work cut out for her with Matt. And a difficult boss, from what they say...
+spokentexts_pflegerin_talk_mit_1_st_1;Mrs. Miller?
+sequences_pflegerin_talk_mit_1#2;[She stops to knit on, look at Ohi.]
+spokentexts_pflegerin_talk_mit_1_st_2_direction;nervously
+spokentexts_pflegerin_talk_mit_1_st_2;Yes?!
+spokentexts_pflegerin_talk_mit_2_st_1;I think it's uncomfortable for her when I talk to her in front of Lady Westmacott. She seems to take it as an inappropriate distraction from her work.
+spokentexts_pflegerin_talk_mit_2_st_2;Although she's just knitting. Taking up a craft like that is typical of women who were told as little girls that idleness is a sin.
+texts_schriftstellerin_mo_ex_1;Observe Lady Clarissa Westmacott 
+texts_schriftstellerin_mo_talk_mit_1__2;Talk to Lady Clarissa Westmacott
+texts_schriftstellerin_mo_used_mit_krimi;Give Lady Westmacott the book
+texts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_title;Missing purse
+spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_1;There's something else.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_4;I'm sorry, Constable Zellner. As you know, I only deal with murder, not burglary.
+sequences_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq#5;[The nurse knits on, but looks to Ohi.]
+spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_5;Have you asked my boy yet?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_7;I'll go and do that now.
+sequences_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq#9;[The nurse nodded and looks back down at her knitting.]
+texts_schriftstellerin_top_a01_schriftstellerin_buch_signieren_tseq_title;Sign book
+sequences_schriftstellerin_top_a01_schriftstellerin_buch_signieren_tseq#0;[See Sequence book signing]
+texts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_title;Say goodbye
+texts_schriftstellerin_top_a01_schriftstellerin_goodbye_tseq_title;Say goodbye
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_2;As much as I'd like to keep talking, duty calls.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_3;You were right.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_4_direction;irritated
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_4;Madam?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_5;I DID observe you as you came in.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_6;You seemed so... eager.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_7;I... It's been a long time since I've had a chance to prove myself, madam. 
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_8;And is this it? Your chance?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_9;I do hope so.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_10_direction;convinced encouragingly
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_10;Then grab it!
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_11;Even small people can make big changes, as my friend Ronald likes to say.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_12;I shall do my best!
+sequences_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq#0;[The writer is smiling at the nurse, who shakes his head slightly. She finds it inappropriate that the writer makes fun of Ohi.]
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_tseq_st_1;Another time.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_tseq_st_2;Farewell, Lady Westmacott.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_tseq_st_3_direction;friendly
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_tseq_st_3;Constable.
+texts_schriftstellerin_top_a01_schriftstellerin_mitreisende_archaeologe_tseq_title;The archaeologist
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_geiger_tseq_st_1;About the other passengers...
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_archaeologe_tseq_st_2;Did you notice the man who just walked into the next carriage with a cup of tea?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_archaeologe_tseq_st_3;I did. He seemed nervous.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_archaeologe_tseq_st_4;He was waiting at the bar for the steward.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_archaeologe_tseq_st_5;And since the steward never appeared, he elected to help himself. He took TWO biscuits.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_archaeologe_tseq_st_6;He seems pretty young, but he's already a professor at the British Museum.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_archaeologe_tseq_st_13_direction;interested
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_archaeologe_tseq_st_13;Interesting! I'll have to talk to him later.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_archaeologe_tseq_st_14_direction;smiling
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_archaeologe_tseq_st_14;Just out of courtesy, of course.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_archaeologe_tseq_st_15_direction;friendly
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_archaeologe_tseq_st_15;Of course.
+texts_schriftstellerin_top_a01_schriftstellerin_mitreisende_geiger_tseq_title;The violinist
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_geiger_tseq_st_2;Did you notice the blond man with the violin case?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_geiger_tseq_st_3_direction;derogatory snort
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_geiger_tseq_st_3;Pfff.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_geiger_tseq_st_4;I certainly did!
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_geiger_tseq_st_5;He introduced himself and tried to make a good impression.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_geiger_tseq_st_6;People like him are drawn to wealth and fame like moths to a flame.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_geiger_tseq_st_7;But his charms failed on you?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_geiger_tseq_st_8;I know him by name. David Kreutzer. He was a drain on my friend's purse.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_geiger_tseq_st_9;Do you think he has a money problem?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_geiger_tseq_st_10;People like him always have a money problem. No matter how much you give them, they always spend twice as much and complain that they have far too little.
+texts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_title;Other passengers
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_1;Coming back to the other passengers again...
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_2;Did you notice anyone else?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_3;What about the doctor?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_4;Or the baroness?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_5;I notice that you've asked me about everyone except for the inspector who went in the direction of the freight car a few minutes ago.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_6;Isn't that the Frenchman? Who made his name when he caught the Raven?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_7;"I wouldn't quite say ""caught""..."
+sequences_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq#8;[Writer makes a dismissive gesture.]
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_8_direction;beiläufig
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_8;Well, shot.
+sequences_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq#10;[The nurse looks up briefly, then back down.]
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_9;Why don't you ask me about him and my theory about what he's doing here?
+sequences_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq#12;[Ohi leans a little down at her.]
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_10_direction;flüstert
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_10;I don't think we should discuss Inspector Legrand's investigation in public.
+sequences_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq#14;[Ohi straightens back up.]
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_11;Legrand. Right. That was his name.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_12;Will he save the day again?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_14_direction;has seen the clue through him
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_14;Or will you, Constable?
+texts_schriftstellerin_top_a01_schriftstellerin_mitreisende_tseq_title;Fellow passengers
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_tseq_st_1;As a writer you must be very observant, am I right?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_tseq_st_2;I mean, you have to study the behavior of the people around you to create the characters in your novels, don't you?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_tseq_st_3;I solved the mystery of human nature a long time ago, Mr. Zellner.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_tseq_st_4;Since then, most people just bore me.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_tseq_st_5_direction;does not believe her
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_tseq_st_5;Really? I had the impression you were eying me suspiciously as I came in.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_tseq_st_6_direction;smiling
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_tseq_st_6;What do you want to know, Constable?
+texts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_title;What is she doing here?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_1;What are you doing here, if I may ask? Are you on holiday?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_2;May I ask what you're doing here? Are you on holiday?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_3;Holiday? Yes, so to speak. The first and last holiday of my life.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_4_direction;blankly
+spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_4;Madam?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_5;I've been writing since I was a little girl. It became my job...
+spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_6;And now I've stopped... So this must be a holiday.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_7_direction;shocked
+spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_7;You quit writing? Impossible!
+spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_9;I have all of your books! Your detective Partout is my favorite character!
+spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_10;Then I have bad news for you. I killed the old wretch off years ago. 
+spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_11_direction;blankly
+spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_11;I... don't understand.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_12;I'd rather not discuss my work, Constable.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_13;Oh, well... fine.
+texts_schriftstellerin_top_a01_schriftstellerin_woran_arbeitet_sie_gerade_tseq_title;Where is she travelling to?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_woran_arbeitet_sie_gerade_tseq_st_2;Are you travelling to Istanbul non-stop?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_woran_arbeitet_sie_gerade_tseq_st_3;Are you travelling to Istanbul, Lady Westmacott?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_woran_arbeitet_sie_gerade_tseq_st_4;No. We are on our way to Venice. From there we will take a ship to Cairo.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_woran_arbeitet_sie_gerade_tseq_st_5;As you may know, I have a penchant for archaeology. I fund a few excavations in Egypt.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_woran_arbeitet_sie_gerade_tseq_st_7;I travelled to Egypt by ship as a young woman... And now I'm doing it again as an old woman.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_woran_arbeitet_sie_gerade_tseq_st_10;I see.
+spokentexts_schriftstellerin_ex_1_st_1;An extraordinary woman. Talented, intellectual, extremely rich and the most successful writer of all time.
+spokentexts_schriftstellerin_ex_1_st_2;Yet they say she can be difficult on occasion and that she's rather unhappy.
+spokentexts_schriftstellerin_talk_mit_1_st_1;Excuse me, Lady Westmacott?
+spokentexts_schriftstellerin_talk_mit_1_st_2;Constable Zellner! How can I help you?
+spokentexts_schriftstellerin_talk_mit_2_st_1;There are thousands of things I'd like to ask her.
+spokentexts_schriftstellerin_talk_mit_2_st_2;But nothing would justify neglecting my duties here on the train.
+spokentexts_schriftstellerin_used_mit_krimi_st_1;Err... Lady Westmacott?
+sequences_schriftstellerin_used_mit_krimi#2;[The writer goes in talk position.]
+spokentexts_schriftstellerin_used_mit_krimi_st_2;Yes?
+sequences_schriftstellerin_used_mit_krimi#4;[Ohi reaches into his pocket, pulls out the book.]
+spokentexts_schriftstellerin_used_mit_krimi_st_3_direction;embarrassed
+spokentexts_schriftstellerin_used_mit_krimi_st_3;I was wondering if you might...
+spokentexts_schriftstellerin_used_mit_krimi_st_4;...sign your book, Constable Zellner?
+spokentexts_schriftstellerin_used_mit_krimi_st_5;If it isn't too much of an inconvenience.
+spokentexts_schriftstellerin_used_mit_krimi_st_6;Of course it's an inconvenience.
+spokentexts_schriftstellerin_used_mit_krimi_st_7_direction;friendly
+spokentexts_schriftstellerin_used_mit_krimi_st_7;But only a small one.
+sequences_schriftstellerin_used_mit_krimi#10;[The writer takes the book, pulls out a pen drops down the book and wrote a tribute. She puts the pen away again, closes the book, takes it and holds it out to Ohi.]
+spokentexts_schriftstellerin_used_mit_krimi_st_8;You're welcome.
+spokentexts_schriftstellerin_used_mit_krimi_st_9_direction;pleased
+spokentexts_schriftstellerin_used_mit_krimi_st_9;Thank you so very much!
+sequences_schriftstellerin_used_mit_krimi#13;[The writer goes back to normal idle.]
+texts_a01_bombe_mo_use_1;Throw the bomb away
+sequences_a01_bombe_use_1#1;"[It has to be clicked on the bomb so that it continues. Otherwise, we continue with sequence - ""bomb Fund again""]"
+sequences_transportwagon_seq_a01_transportwagon_bombenfund_und_explosion#0;[The hands of the investigator's work on the cover of the cassette. In it, several sticks of dynamite and a detonator can be found with a clock whose is a few seconds before 12 clock.]
+spokentexts_transportwagon_seq_a01_transportwagon_bombenfund_und_explosion_st_1_direction;scared
+spokentexts_transportwagon_seq_a01_transportwagon_bombenfund_und_explosion_st_1;It's a...
+sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#0;[Cut to the investigator.]
+spokentexts_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor_st_1;Get off me!
+sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#2;[The investigators fights himself free, searches for his flashlight, and turns is on. He radiates the security guard in the face.]
+sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#3;[Cut to a long shot.]
+sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#4;[While Ohi and the security guard stands up again. the investigator illuminated with a flashlight toward the vault.]
+sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#5;[On the vault visible is a letter.]
+spokentexts_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor_st_2;There sir!
+sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#7;[The guard runs past the investigators to the vault.]
+spokentexts_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor_st_3;An envelope!
+sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#9;[The guard wants to take it, but the investigator is faster. He tears up the letter, looks into. He takes out a feather.]
+sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#10;[Closeup on Ohi, which gets big eyes in surprise.]
+sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#11;[The investigator sets aside the feather, takes the letter out of the envelope, opens it and reads it.]
+spokentexts_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor_st_4_direction;reads
+spokentexts_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor_st_4;My dear Nico. You should take a closer look at the box. R.
+spokentexts_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor_st_5_direction;softly, shaken
+spokentexts_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor_st_5;What the dickens?
+sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#17;[The investigator stares stunned at the letter.]
+sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#14;[The investigator presses the guard the torch and the letter in his hand and makes a hasty working to open the safe (twist lock). He opens the heavy door, pulls out a metal box and return it to the vault.]
+sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#15;[The investigator reaches into his pocket, pulls out a key and opens the drawer. He does it all very quickly / hastily. Rather rashly. He is under pressure.]
+sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#16;[Cut to a closeup. You can see the cartridge roughly from the perspective of the investigator. Player should be able to see what's inside.]
+sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen#0;[Ohi enters the transportwagon, leaves the door open.]
+spokentexts_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_st_1;Inspector Legrand?
+sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen#2;[The inspector comes out of the dark corner, the guard comes up behind the box.]
+spokentexts_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_st_2;Anything to report?
+sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig#0;[The camera shows the inside of the car from the door.]
+sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig#1;[Ohis head comes into view (under / beside the camera over). It is very dark, Ohi stands there, looks around.]
+spokentexts_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig_st_1_direction;carefully
+spokentexts_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig_st_1;Hello?
+sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig#3;[Ohis eyes fall on the vault. He goes a few steps further into the wagon.]
+spokentexts_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig_st_2_direction;impressed
+spokentexts_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig_st_2;Wow.
+sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig#5;[Behind a box jumps the guard out with the gun ready. He aims at Ohi (idle).]
+spokentexts_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig_st_3_direction;loud commanding
+spokentexts_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig_st_3;Don't move a muscle, you feathered fiend!
+sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig#7;[Ohi freezed, raises his arms (idle).]
+sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig#8;[Behind other boxes the investigator comes out.]
+spokentexts_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig_st_4_direction;quietly
+spokentexts_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig_st_4;Put the gun down, Robert.
+sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig#10;[Ohi stares surprised at the investigator Then he looks back on the guard.]
+sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig#11;[Cut to the guard.]
+sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig#12;[The guard is initially uncertain, but then he put the gun away and is now available as normal.]
+spokentexts_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig_st_5;If I may introduce ...
+sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig#14;[Cut to a long shot.]
+sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig#15;[The investigator point to the the security guard.]
+spokentexts_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig_st_6;Constable Robert Oliver from the Yard.
+sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig#17;[The investigator points to Ohi.]
+spokentexts_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig_st_7;And this is the revered Constable Zellner of the Swiss police, who obviously couldn't control his curiosity.
+sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig#19;[The investigator stands up normally.]
+sequences_transportwagon_seq_a01_transportwagon_stromausfall_und_vollbremsung#0;[The train goes through a tunnel, no light from outside is in the train anymore.]
+spokentexts_transportwagon_seq_a01_transportwagon_stromausfall_und_vollbremsung_st_1_direction;light goes out, he is surprised
+spokentexts_transportwagon_seq_a01_transportwagon_stromausfall_und_vollbremsung_st_1;All right. We should... What?
+sequences_transportwagon_seq_a01_transportwagon_stromausfall_und_vollbremsung#3;[While the investigators talks, the electric light goes out.]
+spokentexts_transportwagon_seq_a01_transportwagon_stromausfall_und_vollbremsung_st_3_direction;scared
+spokentexts_transportwagon_seq_a01_transportwagon_stromausfall_und_vollbremsung_st_3;The light's gone out!
+spokentexts_transportwagon_seq_a01_transportwagon_stromausfall_und_vollbremsung_st_4_direction;commanding
+spokentexts_transportwagon_seq_a01_transportwagon_stromausfall_und_vollbremsung_st_4;Flashlights!
+sequences_transportwagon_seq_a01_transportwagon_stromausfall_und_vollbremsung#6;[Before the investigator has lifted his flashlight the train makes an emergency stop, the three men jumbled mess, boxes are moving and some things break.]
+sequences_transportwagon_seq_bombe_nicht_geklickt#0;[The screen become blindingly white, in the background you can hear a sound of explosion]
+spokentexts_transportwagon_seq_a01_transportwagon_bombenfund_und_explosion_st_2_direction;call
+spokentexts_transportwagon_seq_a01_transportwagon_bombenfund_und_explosion_st_2;Away with it!
+sequences_transportwagon_seq_explosion#1;[Ohi pushes the solidified investigator aside takes up the cash box and throws it as far as possible to the other side the transport carriage, behind the crates. Even as he does so, responded the guard and begins to fall out of the wagon.]
+spokentexts_transportwagon_seq_a01_transportwagon_bombenfund_und_explosion_st_3_direction;call
+spokentexts_transportwagon_seq_a01_transportwagon_bombenfund_und_explosion_st_3;Take cover!
+sequences_transportwagon_seq_explosion#3;[Ohi takes the investigator with him, pushes him through the door, through which the guard is gone.]
+sequences_transportwagon_seq_explosion#4;[Cut to a cloesup the transition.]
+sequences_transportwagon_seq_explosion#5;[Ohi slams the door to the transport wagon. Then he follow the others in the lounge wagon. A split second later there is a strong, deafening explosion and everything goes black.]
+sequences_transportwagon_seq_explosion#6;[The section is finished.]
+texts_a01_brieftasche_ausgang_mo_leave;Finish the investigation
+sequences_a01_brieftasche_ausgang_leave_1#1;[It is switched back to the normal scene. There Ohi puts back the wallet in his pocket.]
+texts_a01_brieftasche_briefe_mo_ex_1;Examine the letters
+spokentexts_a01_brieftasche_briefe_ex_1_st_1;Some letters...
+sequences_a01_brieftasche_briefe_ex_1#2;[Ohi opens to the first letter.]
+spokentexts_a01_brieftasche_briefe_ex_1_st_2;Hmm. Private.
+sequences_a01_brieftasche_briefe_ex_1#4;[Ohi closes the letter, puts the letters on the other side.]
+spokentexts_a01_brieftasche_briefe_ex_2_st_1;It's one thing to take a quick peek at the purse to make sure that nothing is missing.
+spokentexts_a01_brieftasche_briefe_ex_2_st_2;But I can't read the baroness' private correspondence without good reason!
+texts_a01_brieftasche_foto_mo_ex_1;Look at the picture
+texts_a01_brieftasche_foto_mo_ex_2;Read the text
+texts_a01_brieftasche_foto_mo_use_1;Turn the picture over
+spokentexts_a01_brieftasche_foto_ex_1_st_1;And here? A picture!
+spokentexts_a01_brieftasche_foto_ex_1_st_2;Hmm. A family in a garden...
+spokentexts_a01_brieftasche_foto_ex_1_st_3;From the light clothing of the people in the picture and the strong shadows, I'd say the picture was taken on a sunny day.
+spokentexts_a01_brieftasche_foto_ex_2_st_1;Tough to read... It's old-fashioned German.
+spokentexts_a01_brieftasche_foto_ex_2_st_2;I learned it in school, but I'm a bit out of practice. I've been writing with the Latin-style script for ten years now, like everyone else.
+spokentexts_a01_brieftasche_foto_ex_2_st_3;"Hmm. Seems like it says: ""For my dear little sister Meta, summer in Masuria, 1926"". "
+spokentexts_a01_brieftasche_foto_ex_2_st_4;The baroness must have been a young woman in 1926. She probably spent the summer holidays with her family there.
+sequences_a01_brieftasche_foto_ex_2#5;[Ohi rotates the photo back.]
+spokentexts_a01_brieftasche_foto_ex_2_st_5;Pleasant memories carried in a picture.
+spokentexts_a01_brieftasche_foto_ex_2_st_6;But it's none of my business. I should give the baroness her property back.
+sequences_a01_brieftasche_foto_ex_2#8;[It switches back the normal scene. There lies the wallet of Ohi again.]
+sequences_a01_brieftasche_foto_use_1#1;[Ohi picks the photo and turns it. On the back is a text.]
+texts_a01_brieftasche_geldscheine_mo_ex_1;Examine the bank notes
+spokentexts_a01_brieftasche_geldscheine_ex_1_st_1;Hmm. Bank notes. British Pounds, French Francs, Italian Lira.
+sequences_a01_brieftasche_geldscheine_ex_1#2;[Ohi put the the banknotes from the right places to the left side of the wallet.]
+spokentexts_a01_brieftasche_geldscheine_ex_1_st_2;Much more than most would carry with them.  But probably suitable for a wealthy lady like the baroness.
+texts_a01_grossraumwagon_aushang_mo_ex_1__2;Examine the map
+spokentexts_a01_grossraumwagon_aushang_ex_1_st_2;The large map shows the different routes of the Orient Express. This train began in Paris and ends in Istanbul, as usual.
+spokentexts_a01_grossraumwagon_aushang_ex_1_st_3;Unfortunately, it will make most of its journey without me.
+spokentexts_a01_grossraumwagon_aushang_ex_2_st_1;The train covers a distance of more than 3,000 kilometers and stops at a dozen places.
+spokentexts_a01_grossraumwagon_aushang_ex_2_st_2;In many cities they entertain the travellers with local specialties and culture.  An adventure, especially in southeastern Europe!
+texts_a01_grossraumwagon_brieftasche_mo_ex_1;Search the purse
+texts_a01_grossraumwagon_brieftasche_mo_ex_3;Search the purse
+texts_a01_grossraumwagon_brieftasche_mo_inventar;Baroness's purse
+texts_a01_grossraumwagon_brieftasche_mo_use_1__2;Open the purse
+texts_choice_02;Don't search the purse
+texts_choise_01;Search the purse
+spokentexts_a01_grossraumwagon_brieftasche_ex_1_st_1;Should I take a look inside? It would be a breech of trust.
+spokentexts_a01_grossraumwagon_brieftasche_ex_1_st_2;On the other hand, there might be important clues to be found!
+spokentexts_a01_grossraumwagon_brieftasche_ex_2_st_1;There's nothing of interest to me or to Inspector Legrand in the purse. I should give it back to the baroness.
+sequences_a01_grossraumwagon_brieftasche_ex_3#1;[Cut back to the shot.]
+sequences_a01_grossraumwagon_brieftasche_ex_3#2;[Ohi takes the wallet in his hand. The Geiger closes the window, turns into Öhis direction and freezes.]
+sequences_a01_grossraumwagon_brieftasche_ex_3#3;[He noted that Ohi has tampered with the suitcase. He makes a few angry steps towards Ohi. Then he sees what Ohi has in his hand and stops abruptly.]
+spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_1;Hey! What are you doing there?
+sequences_a01_grossraumwagon_brieftasche_ex_3#5;[Ohi stands there with the wallet in his hand (idle).]
+spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_2;I was taking your case for safe keeping, since it was left here unattended. When I picked it up, the cover unlatched...
+spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_3_direction;angry
+spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_3;I never leave my violin unattended!
+spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_4;Ah! Then no one else could have put this purse in your case?
+spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_5_direction;insecure, confused
+spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_5;Ehmm... someone must have snuck it in. Like you!
+spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_6;Ah ha for sure. And you have a pistol in the case because...
+spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_7_direction;angry
+spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_7;I don't owe you an explanation! It's mine... I have a gun license!
+spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_8;Now take the damned purse to the baroness and leave me in peace.
+spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_9;It won't be that easy. I'll report the incident to the Italian authorities in Venice.
+spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_10_direction;hissing angrily
+spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_10;Just get lost!
+spokentexts_a01_grossraumwagon_brieftasche_ex_4_st_1;No. It's bad manners to go through other people's private documents.
+sequences_a01_grossraumwagon_brieftasche_use_03#1;[Ohi is the transition in the lounge wagon and searched there the wallet]
+sequences_a01_grossraumwagon_brieftasche_use_03#5;[Ohi pulls out the wallet and looks inside.]
+spokentexts_a01_grossraumwagon_brieftasche_use_1_st_1;It's really not what a gentleman would do, and if the baroness finds out, she'd have good reason to call me dishonest.
+spokentexts_a01_grossraumwagon_brieftasche_use_1_st_2;But there's more at stake than a stolen purse and it may contain important information.
+sequences_a01_grossraumwagon_brieftasche_use_1#3;[Ohi pulls out the wallet, and opens it.]
+sequences_a01_grossraumwagon_brieftasche_use_1#4;"[It is switched to the Closeup Scene ""wallet"".]"
+sequences_a01_grossraumwagon_brieftasche_use_2#1;[Ohi pulls out the wallet, and opens it.]
+sequences_a01_grossraumwagon_brieftasche_use_2#2;"[It is switched to the Closeup Scene ""wallet"".]"
+texts_a01_grossraumwagon_fenster_mo_betrachte_1;Look out the window
+texts_a01_grossraumwagon_fenster_mo_ex_3;Examine the open window
+texts_a01_grossraumwagon_fenster_mo_use_1__4;Open the window
+texts_a01_grossraumwagon_fenster_mo_use_2__3;Close the window
+texts_a01_grossraumwagon_fenster_mo_used_mit_zahnstocher;Put a toothpick in the runner
+texts_a01_grossraumwagon_fenster_seq_choice_fenster_offen_lassen_title;The window stays open!
+spokentexts_a01_grossraumwagon_fenster_seq_choice_fenster_offen_lassen_st_1;You're not alone on this train. I want the window open.
+sequences_a01_grossraumwagon_fenster_seq_choice_fenster_offen_lassen#1;[The Geiger gets up, walks to the window.]
+spokentexts_a01_grossraumwagon_fenster_seq_choice_fenster_offen_lassen_st_2;Swiss politeness doesn't seem to be what it used to be!
+sequences_a01_grossraumwagon_fenster_seq_choice_fenster_offen_lassen#3;[The Geiger slams the window demonstratively.]
+spokentexts_a01_grossraumwagon_fenster_seq_choice_fenster_offen_lassen_st_3;I'm not gong to catch a cold because of you! Go somewhere else if you don't like it!
+sequences_a01_grossraumwagon_fenster_seq_choice_fenster_offen_lassen#5;[The Geiger goes back to his seat.]
+texts_a01_grossraumwagon_fenster_seq_choice_fenster_zu_machen_title;Close the window
+spokentexts_a01_grossraumwagon_fenster_seq_choice_fenster_zu_machen_st_1;I'm sorry, my fellow.
+sequences_a01_grossraumwagon_fenster_seq_choice_fenster_zu_machen#1;[Ohi closes the window.]
+spokentexts_a01_grossraumwagon_fenster_ex_1_st_1;We Swiss are crazy about trains!
+spokentexts_a01_grossraumwagon_fenster_ex_1_st_2;We don't just have a lot of railroads we have the most beautiful ones in the world!
+sequences_a01_grossraumwagon_fenster_use_1#1;[Ohi opens the window.]
+sequences_a01_grossraumwagon_fenster_use_1#2;[Cut to the Geiger.]
+sequences_a01_grossraumwagon_fenster_use_1#3;[The Geiger looks dreamily out the window. Suddenly something seems to bother him a bit. He looks around, then discovers Ohi at the window.]
+spokentexts_a01_grossraumwagon_fenster_use_1_st_1;Would you be so kind as to close the window? I don't want to sit in a draft.
+spokentexts_a01_grossraumwagon_fenster_use_1_st_2;Oh, pardon me.
+sequences_a01_grossraumwagon_fenster_use_1#6;[Ohi closes the window.]
+spokentexts_a01_grossraumwagon_fenster_use_2_st_1;I have no reason to bother the violinist. He can stay in the stuffy air if he prefers. 
+sequences_a01_grossraumwagon_fenster_use_3#1;[Ohi opens the window.]
+spokentexts_a01_grossraumwagon_fenster_use_3_st_1;Would you be so kind as to close the window?
+spokentexts_a01_grossraumwagon_fenster_use_3_st_2;No. I'd like some fresh air.
+spokentexts_a01_grossraumwagon_fenster_use_3_st_3;But I wouldn't. I don't want to catch a cold.
+spokentexts_a01_grossraumwagon_fenster_use_3_st_4;What are you doing? Didn't I make myself clear? THE WINDOW STAYS CLOSED!
+spokentexts_a01_grossraumwagon_fenster_use_4_st_1;That makes no sense. The violinist would close the window immediately and I wouldn't have enough time to search his violin case.
+sequences_a01_grossraumwagon_fenster_used_mit_zahnstocher_1#1;[Ohi opens the window, puts the toothpick in the scroll bar.]
+spokentexts_a01_grossraumwagon_fenster_used_mit_zahnstocher_1_st_1;The tip of the toothpick is stuck between the window and the runner!
+spokentexts_a01_grossraumwagon_fenster_used_mit_zahnstocher_1_st_6;What nerve! I'll complain to your superiors!
+sequences_a01_grossraumwagon_fenster_used_mit_zahnstocher_1#12;[The Geiger gets up, walks to the window, wants to close it. It's stuck. He fights around with the window, but he can not close.]
+sequences_a01_grossraumwagon_fenster_used_mit_zahnstocher_1#13;[The player takes control.]
+texts_a01_grossraumwagon_geige_mo_1;Examine the violin
+spokentexts_a01_grossraumwagon_geige_ex_1_st_1;I don't know anything about violins. It may very well be a very expensive violin... or not.
+texts_a01_grossraumwagon_geigenkoffer_mo_ex_1-3;Examine the violin case
+texts_a01_grossraumwagon_geigenkoffer_mo_use_1__2;Search the violin case
+spokentexts_a01_grossraumwagon_geigenkoffer_ex_1_st_1;The violin case looks pretty old. But that doesn't say anything about the quality of the violin.
+spokentexts_a01_grossraumwagon_geigenkoffer_ex_1_st_2;The best violins are often in the oldest cases.
+spokentexts_a01_grossraumwagon_geigenkoffer_ex_2_st_1;I doubt the violinist will let me have a look in his case!
+sequences_a01_grossraumwagon_geigenkoffer_ex_2#2;"[Now will start the current ""talk with"" sequence.]"
+spokentexts_a01_grossraumwagon_geigenkoffer_ex_3_st_1;I think the violinist is hiding something.
+spokentexts_a01_grossraumwagon_geigenkoffer_ex_3_st_2;But to be sure that Matt was right, I have to get a look in the violin case.
+spokentexts_a01_grossraumwagon_geigenkoffer_ex_3_st_3;How can I do that without the violinist's consent?
+sequences_a01_grossraumwagon_geigenkoffer_use_1#1;[Cut to the suitcase (so you can not see the Geiger).]
+sequences_a01_grossraumwagon_geigenkoffer_use_1#2;[Ohi grabs the suitcase.]
+spokentexts_a01_grossraumwagon_geigenkoffer_use_1_st_1_direction;reproachfully
+spokentexts_a01_grossraumwagon_geigenkoffer_use_1_st_1;Can I help you?
+sequences_a01_grossraumwagon_geigenkoffer_use_1#4;[Ohi gets startled.]
+sequences_a01_grossraumwagon_geigenkoffer_use_1#5;[Cut to a long shot.]
+spokentexts_a01_grossraumwagon_geigenkoffer_use_1_st_2;I'm just admiring the beautiful violin case.
+spokentexts_a01_grossraumwagon_geigenkoffer_use_1_st_3_direction;cranky
+spokentexts_a01_grossraumwagon_geigenkoffer_use_1_st_3;Let me by, please.
+sequences_a01_grossraumwagon_geigenkoffer_use_1#8;[Ohi goes one step to the side, the Geiger sits down.]
+spokentexts_a01_grossraumwagon_geigenkoffer_use_1_st_4;And the window stays closed from now on!
+sequences_a01_grossraumwagon_geigenkoffer_use_1#10;[Ohi turns away, goes one or two steps.]
+spokentexts_a01_grossraumwagon_geigenkoffer_use_1_st_5;It doesn't take long enough to close the window.
+sequences_a01_grossraumwagon_geigenkoffer_use_2#1;[Ohi opens the violin case]
+texts_a01_grossraumwagon_herztabletten_mo_inventar;Pills
+spokentexts_a01_grossraumwagon_herztabletten_ex_1_st_1;Pills for my... Heart..
+spokentexts_a01_grossraumwagon_herztabletten_ex_1_st_2;I'm supposed to take one if I have trouble.
+spokentexts_a01_grossraumwagon_herztabletten_ex_1_st_4;My daughter insisted that I take them with me. She was strongly against this little adventure.
+spokentexts_a01_grossraumwagon_herztabletten_ex_1_st_5;But I wasn't about to change my mind.
+texts_a01_grossraumwagon_krimi_mo_ex_1__2;Examine the book
+texts_a01_grossraumwagon_krimi_mo_inventar_1-3;Detective story
+texts_a01_grossraumwagon_krimi_mo_take_1;Take the book
+spokentexts_a01_grossraumwagon_krimi_ex_1_st_1;The Vicarage in the Mirror. A detective novel by my favorite author, Lady Clarissa Westmacott.
+spokentexts_a01_grossraumwagon_krimi_ex_1_st_2;Who would have ever thought that I would meet her in person!
+spokentexts_a01_grossraumwagon_krimi_ex_1_st_3;For years now I've been trying to convince my theater group to stage one of her plays.
+spokentexts_a01_grossraumwagon_krimi_ex_2_st_1;I'll leave it there.
+spokentexts_a01_grossraumwagon_krimi_ex_2_st_2;I'll pick it up before I get off.
+spokentexts_a01_grossraumwagon_krimi_ex_3_st_1;I like the book!
+spokentexts_a01_grossraumwagon_krimi_ex_3_st_2;It describes life in a small English village. The characters are lifelike and you can tell that it's based on the author's own experiences.
+spokentexts_a01_grossraumwagon_krimi_ex_4_st_1_direction;reads proudly
+spokentexts_a01_grossraumwagon_krimi_ex_4_st_1;"""For brave Constable Anton Jakob Zellner, whose time shall surely come."""
+spokentexts_a01_grossraumwagon_krimi_ex_4_st_2_direction;reads proudly
+spokentexts_a01_grossraumwagon_krimi_ex_4_st_2;"""Clarissa Westmacott, DBE."""
+spokentexts_a01_grossraumwagon_krimi_ex_5_st_1;An autograph from Clarissa Westmacott!
+spokentexts_a01_grossraumwagon_krimi_ex_5_st_2;That's not something that happens every day! She's very reserved-unapproachable, they say.
+spokentexts_a01_grossraumwagon_krimi_take_1_st_1;Should... Should I ask for an autograph?
+spokentexts_a01_grossraumwagon_krimi_take_1_st_2;That would be quite unprofessional... But on the other hand...
+sequences_a01_grossraumwagon_krimi_take_1#3;[Öhi takes the book with him.]
+texts_a01_grossraumwagon_pistole_mo_1;Examine the pistol
+spokentexts_a01_grossraumwagon_pistole_ex_1_st_1_direction;whistles
+spokentexts_a01_grossraumwagon_pistole_ex_1_st_1;Well.
+spokentexts_a01_grossraumwagon_pistole_ex_1_st_2;That's not what you expect to find in a violin case...
+spokentexts_a01_grossraumwagon_pistole_ex_1_st_3;An old one but probably still fully functional.
+texts_a01_grossraumwagon_portemonnaie_mo_inventar;Wallet
+spokentexts_a01_grossraumwagon_portemonnaie_ex_1_st_1;I bought it last week at a flea market. I like it because it tells a story.
+spokentexts_a01_grossraumwagon_portemonnaie_ex_1_st_2;I suppose the previous owner bought himself a newer one. This one still works just fine, though!
+texts_a01_grossraumwagon_schloss_kabine_archaeologe_mo_ex_1;Examine the lock
+texts_a01_grossraumwagon_schloss_kabine_archaeologe_mo_use_1;Open the lock with the hairpin
+texts_a01_grossraumwagon_schloss_kabine_archaeologe_mo_use_1__2;Try to open the lock
+texts_a01_grossraumwagon_schloss_kabine_archaeologe_mo_used_mit_schlussel;Use the key on the compartment lock
+texts_a01_grossraumwagon_schloss_kabine_archaeologe_mo_used_mit_zange;Open the lock with the pliers
+sequences_a01_grossraumwagon_schloss_kabine_archaeologe_ex_1#1;[Ohi kneels down, looking at the lock exactly.]
+spokentexts_a01_grossraumwagon_schloss_kabine_archaeologe_ex_1_st_2;You can easily lock the compartment door from inside by turning a little knob.
+spokentexts_a01_grossraumwagon_schloss_kabine_archaeologe_ex_1_st_3;But I didn't lock it!
+sequences_a01_grossraumwagon_schloss_kabine_archaeologe_ex_1#5;[Ohi stands Again.]
+sequences_a01_grossraumwagon_schloss_kabine_archaeologe_ex_1#6;[Ohi looks at the professor.]
+spokentexts_a01_grossraumwagon_schloss_kabine_archaeologe_ex_1_st_4_direction;amused, slightly reproachful
+spokentexts_a01_grossraumwagon_schloss_kabine_archaeologe_ex_1_st_4;Professor.
+spokentexts_a01_grossraumwagon_schloss_kabine_archaeologe_ex_1_st_5;If you had locked the door from in there, you wouldn't be out here.
+spokentexts_a01_grossraumwagon_schloss_kabine_archaeologe_ex_1_st_6_direction;embarrassed
+spokentexts_a01_grossraumwagon_schloss_kabine_archaeologe_ex_1_st_6;Er, that's true.
+spokentexts_a01_grossraumwagon_schloss_kabine_archaeologe_ex_2_st_1;The door is locked.
+spokentexts_a01_grossraumwagon_schloss_kabine_archaeologe_ex_2_st_2;I'm at a loss without a key or a proper tool.
+sequences_a01_grossraumwagon_schloss_kabine_archaeologe_use_1#3;[Ohi tries to turn the bolt with his bare hands, he then give up.]
+spokentexts_a01_grossraumwagon_schloss_kabine_archaeologe_use_1_st_2_direction;end with effort
+spokentexts_a01_grossraumwagon_schloss_kabine_archaeologe_use_1_st_2;I don't believe that someone...
+spokentexts_a01_grossraumwagon_schloss_kabine_archaeologe_use_1_st_3;It's no use.
+spokentexts_a01_grossraumwagon_schloss_kabine_archaeologe_use_1_st_4;The bolt is too short to get a good grip on it.
+spokentexts__seq_a01_grossraumwagon_schloss_kabine_archaeologe_use_2_st_3;But it should work with the pliers from the toolbox.
+spokentexts_a01_grossraumwagon_schloss_kabine_archaeologe_use_mit_haarnadel_1_st_1;It doesn't work with this kind of lock.
+spokentexts_a01_grossraumwagon_schloss_kabine_archaeologe_use_mit_haarnadel_1_st_2;I need something to turn the pin.
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_used_mit_schluessel_st_1;No, that's a totally different key. This one is made for a padlock.
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_used_mit_schluessel_st_2;I need a big key with a square indentation or a proper tool for the compartment door!
+spokentexts_a01_grossraumwagon_schloss_kabine_archaeologe_used_mit_zange_st_1;I bet I could really get a grip on the bolt with these.
+spokentexts_a01_grossraumwagon_schloss_kabine_archaeologe_used_mit_zange_st_3_direction;excited, jostling
+spokentexts_a01_grossraumwagon_schloss_kabine_archaeologe_used_mit_zange_st_3;Well come on then, hurry up!
+sequences_a01_grossraumwagon_schloss_kabine_archaeologe_used_mit_zange#2;"[Ohi uses the tongs. Then he turns it and with a ""clack"" the lock opens. Ohi put the tongs back into his pocket, then he presses down the handle and pushes the door wide open. But he is not in the cabin.]"
+sequences_a01_grossraumwagon_schloss_kabine_archaeologe_used_mit_zange#4;[Ohi stops, but there is no reaction. The archaeologist wants to pass him into the compartment. Ohi makes him not going, he's going itself. The archaeologist is right behind him.]
+texts_a01_grossraumwagon_tuer_zum_salonwagen_mo_leave_1-3;Enter the saloon car.
+sequences_a01_grossraumwagon_tuer_zum_salonwagen_leave_2#1;[Ohi walks toward the exit.]
+sequences_a01_grossraumwagon_tuer_zum_salonwagen_leave_2#2;[The conductor is coming around the corner and runs into Ohi. He raises his hand to his cap to apologize.]
+spokentexts_a01_grossraumwagon_tuer_zum_salonwagen_leave_2_st_1;Pardon me, sir.
+sequences_a01_grossraumwagon_tuer_zum_salonwagen_leave_2#4;[The conductor is unstoppable, continues. Ohi stops and looks after him.]
+spokentexts_a01_grossraumwagon_tuer_zum_salonwagen_leave_2_st_2;We could have used you a few minutes ago!
+sequences_a01_grossraumwagon_tuer_zum_salonwagen_leave_2#6;[Ohi is shaking his head and goes out of the wagon.]
+sequences_a01_grossraumwagon_tuer_zum_salonwagen_leave_3#1;[Ohi enters the saloon wagon.]
+texts_a01_grossraumwagon_tuer_zum_tender_mo_ex_1;Look at the door
+spokentexts_a01_grossraumwagon_tuer_zum_tender_ex_1_st_1;This is the first car. The coal tender should be directly beyond this door, and in front of it, the engine.
+texts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_mo_ex_1a__1b;Examine the locked door
+texts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_mo_ex_2;Look at the door to the professor's compartment 
+texts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_mo_use_1-3;Knock on door to the professor's compartment 
+texts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_mo_used_mit_schluessel;Use the key on the compartment lock
+texts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_mo_used_mit_zange;Open the lock with the pliers
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_ex_1a_st_1;Perhaps a thoughtful conductor noticed that Professor Lucien wasn't in his compartment and locked it. 
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_ex_1b_st_1;I need the right key or a proper tool to get the door open.
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_ex_1b_st_2;The lock wouldn't stand a chance against the pliers. 
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_ex_2_st_1;Professor Lucien is back in his compartment.
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_ex_2_st_2;And I doubt he'll be leaving it any time soon.
+sequences_a01_grossraumwagon_tuer_zur_kabine_archaeologe_use_1#1;[Ohi knocks on the door.]
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_use_1_st_1_direction;a little louder
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_use_1_st_1;Professor Lucien?
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_use_1_st_2;The door is open.
+sequences_a01_grossraumwagon_tuer_zur_kabine_archaeologe_use_1#4;[Ohi opens the door.]
+sequences_a01_grossraumwagon_tuer_zur_kabine_archaeologe_use_1#5;[Cut to the cabin.]
+sequences_a01_grossraumwagon_tuer_zur_kabine_archaeologe_use_1#6;[The professor sits on the couch and reads a book. He looks up (idle).]
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_use_1_st_3;How can I help you, Constable Zellner?
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_use_2_st_1;Someone has to tell me more about this Professor Lucien fellow.
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_use_2_st_2;I want to know what's going on here!
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_use_3_st_1;I think I'll leave him alone.
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_use_3_st_2;If something else comes to mind, I know where to find him.
+texts_a01_grossraumwagon_tuer_zur_kabine_baronin_mo_ex_1__2;Examine the compartment door.
+texts_a01_grossraumwagon_tuer_zur_kabine_baronin_mo_use_1-6;Knock on the baroness' compartment door
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_ex_1_st_1_direction;sarcastically
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_ex_1_st_1;"The little label on the door reads ""Baroness von Trebitz"". Blue blood on the Orient Express."
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_ex_2_st_1;"Hmm. A ""Please do not disturb"" sign is hanging on the door."
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_ex_2_st_2;I think I'll respect it as long as I don't really need anything from the baroness.
+sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_1#1;[Ohi is knocking the door. A short time later the door opened a little, the butler stands behind the gap (idle). Somewhere in the background seems to sit the Baroness (not really visible).]
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_1_st_1;Yes, what is it?
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_1_st_2_direction;loud from behind
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_1_st_2;Whoever that is James, ask them whether they found my purse and then close the door. The noise on this train is driving me crazy!
+sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_2#1;[Ohi is knocking the door. A short time later the door opened a little, the butler stands behind the gap (idle). In the background sits the Baroness, drinks and reads letters.]
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_2_st_1;Oh, Constable-did you find the baroness' purse?
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_2_st_2_direction;loud from behind
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_2_st_2;Did he find my purse?
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_2_st_3;Not yet, I'm afraid!
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_3_st_1;The baroness seems to have a... special personality.
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_3_st_2;I'd better not bother her until I find her purse.
+sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4#1;[Ohi is knocking the door. A short time later the door opened a little, the butler stands behind the gap (idle). In the background sits the Baroness, drinks and reads letters.]
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4_st_1;Oh, Inspector. Did you find the baroness' purse?
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4_st_2;I did indeed.
+sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4#4;[The Baroness looks at Ohi (idle).]
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4_st_3_direction;laut aus dem Hintergrund
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4_st_3;You did?
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4_st_4_direction;loud from behind, angry
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4_st_4;Out of my way, James.
+sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4#7;[The butler goes one step to the side, the door opens. (Idle).]
+sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4#8;[Cut to the cabin. We may make the cut so that the butler is in its final position no longer looks completely, but as only his hand very big screen, etc. attached.]]
+sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4#9;[Ohi pulls out the wallet, briefly shows it to the baroness, and gives it then to the butler. The butler turns around and puts the wallet on the suitcases. He turns around so that he can see his mistress and Ohi easily and then he stops (idle).]
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4_st_5;Oh wunderbar!
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4_st_6;Tremendous work, Inspector!
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4_st_7;Constable, Baroness. Constable Anton Jakob Zellner at your service.
+sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_5#1;[Ohi is knocking on the door. A short time later the door opened a little, the butler stands behind the gap (idle). In the background sits the Baroness and looks at the door (idle).]
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_5_st_1;Constable Zellner. May I be of help?
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_5_st_2;James, move!
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_5_st_3;I want to speak to the kind inspector!
+sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_5#5;[The butler rolls his eyes.]
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_5_st_4;Constable, Baroness.
+sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_5#7;[The butler goes to its position (idle).]
+sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_5#8;[Cut to the cabin.]
+sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_5#9;[Dialogue between Ohi and Baroness starts.]
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_6_st_1;I don't think that the baroness has any more information for me.
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_6_st_2;And she's not the most pleasant conversationalist either.
+sequences_grossraumwagon_seq_a01_grossraumwagon_butler_verschwindet#0;[Scene: Ohi enters the saloon wagon. In the foreground you can see just how the butler in the other direction goes away (in rond tender).]
+sequences_grossraumwagon_seq_a01_grossraumwagon_butler_verschwindet#1;[From now on, the butler is at the end of the car at the tender door.]
+sequences_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen#1;[the archaeologist goes to the door, puts his hand on the handle. Because of Ohi talks to him again, he turns half to him (idle).]
+spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_2;You'll get in touch if you notice anything unusual, won't you, Professor?
+spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_3;Of course, Constable.
+sequences_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen#5;[Ohi is smiling, holds his cap, turns and wants to go.]
+sequences_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen#6;[The archaeologist wants to open his cabin, but it is locked.]
+spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_5_direction;irritated, frightened
+spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_5;What... What's this?
+sequences_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen#8;[Ohi turns, while the archaeologist gets always more panic, to open his door.]
+spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_6;What's the matter, sir?
+spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_7_direction;slightly panicked
+spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_7;The door! I can't open it!
+spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_8;Ah, we'll sort it out somehow.
+sequences_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen#13;[Ohi goes to the archaeologists, pushes it gently to side.]
+sequences_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen#16;[Ohi tries to open the door, he can't. He kneels down, looking at the lock.]
+spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_11;The compartment is locked!
+spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_12_direction;excited
+spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_12;But... I didn't lock it!
+spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_14;I don't even have a key! I asked the steward. He was going to bring me one, but he never came back.
+sequences_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen#24;[Ohi stands Again.]
+spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_15;Someone locked it.
+spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_17_direction;excited
+spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_17;Find the steward. He needs to bring me the key immediately!
+spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_18;Calm down, Professor. I'll see what I can do.
+spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_19_direction;emphatically
+spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_19;You don't understand! I have to get back in my compartment!
+spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_22;All right. Just wait here.
+sequences_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen#30;[The professor remains there. He stands thoughtful at the door (idle). As soon as the player enters the scene the next time, is the glass of water in his hand disappeared, he plays more complex animations follows.]
+sequences_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen#31;"[From time to time he tries to see if the door does work out yet (Variation 1). Now and then he turns frustrated (this can not be true!, Variation 2). Now and then he nervously chewed his fingernails and casts an anxious glance at the door, the third variation Now and then he hammered his fist on the door and call ""Open up!"".]"
+spokentexts_grossraumwagon_seq_grossraumwagon_kabine_archaeologe_leave_st_1;The good professor is hiding something.
+spokentexts_grossraumwagon_seq_grossraumwagon_kabine_archaeologe_leave_st_2;It would be good if I could find out more about him.
+spokentexts_grossraumwagon_seq_grossraumwagon_kabine_baronin_leave_st_1_direction;whistling sound, she is crazy
+spokentexts_grossraumwagon_seq_grossraumwagon_kabine_baronin_leave_st_1;Wheee.
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_archaeologen_kennen#0;[Ohi enters the corridor goes towards the saloon car.]
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_archaeologen_kennen#1;[The archaeologist comes towards Ohi with a glass of tea. The archaeologist and Ohi meet between the two cabin doors. The archaeologist has a little trouble to keep his balance as the train rocks slightly.]
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_archaeologen_kennen#2;[Ohi is pressing hisself against the wall to let the archaeologists through.]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_archaeologen_kennen_st_2;Very kind of you. Thanks.
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_archaeologen_kennen#5;[The Wagon wobbles and the archaeologist stumbles against Ohi. Ohi can support it, but there is some tea spilled.]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_archaeologen_kennen_st_3;Oh, pardon me!
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_archaeologen_kennen#7;[The archaeologist goes two steps backward, is now almost at his door. Ohi wipes the tea of the uniform.]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_archaeologen_kennen_st_4;No problem. The uniform is waterproof, Mr...?
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_archaeologen_kennen_st_5;Lucien. Professor Edgar Lucien.
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_archaeologen_kennen_st_6;Oh, a professor!
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_archaeologen_kennen#11;[The professor suggests a bow, as he introduces hisself. But he wants to go, he turns to go at the same time (maybe he spilled some tea again). But Ohi wants to talk yet. Reluctantly, the professor turned to him again, (idle).]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_archaeologen_kennen_st_7;Are you a scientist? Do you teach at the Sorbonne?
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_archaeologen_kennen_st_8;No. I work at the British Museum in London.
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_archaeologen_kennen_st_9_direction;surprised / excited
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_archaeologen_kennen_st_9;You don't say!
+spokentexts_grossraumwagon_seq_kabine_der_baronin_leave_2_st_1_direction;whistles
+spokentexts_grossraumwagon_seq_kabine_der_baronin_leave_2_st_1;Phew! The butler must have the patience of a saint. I could barely stand ten minutes confined with the baroness.
+spokentexts_grossraumwagon_seq_kabine_der_baronin_leave_2_st_2;But what she had to say about Professor Lucien was interesting all the same.
+spokentexts_grossraumwagon_seq_kabine_der_baronin_leave_2_st_3;He and Legrand are in cahoots together. Hopefully the professor can tell me what's really going on here, because Legrand certainly won't.
+texts_a01_kabine_archaeologe_fenster_mo_ex_1__4;Examine the window
+texts_a01_kabine_archaeologe_fenster_mo_ex_2__3;Examine the window
+texts_a01_kabine_archaeologe_fenster_mo_used_mit_graphitpulver;Blow graphite powder onto the window
+spokentexts_a01_kabine_archaeologe_fenster_ex_1_st_1;Hmm. Assuming that there really was someone in the compartment and he climbed out the window... Where's he gone?
+spokentexts_a01_kabine_archaeologe_fenster_ex_2_st_1;Did the burglar leave any clues?
+sequences_a01_kabine_archaeologe_fenster_ex_2#2;[Ohi is getting close to the window, looking exactly the glass. Idle.]
+spokentexts_a01_kabine_archaeologe_fenster_ex_2_st_2;Here's something! Might be fingerprints!
+sequences_a01_kabine_archaeologe_fenster_ex_2#4;[Ohi stands again normal.]
+spokentexts_a01_kabine_archaeologe_fenster_ex_3_st_1;They're tough to make out, but I do believe there are some prints on the window!
+spokentexts_a01_kabine_archaeologe_fenster_ex_3_st_2;If I had a forensics kit, I could make the prints visible with carbon powder...
+spokentexts_a01_kabine_archaeologe_fenster_ex_4_st_1;I can only make out faint traces. Whoever was in this compartment was wearing gloves.
+sequences_a01_kabine_archaeologe_fenster_used_mit_graphitpulver#1;[Ohi pulls out the folded paper, folded it up, holding it in front of the window and blows. Then he tried to see anything (idle).]
+sequences_a01_kabine_archaeologe_fenster_used_mit_graphitpulver#2;[The archaeologist looks interested at the scene.]
+spokentexts_a01_kabine_archaeologe_fenster_used_mit_graphitpulver_st_1;What are you doing?
+spokentexts_a01_kabine_archaeologe_fenster_used_mit_graphitpulver_st_2_direction;focused
+spokentexts_a01_kabine_archaeologe_fenster_used_mit_graphitpulver_st_2;I'm trying to make what I suspect are fingerprints visible.
+spokentexts_a01_kabine_archaeologe_fenster_used_mit_graphitpulver_st_3_direction;slight blowing
+spokentexts_a01_kabine_archaeologe_fenster_used_mit_graphitpulver_st_3;Fff! Fff!
+sequences_a01_kabine_archaeologe_fenster_used_mit_graphitpulver#6;[Ohi blows slightly against the glass to remove excess graphite.]
+spokentexts_a01_kabine_archaeologe_fenster_used_mit_graphitpulver_st_4;And? Found anything?
+sequences_a01_kabine_archaeologe_fenster_used_mit_graphitpulver#8;[Ohi pushed itself disappointment away from the window, is back to normal.]
+spokentexts_a01_kabine_archaeologe_fenster_used_mit_graphitpulver_st_5;Unfortunately, no.
+spokentexts_a01_kabine_archaeologe_fenster_used_mit_graphitpulver_st_6;There are only a couple of fingerprints on the window. It was probably cleaned before departure. But the prints I can see look like glove marks.
+spokentexts_a01_kabine_archaeologe_fenster_used_mit_graphitpulver_st_7;Wouldn't you expect that? What professional burglar wouldn't wear gloves?
+spokentexts_a01_kabine_archaeologe_fenster_used_mit_graphitpulver_st_8;Which makes me wonder what a professional burglar would hope to find in your compartment!
+spokentexts_a01_kabine_archaeologe_fenster_used_mit_graphitpulver_st_9;I... don't have anything to say to that.
+spokentexts_a01_kabine_archaeologe_fenster_used_mit_graphitpulver_st_10;I thought as much.
+sequences_a01_kabine_archaeologe_fenster_used_mit_graphitpulver#17;[Ohi looks at the glass, shrugs his shoulders.]
+spokentexts_a01_kabine_archaeologe_fenster_used_mit_graphitpulver_st_11;It was worth a try.
+texts_a01_kabine_archaeologe_flaschen_und_buecher_mo_ex_1;Examine the bottles and books
+spokentexts_a01_kabine_archaeologe_flaschen_und_buecher_ex_1_st_1;The Bible, Grimm's Fairy Tales, Moby Dick... And gin, whiskey and rum. All classics.
+texts_a01_kabine_archaeologe_kabinentuer_mo_leave_1;Leave the compartment
+spokentexts_a01_kabine_archaeologe_kabinentuer_leave_1_st_1;Goodbye, Professor.
+spokentexts_a01_kabine_archaeologe_kabinentuer_leave_1_st_2;Goodbye.
+sequences_a01_kabine_archaeologe_kabinentuer_leave_1#3;[Ohi goes to the door, further to the Wagon.]
+texts_a01_kabine_archaeologe_knopf_mo_ex_1;Examine the button
+texts_a01_kabine_archaeologe_knopf_mo_inventar;Button
+spokentexts_a01_kabine_archaeologe_knopf_ex_1_st_1;What's this?
+sequences_a01_kabine_archaeologe_knopf_ex_1#2;[Ohi picks up the Button and looks at it. (Idle).]
+spokentexts_a01_kabine_archaeologe_knopf_ex_1_st_2;What do you have there?
+spokentexts_a01_kabine_archaeologe_knopf_ex_1_st_3;It's a button... From a suit or a uniform, I guess.
+spokentexts_a01_kabine_archaeologe_knopf_ex_1_st_4_direction;excited
+spokentexts_a01_kabine_archaeologe_knopf_ex_1_st_4;The burglar might have lost it!
+spokentexts_a01_kabine_archaeologe_knopf_ex_1_st_5;Maybe. Or maybe not.
+sequences_a01_kabine_archaeologe_knopf_ex_1#7;[Ohi takes the button.]
+spokentexts_a01_kabine_archaeologe_knopf_ex_1_st_6;If I notice anyone with missing a button on his jacket, I'll ask him about it.
+spokentexts_a01_kabine_archaeologe_knopf_ex_1_st_7;But I wouldn't get my hopes up. If there was a burglar, he climbed out the window and jumped off the train.
+spokentexts_a01_kabine_archaeologe_knopf_ex_2_st_1;I found the button in front of the window in the archaeologist's compartment. The burglar might have lost it while climbing out the window.
+spokentexts_a01_kabine_archaeologe_knopf_ex_2_st_2;But there's no proof for my theory.
+texts_a01_kabine_archaeologe_schreibzeug_mo_ex_1;Examine the desk set
+spokentexts_a01_kabine_archaeologe_schreibzeug_ex_1_st_1_direction;appreciative whistles
+spokentexts_a01_kabine_archaeologe_schreibzeug_ex_1_st_1;Wow!
+spokentexts_a01_kabine_archaeologe_schreibzeug_ex_1_st_2;You have a very nice fountain pen. Pricey...
+spokentexts_a01_kabine_archaeologe_schreibzeug_ex_1_st_3_direction;snapped slightly
+spokentexts_a01_kabine_archaeologe_schreibzeug_ex_1_st_3;If you'd managed to decode hieroglyphics that boggled the best minds of the last three thousand years, you'd have received a gift like that as well.
+texts_a01_kabine_archaeologe_tasche_mo_ex_1;Examine the bag
+spokentexts_a01_kabine_archaeologe_tasche_ex_1_st_1;I really wonder what the professor is hiding from me...
+spokentexts_a01_kabine_archaeologe_tasche_ex_1_st_2;But I can't just rifle through the luggage of innocent citizens. This is the sixties!
+texts_a01_kabine_archaeologe_waschschrank_mo_ex_1;Examine the corner cupboard
+spokentexts_a01_kabine_archaeologe_waschschrank_ex_1_st_1;Hmm. No. Nothing interesting.
+sequences_kabine_archaeologe_seq_a03_kabine_archaeologe_kabinentuer_geoeffnet#0;[Ohi careful enters the room, looking around. The archaeologist behind him, pointing to the window.]
+spokentexts_kabine_archaeologe_seq_a03_kabine_archaeologe_kabinentuer_geoeffnet_st_1;I barely left the window ajar!
+sequences_kabine_archaeologe_seq_a03_kabine_archaeologe_kabinentuer_geoeffnet#2;[With quick steps Ohi is near the window. He puts his head out, looks to the left.]
+sequences_kabine_archaeologe_seq_a03_kabine_archaeologe_kabinentuer_geoeffnet#3;[Cut to outside. You see Ohi as he looks out the window.]
+sequences_kabine_archaeologe_seq_a03_kabine_archaeologe_kabinentuer_geoeffnet#4;[Ohi turns his head to the right. Here his cap flies away. Ohi can not keep it. It's embarrassing. He looks, the archaeologist noted it. He pulls his head back in the wagon.]
+spokentexts_kabine_archaeologe_seq_a03_kabine_archaeologe_kabinentuer_geoeffnet_st_2;Err. Nothing to see.
+sequences_kabine_archaeologe_seq_a03_kabine_archaeologe_kabinentuer_geoeffnet#6;[Ohi closes the window, then touch his head as he want to straighten his hair.]
+sequences_kabine_archaeologe_seq_a03_kabine_archaeologe_kabinentuer_geoeffnet#7;[The archaeologist is on his suitcase and his leather bag. He search with one hand in his bag, without opening it. He sensed something and relax then.]
+spokentexts_kabine_archaeologe_seq_a03_kabine_archaeologe_kabinentuer_geoeffnet_st_3_direction;relieved
+spokentexts_kabine_archaeologe_seq_a03_kabine_archaeologe_kabinentuer_geoeffnet_st_3;Ahh.
+spokentexts_kabine_archaeologe_seq_a03_kabine_archaeologe_kabinentuer_geoeffnet_st_5;Are you OK?
+spokentexts_kabine_archaeologe_seq_a03_kabine_archaeologe_kabinentuer_geoeffnet_st_4_direction;was distracted
+spokentexts_kabine_archaeologe_seq_a03_kabine_archaeologe_kabinentuer_geoeffnet_st_4;Hmm? Yes! Fine.
+texts_a01_salonwagen_bleistift_mo_ex_1;Examine the notepad
+texts_a01_salonwagen_bleistift_mo_inventar;Pencil
+texts_a01_salonwagen_bleistift_mo_take_1;Take the notepad
+spokentexts_a01_salonwagen_bleistift_ex_1_st_1;The pad on which the steward writes orders...
+spokentexts_a01_salonwagen_bleistift_ex_1_st_2;Empty. Maybe he didn't use it because there's not much to do today.
+spokentexts_a01_salonwagen_bleistift_ex_2_st_1;The steward's pencil. Probably one of the most travelled pencils in the world.
+spokentexts_a01_salonwagen_bleistift_take_1_st_1;I don't need the pad, but the pencil might come in handy.
+sequences_a01_salonwagen_bleistift_take_1#2;[Öhi takes the pencil.]
+texts_a01_salonwagen_bonbonschale_mo_ex_1;Examine the bowl
+texts_a01_salonwagen_bonbonschale_mo_ex_2;Examine the butterscotches
+texts_a01_salonwagen_bonbonschale_mo_take_1;Take some sweets
+spokentexts_a01_salonwagen_bonbonschale_ex_1_st_1_direction;thrilled
+spokentexts_a01_salonwagen_bonbonschale_ex_1_st_1;Ohh! Butterscotch!
+spokentexts_a01_salonwagen_bonbonschale_ex_1_st_2;I've loved them since I was a child.
+spokentexts_a01_salonwagen_bonbonschale_ex_1_st_3;Their only drawback: they don't play nice with false teeth.
+spokentexts_a01_salonwagen_bonbonschale_ex_2_st_1;Who'd have thought that one day, butterscotch would remind me of my age and of all the things I had to leave behind.
+spokentexts_a01_salonwagen_bonbonschale_take_1_st_1;Hmm... Maybe... If just suck it.
+sequences_a01_salonwagen_bonbonschale_take_1#2;[Ohi reaches into the bowl and takes out some candys.]
+texts_a01_salonwagen_graphitpulver_mo_inventar;Graphite powder
+spokentexts_a01_salonwagen_graphitpulver_ex_1_st_1;I scraped a small amount of graphite off the pencil lead. The powder is very fine, practically dust.
+texts_a01_salonwagen_haarnadel_mo_inventar_1__2;Hairpin
+spokentexts_a01_salonwagen_haarnadel_ex_1_st_1;I don't want to imply that I'm an expert, but I think that this could pick a normal lock.
+spokentexts_a01_salonwagen_haarnadel_ex_2_st_1;It rendered its service most satisfactorily as a lock pick!
+texts_a01_salonwagen_karamellbonbons_mo_inventar;Butterscotches
+spokentexts_a01_salonwagen_karamellbonbons_ex_1_st_1;I won't eat any just now.
+spokentexts_a01_salonwagen_karamellbonbons_ex_1_st_2;It would be rather embarrassing if I met Legrand and wasn't able to open my mouth because it's been stuck shut or because I lost some teeth.
+texts_a01_salonwagen_radio_mo_ex_1__2;Examine the radio
+texts_a01_salonwagen_radio_mo_use_1a;Turn the radio on
+texts_a01_salonwagen_radio_mo_use_1b;Turn the radio off
+spokentexts_a01_salonwagen_radio_ex_1_st_1;A shortwave radio. It's amazing how small these things have become in the last ten years.
+spokentexts_a01_salonwagen_radio_ex_2_st_1;What? Someone broke off the radio's antenna.
+spokentexts_a01_salonwagen_radio_ex_2_st_2;This could be a long trip to Istanbul!
+sequences_a01_salonwagen_radio_use_1a#1;[Ohi switched on the radio.]
+sequences_a01_salonwagen_radio_use_1a#2;[Music plays.]
+sequences_a01_salonwagen_radio_use_1b#1;[Ohi switched off the radio.]
+sequences_a01_salonwagen_radio_use_1b#2;[The music stops.]
+texts_a01_salonwagen_schere_mo_ex_1__2;Examine the scissors
+texts_a01_salonwagen_schere_mo_used_mit_bleistift;Use the pencil with the scissors
+spokentexts_a01_salonwagen_schere_ex_1_st_1;The steward probably uses the scissors on hard-to-open packages.
+spokentexts_a01_salonwagen_schere_ex_1_st_2;These days, nearly everything is sealed up tight. A colleague recently told me about dry powdered soup in small bags. I couldn't believe it!
+spokentexts_a01_salonwagen_schere_ex_2_st_1;I'll leave the scissors here. If I need them, I know where to find them.
+spokentexts_a01_salonwagen_schere_used_mit_bleistift_1_st_1;Hmm.
+spokentexts_a01_salonwagen_schere_used_mit_bleistift_1_st_2;When I scratch the pencil's lead with the scissors, I get fine graphite powder...
+sequences_a01_salonwagen_schere_used_mit_bleistift_1#3;"[Ohi takes a piece of paper, folds it and puts it on the counter as a ""note"" for the graphite.]"
+sequences_a01_salonwagen_schere_used_mit_bleistift_1#4;[He pulls out a pencil, take the scissors and begins to scrape the graphite.]
+spokentexts_a01_salonwagen_schere_used_mit_bleistift_1_st_3;I won't get a Nobel Prize for the idea, but graphite powder will bring out fingerprints at a pinch!
+sequences_a01_salonwagen_schere_used_mit_bleistift_1#6;[Ohi is ready. He replaces the scissors and puts the pencil on the counter. Then he folds the note and takes it.]
+texts_a01_salonwagen_schluessel_mo_inventar_1;Small key
+texts_a01_salonwagen_schluessel_mo_inventar_2;Toolbox key
+spokentexts_a01_salonwagen_schluessel_ex_1_st_1;A key to a padlock
+spokentexts_a01_salonwagen_schluessel_ex_1_st_2;I'm sure of that. It's not the first time I've held one.
+spokentexts_a01_salonwagen_schluessel_ex_2_st_1;The key to the toolbox in the freight car. I'll give it back later.
+texts_a01_salonwagen_schublade_mo_ex_2;Examine the drawer
+texts_a01_salonwagen_schublade_mo_ex_2__3;Examine the drawer
+texts_a01_salonwagen_schublade_mo_ex_3;Search the drawer
+texts_a01_salonwagen_schublade_mo_use_1;Open the drawer
+texts_a01_salonwagen_schublade_mo_used_mit_haarnadel;Pick the lock
+spokentexts_a01_salonwagen_schublade_ex_1_st_1;This is the steward's own little kingdom.
+spokentexts_a01_salonwagen_schublade_ex_1_st_2;But as long as he's not around, he won't be upset if I take a look.
+spokentexts_a01_salonwagen_schublade_ex_2_st_1;The drawer is locked and the steward probably have the key. But where is he?
+spokentexts_a01_salonwagen_schublade_ex_3_st_3;I need a bit of wire or something like that to pick the lock.
+spokentexts_a01_salonwagen_schublade_ex_4_st_1;Hmm. Batteries, a toothbrush, a shaving brush... But not the key to the compartment door.
+sequences_a01_salonwagen_schublade_ex_4#2;[Ohi reaches into the drawer and pulls out a small key, and looks at him.]
+spokentexts_a01_salonwagen_schublade_ex_4_st_2;Just this one... Hmm. Too small for the door but it might still be useful.
+sequences_a01_salonwagen_schublade_ex_4#4;[Ohi takes the key and closes the drawer.]
+spokentexts_a01_salonwagen_schublade_use_1_st_1;Perhaps he keeps the compartment keys in there?
+sequences_a01_salonwagen_schublade_use_1#2;[Ohi tried to open the drawer, but it is locked.]
+spokentexts_a01_salonwagen_schublade_use_1_st_2;Locked.
+sequences_a01_salonwagen_schublade_use_1#6;[Ohi turns away.]
+spokentexts_a01_salonwagen_schublade_use_1_st_3_direction;frustrated
+spokentexts_a01_salonwagen_schublade_use_1_st_3;Hmm. Where could he be?
+spokentexts_a01_salonwagen_schublade_use_1_st_4;If I want to impress Legrand, I should probably just do it. He's famous for his unconventional methods.
+spokentexts_a01_salonwagen_schublade_use_1_st_5;The lock is so cheap that I could easily pick it.
+spokentexts_a01_salonwagen_schublade_used_mit_haarnadel_st_1_direction;amused
+spokentexts_a01_salonwagen_schublade_used_mit_haarnadel_st_1;And suddenly it's ME who's the thief on the train.
+sequences_a01_salonwagen_schublade_used_mit_haarnadel#2;[Ohi put the needle in the lock, almost immediately it clicked.]
+spokentexts_a01_salonwagen_schublade_used_mit_haarnadel_st_2_direction;surprised
+spokentexts_a01_salonwagen_schublade_used_mit_haarnadel_st_2;Whoops? That was easier than expected.
+sequences_a01_salonwagen_schublade_used_mit_haarnadel#4;[Ohi takes the needle.]
+texts_a01_salonwagen_tuer_zum_grossraumwagon_mo_leave_1;Go into the next car 
+sequences_a01_salonwagen_tuer_zum_grossraumwagon_leave_1#1;[Ohi goes to the Wagon.]
+texts_a01_salonwagen_tuer_zum_uebergang_mo_leave_1;Go outside
+sequences_a01_salonwagen_tuer_zum_uebergang_leave_1#1;[Ohi goes.]
+texts_a01_salonwagen_zahnstocher_mo_inventar_1;Toothpick
+spokentexts_a01_salonwagen_zahnstocher_ex_1_st_1;The wooden toothpicks are packed into small paper wrappers.
+spokentexts_a01_salonwagen_zahnstocher_ex_1_st_2;Nothing unusual.
+texts_a01_salonwagen_zahnstocherglas_mo_ex_1;Examine the glass of toothpicks
+texts_a01_salonwagen_zahnstocherglas_mo_take_1__2;Take a toothpick
+spokentexts_a01_salonwagen_zahnstocherglas_ex_1_st_1;The steward must have forgotten the toothpicks.
+spokentexts_a01_salonwagen_zahnstocherglas_ex_1_st_2;Normally he would offer them discreetly after dinner.
+sequences_a01_salonwagen_zahnstocherglas_take_1#1;[Ohi grabs into the glass, takes out a toothpick.]
+spokentexts_a01_salonwagen_zahnstocherglas_take_2_st_1;I think one should be enough.
+texts_a01_salonwagen_zeitung_mo_inventar_1;Read the newspaper
+sequences_a01_salonwagen_zeitung_ex_1#1;[Ohi takes out the newspaper, unfolds it and looks into it.]
+sequences_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen#0;[Ohi enters the wagon, is looking around. He sees the writer and solidifies.]
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_1_direction;almost speechless, excited
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_1;I don't believe it!
+sequences_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen#3;[Ohi goes with his mouth open to  the table, the writer sits, she looks at him.]
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_3_direction;excited
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_3;I never thought I'd ever meet you!
+sequences_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen#5;[The nurse looks up.]
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_4;Pardon me, but we'd prefer...
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_5_direction;interrupts the nurse
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_5;It's alright, Ms. Miller.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_6;I'd like to speak to the inspector.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_7_direction;embarrassed
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_7;Unfortunately just a constable, Lady Westmacott.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_8;I'm reading The Vicarage in the Mirror right now! For the fifth time, at least!
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_9;That's nice, Constable...
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_10;Zellner! Anton Jakob Zellner.
+sequences_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen#13;[The writer friendly nods, points to the nurse.]
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_11;This is my companion, Ms. Miller.
+sequences_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen#15;[Ohi touches his hat, the nurse nods slightly, then begins to knit.]
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_12;A pleasure.
+sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#0;[The nurse looks quick up from their knits, sees Ohi. She stops to knit and lowers her knitting. Then she beckons Ohi and enters the idle-talk.]
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_1;Oh, Constable?
+sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#2;[Ohi comes to the table.]
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_2;Yes, ma'am?
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_3;My son didn't make any trouble for you, I hope?
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_4;Its just that he just walked past us, silent and seething... That's usually a sign that someone's laid down the law.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_5;I'm afraid so. He played a trick on me, a rather dangerous one.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_6;The lad left me no choice but to take away his wooden pistol as punishment.
+sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#8;[The nurse nods sympathetically.]
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_7;I understand. And - thank you!
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_8;Matty is a very lively child. Sometimes he needs a strong, fatherly hand.
+sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#12;[The writer is attentive and listens.]
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_9;Where is Matt's father, if I may ask?
+sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#15;[The nurse is embarrassed, lowers view (idle).]
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_10;He... He's gone.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_11;Ah... I understand.
+sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#18;[The nurse looks up again.]
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_12;Could you... err, leave Matty's pistol here, perhaps? So you don't have to bother with it.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_13;Of course. I told him he wouldn't get it back until Venice.
+sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#21;[The nurse nods while Ohi gives her the gun and puts it on the table.]
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_14;Very well, thank you again, Constable.
+sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#23;[Ohi bows slightly, taps his hat.]
+sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#24;[The conversation is over, the nurse begins to knit again. When you enter the location the next time, the gun has disappeared from the table.]
+spokentexts_salonwagen_seq_ohi_geht_zum_ersten_mal_hinter_die_bar_st_1;I suppose the steward won't object to me having a look around in in his absence.
+texts_a01_uebergang_holzpistole_mo_inventar_1;Wooden pistol
+spokentexts_a01_uebergang_holzpistole_ex_1_st_1;Matt will get his pistol back in Venice. That, and a good dressing down!
+texts_a01_uebergang_leiter_mo_ex_1;Examine the ladder
+spokentexts_a01_uebergang_leiter_ex_1_st_1;The ladder leads to the roof.
+spokentexts_a01_uebergang_leiter_ex_1_st_2;It would be suicidal to climb up there while the train is at full speed.
+spokentexts_a01_uebergang_leiter_ex_1_st_3;The wind, tunnels... No, I'll stay down here.
+texts_a01_uebergang_tuer_zum_salonwagen_mo_leave_1;Go into the saloon car.
+sequences_a01_uebergang_tuer_zum_salonwagen_leave_1#1;[Ohi enters the saloon wagon.]
+texts_a01_uebergang_tuer_zum_transportwagon_mo_leave_1-3;Enter the freight car
+spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_1_st_1;I strongly suspect that the door is locked.
+sequences_a01_uebergang_tuer_zum_transportwagon_leave_1#2;[Ohi grabs the wheel to his surprise he can turn it.]
+spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_1_st_2_direction;surprised
+spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_1_st_2;No! It's open!
+sequences_a01_uebergang_tuer_zum_transportwagon_leave_1#4;[Ohi opens the heavy door, enters.]
+spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_2_st_1;Inspector Legrand was quite clear.
+spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_2_st_2;I'm only to enter the freight car if there's news to report.
+spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_2_st_3;And the case of the missing purse will only be resolved once I've returned it to its owner.
+sequences_a01_uebergang_tuer_zum_transportwagon_leave_3#1;[Ohi knocks twice the door. He opens it and enters.]
+texts_a01_uebergang_werkzeugkasten_mo_ex_1__2;Examine the box
+texts_a01_uebergang_werkzeugkasten_mo_ex_1-3;Examine the box
+texts_a01_uebergang_werkzeugkasten_mo_use_1;Open the box
+texts_a01_uebergang_werkzeugkasten_mo_use_1__2;Open the box
+texts_a01_uebergang_werkzeugkasten_mo_used_mit_haarnadel;Pick the lock
+texts_a01_uebergang_werkzeugkasten_mo_used_mit_schluessel;Unlock the padlock
+spokentexts_a01_uebergang_werkzeugkasten_ex_1_st_1;Hmm. A box with a padlock.
+spokentexts_a01_uebergang_werkzeugkasten_ex_1_st_2;I suppose it contains tools for the train's crew. Maybe for coupling and uncoupling the cars?
+spokentexts_a01_uebergang_werkzeugkasten_ex_1_st_3;At any rate, it's positioned so that it's easier to reach from the ground than from up here.
+spokentexts_a01_uebergang_werkzeugkasten_ex_2_st_1;The box is secured with a padlock. I won't be able to open it without a key.
+spokentexts_a01_uebergang_werkzeugkasten_ex_3_st_1;I have everything I need.
+sequences_a01_uebergang_werkzeugkasten_use_1#1;[Ohi kneels down, takes the lock in his hand and pulls it. It will not open.]
+sequences_a01_uebergang_werkzeugkasten_use_1#2;[Cut on the box in the foreground, Ohi behind.]
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_1;Locked.
+sequences_a01_uebergang_werkzeugkasten_use_1#4;[Suddenly, the boy jumps behind Ohi and shoots with his wooden gun at him.]
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_2;BANG! BANG!
+sequences_a01_uebergang_werkzeugkasten_use_1#6;[Ohi terrified vastly and almost fell off the train. He clings tightly. He struggles to his feet, still in shock. The boy is aiming at him.]
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_3_direction;keuchen
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_3;Fff-fff.
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_4;Don't move!
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_5;Matt! Have you gone mad?
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_6_direction;cheerful, threatening
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_6;I'll shoot!
+sequences_a01_uebergang_werkzeugkasten_use_1#11;[Ohi is angry and picks the weapon from the boy, pulls it roughly out of his hands.]
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_7_direction;surprised, angry
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_7;Hey! My pistol!
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_8_direction;still hard at breathing, must calm down
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_8;You'll get it back in Venice.
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_9_direction;outraged, angry
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_9;I could have fallen under the wheels!
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_10;I thought you were a ghost!
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_11_direction;calms down slowly
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_11;Ghosts don't exist.
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_12;They do too! One just flew past the window!
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_13_direction;sarcastically until then strictly
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_13;Yes, yes. Sure. Now get moving!
+sequences_a01_uebergang_werkzeugkasten_use_1#19;[Ohi points to the lounge wagon.]
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_14_direction;offended
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_14;Oh, man!
+sequences_a01_uebergang_werkzeugkasten_use_1#21;[The boy is offended and goes in the lounge wagon.]
+spokentexts_a01_uebergang_werkzeugkasten_use_2_st_1;Won't work. The box is secured with a padlock.
+spokentexts_a01_uebergang_werkzeugkasten_used_mit_haarnadel_1_st_1;Picking a modern padlock in an uncomfortable position on a rocking train? I'm too old for that.
+sequences_a01_uebergang_werkzeugkasten_used_mit_schluessel#1;[Ohi kneels down, takes the lock in his hand, then takes the key out of his pocket. He unlocks the lock, the lock flips up and hangs the opened lock then. He draws the key and put it back in his pocket.]
+spokentexts_a01_uebergang_werkzeugkasten_used_mit_schluessel_st_1;That's it.
+sequences_a01_uebergang_werkzeugkasten_used_mit_schluessel#3;[Ohi grabs in the tool box and pulls out a pair of tongs. He looks at each other briefly.]
+spokentexts_a01_uebergang_werkzeugkasten_used_mit_schluessel_st_2;There we go. This should help.
+sequences_a01_uebergang_werkzeugkasten_used_mit_schluessel#5;[Ohi closes the tool box and gets up with the tongs in his hand. Then he puts the tongs in his pocket.]
+texts_a01_uebergang_zange_mo_inventar_1;Pliers
+spokentexts_a01_uebergang_zange_ex_1_st_1;My grandfather was a blacksmith. When I was a child I used to play with tongs and hammers in his workshop.
+spokentexts_a01_uebergang_zange_ex_1_st_2;Mother never cared for that - she was always worried about my little fingers.
+spokentexts_a01_uebergang_zange_ex_1_st_3;But I never hurt myself seriously. I'm quite clever with tools.
+spokentexts_a01_uebergang_seq_zeitung_lesen_st_1;In the wind is really no place to be reading the newspaper!
+spokentexts_a01_uebergang_seq_zeitung_lesen_st_2;I'd better go back inside.
+sequences_a01_uebergang_seq_zeitung_lesen#2;[Ohi goes back to the lounge wagon]
+sequences_uebergang_seq_a01_uebergang_transportwagen_leave#0;[Ohi steps out of the door, closes it.]
+sequences_uebergang_seq_a01_uebergang_transportwagen_leave_erstmalig#1;[Ohi steps out of the door, closes it.]
+spokentexts_uebergang_seq_a01_uebergang_transportwagen_leave_erstmalig_st_1;An investigation on behalf of Legrand! That takes me one step closer.
+spokentexts_uebergang_seq_a01_uebergang_transportwagen_leave_erstmalig_st_4;If I can convince him of my competence, I might even be able to see this case through to the end!
+texts_a01_zeitung_ausgang_mo_leave;Read enough
+sequences_a01_zeitung_ausgang_leave_1#2;[Ohi folds the paper back together, and takes it.]
+texts_a01_zeitung_diebstahl_in_london_mo_ex_1;Read the article
+spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_1;Let's if there is any news?
+spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_2_direction;reads, flies over
+spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_2;Blah blah blah... Eye of the Sphinx... One of two priceless jewels... Extraordinarily pure ruby... Two thousand BC... Et cetera, et cetera...
+spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_3;Old news. And here?
+spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_4_direction;reads, flies over
+spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_4;Shocking burglary... Professional thieves... Surprised by museum guard Charles Langley and Constable Robert Oliver of Scotland Yard... Explosion...
+spokentexts__seq_a01_zeitung_diebstahl_in_london_ex_1_st_5;Constable Robert Oliver from Scotland Yard... He was there when the first Eye was stolen. Now he's guarding the second one?
+spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_5;Not really anything new. One of the two Eyes of the Sphinx, a ruby that's nearly four thousand years old, was stolen from the British Museum.
+spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_6;The burglar was surprised but managed to escape with his loot without being recognized.
+spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_7;That's the official story. But it says nothing about Legrand and the second Eye.
+texts_a01_zeitung_werbung_mo_ex_1;Look at the announcement
+spokentexts_a01_zeitung_werbung_ex_1_st_1_direction;reads
+spokentexts_a01_zeitung_werbung_ex_1_st_1;Luna's Drops - The calming herbal liqueur for women.
+spokentexts_a01_zeitung_werbung_ex_1_st_2_direction;reads
+spokentexts_a01_zeitung_werbung_ex_1_st_2;A glass a day! It relaxes the nerves and maintains domestic tranquility.
+spokentexts_a01_zeitung_werbung_ex_1_st_3_direction;reads
+spokentexts_a01_zeitung_werbung_ex_1_st_3;Luna's Drops! If you don't want to bother your husband.
+spokentexts_a01_zeitung_werbung_ex_1_st_4_direction;amused
+spokentexts_a01_zeitung_werbung_ex_1_st_4;Hehehe.
+spokentexts_a01_zeitung_artikel_cleopatra_ex_1_st_1;Hmm.
+spokentexts_a01_zeitung_artikel_cleopatra_ex_1_st_2;A story about the upcoming Oscars and Cleopatra's chances of winning.
+spokentexts_a01_zeitung_artikel_cleopatra_ex_1_st_3;An incredible feat. They built the largest movie set of all time in Rome.
+spokentexts_a01_zeitung_artikel_cleopatra_ex_1_st_4;And because of the main actress' many illnesses, several changes of director and months of delays, costs shot to over 40 million dollars.
+spokentexts_a01_zeitung_artikel_cleopatra_ex_1_st_5;The most expensive movie ever made! A record never to be broken.
+spokentexts_a01_zeitung_artikel_formel1_ex_1_st_1;John Surtees won the Formula 1 world championship for the first time on Saturday. He also won the world championship in motorcycle racing from 1956 to 1960.
+spokentexts_a01_zeitung_artikel_formel1_ex_1_st_2;Making him the only man in motor sports to win world championships in both motorcycle and Formula 1 events.
+spokentexts_a01_zeitung_artikel_formel1_ex_1_st_3;Hmm. Not really my cup of tea.
+spokentexts_a01_zeitung_artikel_formel1_ex_1_st_4;Too loud, too fast, too much exhaust.
+texts_verlassediebar_mo_leave_1;Go back
+texts_hinterdiebar_mo_leave_1;Look behind the bar
