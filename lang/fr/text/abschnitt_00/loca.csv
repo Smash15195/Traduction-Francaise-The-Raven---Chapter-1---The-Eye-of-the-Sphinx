@@ -106,49 +106,49 @@ spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_10;Ça doit être vraiment e
 spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_11_direction;affirmative
 spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_11;Oui.
 texts_junge_top_a00_junge_wozu_die_pistole_tseq_title;Faux pistolet
-spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_1;And why do you need a gun?
-spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_2;And what's with the gun? What do you need it for?
-spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_3;Why do you need the gun?
-spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_4;It's the Raven! He was gunned down. So now I need a pistol!
-spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_5;Dead birds don't need guns... Nor do live ones.
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_1;Et pourquoi as-tu besoin d'un pistolet ?
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_2;Et c'est quoi cette arme ? Pour quoi en as-tu besoin?
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_3;Pourquoi tu as besoin d'une arme ?
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_4;C'est à cause du Corbeau ! Il a été abattu. Alors maintenant, j'ai besoin d'un pistolet !
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_5;Les oiseaux morts n'ont pas besoin d'armes... Pas plus que ceux qui sont vivants.
 spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_6_direction;outraged
-spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_6;You don't know who the Raven is, do you?
-spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_7;He's the greatest burglar ever! He stole paintings from the Louvre. And those priceless eggs with the gold and diamonds and stuff.
-spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_8;And Bobby Dobbs says he replaced the crown jewels with rhinestones!
-spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_9;I know who the Raven was.
-spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_10;Although... I don't quite buy that bit about the crown jewels.
-texts_start;Do you want to learn about the game controls (Tutorial)?
-texts_start_option_no;No, I'm good.
-texts_start_option_yes;Yes, tell me more.
-texts_step_01;To examine an item, just click on it. Click on the sandwich paper on the table.
-texts_step_02;If you move the mouse over the sandwich paper again, you'll see that the cursor's shape has changed and the text at the bottom of the screen says ''Take the sandwich paper''. Click again to pick it up.
-texts_step_03;Very good. Move the cursor to the bottom of the screen. That's where the inventory is. In it you can see all the items that Constable Zellner is carrying. Left-click on the sandwich paper.
-texts_step_04;Now you can use the sandwich paper with other objects. Move it over the apple core on the table and left-click.
-texts_step_05;Open the inventory again and right-click on the sandwich paper.
-texts_step_06;Of course, you can also use the items inside the inventory with each another. Left-click on the paper napkin and then click on the sandwich paper in the inventory.
-texts_step_07;Let's get rid of it. Dump the litter from your inventory into the ashtray on Zellner's table.
-texts_step_08;That wasn't too hard, was it? And now you know everything you need to know about the game's controls. Have fun!
-texts_step_01_controller;To examine an item move next to it with the left stick, use the right stick to select it and press $primary. Select the sandwich paper on the table.
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_6;Vous ne savez pas qui est le Corbeau ?
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_7;C'est le plus grand cambrioleur ! Il a volé des peintures du Louvre. Et ces oeufs précieux recouvert d'or et de diamants et plein d'autres choses.
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_8;Et Bobby Dobbs dit qu'il aurait remplacé les joyaux de la couronne avec des fausses pierres !
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_9;Je sais qui était le Corbeau.
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_10;Quoique... Je crois peu à ces histoires sur les joyaux de la couronne.
+texts_start;Voulez-vous apprendre les contrôles du jeu (Tutoriel)?
+texts_start_option_no;Non, je suis un cador.
+texts_start_option_yes;Oui, dites m'en plus.
+texts_step_01;Pour examiner un objet, il suffit de cliquer dessus. Cliquez sur le papier du sandwich sur la table.
+texts_step_02;Si vous déplacez la souris sur le papier sandwich encore une fois, vous verrez que la forme du curseur a changé et le texte en bas de l'écran indique ''Prendre le papier du sandwich''. Cliquez à nouveau pour le ramasser.
+texts_step_03;Très bien. Déplacez le curseur en bas de l'écran. C'est ici que ce trouve votre inventaire. Vous pouvez voir tout les objets que le Gendarme Zellner transporte. Cliquez-gauche sur le papier du sandwich.
+texts_step_04;Maintenant vous pouvez utiliser le papier du sandwich avec un autre objet. Déplacez-le sur le trognon de pomme sur la table et cliquez-gauche.
+texts_step_05;ouvrez l'inventaire encore une fois et cliquez-droit sur le papier du sandwich.
+texts_step_06;Bien sûr, vous pouvez aussi utiliser les objets dans l'inventaire entre eux. Cliquez-gauche sur la serviette en papier puis cliquez sur le papier du sandwich dans l'inventaire.
+texts_step_07;Débarrassons-nous de ça. Jetez tout ça de votre inventaire dans le cendrier sur la table de Zellner.
+texts_step_08;Ce n'était pas trop dur, n'est-ce pas ? Maintenant vous savez tout ce qu'il y a a savoir sur les contrôles. Bon jeu !
+texts_step_01_controller;Pour examiner un objet déplacez-vous à coté avec le stick gauche, utilisez le stick droit pour le sélectionner et appuyez sur $primary. Sélectionnez le papier du sandwich sur la table.
 texts_step_02_controller;If you select the sandwich paper again, you'll see that the symbol displayed has changed and the text at the bottom of the screen says ''Take the sandwich paper''. Press $primary to pick it up.
 texts_step_03_controller;Very good. Now press $inventory. This opens the inventory, in which you can see all the items that Constable Zellner is carrying. Use the left stick to select the sandwich paper and press $primary, so that it is displayed in the top left corner of the screen.
 texts_step_04_controller;Now you can use the sandwich paper with other items. Select the apple core on the table and press $primary.
 texts_step_05_controller;Open the inventory again, select the sandwich paper and press $secondary to examine it.
 texts_step_06_controller;Of course, you can also use the items inside the inventory with each other. Select the paper napkin with $primary and then select the sandwich paper in the inventory with $primary.
-texts_tutorial_apfelreste_mo_beteachten_1;Examine the apple core
-texts_tutorial_apfelreste_mo_used_mit_apfelreste;Wrap the apple core in the sandwich paper
-spokentexts_tutorial_apfelreste_ex_1_st_1;I was so excited this morning that I couldn't eat anything. Needless to say, the second I got on the train I was famished.
-spokentexts_tutorial_apfelreste_ex_1_st_2;Fortunately, I'd brought an apple.
-texts_tutorial_butterbrotpapier_mo_ex_1;Examine the sandwich paper
-texts_tutorial_butterbrotpapier_mo_inventar;Sandwich paper
-texts_tutorial_butterbrotpapier_mo_inventar_2;Sandwich paper with apple core
-texts_tutorial_butterbrotpapier_mo_take_1;Take the sandwich paper
-texts_tutorial_muell_mo_inventar;Litter
-texts_tutorial_muelleimer_mo_ex_1;Look at the waste basket
-texts_tutorial_muelleimer_mo_used_mit_muell;Throw the litter into the ashtray
-spokentexts_tutorial_muelleimer_ex_1_st_1;Every table has its own waste basket, practical. No need to ever leave your seat.
-texts_tutorial_serviette_mo_inventar;Paper napkin
-texts_tutorial_serviette_mo_used_mit_apfelreste;Combine litter
-spokentexts_tutorial_seq_step_8_st_1;Alright.
+texts_tutorial_apfelreste_mo_beteachten_1;Examiner le trognon de pomme
+texts_tutorial_apfelreste_mo_used_mit_apfelreste;Enroulez le trognon de pomme dans le papier du sandwich
+spokentexts_tutorial_apfelreste_ex_1_st_1;J'étais tellement excité ce matin que je ne pouvais pas manger. Inutile de dire qu'à la seconde où je suis monté dans le train, je mourais de faim.
+spokentexts_tutorial_apfelreste_ex_1_st_2;Heureusement, j'avais apporté une pomme.
+texts_tutorial_butterbrotpapier_mo_ex_1;Examiner le papier du sandwich
+texts_tutorial_butterbrotpapier_mo_inventar;Papier de Sandwich
+texts_tutorial_butterbrotpapier_mo_inventar_2;Papier de sandwich avec un trognon de pomme
+texts_tutorial_butterbrotpapier_mo_take_1;Prendre le papier du sandwich
+texts_tutorial_muell_mo_inventar;Détritus
+texts_tutorial_muelleimer_mo_ex_1;Regarder la corbeille
+texts_tutorial_muelleimer_mo_used_mit_muell;Jeter les détritus dans le cendrier
+spokentexts_tutorial_muelleimer_ex_1_st_1;Chaque table a sa propre corbeille, pratique. Pas besoin de quitter votre siège.
+texts_tutorial_serviette_mo_inventar;Serviette en papier
+texts_tutorial_serviette_mo_used_mit_apfelreste;Rassembler les détritus
+spokentexts_tutorial_seq_step_8_st_1;Très bien.
 spokentexts_tutorial_seq_step_1_st_1;This morning I thought I wouldn't be hungry because of all the excitement.  Thankfully I brought a sandwich with me anyway.
 sequences_tutorial_seq_step_2#0;[Ohi takes the sandwich paper, crumpled it and put it in his pocket.]
 sequences_tutorial_seq_step_4#0;[Ohi pulls out the paper, fold it in an easy and puts the apple in the paper. Then he crumples it up and puts it back]
