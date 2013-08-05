@@ -1,8 +1,8 @@
 loca_key_foo;Value is Bar
-text_quest01_slot01_titel;Persuade Legrand
-text_quest01_slot01_content;I have to convince Legrand that I can be of use. Helping the professor open his door would be a good start...
-text_quest01_slot02_content;Reuniting the baroness with her purse would earn me a few points with Legrand.
-text_quest02_slot01_titel;Open the professor's door
+text_quest01_slot01_titel;Convaincre Legrand
+text_quest01_slot01_content;Je dois convaincre Legrand que je peux être utile. Aider le professeur pour ouvrir sa porte serait un bon début...
+text_quest01_slot02_content;Retrouver le sac à main de la Baronne devrait me faire gagner des points avec Legrand.
+text_quest02_slot01_titel;Ouvrir la porte du professeur
 text_quest02_slot01_content;The door to Professor Lucien's compartment is locked — from the inside, it seems. I have to find a way to open the lock.
 text_quest02_slot02_content;The toolbox might come in handy for opening Professor Lucien's door. All I need is the key.
 hint_quest02_slot02;The railroad employees must have access to the key.

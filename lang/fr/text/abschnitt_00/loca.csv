@@ -97,7 +97,7 @@ spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_1;Le monde est-il si dangere
 spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_2;Quel est ton nom, mon garçon ?
 spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_3;Mon nom est Matthew Miller !
 spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_4;Et d'où viens-tu, Matthew Miller ?
-spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_5;De Dillsburg en Pennsylvania.
+spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_5;De Dillsburg en Pennsylvanie.
 spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_6;Mais ma mère et moi vivons en Angleterre maintenant. Elle prend soin d'une riche vieille dame.
 spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_7;Nous sommes sur le chemin de Venise pour le moment. Nous allons faire une croisière sur un grand bateau !
 spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_8;Impressionnant ! Tu as déjà vu la moitié du monde.
@@ -106,29 +106,29 @@ spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_10;Ça doit être vraiment e
 spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_11_direction;affirmative
 spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_11;Oui.
 texts_junge_top_a00_junge_wozu_die_pistole_tseq_title;Faux pistolet
-spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_1;Et pourquoi as-tu besoin d'un pistolet ?
-spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_2;Et c'est quoi cette arme ? Pour quoi en as-tu besoin?
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_1;Et pouquoi as-tu besoin d'une arme ?
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_2;Et pourquoi cette arme ? Pour quoi en as-tu besoin ?
 spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_3;Pourquoi tu as besoin d'une arme ?
-spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_4;C'est à cause du Corbeau ! Il a été abattu. Alors maintenant, j'ai besoin d'un pistolet !
-spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_5;Les oiseaux morts n'ont pas besoin d'armes... Pas plus que ceux qui sont vivants.
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_4;C'est à cause du Corbeau ! Il a été abattu. Alors j'ai besoin d'un pistolet !
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_5;Les oiseaux morts n'ont pas besoin d'arme... Pas même ceux vivant.
 spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_6_direction;outraged
 spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_6;Vous ne savez pas qui est le Corbeau ?
-spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_7;C'est le plus grand cambrioleur ! Il a volé des peintures du Louvre. Et ces oeufs précieux recouvert d'or et de diamants et plein d'autres choses.
-spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_8;Et Bobby Dobbs dit qu'il aurait remplacé les joyaux de la couronne avec des fausses pierres !
-spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_9;Je sais qui était le Corbeau.
-spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_10;Quoique... Je crois peu à ces histoires sur les joyaux de la couronne.
-texts_start;Voulez-vous apprendre les contrôles du jeu (Tutoriel)?
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_7;C'est le plus grand cambrioleur du monde ! Il a volé des peintures au Louvre. Des oeufs en or et diamant et plein d'autres trucs.
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_8;Et Bobby Dobbs dit qu'il aurait remplacé les joyaux de la couronne par des fausses pierres !
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_9;Je sais qui était ce Corbeau.
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_10;Même si... J'adhère peu à ces histoires à propos des joyaux de la couronne.
+texts_start;Voulez-vous en apprendre plus sur les contrôles du jeu (Tutoriel)?
 texts_start_option_no;Non, je suis un cador.
 texts_start_option_yes;Oui, dites m'en plus.
-texts_step_01;Pour examiner un objet, il suffit de cliquer dessus. Cliquez sur le papier du sandwich sur la table.
-texts_step_02;Si vous déplacez la souris sur le papier sandwich encore une fois, vous verrez que la forme du curseur a changé et le texte en bas de l'écran indique ''Prendre le papier du sandwich''. Cliquez à nouveau pour le ramasser.
-texts_step_03;Très bien. Déplacez le curseur en bas de l'écran. C'est ici que ce trouve votre inventaire. Vous pouvez voir tout les objets que le Gendarme Zellner transporte. Cliquez-gauche sur le papier du sandwich.
-texts_step_04;Maintenant vous pouvez utiliser le papier du sandwich avec un autre objet. Déplacez-le sur le trognon de pomme sur la table et cliquez-gauche.
-texts_step_05;ouvrez l'inventaire encore une fois et cliquez-droit sur le papier du sandwich.
-texts_step_06;Bien sûr, vous pouvez aussi utiliser les objets dans l'inventaire entre eux. Cliquez-gauche sur la serviette en papier puis cliquez sur le papier du sandwich dans l'inventaire.
-texts_step_07;Débarrassons-nous de ça. Jetez tout ça de votre inventaire dans le cendrier sur la table de Zellner.
-texts_step_08;Ce n'était pas trop dur, n'est-ce pas ? Maintenant vous savez tout ce qu'il y a a savoir sur les contrôles. Bon jeu !
-texts_step_01_controller;Pour examiner un objet déplacez-vous à coté avec le stick gauche, utilisez le stick droit pour le sélectionner et appuyez sur $primary. Sélectionnez le papier du sandwich sur la table.
+texts_step_01;Pour examiner un objet, cliquez-gauche dessus. Cliquez sur le papier du sandwich sur la table.
+texts_step_02;Si vous déplacez le curseur de la souris sur le papier du sandwich encore une fois, vous verrez que le curseur a changé et que le texte en bas de l'écran dit ''Prendre le papier du sandwich''. Cliquez dessus une fois de plus pour le prendre.
+texts_step_03;Très bien. Déplacez le curseur en bas de l'écran. Cela fait apparaitre votre inventaire. Vous y trouverez tout les objets que le Gendarme Constable Zellner transporte. Cliquez-gauche sur le papier du sandwich.
+texts_step_04;Maintenant vous pouvez utiliser le papier du sandwich avec un autre objets. Déplacez le sur le trognon de pomme sur la table et faites un clic-gauche.
+texts_step_05;Open the inventory again and right-click on the sandwich paper.
+texts_step_06;Bien sûr, vous pouvez aussi utiliser les objets de l'inventaire entre eux. Cliquez-gauche sur la serviette en papier puis sur le papier du sandwich dans l'inventaire.
+texts_step_07;Débarrassons-nous de tout ça. Jetez ces détritus dans votre inventaire dans le cendrier sur la table de Zellner.
+texts_step_08;Ce n'était pas trop dur, n'est-ce pas ? Maintenant vous savez tout ce que vous devez savoir sur les contrôles. Bon jeu !
+texts_step_01_controller;To examine an item move next to it with the left stick, use the right stick to select it and press $primary. Select the sandwich paper on the table.
 texts_step_02_controller;If you select the sandwich paper again, you'll see that the symbol displayed has changed and the text at the bottom of the screen says ''Take the sandwich paper''. Press $primary to pick it up.
 texts_step_03_controller;Very good. Now press $inventory. This opens the inventory, in which you can see all the items that Constable Zellner is carrying. Use the left stick to select the sandwich paper and press $primary, so that it is displayed in the top left corner of the screen.
 texts_step_04_controller;Now you can use the sandwich paper with other items. Select the apple core on the table and press $primary.
@@ -136,67 +136,67 @@ texts_step_05_controller;Open the inventory again, select the sandwich paper and
 texts_step_06_controller;Of course, you can also use the items inside the inventory with each other. Select the paper napkin with $primary and then select the sandwich paper in the inventory with $primary.
 texts_tutorial_apfelreste_mo_beteachten_1;Examiner le trognon de pomme
 texts_tutorial_apfelreste_mo_used_mit_apfelreste;Enroulez le trognon de pomme dans le papier du sandwich
-spokentexts_tutorial_apfelreste_ex_1_st_1;J'étais tellement excité ce matin que je ne pouvais pas manger. Inutile de dire qu'à la seconde où je suis monté dans le train, je mourais de faim.
+spokentexts_tutorial_apfelreste_ex_1_st_1;J'étais tellement excité ce matin que je ne pouvais pas manger quoi que ce soit. Inutile de dire qu'à la seconde où je suis monté dans le train, je mourais de faim.
 spokentexts_tutorial_apfelreste_ex_1_st_2;Heureusement, j'avais apporté une pomme.
 texts_tutorial_butterbrotpapier_mo_ex_1;Examiner le papier du sandwich
-texts_tutorial_butterbrotpapier_mo_inventar;Papier de Sandwich
+texts_tutorial_butterbrotpapier_mo_inventar;Papier de sandwich
 texts_tutorial_butterbrotpapier_mo_inventar_2;Papier de sandwich avec un trognon de pomme
 texts_tutorial_butterbrotpapier_mo_take_1;Prendre le papier du sandwich
 texts_tutorial_muell_mo_inventar;Détritus
 texts_tutorial_muelleimer_mo_ex_1;Regarder la corbeille
 texts_tutorial_muelleimer_mo_used_mit_muell;Jeter les détritus dans le cendrier
-spokentexts_tutorial_muelleimer_ex_1_st_1;Chaque table a sa propre corbeille, pratique. Pas besoin de quitter votre siège.
+spokentexts_tutorial_muelleimer_ex_1_st_1;Chaque tables a sa propre corbeille, pratique. Pas besoin de se lever de son siège.
 texts_tutorial_serviette_mo_inventar;Serviette en papier
-texts_tutorial_serviette_mo_used_mit_apfelreste;Rassembler les détritus
+texts_tutorial_serviette_mo_used_mit_apfelreste;Assembler les détritus
 spokentexts_tutorial_seq_step_8_st_1;Très bien.
-spokentexts_tutorial_seq_step_1_st_1;This morning I thought I wouldn't be hungry because of all the excitement.  Thankfully I brought a sandwich with me anyway.
+spokentexts_tutorial_seq_step_1_st_1;Ce matin, je pensais pas que j'aurais faim à cause de toute cette excitation. Heureusement, j'avais apporté un sandwich avec moi au cas où.
 sequences_tutorial_seq_step_2#0;[Ohi takes the sandwich paper, crumpled it and put it in his pocket.]
 sequences_tutorial_seq_step_4#0;[Ohi pulls out the paper, fold it in an easy and puts the apple in the paper. Then he crumples it up and puts it back]
-spokentexts_tutorial_seq_step_5_st_1;I wrapped the apple core in the sandwich paper. That way, I can carry it without making a mess of my trouser pocket.
-spokentexts_tutorial_seq_step_5_st_2;Still, I'd prefer not to have to carry them all day.
-spokentexts_tutorial_seq_step_6_st_1;The napkin came with the croissant I bought at the train station. A guilty pleasure. I don't need that either.
+spokentexts_tutorial_seq_step_5_st_1;J'ai enveloppé le trognon de pomme dans le papier du sandwich. De cette façon, je peux le porter sans ravager ma poche de pantalon.
+spokentexts_tutorial_seq_step_5_st_2;Je préférerais ne pas avoir à les transporter toute la journée.
+spokentexts_tutorial_seq_step_6_st_1;La serviette était avec un croissant que j'ai acheté à la gare. Un plaisir coupable. J'en ai plus besoin.
 sequences_tutorial_seq_step_6#1;"[Ohi takes out the napkin and the greaseproof paper and crumples the two together. He stops with the garbage in his hand. In the inventory the greaseproof paper with the apple and the rest napkin combined into a new object called ""garbage"".]"
 sequences_tutorial_seq_step_7#0;[Ohi throws the garbage in the garbage can.]
 sequences_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler#0;[Öhi is interrupted at the most exciting point.]
 spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_1_direction;throat
-spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_1;*ahem*
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_1;*hum*
 sequences_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler#2;[Scene: cut out, you can now see all three.]
 sequences_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler#3;[The boy is scared and goes a quick step to the side, stands beside Ohi (idle). Ohi looks up, startled, then turns back as soon as possible and assumes position during talks investigators (idle).]
-spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_2;You talk too much, Constable...
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_2;Vous parlez trop, officier...
 spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_3_direction;eagerly
 spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_3;Zellner, Monsieur. Anton Jakob Zellner.
 sequences_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler#6;[The inspector looks at the boy.]
-spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_4;Or... Did he pull a gun on you?
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_4;Ou... Vous a-t-il pointé un arme sur vous ?
 spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_5_direction;embarrassed
-spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_5;No, Monsieur.
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_5;Non, Monsieur.
 spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_6_direction;at the Boy
-spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_6;Get a move on.
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_6;Retourne à ta place.
 sequences_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler#11;[Boy goes offended towards Lok, climb one of the chairs. Idle: boy sits on the chair and looking out the window].
 spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_7_direction;as learned by heart
-spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_7;Inspector Legrand! It's a great honor to work with a celebrity like you!
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_7;Inspecteur Legrand ! C'est un grand honneur de travailler avec une célébrité comme vous !
 spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_10_direction;formal
-spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_10;We appreciate the support of the Swiss police.
-spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_11_direction;Do not know what to do with him
-spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_11;But... It'd be better if you'd...remain seated and...keep an eye on things.
-spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_1;Your deductive powers leave much to be desired. I think we'll get along fine without you.
-spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_2;Well... That is impressive, I admit. But the fewer people involved, the better. We'll get along fine without you.
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_10;Nous apprécions le soutien de la police Suisse.
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_11_direction;Je ne sais pas quoi faire de lui
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_11;Mais... Ce serait mieux si vous pouviez... rester assis et... garder un oeil ouvert.
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_1;Votre sens de la déduction laisse a désirer. Je pense que ça ira très bien sans vous.
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_2;Et bien... C'est impressionnant, j'avoue. Mais moins il y a de personnes impliqués, mieux c'est. Ça ira très bien sans vous.
 spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_3_direction;determined
-spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_3;You won't!
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_3;Vous ne pouvez pas !
 sequences_grossraumwagon_seq_grossraumwagon_fragespiel_beendet#5;[The investigators have started to turn away, then looks back confused.]
-spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_4;Won't? Pardonnez moi?
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_4;Je ne peux pas ? Pardonnez moi ?
 sequences_grossraumwagon_seq_grossraumwagon_fragespiel_beendet#7;[Öhi takes courage all together.]
 spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_5_direction;trying to sound brave and determined
-spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_5;I can help-and I will help!
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_5;Je peux aider et je veux aider !
 spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_6_direction;trying to sound brave and determined:
-spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_6;You are in my country and I've been ordered to assist you.
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_6;Vous êtes dans mon pays et j'ai ordre de vous aider.
 spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_7_direction;trying to sound brave and determined
-spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_7;And that's exactly what I'll do whether you like it or not!
-spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_10;Not so bright, but stubborn.
-spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_16;Hmm. Clever and stubborn.
-spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_11;Your commitment speaks volumes, Zellner.
-spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_12;But this is my show and I don't need you. Bon voyage! 
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_7;Et c'est exactement ce que je vais faire peut importe que cela vous plaise ou non !
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_10;Pas brillant, mais tenace.
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_16;Hmm. Intelligent et tenace.
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_11;Votre engagement en dit long, Zellner.
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_12;Mais c'est mon affaire et je n'ai pas besoin de vous. Bon voyage ! 
 spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_13_direction;wants to protest
-spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_13;But... How do you know?
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_13;Mais... Comment pouvez-vous le savoir ?
 sequences_grossraumwagon_seq_grossraumwagon_fragespiel_beendet#21;[The investigators nods to Ohi, then walks away. Ohi has stood the whole time, holding his breath, and now he lets the air out and relax.]
 spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_15_direction;exhales disappointed
 spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_15;Fffff.
