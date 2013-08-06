@@ -3,22 +3,22 @@ text_quest01_slot01_titel;Convaincre Legrand
 text_quest01_slot01_content;Je dois convaincre Legrand que je peux être utile. Aider le professeur pour ouvrir sa porte serait un bon début...
 text_quest01_slot02_content;Retrouver le sac à main de la Baronne devrait me faire gagner des points avec Legrand.
 text_quest02_slot01_titel;Ouvrir la porte du professeur
-text_quest02_slot01_content;The door to Professor Lucien's compartment is locked — from the inside, it seems. I have to find a way to open the lock.
-text_quest02_slot02_content;The toolbox might come in handy for opening Professor Lucien's door. All I need is the key.
-hint_quest02_slot02;The railroad employees must have access to the key.
-text_quest02_slot03_content;I have to find a way to open the locked drawer behind the bar. Maybe there's a key to the compartments in there.
-hint_quest02_slot03;Maybe the other passengers have an idea how I can open the drawer.
-text_quest03_slot01_titel;Analyze fingerprints
-hint_quest03_slot01;Maybe I can somehow analyze the fingerprints on the window of the archeologist‘s compartment!
-text_quest04_slot01_titel;Find the baroness's purse
-text_quest04_slot01_content;The baroness commissioned me to find her purse. Not quite the crime of the century, if it's even a crime at all. But it's my job as a policeman.
-hint_quest04_slot01;I should ask the other passengers if they know where the purse might be.
-text_quest04_slot02_content;Lady Westmacott's companion said that her son Matt might be able to help me. But where's the little fellow run off to?
-text_quest04_slot03_content;Matt's upset because I took his pistol away. If he'd only talk to me, I could ask him about the baroness' purse. 
-hint_quest04_slot03;I can't give him his pistol back, but maybe there's another way	 to cheer him up.
-text_quest04_slot04_content;Matt saw the violinist pick up and pocket something on the platform...
-text_quest04_slot05_content;The violinist claims he knows nothing about the purse. If only I could get a look inside his violin case...
-hint_quest04_slot05;Maybe I can distract him somehow, so that he'll leave his violin case unattended for a while.
+text_quest02_slot01_content;La porte du compartiment du professeur Lucien est verrouillé - de l'intérieur. Je dois trouver un moyen d'ouvrir la serrure.
+text_quest02_slot02_content;La boîte à outils peut être utile pour ouvrir la porte du professeur Lucien. J'ai juste besoin de sa clé.
+hint_quest02_slot02;Les employés doivent avoir accès à la clé.
+text_quest02_slot03_content;Je dois trouver un moyen d'ouvrir le tiroir verrouillé derrière le bar. Peut-être qu'il y a une clé pour les compartiments à l'intérieur.
+hint_quest02_slot03;Peut-être que les autres passagers ont une idée sur la manière d'ouvrir le tiroir.
+text_quest03_slot01_titel;Analyser les empreintes
+hint_quest03_slot01;Je peux peut-être analyser les empreintes sur la fenêtre de la cabine de l'archéologue !
+text_quest04_slot01_titel;Trouver le sac de la baronne
+text_quest04_slot01_content;La baronne m'a chargé de trouver son sac à main. C'est pas le crime du siècle, si on peut parler de crime. Mais c'est mon travail en tant que policier.
+hint_quest04_slot01;Je dois demander aux autres passagers s'ils savent où le sac pourrait être.
+text_quest04_slot02_content;L'accompagnatrice de Lady Westmacott a déclarée que son fils Matt pourra peut-être m'aider. Mais où est ce petit bonhomme ?
+text_quest04_slot03_content;Matt est en colère parce que j'ai pris son pistolet. S'il voulait bien me parler, je pourrais lui poser des questions sur le sac de la baronne.
+hint_quest04_slot03;Je ne peux pas lui rendre son pistolet, mais peut-être qu'il y a une autre façon de lui remonter le moral.
+text_quest04_slot04_content;Matt a vu le violoniste ramasser quelque chose sur le quai...
+text_quest04_slot05_content;Le violoniste affirme qu'il ne sait rien sur le sac. Si seulement je pouvais jeter un oeil à l'intérieur de son étui à violon...
+hint_quest04_slot05;Je peux peut-être le distraire, de sorte qu'il laisse son étui à violon sans surveillance.
 text_quest05_slot01_titel;Uncouple freight car
 text_quest05_slot01_content;I have to uncouple the freight car before the smoke in the tunnel suffocates us.
 text_quest05_slot02_content;I can't make heads or tails of the coupling mechanism in the dark. I need more light!
@@ -145,7 +145,7 @@ hint_quest20_slot03;Maybe there's a way to bridge the circuit?
 text_quest20_slot04_titel;Open display case
 text_quest20_slot04_content;I'm in the treasure chamber but there's still the bulletproof glass of the display case between the Eye and me.
 hint_quest20_slot04;Maybe I can use something to break the glass.
-index_note_start_01;Return of the raven?
+index_note_start_01;Le retour du corbeau ?
 a00_common_01_diary;This is the private notebook of Constable Anton Jakob Zellner. Should you find this book, please send it directly to Zurich Police Headquarters.
 a00_common_02_museum;23 Sept. 1963 \n A rather valuable ruby was stolen from the British Museum in London. One of the two legendary “Eyes of the Sphinx”. The press is in a tizzy, as one might expect. They blame the “New Raven” for besmirching the reputation of the old RavenRaven père , as the latter never harmed a soul during his exploits.
 a00_common_03_task;24 Sept. 1963 \n I did it! I stood up and told the captain right to his face that I — I! — want the assignment. He was too shocked to say no. Inspector Nicolas Legrand, here, with us, in Switzerland! An opportunity I simply cannot pass up. But just what does he want here?
@@ -307,7 +307,7 @@ a17_doctor_baroness_dialog_butler_01;Doctor Gebhardt murdered Baroness von Trebi
 a18_doctor_baroness_story_01;A terrible story. A man whose love is not returned and so he throws all morals aside to take revenge. The baroness must have been away at university at the time. That's all that saved her from being murdered with the rest of her family. She seems to have known Gebhardt from photos... The friend of the family, their savior, who had an eye for the baroness' younger sister. She saw him boarding the ship in Venice. Maybe she wasn't certain if it really was him, or maybe she wanted some proof. She searched for a photo, found it, and then wanted to expose the doctor during the reception in the saloon. Unfortunately, the doctor recognized her as well and realized immediately that she could destroy the new life he'd built for himself after the war.
 a18_doctor_baroness_doctor_dead_01;Sooner or later, people will find out that Doctor Gebhardt couldn't have been the Raven. He'll turn out to have an alibi for one or another of the thefts. But it could be days or even weeks until that happens. The thefts took place in many different countries stretching back fifteen years. \n Maybe they'll find his body, but I doubt it. Doctor Gebhardt — and whoever he was before that — is dead.
 text_quest_default;Qui est le Corbeau ?
-text_quest_default_content;Look for clues and unveil the identity of The Raven.
+text_quest_default_content;Cherchez des indices et dévoilez l'identité du Corbeau.
 
 
 

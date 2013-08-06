@@ -10,526 +10,526 @@ characters_ohi;Ohi
 characters_pflegerin;Pflegerin
 characters_schriftstellerin;Schriftstellerin
 characters_wachmann;Wachmann
-texts__top_a01_butler_goodbye_tseq_title;Say goodbye
-spokentexts_arzt_top_a01_arzt_auf_wiedersehen_tseq_st_1;Oh, dear! Something just occurred to me.
-spokentexts_arzt_top_a01_arzt_auf_wiedersehen_tseq_st_2;I'll come back later.
-spokentexts__top_a01_butler_goodbye_tseq_st_3;Certainly, sir.
-spokentexts__top_a01_butler_goodbye_tseq_st_4;Goodbye, James. Or... Alfred.
-spokentexts__top_a01_butler_goodbye_tseq_st_5;Goodbye, James.
-spokentexts__top_a01_butler_goodbye_tseq_st_6;Goodbye, sir.
-texts_archaeologe_mo_ex_1;Examine Professor Lucien
-texts_archaeologe_mo_talk_mit_1-2;Talk to Professor Lucien
-texts_archaeologe_mo_talk_mit_2;Speak to Professor Lucien
-texts_a01_archaeologe_top_a01_archaeologe_auf_wiedersehen_tseq_title;Say goodbye
-spokentexts_a01_archaeologe_top_a01_archaeologe_auf_wiedersehen_tseq_st_1;Godspeed, Professor Lucien.
-spokentexts_a01_archaeologe_top_a01_archaeologe_auf_wiedersehen_tseq_st_2;Thanks.
-spokentexts_a01_archaeologe_top_a01_archaeologe_auf_wiedersehen_tseq_st_3;Professor.
+texts__top_a01_butler_goodbye_tseq_title;Dire au revoir
+spokentexts_arzt_top_a01_arzt_auf_wiedersehen_tseq_st_1;Oh, ma chère ! Quelque chose vient d'avoir lieu pour moi.
+spokentexts_arzt_top_a01_arzt_auf_wiedersehen_tseq_st_2;Je reviendrai plus tard.
+spokentexts__top_a01_butler_goodbye_tseq_st_3;Certainement, monsieur.
+spokentexts__top_a01_butler_goodbye_tseq_st_4;Au revoir, James. Ou... Alfred.
+spokentexts__top_a01_butler_goodbye_tseq_st_5;Au revoir, James.
+spokentexts__top_a01_butler_goodbye_tseq_st_6;Au revoir, monsieur.
+texts_archaeologe_mo_ex_1;Examiner le Professeur Lucien
+texts_archaeologe_mo_talk_mit_1-2;Parler au Professeur Lucien
+texts_archaeologe_mo_talk_mit_2;Parler au Professeur Lucien
+texts_a01_archaeologe_top_a01_archaeologe_auf_wiedersehen_tseq_title;Dire au revoir
+spokentexts_a01_archaeologe_top_a01_archaeologe_auf_wiedersehen_tseq_st_1;Bon voyage, professeur Lucien.
+spokentexts_a01_archaeologe_top_a01_archaeologe_auf_wiedersehen_tseq_st_2;Merci.
+spokentexts_a01_archaeologe_top_a01_archaeologe_auf_wiedersehen_tseq_st_3;Professeur.
 sequences_a01_archaeologe_top_a01_archaeologe_auf_wiedersehen_tseq#5;[Ohi briefly nods, the professor does not react.]
 sequences_a01_archaeologe_top_a01_archaeologe_auf_wiedersehen_tseq#6;[Ohi leaves the cabin. Outside on the corridor of the Wagon it goes on.]
-texts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_title;Burglary at the museum.
-spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_1;So you were, shall we say, an eyewitness to the burglary two days ago?
-spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_2;If you work in the British Museum, then you must have experienced the burglary first-hand!
+texts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_title;Cambriolage au musée.
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_1;Vous étiez donc, dirons-nous, un témoin oculaire du cambriolage il y a deux jours ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_2;Si vous travaillez au British Museum, alors vous avez dû être au première loge !
 spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_3_direction;nervous
-spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_3;N-no. I wouldn't say that.
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_3;N-non. Je voulais pas dire ça.
 spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_4_direction;surprised
-spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_4;Oh no?
-spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_5;There... was a lot of commotion. But I didn't really pay much attention to it.
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_4;Ah non ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_5;Il y avait... beaucoup de d'aller et venue. Mais je n'y ai pas vraiment fait attention.
 spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_6_direction;curious, incredulous
-spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_6;There was a break-in in your museum and it didn't concern you?
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_6;Il y a eu une effraction dans votre musée et cela ne vous concerne pas ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_7_direction;trying, nervously
-spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_7;Well... Let's just say that nothing that's happened in the last 2000 years concerns me. He he.
-texts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_title;Inspector Legrand
-spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_1;Whatever you say.
-spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_2;Just a moment, please.
-spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_3;The famous Inspector Legrand is on the train. I imagine you know him?
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_7;Eh bien... C'est simplement que tout ce qui ne s'est pas produit il y a 2000 ne me concerne pas. Hé hé.
+texts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_title;Inspecteur Legrand
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_1;Peu importe.
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_2;Un instant, s'il vous plait.
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_3;Le fameux Inspecteur Legrand est dans le train. J'imagine que vous le connaissez ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_5_direction;lying
-spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_5;Err. No. Should I?
-spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_6;You don't know him?
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_5;Euhh. Non. Je devrais ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_6;Vous le connaissez pas ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_7_direction;something sneaky
-spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_7;And you also don't know what he's doing here?
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_7;Et vous ne savez pas non plus ce qu'il fait ici ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_8_direction;nervous, lying
-spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_8;No! W-why should I?
-spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_9;Just a thought... You're a representative of the British Museum... There's a guarded safe on the train...
-spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_10;I'm sorry. I don't know what you're trying to imply.
-spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_11;And now, please excuse me.
-texts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_title;He knows Legrand
-spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_1;And Inspector Legrand? Whom you allegedly don't know?
-spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_2;That's not quite true, is it?
-spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_3;I believe you and the Inspector do know each other.
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_8;No! P-pourquoi le devrais-je ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_9;C'est juste que... Vous représentez le British Museum... il y a un coffre-fort dans le train...
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_10;Je suis désolé. Je ne comprends pas ce que vous sous-endentez.
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_11;Maintenant, veuillez m'excuser.
+texts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_title;Il connait Legrand
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_1;Et l'inspecteur Legrand ? Que vous prétendez ne pas connaitre ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_2;Ce n'est pas tout à fait vrai, n'est-ce pas ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_3;Je crois que vous et l'inspecteur, vous vous connaissez très bien.
 spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_4_direction;surprised
-spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_4;What makes you think that?
-spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_5;It seems like the two of you are running a haulage company specializing in safes.
-spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_7;I won't comment on that. It's a matter of international importance.
-spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_10;Tell me, Professor... Would you happen to have a key in your briefcase?
-spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_11;A...
-spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_12;And, if so... Would it still happen to be there?
-spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_13;Then all would be as it should.
-spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_14;That's what we hope, at least.
-spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_15;All the same, it would have been a simple matter for a thief to take an impression of it, right Professor?
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_4;Qu'est-ce qui vous fait penser cela ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_5;Il semble que vous deux soyez en contact avec une entreprise de transport spécialisée dans les coffres-forts.
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_7;Je ne dirais rien de plus. C'est une question d'importance internationale.
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_10;Dites moi, Professeur... Vous arrive t-il d'avoir une clé dans votre mallette ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_11;Une...
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_12;Et si oui... Est-elle toujours là ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_13;Il n'y a aucune raison que cela ne soit pas le cas.
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_14;C'est ce que nous espérons.
+spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_15;A y penser, cela aurait été facile pour un voleur de prendre une empreinte de cette dernière, n'est-ce pas professeur ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_16_direction;is aware of the consequences
 spokentexts_a01_archaeologe_top_a01_archaeologe_hat_mit_ermittler_zu_tun_tseq_st_16;Oh...
-texts_a01_archaeologe_top_a01_archaeologe_herrlicher_zug_tseq_title;Say goodbye
-spokentexts_a01_archaeologe_top_a01_archaeologe_herrlicher_zug_tseq_st_1;He he. Very droll.
-spokentexts_a01_archaeologe_top_a01_archaeologe_herrlicher_zug_tseq_st_2;I don't want to take up any more of your valuable time.
-spokentexts_a01_archaeologe_top_a01_archaeologe_herrlicher_zug_tseq_st_5;But you do understand, don't you, that what concerns me is the present, and especially the robbery at the museum?
-spokentexts_a01_archaeologe_top_a01_archaeologe_herrlicher_zug_tseq_st_6;Of course, of course! It's just... I'm in rather a hurry.
-texts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_title;Valuables
-spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_1;So, what are you hiding in your bag? What do you have that would be worth stealing?
-spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_2;You seem to have something in your bag that would be worth stealing.
-spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_3;No! Nothing!
-spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_4;No valuables?
-spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_5;Certainly not! Not on my salary!
-spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_6;It was enough for a first-class compartment on a luxury train...
-spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_7_direction;do not know what to say
-spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_7;That's... my business.
-spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_10;You're playing a dangerous game, Professor Lucien.
-texts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_title;Head of the Egyptian Department
-spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_1;And the break-in? It wasn't an issue for you? Even though you're the head of the department where it occurred?
-spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_2;You're head of the Egyptian Department of the British Museum.
-spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_3;And you want to tell me that the burglary didn't matter to you?
+texts_a01_archaeologe_top_a01_archaeologe_herrlicher_zug_tseq_title;Dire au revoir
+spokentexts_a01_archaeologe_top_a01_archaeologe_herrlicher_zug_tseq_st_1;Ho ho. Très drôle.
+spokentexts_a01_archaeologe_top_a01_archaeologe_herrlicher_zug_tseq_st_2;Je ne veux pas prendre plus de votre précieux temps.
+spokentexts_a01_archaeologe_top_a01_archaeologe_herrlicher_zug_tseq_st_5;Mais vous ne comprenez, n'est-ce pas ? Ce qui me préoccupe, c'est le présent et surtout le vol au musée ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_herrlicher_zug_tseq_st_6;Bien sûr, bien sûr ! C'est simplement que... Je suis plutôt pressé.
+texts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_title;Objets de valeur
+spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_1;Qu'est-ce que vous cachez dans votre sac ? Qu'est-ce que vous avez qui pourrait être volé ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_2;Vous semblez avoir quelque chose dans votre sac qui pourrait être volé.
+spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_3;Non ! Rien du tout !
+spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_4;Pas d'objets de valeur ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_5;Sûrement pas ! Pas avec mon salaire !
+spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_6;A peine suffisant pour un compartiment de première classe dans un train de luxe...
+spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_7_direction;Vous ne dites pas tout
+spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_7;Ça... Ce sont mes affaires.
+spokentexts_a01_archaeologe_top_a01_archaeologe_irgendwelche_wertgegenstaende_tseq_st_10;Vous jouez à un jeu dangereux, Professeur Lucien.
+texts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_title;Chef du Département égyptien
+spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_1;Et le cambriolage ? Ce n'était pas un problème pour vous ? Même si vous êtes à la tête du département où il s'est produit?
+spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_2;Vous êtes responsable du département égyptien du British Museum.
+spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_3;Et vous voulez me dire que le cambriolage n'avait pas d'importance pour vous ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_4_direction;gives up
-spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_4;All right.
-spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_5;The burglary was most upsetting. And shocking... And I didn't know what to do, OK?
-spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_6;And you couldn't just tell me that?
-spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_7;The fewer people who know about it, the better.
+spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_4;D'accord !.
+spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_5;Le cambriolage a été bouleversant et choquant... Et je ne savais pas quoi faire, c'est bon ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_6;Et vous ne pouviez pas juste me le dire ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_7;Moins les gens en savent à ce sujet, mieux c'est.
 spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_8_direction;half to himself
-spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_8;I can't trust anyone.
-texts_a01_archaeologe_top_a01_archaeologe_reise_nach_aegypten_tseq_title;Cairo
-spokentexts_a01_archaeologe_top_a01_archaeologe_reise_nach_aegypten_tseq_st_1;You're not only going to Venice, are you?
-spokentexts_a01_archaeologe_top_a01_archaeologe_reise_nach_aegypten_tseq_st_2;Could it be that your journey will continue? All the way to Egypt, perhaps?
+spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_8;Je ne peux faire confiance à personne.
+texts_a01_archaeologe_top_a01_archaeologe_reise_nach_aegypten_tseq_title;Le Caire
+spokentexts_a01_archaeologe_top_a01_archaeologe_reise_nach_aegypten_tseq_st_1;Vous n'allez pas simplement à Venise, n'est-ce pas ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_reise_nach_aegypten_tseq_st_2;Est-ce que votre voyage continuerait un peu plus loin ? En Égypte peut-être ?
 sequences_a01_archaeologe_top_a01_archaeologe_reise_nach_aegypten_tseq#2;[The archaeologist nods.]
-spokentexts_a01_archaeologe_top_a01_archaeologe_reise_nach_aegypten_tseq_st_3;I'm on your side!
-spokentexts_a01_archaeologe_top_a01_archaeologe_reise_nach_aegypten_tseq_st_4;But the more you lie to me, the more difficult you make my job.
-texts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_title;Seen anything suspicious?
-spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_1;Just one more thing...
-spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_2;Did you notice anything unusual on the train?
+spokentexts_a01_archaeologe_top_a01_archaeologe_reise_nach_aegypten_tseq_st_3;Je suis de votre côté !
+spokentexts_a01_archaeologe_top_a01_archaeologe_reise_nach_aegypten_tseq_st_4;Mais plus vous me mentez, plus difficile vous me rendez la tâche.
+texts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_title;Rien vu de suspect ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_1;Une dernière chose...
+spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_2;Avez-vous quelque chose d'inhabituel dans le train ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_3_direction;nervously
-spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_3;Here? On the train?
-spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_4;No. I can't say that I have.
-spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_5;Although I did spend most of the time in my compartment.
-texts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_title;Lost purse
-spokentexts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_st_1;Do you by chance know anything about a purse that's gone missing?
-spokentexts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_st_2;You think there's a thief on the train?
-spokentexts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_st_3;Two, I suspect. One of whom isn't after purses.
+spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_3;Là ? Dans ce train ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_4;Non. Je pourrais pas le dire.
+spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_5;J'ai passé le plupart du temps dans mon compartiment.
+texts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_title;Sac perdu
+spokentexts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_st_1;Par chance sauriez-vous quelque chose sur un sac égaré ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_st_2;Vous pensez qu'il y a un voleur dans le train ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_st_3;Pas un, deux. Et l'un d'eux n'en a pas après ce sac.
 spokentexts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_st_4_direction;intimidated
 spokentexts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_st_4;Oh.
 spokentexts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_st_5_direction;confused
-spokentexts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_st_5;Well, I don't know anything about a missing purse.
-texts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_title;Locked door
-spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_1;Do you have any idea why the door was locked?
+spokentexts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_st_5;Eh bien, je ne sais rien sur ce sac perdu.
+texts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_title;Porte fermée
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_1;Avez-vous une idée de la raison pour laquelle votre porte était verrouillée ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_2_direction;evasive
-spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_2;I don't know.
-spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_3;Maybe... the constant vibrations caused the lock to lock itself?
-spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_4;You can't possibly believe that.
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_2;J'en sais rien.
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_3;Peut-être... Les vibrations constante ont pu faire tourner le verrou sur lui-même ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_4;Vous n'y pensez pas.
 spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_5_direction;slightly annoyed
-spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_5;Then what's your theory?
-spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_6;The conductor could have locked it from the outside.
-spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_7;On the other hand, it could have been someone here in the compartment who locked the door from the inside.
-spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_8;Who? And where have they gone?
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_5;Quel est votre théorie alors ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_6;Le contrôleur l'a peut-être fermée de l'extérieur.
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_7;Ou alors, il y avait quelqu'un ici qui a fermé votre compartiment de l'intérieur.
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_8;Qui ? Et ou serait-il passé ?
 sequences_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq#8;[Ohi points to the window.]
-spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_9;They could have climbed out there.
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_9;Ils auraient grimpé là-bas.
 sequences_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq#10;[The archaeologist looks incredulously at the window.]
-spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_10;Who would be that insane?
-spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_11;You tell me, Professor.
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_10;Qui serait aussi fou ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_11;A vous de me le dire, Professeur.
 texts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_title;Destination of his trip
-spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_2;May I ask where are you going?
-spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_3;Of course. To Venice.
-spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_4;I'm... going to meet some colleagues there.
-spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_5;Oh, Venice!
-spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_6;A beautiful city or so I'm told.
-spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_7;Indeed. But I really have to take my leave now.
-texts_archaeologe_top_a01_archaeologe_nichts_tseq_title;Oh, nothing
-spokentexts_archaeologe_top_a01_archaeologe_nichts_tseq_st_1;Oh, nothing.
+spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_2;Puis-je vous demander où vous allez ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_3;Bien sûr. A Venise.
+spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_4;Je... vais voir des collègues là-bas.
+spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_5;Ah, Venise !
+spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_6;Une belle ville de ce qu'on m'en a dit.
+spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_7;En effet. Mais je dois vraiment prendre congé.
+texts_archaeologe_top_a01_archaeologe_nichts_tseq_title;Oh, rien
+spokentexts_archaeologe_top_a01_archaeologe_nichts_tseq_st_1;Oh, rien.
 spokentexts_archaeologe_top_a01_archaeologe_nichts_tseq_st_2_direction;irritated
-spokentexts_archaeologe_top_a01_archaeologe_nichts_tseq_st_2;Well... Good!
+spokentexts_archaeologe_top_a01_archaeologe_nichts_tseq_st_2;Eh bien... Super !
 sequences_archaeologe_top_a01_archaeologe_nichts_tseq#2;[The archaeologist returns to its read-idle.]
 sequences_archaeologe_top_a01_archaeologe_nichts_tseq#3;[The conversation is over.]
-texts_archaeologe_top_a01_archaeologe_umsehen_tseq_title;Look around
-spokentexts_archaeologe_top_a01_archaeologe_umsehen_tseq_st_1;I'd like to have a look around the compartment.
-spokentexts_archaeologe_top_a01_archaeologe_umsehen_tseq_st_2;Oh... err. Of course.
-spokentexts_archaeologe_top_a01_archaeologe_umsehen_tseq_st_3;I'd like to look around a bit.
-spokentexts_archaeologe_top_a01_archaeologe_umsehen_tseq_st_4;Of course.
+texts_archaeologe_top_a01_archaeologe_umsehen_tseq_title;Jeter un coup d'oeil
+spokentexts_archaeologe_top_a01_archaeologe_umsehen_tseq_st_1;Je voudrais jeter un coup d'oeil dans le compartiment.
+spokentexts_archaeologe_top_a01_archaeologe_umsehen_tseq_st_2;Oh... euhh. Bien sûr.
+spokentexts_archaeologe_top_a01_archaeologe_umsehen_tseq_st_3;Je voudrais jeter un oeil.
+spokentexts_archaeologe_top_a01_archaeologe_umsehen_tseq_st_4;Bien sûr.
 sequences_archaeologe_top_a01_archaeologe_umsehen_tseq#7;[The player takes control.]
-spokentexts_archaeologe_ex_1_st_1;He doesn't make a very balanced impression.
-spokentexts_archaeologe_ex_1_st_2;And he of all people isn't bothered by a robbery in his own museum?
-spokentexts_archaeologe_ex_2_st_1;He's hiding something from me and I have to find out what it is!
-spokentexts_archaeologe_talk_mit_03_st_1;I didn't find the conductor but I should be able to open the door for you with these pliers.
+spokentexts_archaeologe_ex_1_st_1;Il ne fait pas une très bonne impression.
+spokentexts_archaeologe_ex_1_st_2;Et qui pourrait ne pas être gêné par un vol dans son propre musée ?
+spokentexts_archaeologe_ex_2_st_1;Il me cache quelque chose et je dois savoir ce que c'est !
+spokentexts_archaeologe_talk_mit_03_st_1;Je n'ai pas trouvé le contrôleur mais je devrais être en mesure d'ouvrir la porte avec ces pinces.
 spokentexts_archaeologe_talk_mit_03_st_2_direction;impatient, slightly pleading
-spokentexts_archaeologe_talk_mit_03_st_2;Then go right ahead...!
-spokentexts_archaeologe_talk_mit_1_st_1;Professor Lucien?
+spokentexts_archaeologe_talk_mit_03_st_2;Alors allez-y... !
+spokentexts_archaeologe_talk_mit_1_st_1;Professeur Lucien?
 sequences_archaeologe_talk_mit_1#2;[The professor looks at Ohi.]
 spokentexts_archaeologe_talk_mit_1_st_2_direction;rushed, expectantly
-spokentexts_archaeologe_talk_mit_1_st_2;Yes?
+spokentexts_archaeologe_talk_mit_1_st_2;Oui ?
 spokentexts_archaeologe_talk_mit_1_st_3_direction;rushed, expectantly
-spokentexts_archaeologe_talk_mit_1_st_3;Do you have the key?
-spokentexts_archaeologe_talk_mit_1_st_4;Actually, I wanted...
-spokentexts_archaeologe_talk_mit_1_st_5;Please - I have to go back to my compartment!
+spokentexts_archaeologe_talk_mit_1_st_3;Avez-vous la clé ?
+spokentexts_archaeologe_talk_mit_1_st_4;En fait, je cherchais...
+spokentexts_archaeologe_talk_mit_1_st_5;S'il vous plaît - Je dois retourner dans mon compartiment !
 sequences_archaeologe_talk_mit_1#8;[The professor looks back to the door and knocks once with the fist on it.]
-spokentexts_archaeologe_talk_mit_2_st_1;First I'd better see about getting the door open and then have another talk with the professor.
-spokentexts_archaeologe_talk_mit_2_st_2;It doesn't seem like I'll get anything out of him as long as the door is still locked.
-spokentexts_archaeologe_talk_mit_4_st_1;Professor Lucien?
+spokentexts_archaeologe_talk_mit_2_st_1;Je ferais mieux d'ouvrir la porte d'abord et ensuite j'aurais un autre entretien avec le professeur.
+spokentexts_archaeologe_talk_mit_2_st_2;Je ne pense pas en tirer grand chose, tant que la porte sera toujours verrouillée.
+spokentexts_archaeologe_talk_mit_4_st_1;Professeur Lucien ?
 sequences_archaeologe_talk_mit_4#2;[The professor looks up, puts himself in talk position.]
-spokentexts_archaeologe_talk_mit_4_st_2;Yes?
+spokentexts_archaeologe_talk_mit_4_st_2;Oui ?
 sequences_archaeologe_talk_mit_4#4;[Dialogue between Ohi and archaeologists starts.]
-texts_arzt_mo_ex_1;Examine Dr. Gebhardt
-texts_arzt_mo_talk_mit_1-3;Talk to Dr. Gebhardt
-texts_arzt_top_a01_arzt_auf_wiedersehen_tseq_title;Say good-bye
-spokentexts_arzt_top_a01_arzt_auf_wiedersehen_tseq_st_3;As you like.
-spokentexts_arzt_top_a01_arzt_auf_wiedersehen_tseq_st_4;Auf Wiedersehen, Doctor Gebhardt!
-spokentexts_arzt_top_a01_arzt_auf_wiedersehen_tseq_st_5;Goodbye, Constable. It was a pleasant chat, really.
+texts_arzt_mo_ex_1;Examiner le Dr. Gebhardt
+texts_arzt_mo_talk_mit_1-3;Parler au Dr. Gebhardt
+texts_arzt_top_a01_arzt_auf_wiedersehen_tseq_title;Dire au revoir
+spokentexts_arzt_top_a01_arzt_auf_wiedersehen_tseq_st_3;Comme vous voulez.
+spokentexts_arzt_top_a01_arzt_auf_wiedersehen_tseq_st_4;Auf Wiedersehen, Docteur Gebhardt !
+spokentexts_arzt_top_a01_arzt_auf_wiedersehen_tseq_st_5;Au revoir, officier. C'était une agréable conversation, vraiment.
 sequences_arzt_top_a01_arzt_auf_wiedersehen_tseq#7;[The doctor picks up the newspaper, begins to read again.]
-texts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_title;Anything suspicious?
-spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_1;Tell me, did you notice anything suspicious here on the train or in Zurich?
-spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_2;You mean except for the fact that my suitcase was stolen on the platform?
-spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_3;No.
-spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_4;Is there any reason to be concerned?
-spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_5;No. Just routine.
+texts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_title;Quelque chose de suspect ?
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_1;Dites-moi, avez-vous remarqué quelque chose de suspect dans le train ou à Zurich ?
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_2;Vous voulez dire à part le fait que ma valise a été volée sur le quai ?
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_3;Non.
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_4;Y a t-il lieu de s'inquiéter ?
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_5;Non. C'est juste la routine.
 spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_6_direction;senior teacher like
-spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_6;Constable Zellner.
-spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_7;Please don't think I'm naive. I spotted the inspector from Interpol.
-spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_8;Legard is his name, if I recall correctly.
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_6;Gendarme Zellner.
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_7;S'il vous plaît ne pensez pas que je suis un naïf. J'ai repéré l'inspecteur d'Interpol.
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_8;Il s'appelle Legard, si je me souviens bien.
 spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_9;Legrand.
-spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_10;If you say so.
-spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_11;At the train station in Zurich he put a cash box into the safe and then kept close watch as it was loaded onto the train.
-spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_12;Don't tell me that a man at his pay grade routinely tramps across the Alps just to keep an eye on cash boxes.
-spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_13;A cash box? Like the ones you'd find in safe deposit boxes?
-spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_14;Precisely. And I believe we both have a good idea just what's inside.
-texts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_title;Missing purse
-spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_1;I meant to ask...
-spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_2;The baroness is missing her purse...
-spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_3;A baroness?
-spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_4;"This train is really full of the crème de la crème. The ""Queen of Crime"" is over there, and now a baroness as well!"
-spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_5;Have you seen the purse?
-spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_6;Unfortunately, no.
-spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_7;Do you know Lady Westmacott? You were talking to her.
-spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_8;Well, I'm an admirer of her work.
-spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_9;Like so many others. I once read in the newspaper that only Shakespeare and the Bible sell more copies than her crime novels.
-spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_10;I've read that, too.
-spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_11;She must be filthy rich. As a doctor, I'd have to work a thousand years to earn that kind of money!
-texts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_title;Gloves
-spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_1;You're wearing gloves?
-spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_2;I've been wondering why you're wearing gloves.
-spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_3;Are your hands really so sensitive? Or are you cold?
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_10;Si vous le dites.
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_11;A la gare de Zurich, il a mis une cassette dans le coffre, puis a continuer de le surveiller étroitement quant-il a été chargé dans le train.
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_12;Ne me dites pas qu'un homme de sa trempe traverserait les Alpes juste pour garder un oeil sur des cassettes d'argent.
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_13;Une cassette ? Comme celles qu'on trouve dans des coffres-forts ?
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_14;Précisément. Et je crois que nous avons tous les deux une bonne idée de ce qu'il y a dedans.
+texts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_title;Sac disparus
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_1;Je voulais vous demander...
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_2;La baronne a perdue son sac à main...
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_3;Une baronne ?
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_4;"Ce train est vraiment rempli de la crème de la crème. La ""Reine du Crime"" est là-bas, et maintenant une baronne !"
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_5;Vous avez vu ce sac ?
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_6;Malheureusement, non.
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_7;Vous connaissez Lady Westmacott ? Vous devriez lui parler.
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_8;Eh bien, je suis un admirateur de son travail.
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_9;Comme tant d'autres. Une fois, j'ai lu dans le journal que seul Shakespeare et la Bible se sont plus vendus que ses romans policiers.
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_10;J'ai lu ça aussi.
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_11;Elle doit être extrêmement riche. En tant que médecin, je devrais travailler un millier d'années pour gagner autant d'argent !
+texts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_title;Gants
+spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_1;Vous portez des gants ?
+spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_2;Je me demandais pourquoi vous portiez des gants.
+spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_3;Vos mains sont si sensible ? Ou êtes-vous frileux ?
 sequences_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq#5;[The doctor raises one of his hands, looks at it.]
-spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_4;Oh, well. It's an old habit.
-spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_5;As a doctor, one is so conscious of all the pathogens, bacteria and viruses that surround us.
-spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_6;Though of course, perhaps I do tend to be a bit TOO cautious.
+spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_4;Oh, et bien. C'est une vieille habitude.
+spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_5;En tant que médecin, on est plus conscient de tous les pathogènes, les bactéries et les virus qui nous entourent.
+spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_6;Bien évidemment, j'ai peut-être tendance à être un peu trop prudent.
 spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_7_direction;slightly sneaky
-spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_7;I know exactly what you mean.
-spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_8;As a policeman, I sense subterfuge and lies everywhere.
-texts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_title;Cash box
+spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_7;Je sais très bien ce que vous voulez dire.
+spokentexts_arzt_top_a01_arzt_warum_traegt_er_handschuhe_tseq_st_8;En tant que policier, j'ai tendance à voir le mal partout.
+texts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_title;Cassette d'argent
 spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_1_direction;unsure
-spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_1;I do indeed have a theory... but... what's yours?
-spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_2;The cash box in the safe... What do you think it contains?
+spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_1;J'ai en effet une théorie... mais... quelle est la vôtre ?
+spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_2;La cassette dans le coffre... Que pensez-vous qu'elle contient ?
 sequences_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq#4;[The doctor lifts up the newspaper (idle).]
-spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_3;A ruby was stolen in London. One of the legendary ''Eyes of the Sphinx''.
-spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_4;The second jewel, an emerald, is rumored to be in a Swiss bank vault, if I remember correctly.
-spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_5;Both jewels were supposed to be exhibited together in Cairo for the first time in 50 years.
-spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_6;It does make one wonder...
+spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_3;Un rubis a été volé à Londres. Un des deux  ''Yeux légendaires du Sphinx''.
+spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_4;Le deuxième bijou, une émeraude, est dans un coffre dans une banque suisse, si je me souviens bien.
+spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_5;Les deux joyaux étaient censés être exposés ensemble au Caire pour la première fois depuis 50 ans.
+spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_6;Ça ne fait qu'une merveille ...
 sequences_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq#9;[The doctor lowers the paper again.]
 spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_7_direction;thoughtfully
-spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_7;Indeed...
-texts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_title;Robbery in London
-spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_1;Any news about the robbery in London?
+spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_7;C'est vrai !...
+texts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_title;Cambriolage de Londres
+spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_1;Des nouvelles au sujet du vol à Londres ?
 sequences_arzt_top_a01_arzt_was_neues_zum_raub_tseq#1;[Ohi points at the newspaper.]
-spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_2;Quite something, wasn't it?
-spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_3;It must have been professionals. The way they disabled one of best security systems in the world... Most impressive.
+spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_2;Pas grand chose, n'est-ce pas?
+spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_3;Ce doit être des professionnels. La façon dont ils ont désactivés un des meilleurs systèmes de sécurité du monde... C'est impressionnant.
 spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_4_direction;slightly reproachfully
-spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_4;People were injured!
+spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_4;Des gens ont été blessées !
 sequences_arzt_top_a01_arzt_was_neues_zum_raub_tseq#5;[Doctor makes a smudge off of his hand.]
-spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_5;Well. One cannot execute a robbery of that scale without... collateral damage.
-spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_6;It seems like the Raven has finally found a worthy successor. We can look forward to new and spectacular coups!
-spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_7;I'm afraid I won't enjoy his exploits this time around if the new Raven is so reckless.
+spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_5;Eh bien. On ne peut pas faire un casse de cette envergure sans... dommages collatéraux.
+spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_6;Il semble que le Corbeau a enfin trouvé un digne successeur. Nous pouvons nous attendre à de nouveaux et spectaculaires coups !
+spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_7;Je crains que je ne vais pas jouir de ses exploits, cette fois ci, si le nouveau Corbeau est aussi téméraire.
 spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_8_direction;(bored, slightly snapped)
-spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_8;That's your prerogative.
-texts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_title;Conductor
-spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_1;There's something else...
-spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_2;Do you know where the conductor is?
-spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_3;I'd like to know that myself!
-spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_4;I told him to search for my missing suitcase in Zurich. He hasn't got back to me yet.
+spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_8;C'est votre droit.
+texts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_title;Contrôleur
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_1;Il y a autre chose...
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_2;Vous savez où se trouve le contrôleur ?
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_3;J'aimerai bien le savoir !
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_4;Je luis ai demandé de rechercher ma valise à Zurich. Plus de nouvelles depuis.
 spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_7_direction;is getting more in
-spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_7;He's probably in cahoots with the thieves and didn't bother getting back on the train.
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_7;Il est probablement de connivence avec les voleurs et n'a sûrement même pas pris la peine de revenir dans le train.
 spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_8_direction;is getting more in
-spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_8;If we don't crack down on vermin like them, the rabble will rule the world one day!
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_8;Si nous ne prenons pas de mesures énergiques contre des vermines comme eux, la racaille va régner sur le monde un jour !
 spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_9_direction;soothingly
-spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_9;Well... At the moment, we still don't know what really happened.
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_9;Oui... À l'heure actuelle, nous ne savons toujours pas ce qui s'est réellement passé.
 spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_10_direction;bossy
-spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_10;He's not here doing his job. That's bad enough.
-texts_arzt_top_a01_arzt_zeitung_tseq_title;Newspaper
-spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_1;May I borrow your newspaper?
-spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_2;Your newspaper caught my eye.
-spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_3;May I borrow it for a second?
-spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_4;You can take the section with the article on the burglary.
-spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_5;You're interested in that bit, aren't you?
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_10;Il ne fait pas son travail. C'est bien assez.
+texts_arzt_top_a01_arzt_zeitung_tseq_title;Journal
+spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_1;Puis-je vous emprunter votre journal ?
+spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_2;Votre journal a attiré mon attention.
+spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_3;Puis-je vous l'emprunter une seconde ?
+spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_4;Vous pouvez prendre la partie avec l'article sur le cambriolage.
+spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_5;Vous êtes intéressé par cette partie, n'est-ce pas ?
 spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_6_direction;Ohi with blinking eye
-spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_6;You caught me out.
+spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_6;Vous m'avez pris sur le fait.
 sequences_arzt_top_a01_arzt_zeitung_tseq#8;[The doctor takes the newspaper, then he gives Ohi a part of it. The rest he lays down again.]
-spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_8;Here you go.
+spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_8;Voilà.
 sequences_arzt_top_a01_arzt_zeitung_tseq#11;[The doctor gives Ohi a part of the newspaper. The rest he lays down again.]
 spokentexts_arzt_top_a01_arzt_zeitung_tseq_st_9;Dankeschön.
 spokentexts_arzt_ex_1_st_1;I made the acquaintance of Dr. Gebhardt on the platform in Zurich.
-spokentexts_arzt_talk_mit_1_st_1;Hello, Dr. Gebhardt!
+spokentexts_arzt_talk_mit_1_st_1;Bonjour, Dr. Gebhardt !
 sequences_arzt_talk_mit_1#2;[The doctor lowers the newspaper and goes into his talk-status-Idle.]
-spokentexts_arzt_talk_mit_1_st_2;Ah! Mr...
+spokentexts_arzt_talk_mit_1_st_2;Ah ! Mr...
 spokentexts_arzt_talk_mit_1_st_3;Zellner.
-spokentexts_arzt_talk_mit_1_st_4;Right! Right. How can I help you?
+spokentexts_arzt_talk_mit_1_st_4;C'est ça ! Oui. Comment puis-je vous aider ?
 sequences_arzt_talk_mit_2#2;[The doctor lowers the newspaper and goes into his talk-status-Idle.]
-spokentexts_arzt_talk_mit_2_st_2;Ah! Mr. Zellner.
+spokentexts_arzt_talk_mit_2_st_2;Ah ! Mr. Zellner.
 sequences_arzt_talk_mit_2#4;[Dialogue between Ohi and Doctor starts.]
-spokentexts_arzt_talk_mit_3_st_1;I'd better let him read his newspaper if I don't have any pressing questions.
-texts_baronin_top_a01_baronin_einbruch_im_museum_tseq_title;Burglary at the museum
-spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_1;Have you heard about the burglary at the British Museum?
-spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_2;Heard about it?!
-spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_3;I'm directly affected by it!
+spokentexts_arzt_talk_mit_3_st_1;Je ferais mieux de le laisser lire son journal si je n'ai pas d'autres questions.
+texts_baronin_top_a01_baronin_einbruch_im_museum_tseq_title;Cambriolage au musée
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_1;Avez-vous entendu parler du cambriolage au British Museum ?
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_2;Entendu parler ?!
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_3;Je suis directement touchées!
 spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_4_direction;irritated
-spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_4;How so?
-spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_5;"I'm in charge of the ""Friends of the British Museum"" and for you information, I'm financing the exhibition."
-spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_6;Exhibition? What exhibition?
-spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_7;The exhibition in Cairo! Where did you think we were going?
-spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_9;The Eyes of the Sphinx were supposed to be exhibited together for the first time in decades.
-spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_10;Now that one of them is gone, the exhibition will be rather less sensational than we'd hoped.
-spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_11;On the other hand there's a chance that all the uproar will generate more attention and that the exhibition will still be a great success!
-spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_12;Perhaps. But we wanted to show them BOTH TOGETHER. That was the whole point.
-texts_baronin_top_a01_baronin_mitreisende_tseq_title;Fellow passengers
-spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_1;Can you tell me anything about your fellow passengers, Baroness?
-spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_2;No, not really. I could hardly care who's penned up in here with me.
-spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_3;No, no, no - wait a minute....
-spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_4;Lucien is here. The professor.
-spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_5;Poor fellow. The Eye of the Sphinx that was stolen belonged to his collection.
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_4;Comment cela ?
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_5;"Je suis responsable des ""Amis du British Museum"" et pour votre information, j'ai financée cette exposition."
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_6;Exposition ? Quelle exposition ?
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_7;L'exposition au Caire ! Où pensez-vous que nous allons ?
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_9;Les Yeux du Sphinx devaient être exposés ensemble pour la première fois depuis des décennies.
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_10;Maintenant que l'un d'eux a disparu, l'exposition sera plutôt sensationnel que nous l'avions espéré.
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_11;D'autre part, il y a une chance que tout ce tapage va générer plus d'attention et que l'exposition sera un grand succès !
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_12;Peut-être. Mais nous voulions leur montrer les deux ensemble. C'était le but.
+texts_baronin_top_a01_baronin_mitreisende_tseq_title;Compagnons de voyage
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_1;Pouvez-vous me parler de vos compagnons de voyage, Baronne ?
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_2;Non, pas vraiment. Je m'occupe pas de ceux qui ne sont pas ici avec moi.
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_3;Non, non, non - attendez une minute....
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_4;Lucien est ici. Le professeur.
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_5;Pauvre garçon. L'oeil du Sphinx qui a été volé appartenait à sa collection.
 spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_6_direction;surprised
-spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_6;Professor Lucien is an Egyptologist?
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_6;Le professeur Lucien est un égyptologue ?
 spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_7_direction;laughing
-spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_7;But of course!
-spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_8;As director of the Egyptian Department of the British Museum, he has to be!
-spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_10;The whole burglary thing really upset him. 
-spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_11;Director Thomas told me he was a nervous wreck.
-texts_baronin_top_a01_baronin_verabschiedung_tseq_title;Say goodbye
-spokentexts_baronin_top_a01_baronin_verabschiedung_tseq_st_1;I'll take my leave of you now, Baroness, and I do hope your journey becomes more bearable.
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_7;Mais bien sûr !
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_8;En tant que directeur du département égyptien du British Museum, c'est normal !
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_10;Le cambriolage l'a vraiment bouleversé.
+spokentexts_baronin_top_a01_baronin_mitreisende_tseq_st_11;Le directeur Thomas m'a dit qu'il était à bout de nerfs.
+texts_baronin_top_a01_baronin_verabschiedung_tseq_title;Dire au revoir
+spokentexts_baronin_top_a01_baronin_verabschiedung_tseq_st_1;Je dois prendre congé à présent, Baronne. J'espère que votre voyage sera plus supportable.
 sequences_baronin_top_a01_baronin_verabschiedung_tseq#1;[Ohi taps his head.]
 spokentexts_baronin_top_a01_baronin_verabschiedung_tseq_st_2_direction;sarcastic laugh
-spokentexts_baronin_top_a01_baronin_verabschiedung_tseq_st_2;Ha!
-spokentexts_baronin_top_a01_baronin_verabschiedung_tseq_st_3;Yes, indeed, Inspector.
-spokentexts_baronin_top_a01_baronin_verabschiedung_tseq_st_4;Constable.
+spokentexts_baronin_top_a01_baronin_verabschiedung_tseq_st_2;Ha !
+spokentexts_baronin_top_a01_baronin_verabschiedung_tseq_st_3;Oui, en effet, Inspecteur.
+spokentexts_baronin_top_a01_baronin_verabschiedung_tseq_st_4;Officier.
 sequences_baronin_top_a01_baronin_verabschiedung_tseq#5;[Ohi makes a little bow in the direction of Butler.]
 spokentexts_baronin_top_a01_baronin_verabschiedung_tseq_st_5;James.
 sequences_baronin_top_a01_baronin_verabschiedung_tseq#7;[Ohi leaves the wagon.]
-texts_baronin_top_a01_baronin_zweck_der_reise_tseq_title;Purpose of the trip
-spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_1;May I ask you where this beautiful train is taking you?
-spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_2;To the madhouse, I'm afraid.
-spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_3;One is close to the brink of insanity, with this constant shaking and rattling!
-spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_4;Have you ever tried flying, Baroness?
+texts_baronin_top_a01_baronin_zweck_der_reise_tseq_title;But du voyage
+spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_1;Puis-je vous demander où ce magnifique train vous emmène ?
+spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_2;Pour l'asile, je le crains.
+spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_3;On est proche la folie, avec toute cette agitation et ces cliquetis !
+spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_4;Avez-vous déjà essayé de voler, Baronne ?
 spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_7_direction;contemptuous snort
-spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_7;Pfff!
+spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_7;Pfff !
 sequences_baronin_top_a01_baronin_zweck_der_reise_tseq#7;[The Baroness makes a dismiss gesture.]
-spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_8;Do you know how little luggage one is permitted upon an aeroplane?
-spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_9;It defies all reason - and good taste.
-texts_butler_mo_ex_1;Look at the butler
-texts_butler_mo_talk_mit_1-2;Talk to the butler
-texts_butler_top_a01_butler_andere_mitreisende_tseq_title;Other passengers
-spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_1;If I might ask you a few questions about your fellow passengers...
+spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_8;Savez-vous combien de bagages est autorisé sur un avion ?
+spokentexts_baronin_top_a01_baronin_zweck_der_reise_tseq_st_9;Cela défie la raison - et le bon goût.
+texts_butler_mo_ex_1;Regarder le majordome
+texts_butler_mo_talk_mit_1-2;Parler au majordome
+texts_butler_top_a01_butler_andere_mitreisende_tseq_title;Autres passagers
+spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_1;Puis-je vous poser quelques questions au sujet de vos compagnons de voyage...
 spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_2_direction;loud on the background
-spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_2;I thought he was looking for my purse!
+spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_2;Je pensais qu'il était à la recherche pour mon sac !
 spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_3_direction;quietly, to Butler
-spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_3;James! Tell him to look for my purse.
-spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_4;The baroness wishes that you search for her purse.
+spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_3;James ! Dites-lui de chercher mon sac.
+spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_4;La baronne souhaiterait que vous recherchiez son sac à main.
 sequences_butler_top_a01_butler_andere_mitreisende_tseq#4;[Ohi looks past the butler, tries to talk directly with the Baroness.]
 spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_5_direction;loud
-spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_5;But couldn't we perhaps...
+spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_5;Mais nous pourrions peut-être...
 sequences_butler_top_a01_butler_andere_mitreisende_tseq#6;[The butler shook his head as if to announce to Ohi, that there is no point.]
 sequences_butler_top_a01_butler_andere_mitreisende_tseq#7;[Ohi looks back to Butler.]
 spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_6_direction;fits to his fate
-spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_6;All right. First the purse.
-texts_butler_top_a01_butler_beruf_des_butlers_tseq_title;Butler's career
-spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_1;"Isn't ""butler"" an odd choice of career?"
-spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_2;Butler... many would say it's a strange job.
-spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_3;It is true that I am one of a dying breed, sir.
-spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_4;The war claimed a generation of butlers.
-spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_5;Have you been to war as well?
+spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_6;Très bien. D'abord le sac.
+texts_butler_top_a01_butler_beruf_des_butlers_tseq_title;Carrière du majordome
+spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_1;"Être ""majordome"" n'est-il pas un choix étrange de carrière ?"
+spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_2;Majordome ... beaucoup diraient que c'est un travail étrange.
+spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_3;C'est vrai que je suis une race en voix d'extinction, monsieur.
+spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_4;La guerre a détruit toute une génération de maîtres d'hôtel.
+spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_5;Vous avez été à la guerre aussi ?
 sequences_butler_top_a01_butler_beruf_des_butlers_tseq#5;[Ohi points to the arm of the butler.]
-spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_6;Indeed, Sir. I was a groom for a cavalry officer.
-spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_7;When you British talk about war, one is never sure which war you mean. It seems the situation hasn't changed much since the Thirty Years' War, has it?
+spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_6;En effet, Monsieur. J'étais groom pour un officier de cavalerie.
+spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_7;Quand vous autres britannique parlez de la guerre, on n'est jamais sûr de quelle guerre il s'agit. Il semble que la situation n'a pas beaucoup changé depuis la guerre de Trente Ans, non ?
 spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_8_direction;slightly angry
-spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_8;Shrapnel from a bomb dropped by a Fokker would not have wounded me in the Thirty Year's War, sir.
+spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_8;Des éclats d'une bombe larguée par un Fokker ne m'aurait pas blessé à la guerre de Trente Ans, monsieur.
 spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_9_direction;apologetically
-spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_9;No. Of course not.
-texts_butler_top_a01_butler_die_baronin_tseq_title;The baroness
-spokentexts_butler_top_a01_butler_die_baronin_tseq_st_15;What can you tell me about the baroness?
-spokentexts_butler_top_a01_butler_die_baronin_tseq_st_10;Nothing, sir.
-spokentexts_butler_top_a01_butler_die_baronin_tseq_st_11;A butler does not tattle.
-texts_butler_top_a01_butler_gestohlene_brieftasche_tseq_title;Lost purse
-spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_1;You're missing a purse? Was it stolen?
-spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_2;At the very least, I cannot find it, sir.
+spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_9;Non. Bien sûr.
+texts_butler_top_a01_butler_die_baronin_tseq_title;La baronne
+spokentexts_butler_top_a01_butler_die_baronin_tseq_st_15;Que pouvez-vous me dire sur la baronne ?
+spokentexts_butler_top_a01_butler_die_baronin_tseq_st_10;Rien, monsieur.
+spokentexts_butler_top_a01_butler_die_baronin_tseq_st_11;Un majordome ne fait pas de commérages.
+texts_butler_top_a01_butler_gestohlene_brieftasche_tseq_title;Sac à main perdu
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_1;Vous avez perdu un sac à main ? A t-il été volé ?
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_2;À tout le moins, je ne le trouve plus, monsieur.
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_3_direction;loud on the background
-spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_3;It was stolen!
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_3;Il a été volé !
 sequences_butler_top_a01_butler_gestohlene_brieftasche_tseq#3;[Ohi looks past the butler, tries to talk directly with the Baroness.]
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_4_direction;laut
-spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_4;When did you...
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_4;Quand avez-vous...
 sequences_butler_top_a01_butler_gestohlene_brieftasche_tseq#5;[Ohi is clear that this will not work. He looks back to Butler.]
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_5_direction;quietly, to Butler
-spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_5;When was the last time the Baroness saw her purse?
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_5;À quand remonte la dernière fois que la baronne a vu son sac à main ?
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_6_direction;loud from behind, did not understand
-spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_6;What?!
-spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_7;In Zurich, on the platform, sir.
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_6;Quoi ?!
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_7;A Zurich, sur le quai, monsieur.
 sequences_butler_top_a01_butler_gestohlene_brieftasche_tseq#9;[Ohi looks past the butler, tries to talk directly with the Baroness.]
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_8_direction;loud
-spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_8;I just asked where you last saw your purse...
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_8;J'ai demandé où vous aviez vu votre sac à main...
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_9_direction;loud from behind
-spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_9;In Zurich, on the platform.
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_9;A Zurich, sur le quai.
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_10_direction;quietly, to Butler
-spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_10;James, tell him that I still had it when I got out to stretch my legs.
-spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_11;The Baroness says...
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_10;James, dites-lui que je l'avais encore quand je suis sorti pour me dégourdir les jambes.
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_11;Laa boranne dit...
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_12_direction;loud
-spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_12;Maybe you lost it there?
-spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_14;The baroness never looses anything, sir.
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_12;Peut-être que vous avez perdu à ce moment ?
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_14;La baronne ne perd jamais rien, monsieur.
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_15_direction;loud from behind
-spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_15;I never lose anything.
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_15;Je ne perds jamais rien.
 sequences_butler_top_a01_butler_gestohlene_brieftasche_tseq#18;[Ohi looks back to the Butler.]
-spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_16;Very well then. I shall be on the lookout for your purse.
-texts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_title;Is James his real name?
-spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_1;If you you'll pardon a rather odd question...
-spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_2;"Are you really named ""James""?"
-spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_3;That would be a lucky coincidence in your line of work.
-spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_4;My name, sir, is Clive Alfred Inch.
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_16;Très bien. Je serai à l'affût de votre sac à main.
+texts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_title;James est son vrai nom ?
+spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_1;Pardonnerez une question plutôt étrange...
+spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_2;"Vous vous appelez vraiment ""James"" ?"
+spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_3;Ce serait une heureuse coïncidence pour votre métier.
+spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_4;Mon nom, monsieur, est Clive Alfred Pouces.
 spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_5_direction;irritated
-spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_5;"Your second name is ""Alfred"" yet the baroness calls you ""James""?"
-spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_6;"Madam considers ""James"" to be the only forename suited to a butler. Sir."
-texts_butler_top_a01_butler_verabschieden_tseq_title;Say goodbye
-spokentexts_butler_top_a01_butler_verabschieden_tseq_st_1;I, err, will have a look around.
-spokentexts_butler_top_a01_butler_verabschieden_tseq_st_2;Thank you, sir.
+spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_5;"Votre deuxième prénom est ""Alfred"" et la baronne vous appelle ""James""?"
+spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_6;"Madame considère ""James"" comme le seul prénom digne d'un majordome. Monsieur."
+texts_butler_top_a01_butler_verabschieden_tseq_title;Dire au revoir
+spokentexts_butler_top_a01_butler_verabschieden_tseq_st_1;I, Euhh, je jetterai un coup d'oeil.
+spokentexts_butler_top_a01_butler_verabschieden_tseq_st_2;Merci, monsieur.
 sequences_butler_top_a01_butler_verabschieden_tseq#2;[Ohi takes a step back.]
 sequences_butler_top_a01_butler_verabschieden_tseq#3;[The Butler closes the door.]
-texts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_title;Burglary in London
-spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_1;Where did you and the baroness board the train?
-spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_2;In Paris, sir.
-spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_3;The baroness was there on behalf of a charity that she's supported for many years.
-spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_4;So you weren't in London when they broke into the British Museum?
+texts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_title;Cambriolage à Londres
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_1;Quand vous et la baronne êtes-vous montés dans le train ?
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_2;A Paris, monsieur.
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_3;La baronne y était au nom d'un organisme de bienfaisance qu'elle a soutenu pendant de nombreuses années.
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_4;Donc vous n'étiez pas à Londres quand ils ont fait irruption dans le British Museum ?
 spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_5_direction;considered
-spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_5;We may have been, actually. We left for Dover bright and early the morning after the burglary.
-spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_6;But it was in Paris when we first we heard of it. The morning paper in London didn't mention the unfortunate event, sir.
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_5;Nous y étions, en fait. Nous sommes partis pour Douvres très tôt le matin après le cambriolage.
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_6;Mais nous étions à Paris quand nous en avons entendu parlé la première fois. Le journal du matin à Londres n'avais pas mentionné l'événement, monsieur.
 spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_7_direction;impressed
-spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_7;And just two days later you're on a train bound for Switzerland! The baroness certainly gets around.
-spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_8;Indeed, sir. we're practically always on the go.
-spokentexts_butler_ex_1_st_1;The butler, this James, seems to have escaped the baroness.
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_7;Et deux jours plus tard, vous êtes sur un train en partance pour la Suisse ! La baronne est très occupée.
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_8;En effet, monsieur. nous sommes pratiquement toujours sur la brèche.
+spokentexts_butler_ex_1_st_1;Le maître d'hôtel, ce James, semble avoir échappé à la baronne.
 sequences_butler_ex_1#2;[The butler is the whole time at the poster and studied it (idle).]
-spokentexts_butler_talk_mit_1_st_1;Good day to you, sir.
+spokentexts_butler_talk_mit_1_st_1;Bonne journée à vous, monsieur.
 sequences_butler_talk_mit_1#2;[The butler turns around, goes into his talk-status Idle.]
-spokentexts_butler_talk_mit_1_st_2;Can I be of any assistance, sir?
-spokentexts_butler_talk_mit_1_st_3;I wanted to ask you a few questions.
-spokentexts_butler_talk_mit_2_st_1;Hello.
+spokentexts_butler_talk_mit_1_st_2;Puis-je vous être utile, monsieur ?
+spokentexts_butler_talk_mit_1_st_3;Je voulais vous poser quelques questions.
+spokentexts_butler_talk_mit_2_st_1;Bonjour.
 sequences_butler_talk_mit_2#2;[The butler turns around.]
-spokentexts_butler_talk_mit_2_st_2;Yes, sir?
+spokentexts_butler_talk_mit_2_st_2;Oui, monsieur ?
 sequences_butler_talk_mit_2#4;[Dialogue between Ohi and the professor will start.]
-spokentexts_butler_talk_mit_3_st_1;I don't think he can tell me anything more of interest.
-texts_ermittler_top_a01__der_erbe_des_raben_tseq_title;The Raven' Heir
-spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_1;"What do you know of this ""Raven's Heir""?"
+spokentexts_butler_talk_mit_3_st_1;Je ne crois pas qu'il puisse me dire quelque chose de plus intéressant.
+texts_ermittler_top_a01__der_erbe_des_raben_tseq_title;Héritier du Corbeau
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_1;"Qu'est-ce que vous savez sur ""l'Héritier du Corbeau""?"
 spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_2_direction;outraged excitedly
-spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_2;He tried to blow me up!
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_2;Il a essayé de me faire exploser !
 spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_3_direction;sympathetic but firm
 spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_3;Robert.
-spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_4;We don't know who we're dealing with yet.
-spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_5;"In any event, the ""New Raven"" is a more dangerous man than the old one."
-spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_6;How do you know that it's a man? It could just as easily be a woman!
-spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_7;Or even several men?
-spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_8;"And anyway, how do you know that it's a ""new"" Raven?"
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_4;Nous ne savons pas encore s'il est question de lui.
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_5;"En tout état de cause, le ""Nouveau Corbeau"" est un homme plus dangereux que l'ancien."
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_6;Comment savez-vous que c'est un homme ? Il pourrait tout aussi bien s'agir d'une femme !
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_7;Ou même des plusieurs hommes ?
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_8;"De toute manière, comment savez-vous que c'est un ""nouveau"" Corbeau ?"
 spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_9_direction;surprised, irritated
-spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_9;Monsieur?!
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_9;Monsieur ?!
 spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_10_direction;appease
-spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_10;Never mind.
-texts_ermittler_top_a01_ermittler_constabler_tseq_title;Constable Robert Oliver
-spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_1;Constable Robert Oliver... Is it possible that I read your name in the newspaper?
+spokentexts_ermittler_top_a01__der_erbe_des_raben_tseq_st_10;Ça fait rien !.
+texts_ermittler_top_a01_ermittler_constabler_tseq_title;L'agent Robert Oliver
+spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_1;Agent Robert Oliver... Est-il possible que j'ai lu votre nom dans le journal ?
 spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_2_direction;with pride
-spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_2;Could be sir, could very well be.
-spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_3;Robert was there when the first Eye of the Sphinx was stolen.
-spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_4;Why were you in the museum? Did you spot something from outside?
+spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_2;C'est probable, Monsieur, c'est même très plausible.
+spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_3;Robert était là quand le premier Oeil du Sphinx a été volé.
+spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_4;Pourquoi vous étiez dans le musée ? Avez-vous vu quelque chose de l'extérieur ?
 sequences_ermittler_top_a01_ermittler_constabler_tseq#4;[The guard stiffened slightly. The question annoys him and he has something to hide.]
-spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_5;Well sir, I noticed that a door was ajar, which was suspicious. And it was my duty to investigate, sir.
-spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_6;Scotland Yard gave him a commendation and assigned him to me as a liaison.
-spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_7;A great honor, sir!
+spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_5;Eh bien, monsieur, j'ai remarqué que la porte était entrouverte, ce qui était suspect. Et il était de mon devoir d'enquêter, monsieur.
+spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_6;Scotland Yard lui a donné une recommandation et me l'a assigné en tant que agent de liaison.
+spokentexts_ermittler_top_a01_ermittler_constabler_tseq_st_7;Un grand honneur, monsieur !
 sequences_ermittler_top_a01_ermittler_constabler_tseq#8;[Ohi looks back to the guard.]
-texts_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq_title;Personal investigations
+texts_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq_title;Investigations personnelles
 spokentexts_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq_st_1_direction;formally
-spokentexts_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq_st_1;I hope you'll acknowledge that I, as a Swiss policeman, can undertake investigations in my own country?
+spokentexts_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq_st_1;J'espère que vous reconnaissez qu'en tant que policier Suisse, je puisse procéder à des investigations dans mon propre pays ?
 sequences_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq#1;[The investigator does, as if trying to look through the metal shielding to the outside.]
-spokentexts_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq_st_2;Are we still in Switzerland?
-spokentexts_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq_st_3;I could be your eyes on the train as long as you're here in the freight car.
+spokentexts_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq_st_2;Sommes-nous encore en Suisse ?
+spokentexts_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq_st_3;Je pourrais être vos yeux dans le train aussi longtemps que vous êtes ici dans ce wagon.
 spokentexts_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq_st_4_direction;doubtful, suspicious
-spokentexts_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq_st_4;Oh really?
-texts_ermittler_top_a01_ermittler_falle_tseq_title;Trap
-spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_1;You want to set a trap for someone?
-spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_2;Then I was right!
-spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_3;You really do want to lure someone into a trap!
-spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_4;That's none of your business!
+spokentexts_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq_st_4;Oh vraiment ?
+texts_ermittler_top_a01_ermittler_falle_tseq_title;Piège
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_1;Vous voulez tendre un piège à quelqu'un ?
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_2;Alors j'avais raison !
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_3;Vous ne voulez vraiment attirer quelqu'un dans un piège !
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_4;Ce ne sont pas vos affaires !
 sequences_ermittler_top_a01_ermittler_falle_tseq#6;[The investigator rise a hand and brings the guard so to silence.]
-spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_5;Perhaps that someone recently struck in London?
-spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_6;And how would I bait my trap, then?
-spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_7;With an Eye?
-spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_8;An Eye on its way from Zurich to Cairo?
-spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_9;Someone has done his homework! Well done, Constable.
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_5;Peut-être que quelqu'un a sévi récemment à Londres?
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_6;Et comment pourrais-je l'appâter dans mon piège, alors ?
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_7;Avec un Oeil ?
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_8;Un oeil en route de Zurich pour le Caire ?
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_9;Quelqu'un a fait ses devoirs ! C'est bien, Officier.
 spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_10_direction;unsure
-spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_10;With something inside the safe!
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_10;Avec quelque chose à l'intérieur du coffre-fort !
 spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_11_direction;played disappointed
-spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_11;Tut tut... Someone hasn't done his homework
-texts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_title;Archaeologist's compartment
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_1;There is a certain Professor Lucien on the train.
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_2;He's an archaeologist from London.
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_11;Tut tut... Quelqu'un n'a pas fait ses devoirs
+texts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_title;Compartiment de l'archéologue
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_1;Il y a un certain professeur Lucien dans le train.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_2;C'est un archéologue de Londres.
 spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_3_direction;interested
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_3;And what's his story?
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_4;Well... It seems someone locked him out of his compartment.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_3;Et quelle est son histoire ?
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_4;Eh bien... Il semble que quelqu'un l'ai enfermé dehors.
 spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_5_direction;irritated
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_5;Locked him out?
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_6;Well, yes. The door was locked and he was standing outside.
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_7;He claimed that he hadn't locked himself out.
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_8;Did you help him?
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_9;I did.
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_10;I got Professor Lucien into his compartment using a pair of pliers.
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_11;Did you notice anything inside the compartment?
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_12;The window was open. Someone could have climbed out.
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_13;And the professor?
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_14;Acted suspiciously. He rummaged around in his leather bag.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_5;Enfermé dehors ?
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_6;Eh bien, oui. La porte était fermée et il se tenait à l'extérieur.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_7;Il a affirmé qu'il ne l'avait pas fermée lui-même.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_8;Vous l'avez aidé ?
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_9;Oui.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_10;J'ai ouvert au professeur Lucien en utilisant une paire de pinces.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_11;Vous avez remarqué quoi que ce soit à l'intérieur du compartiment ?
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_12;La fenêtre était ouverte. Quelqu'un aurait pu sortir par là.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_13;Et le professeur ?
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_14;Il a agit étrangement. Il a fouillé dans son sac en cuir.
 spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_15_direction;curious
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_15;And?
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_16;He seemed to have found what he was searching for.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_15;Et ?
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_16;Il semblait avoir trouvé ce qu'il cherchait.
 spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_17_direction;half to himself
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_17;Good.
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_18;Good work!
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_19;Now, perhaps you could give me some information?
-texts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_title;Archaeologist's compartment
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_4;Well... It seems someone locked him out of his compartment.
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_6;Well, yes. The door is locked and he's standing outside without a key.
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_7;Was it locked from inside?
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_8;It may have been.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_17;Bien.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_18;Jolie travail !
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_19;Maintenant, peut-être que vous pourriez me donner quelques informations ?
+texts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_title;Compartiment de l'archéologue
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_4;Eh bien... Il semble que quelqu'un l'ai enfermé hors de son compartiment.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_6;Eh bien, oui. La porte est verrouillée et il est debout à l'extérieur sans clé.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_7; At-elle été verrouillée de l'intérieur ?
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_8;C'est possible.
 spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_9_direction;thoughtful, a little worried
 spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_9;Hmm.
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_10;Do you think the locked door could be important?
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_11;Professor Lucien plays an important role in this story...
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_12;Well then, Constable Zellner. Be my eyes and ears on the train and see that Professor Lucien gets back into his compartment.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_10;Pensez-vous que cette porte verrouillée pourrait être importante ?
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_11;Le professeur Lucien joue un rôle important dans cette histoire...
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_12;Très bien, Officier Zellner. Soyez mes yeux et mes oreilles dans le train et voyez pour que le professeur Lucien retourne dans son compartiment.
 sequences_ermittler_top_a01_ermittler_kabine_archaeologe_tseq#12;[As he speaks, a short cut on Öhis face that brightens. He is pleased. Then cut to the guard, who is obviously not agree now to get a competition.]
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_13;Report back to me when you're through.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_13;Revenez me voir quand ce sera fait.
 spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_14_direction;pleased
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_14;My pleasure, monsieur!
-texts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_title;Say goodbye
-spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_1;I'll go attend to the door now.
-spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_2;Good.
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_14;Avec plaisir, monsieur !
+texts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_title;Dire au revoir
+spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_1;Je vais aller m'occuper de cette porte.
+spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_2;Bien.
 sequences_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq#2;[Ohi is turning half, wants to get out.]
-spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_3;And... Constable Zellner?
+spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_3;Et... Officier Zellner ?
 sequences_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq#4;[Ohi stops, turns around.]
-spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_4;Yes?
-spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_5;Don't bother us unless you have something new to report.
-spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_6;Of course. A thief might get anxious if there's too much activity in the freight car.
-spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_7;Exactement. Knock twice. Then we'll know that it's you.
-spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_8;Understood.
+spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_4;Oui ?
+spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_5;Ne nous dérangez pas, sauf si vous avez quelque chose de nouveau à signaler.
+spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_6;Bien sûr. Un voleur pourrait s'inquiéter si il y a trop d'activité dans le wagon.
+spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_7;Exactement. Frappez deux fois. Nous saurons que c'est vous.
+spokentexts_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq_st_8;Compris.
 sequences_ermittler_top_a01_ermittler_verabschieden_erstmalig_tseq#10;[Ohi leaves the wagon.]
-texts_ermittler_top_a01_ermittler_verabschieden_tseq_title;Say goodbye
-spokentexts_ermittler_top_a01_ermittler_verabschieden_tseq_st_1;I'll get back to work now.
-spokentexts_ermittler_top_a01_ermittler_verabschieden_tseq_st_2;Good.
+texts_ermittler_top_a01_ermittler_verabschieden_tseq_title;Dire au revoir
+spokentexts_ermittler_top_a01_ermittler_verabschieden_tseq_st_1;Je vais me remettre au travail maintenant.
+spokentexts_ermittler_top_a01_ermittler_verabschieden_tseq_st_2;Bien.
 sequences_ermittler_top_a01_ermittler_verabschieden_tseq#2;[Ohi leaves the wagon.]
-texts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_title;Wallet
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_1;And then there's the baroness. She's missing her purse.
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_2;Baroness von Trebitz told me that she's missing her purse.
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_3;Baroness von Trebitz?
+texts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_title;Porte-monnaie
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_1;Et puis il y a la baronne. Elle a perdue son sac à main.
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_2;La baronne von Trebitz m'a dit qu'elle avait perdue son sac à main.
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_3;La baronne von Trebitz ?
 sequences_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq#3;[Investigator is looking at the guard.]
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_4;Interesting...
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_5;Indeed, Sir.
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_4;Intéressant...
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_5;En effet, Monsieur.
 sequences_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq#6;[Investigator looks back to Ohi.]
 spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_6_direction;thoughtfully
 spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_6;But... It has nothing to do with our case.
@@ -1781,5 +1781,5 @@ spokentexts_a01_zeitung_artikel_formel1_ex_1_st_1;John Surtees won the Formula 1
 spokentexts_a01_zeitung_artikel_formel1_ex_1_st_2;Making him the only man in motor sports to win world championships in both motorcycle and Formula 1 events.
 spokentexts_a01_zeitung_artikel_formel1_ex_1_st_3;Hmm. Not really my cup of tea.
 spokentexts_a01_zeitung_artikel_formel1_ex_1_st_4;Too loud, too fast, too much exhaust.
-texts_verlassediebar_mo_leave_1;Go back
-texts_hinterdiebar_mo_leave_1;Look behind the bar
+texts_verlassediebar_mo_leave_1;Revenir
+texts_hinterdiebar_mo_leave_1;Regarder derrière le bar
