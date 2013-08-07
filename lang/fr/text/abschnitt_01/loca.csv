@@ -532,447 +532,447 @@ spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_4;Int
 spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_5;En effet, Monsieur.
 sequences_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq#6;[Investigator looks back to Ohi.]
 spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_6_direction;thoughtfully
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_6;But... It has nothing to do with our case.
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_7;So I shouldn't concern myself with the matter?
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_8;Ah, why not? It's your job as a policeman.
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_9;But don't expect me to be particularly interested in a lost purse.
-texts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_title;Purse
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_1;And then there's the baroness. She's missing her purse.
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_2;Baroness von Trebitz told me about her missing purse...
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_3;Baroness von Trebitz?
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_6;Mais... Cela n'a rien à voir avec notre affaire.
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_7;Donc, je ne devrais pas m'en préoccuper ?
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_8;Ah, pourquoi pas ? C'est votre travail de policier.
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_9;Mais ne comptez pas sur moi pour être particulièrement intéressés par un sac perdu.
+texts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_title;Sac à main
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_1;Et puis il y a la baronne. Elle a perdue son sac à main.
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_2;La baronne von Trebitz m'a parlé de son sac...
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_3;La baronne von Trebitz ?
 sequences_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq#3;[Investigators looks to the guard.]
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_4;She is financing everything, isn't she?
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_5;Indeed, Sir.
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_6;I found the purse, David Kreutzer, a violinist from Austria, had it.
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_4;Elle finance tout cela, n'est-ce pas ?
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_5;En effet, Monsieur.
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_6;J'ai trouvé le sac à main. David Kreutzer un violoniste Autrichien l'avait.
 sequences_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq#7;[Investigator looks back to Ohi.]
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_7;Hmm. Probably nothing to do with our case... All the same, good work.
-texts_geiger_mo_ex_4;Observe the violinist
-texts_geiger_mo_talk_mit_1-7;Talk to the violinist
-texts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_title;The baroness' purse
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_1;A passenger is missing her purse. Perhaps you've seen it?
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_2;I haven't left my seat.
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_3;So there are thieves on the train!
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_4;It's been missing for some time now. Probably since Zurich.
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_5;Hahaha! The Swiss don't let go of money easily, do they?
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_7;Hmm. Ça n'a probablement rien à voir avec notre affaire... Bon travail quand même.
+texts_geiger_mo_ex_4;Observer le violoniste
+texts_geiger_mo_talk_mit_1-7;Parler au violoniste
+texts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_title;Sac de la baronne
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_1;Une passagère a perdu son sac à main. Peut-être que l'avez-vous vu ?
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_2;Je n'ai pas quitté mon siège.
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_3;Donc, il y a des voleurs dans le train !
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_4;Il a disparu depuis un certain temps. Probablement depuis Zurich.
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_5;Hahaha ! Les Suisses ne lâche pas si facilement l'argent, hein ?
 sequences_geiger_top_a01_geiger_brieftasche_gesehen01_tseq#7;[Ohi looks slightly reproachfully.]
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_6;Oh, pardon me.
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_7;No, I haven't seen the purse.
-texts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_title;The baroness' purse
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_1;About the purse...
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_2;Oh, yes. Has it been found?
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_3;A passenger is missing her purse. Perhaps it was stolen.
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_4;Really?
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_5;Someone saw you with your violin case on the platform in Zurich...
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_6;Oh, excusez-moi.
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_7;Non, je n'ai pas vu de sac à main.
+texts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_title;Sac de la baronne
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_1;À propos de ce sac...
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_2;Oh, oui. Il a été retrouvé ?
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_3;Une passagère a perdu son sac à main. Il a peut-être été volé.
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_4;Vraiment ?
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_5;Quelqu'un vous a vu avec votre étui à violon sur le quai à Zurich...
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_6_direction;indignant
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_6;What's the meaning of this! I didn't steal anything!
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_6;Qu'est-ce que cela veut dire ! Je n'ai rien volé !
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_7_direction;surprised, irritated
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_7;Nobody said you did!
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_8;I just wanted to ask you whether you might have noticed anything on the platform.
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_9;Ah... Well...
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_10;Why did you think I was accusing you?
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_11;Well, I thought... Because you mentioned my violin case in the context of the purse...
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_12;Apropos. May I have a look at your violin? It must be a very extraordinary piece!
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_13;Oh, that's... That's not possible. It's a genuine Guarneri.
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_7;Personne n'a dit que vous l'aviez fait !
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_8;Je voulais juste vous demander si vous aviez remarqué quoi que ce soit sur ​​le quai.
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_9;Ah... Eh bien...
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_10;Pourquoi avez-vous pensé que je vous accusais ?
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_11;Eh bien, je pensais que... Parce que vous avez parlé de mon étui à violon dans et de ce sac...
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_12;A propos. Puis-je jeter un oeil sur votre violon ? Ce doit être une belle pièce !
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_13;Oh, c'est... C'est impossible. C'est un véritable Guarneri.
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_14_direction;throws in short
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_14;Very valuable!
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_15;Very! And also very sensitive.
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_14;Il est très précieux !
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_15;Vraiment ! Et aussi très sensible.
 sequences_geiger_top_a01_geiger_brieftasche_gesehen02_tseq#17;[Ohi looks around.]
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_16_direction;blankly
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_16;What could harm it here? Light? Air?
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_16;Qu'est-ce qui pourrait lui nuire ici ? La lumière? L'air ?
 sequences_geiger_top_a01_geiger_brieftasche_gesehen02_tseq#19;[The Geiger does not know what to say.]
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_17_direction;sternly
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_17;May I ask you to open the violin case?
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_18;No, you may not! I'm not guilty of anything!
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_20;I am afraid I have to insist.
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_21;Then I'm afraid you need a warrant. I will not stand back and let you rifle through my belongings!
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_17;Puis-je vous demander d'ouvrir l'étui à violon ?
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_18;Non, vous ne pouvez pas ! Je ne suis pas coupable de quoi que ce soit !
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_20;Je crains de devoir insister.
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_21;Et je crains que vous ayez besoin d'un mandat. Je vais pas rester ici et vous laisser fouiller dans mes affaires !
 sequences_geiger_top_a01_geiger_brieftasche_gesehen02_tseq#25;[The Geiger turns back to the window, the dialog is closed.]
-texts_geiger_top_a01_geiger_ende_tseq_title;Say goodbye
-spokentexts_geiger_top_a01_geiger_ende_tseq_st_3;Very well.
+texts_geiger_top_a01_geiger_ende_tseq_title;Dire au revoir
+spokentexts_geiger_top_a01_geiger_ende_tseq_st_3;Très bien.
 spokentexts_geiger_top_a01_geiger_ende_tseq_st_4_direction;as adoption
-spokentexts_geiger_top_a01_geiger_ende_tseq_st_4;Have a good trip!
-spokentexts_geiger_top_a01_geiger_ende_tseq_st_5;Thank you.
+spokentexts_geiger_top_a01_geiger_ende_tseq_st_4;Bon voyage !
+spokentexts_geiger_top_a01_geiger_ende_tseq_st_5;Merci.
 sequences_geiger_top_a01_geiger_ende_tseq#7;[The Geiger returns to its idle.]
-texts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_title;Unusual occurrences
+texts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_title;Événements inhabituels
 spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_1_direction;embarrassed, tried to bring the conversation back in transition
-spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_1;Oh... Of course.
-spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_2;What I really wanted to ask is: did you notice anything unusual on the train?
-spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_3;I'm sure your recital will be a great success!
-spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_4;But tell me... Did you notice anything unusual on the train?
-spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_5;Anything unusual?
-spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_6;Persons acting suspiciously, for instance.
-spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_7;For heaven's sake! Is there cause for concern?
-spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_8;Everything is in order, sir. We Swiss are just very cautious people.
-spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_9;I understand... No. I didn't notice anything.
-texts_geiger_top_a01_geiger_wer_ist_er_tseq_title;Who is he?
-spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_1;If I'm not mistaken, you're a violinist?
-spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_2;That's true.
-spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_3;A wonderful instrument! The violin music touches the soul.
+spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_1;Oh... Bien sûr.
+spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_2;Je voulais vous poser la question suivante: avez-vous remarqué quelque chose d'inhabituel dans le train ?
+spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_3;Je suis sûr que votre récital sera un grand succès !
+spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_4;Mais dites-moi... Avez-vous remarqué quelque chose d'inhabituel dans le train ?
+spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_5;Quelque chose d'inhabituel ?
+spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_6;Des personnes agissant de façon suspecte, par exemple.
+spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_7;Pour l'amour du ciel ! Y a t-il lieu de s'inquiéter ?
+spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_8;Tout va bien, monsieur. Les Suisses sont des gens très prudents.
+spokentexts_geiger_top_a01_geiger_ungewoehnliches_gesehen_tseq_st_9;Je comprends... Non, je n'ai rien remarqué.
+texts_geiger_top_a01_geiger_wer_ist_er_tseq_title;Qui est-ce ?
+spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_1;Si je ne me trompe pas, vous êtes un violoniste ?
+spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_2;Exact.
+spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_3;Un instrument merveilleux ! La musique du violon touche l'âme.
 sequences_geiger_top_a01_geiger_wer_ist_er_tseq#3;[The Geiger smiles and remembers better times.]
-spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_4;That's why I learned to play it.
-spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_5;Do you play in an orchestra?
-spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_6;No. Orchestras aren't really part of my world.
-spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_7;A solo violinist! The best soloists travel a great deal and make a pile of money, or so they say.
+spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_4;C'est pourquoi j'ai appris à en jouer.
+spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_5;Jouez-vous dans un orchestre ?
+spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_6;Non les orchestres ne font pas vraiment partie de mon monde.
+spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_7;Un violoniste soliste ! Les meilleurs solistes voyagent beaucoup et font un tas d'argent, c'est ce qu'ils disent.
 sequences_geiger_top_a01_geiger_wer_ist_er_tseq#9;[The face of the geiger petrifies.]
 spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_9_direction;petrified, slightly bitter
-spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_9;In that case, I'm probably not one of the best.
-texts_geiger_top_a01_geiger_wohin_reist_er_tseq_title;Where is he travelling to?
+spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_9;Dans ce cas, je ne suis probablement pas l'un des meilleurs.
+texts_geiger_top_a01_geiger_wohin_reist_er_tseq_title;Où voyage t-il?
 spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_1_direction;embarrassed, tried to bring the conversation back in transition
-spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_1;Oh... So, you're travelling to Istanbul?
-spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_2;Are you travelling to Istanbul non-stop?
-spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_3;No. I'll transfer in Venice.
+spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_1;Oh... Donc, vous êtes en partance pour Istanbul ?
+spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_2;Vous voyagez à Istanbul sans vous arrêter ?
+spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_3;Non, je fais une étape à Venise.
 sequences_geiger_top_a01_geiger_wohin_reist_er_tseq#6;[Ohi is slightly irritated.]
 spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_5_direction;explaines
-spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_5;To a ship. I'm on my way to Cairo.
+spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_5;Sur un navire. Je vais au Caire.
 spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_6_direction;excited
-spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_6;Cairo!
-spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_7;I'm performing at a reception in the Egyptian Museum there.
-spokentexts_geiger_ex_1_st_1;The violinist is a good looking fellow. And he's travelling through the most beautiful mountain landscape in the world.
-spokentexts_geiger_ex_1_st_2;But one can only hope that his violin is better tuned than he.
-spokentexts_geiger_ex_2_st_1;There could be many reasons for the violinist's shaking hand. Strained nerves, an illness...
-spokentexts_geiger_ex_2_st_2;My money's on alcohol. He wouldn't be the first musician who ruined his career that way.
-spokentexts_geiger_ex_3_st_1;Matt says the violinist put something in his violin case on the platform. Seemed suspicious somehow.
-spokentexts_geiger_ex_3_st_2;The question is, how credible is a statement from an imaginative boy?
-spokentexts_geiger_ex_4_st_1;There's no way to say whether he planned on stealing the purse or whether chance played a role.
-spokentexts_geiger_ex_4_st_2;Financial problems, lack of morals... Opportunity makes a thief.
-spokentexts_geiger_ex_5_st_1;The violinist doesn't seem to be very happy about the window.
-spokentexts_geiger_ex_6_st_1;I'll inform the authorities in Venice. They'll decide what to do with him.
-spokentexts_geiger_ex_7_st_1;The window is jammed!
-spokentexts_geiger_ex_7_st_2;But I should hurry. Sooner or later he'll resort to brute force and succeed!
+spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_6;Le Caire !
+spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_7;Je joue pendant une réception au Musée égyptien.
+spokentexts_geiger_ex_1_st_1;Le violoniste est un gentil garçon. Il voyage à travers les plus beaux paysages de montagne du monde.
+spokentexts_geiger_ex_1_st_2;Mais on peut espérer que son violon est sonne mieux que lui.
+spokentexts_geiger_ex_2_st_1;Il pourrait y avoir plusieurs raisons à propos des mains tremblantes du violoniste. Des nerfs à rude épreuve, une maladie...
+spokentexts_geiger_ex_2_st_2;Je parie sur l'alcool. Il ne serait pas le premier musicien a ruiner sa carrière de cette façon.
+spokentexts_geiger_ex_3_st_1;Matt dit que le violoniste a mis quelque chose dans son étui à violon sur le quai. Ca semble un peu suspect.
+spokentexts_geiger_ex_3_st_2;La question est, quelle crédibilité peut-on donner à ce garçon ?
+spokentexts_geiger_ex_4_st_1;Il n'y a aucun moyen de le dire s'il avait l'intention de voler le sac à main ou si le hasard a joué un rôle.
+spokentexts_geiger_ex_4_st_2;Des problèmes financiers, le manque de moralité... L'occasion fait le larron.
+spokentexts_geiger_ex_5_st_1;Le violoniste ne semble pas être très content pour cette fenêtre.
+spokentexts_geiger_ex_6_st_1;Je vais informer les autorités de Venise. Ils décideront quoi faire avec lui.
+spokentexts_geiger_ex_7_st_1;La fenêtre est coincée !
+spokentexts_geiger_ex_7_st_2;Mais je devrais me dépêcher. Tôt ou tard, il va forcer dessus et de réussir !
 sequences_geiger_talk_mit_1#1;[Idle as the Geiger thoughtfully sits on his place and looks out the window, maybe he's lying with one are on the window and supports his head with his hand. He looks out the window melancholy. Two idle variations. In one example, he could hand rub (as if it were cold / deaf). In the other he could e.g. short stop to look out the window and look down the aisle instead and scratching it.]
 sequences_geiger_talk_mit_1#2;[Ohi goes towards the Geiger.]
 sequences_geiger_talk_mit_1#3;[Cut to the hand of the Geiger in closeup.]
 sequences_geiger_talk_mit_1#4;"[From Idle out the Geiger consideres his trembling hand (""Has it been that bad?"") Clenches, and then shuts the eye (""Pull yourself together""). He opens his eyes, noted that Ohi has approached him and looks at him.]"
-spokentexts_geiger_talk_mit_1_st_1;Hello, sir.
-spokentexts_geiger_talk_mit_1_st_2;Hello.
+spokentexts_geiger_talk_mit_1_st_1;Bonjour, monsieur.
+spokentexts_geiger_talk_mit_1_st_2;Bonjour.
 sequences_geiger_talk_mit_1#7;[The Geiger goes in talk-Status]
-spokentexts_geiger_talk_mit_2_st_1;If I may trouble you once more...
+spokentexts_geiger_talk_mit_2_st_1;Si je peux vous déranger un fois de plus...
 sequences_geiger_talk_mit_2#2;[The Geiger goes in talk-Status]
 sequences_geiger_talk_mit_2#3;[A dialogue between Ohi and the Geiger begins.]
-spokentexts_geiger_talk_mit_3b_st_1;I don't know what more to ask. He hasn't noticed anything suspicious.
-spokentexts_geiger_talk_mit_4_st_1;Excuse me, sir...
+spokentexts_geiger_talk_mit_3b_st_1;Je ne sais pas quoi lui demander de plus. Il n'a rien remarqué de suspect.
+spokentexts_geiger_talk_mit_4_st_1;Excusez-moi, monsieur...
 sequences_geiger_talk_mit_4#2;[The Geiger looks bad at Ohi.]
-spokentexts_geiger_talk_mit_4_st_2;No, I will not excuse you. I told you that I want the window closed and you opened it again!
-spokentexts_geiger_talk_mit_4_st_3;But just because...
-spokentexts_geiger_talk_mit_4_st_4;It seems I cannot cure people of their insolence.
-spokentexts_geiger_talk_mit_4_st_5;But at least I can refuse to speak to them!
+spokentexts_geiger_talk_mit_4_st_2;Non, je ne vous excuse pas. Je vous ai dit que je voulais voir cette fenêtre fermée et vous l'avez ouverte à nouveau !
+spokentexts_geiger_talk_mit_4_st_3;Mais c'est parce que...
+spokentexts_geiger_talk_mit_4_st_4;Il semble que je ne peux pas guérir les gens de leur insolence.
+spokentexts_geiger_talk_mit_4_st_5;Mais au moins, je peux refuser de leur parler !
 sequences_geiger_talk_mit_4#7;[The Geiger turns away from Ohi, don't want to talk no more.]
-spokentexts_geiger_talk_mit_5_st_1;Not a chance. He won't talk to me anymore.
-spokentexts_geiger_talk_mit_6_st_1;Hello, sir.
-spokentexts_geiger_talk_mit_6_st_2;The window stays closed!
-spokentexts_geiger_talk_mit_6_st_3;I didn't come because of the window. I'd like to take a look at your violin case.
+spokentexts_geiger_talk_mit_5_st_1;Aucune chance. Il ne me parle plus.
+spokentexts_geiger_talk_mit_6_st_1;Bonjour, monsieur.
+spokentexts_geiger_talk_mit_6_st_2;Cette fenêtre reste fermée !
+spokentexts_geiger_talk_mit_6_st_3;Je ne suis pas venu à cause de la fenêtre. J'aimerais jeter un oeil à votre étui à violon.
 spokentexts_geiger_talk_mit_6_st_4_direction;indignant
-spokentexts_geiger_talk_mit_6_st_4;This is all too much!
-spokentexts_geiger_talk_mit_6_st_5;First the fuss about the window and now you want to look in my violin case?
-spokentexts_geiger_talk_mit_6_st_6;Well that's how it is.
-spokentexts_geiger_talk_mit_6_st_7;Absolutely not!
-spokentexts_geiger_talk_mit_6_st_8;Get yourself a warrant or whatever it's called. Until then: adieu!
-spokentexts_geiger_talk_mit_6_st_9;But...
-spokentexts_geiger_talk_mit_6_st_10;Adieu!
-spokentexts_geiger_talk_mit_7a_st_1;The violinist is uncooperative. I'm not authorized to search his belongings against his will and without a good reason... and he knows it.
-spokentexts_geiger_talk_mit_7a_st_2;I have to come up with something.
-spokentexts_geiger_talk_mit_8_st_1;Excuse me, sir!
-texts_junge_benutzt_karamellbonbons;Give Matt a butterscotch
-texts_junge_mo_ex_1;Examine Matt
-texts_junge_mo_talk_mit_1-4;Talk to Matt
-texts_junge_top_a01_junge_ablenken_ja_tseq_title;Yes, distract him.
-spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_1;Hmm. What do you suggest?
-spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_2;I... I could tell him that there's a suitcase full of money in the next carriage. If he's a thief, he'll definitely want to take a look at it.
-spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_3;I don't think he'll fall for that.
-spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_4;Or I could insult him and then run away. He'll try to catch me and you'll have a chance to look in the violin case.
+spokentexts_geiger_talk_mit_6_st_4;C'en est trop !
+spokentexts_geiger_talk_mit_6_st_5;D'abord la fenêtre et maintenant vous voulez regarder dans mon étui à violon ?
+spokentexts_geiger_talk_mit_6_st_6;Eh bien, c'est ça.
+spokentexts_geiger_talk_mit_6_st_7;Hors de question !
+spokentexts_geiger_talk_mit_6_st_8;Procurez-vous un mandant ou un truc du genre. Jusque-là: adieu !
+spokentexts_geiger_talk_mit_6_st_9;Mais...
+spokentexts_geiger_talk_mit_6_st_10;Adieu !
+spokentexts_geiger_talk_mit_7a_st_1;Le violoniste est peu coopératif. Je ne suis pas autorisé à fouiller ses effets personnels contre sa volonté du moins sans une bonne raison... et il le sait.
+spokentexts_geiger_talk_mit_7a_st_2;Je dois trouver quelque chose.
+spokentexts_geiger_talk_mit_8_st_1;Excusez-moi, monsieur !
+texts_junge_benutzt_karamellbonbons;Donner à Matt un caramel
+texts_junge_mo_ex_1;Examiner Matt
+texts_junge_mo_talk_mit_1-4;Parler à Matt
+texts_junge_top_a01_junge_ablenken_ja_tseq_title;Oui, distrait le.
+spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_1;Hmm. Qu'est-ce que tu proposes ?
+spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_2;Je... Je pourrais lui dire qu'il y a une valise pleine d'argent dans le wagon suivant. Si c'est un voleur, il va aura certainement envie de jeter un coup d'oeil.
+spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_3;Je crois pas qu'il tombera dans le panneau.
+spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_4;Ou alors je peux l'insulter et courir. Il essaiera de m'attraper et cela vous laissera une chance de fouiller l'étui à violon.
 spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_5_direction;ihm wird klar, dass er einen Fehler gemacht hat
-spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_5;Now that I think about it, this is something I have to attend to on my own. It would be expecting a bit much from a little boy.
+spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_5;Maintenant que j'y pense, c'est quelque chose que je dois faire moi-même. C'était idiot de demander ça a un petit garçon.
 spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_6_direction;indignant
-spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_6;Little boy?! You must be kidding!
-spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_7;Sorry, er sheriff. But your idea about distracting him is good all the same.
-texts_junge_top_a01_junge_ablenken_nein_tseq_title;No, too dangerous.
-spokentexts_junge_top_a01_junge_ablenken_nein_tseq_st_1;No, I'm sorry. That's police work.
+spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_6;Un petit garçon ?! Vous plaisantez !
+spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_7;Désolé, euh shérif. Mais ton idée de le distraire est plutôt bonne malgré tout.
+texts_junge_top_a01_junge_ablenken_nein_tseq_title;Non, c'est trop dangereux.
+spokentexts_junge_top_a01_junge_ablenken_nein_tseq_st_1;Non, je suis désolé. C'est le travail de la police.
 spokentexts_junge_top_a01_junge_ablenken_nein_tseq_st_2_direction;protests
-spokentexts_junge_top_a01_junge_ablenken_nein_tseq_st_2;But I'm a sheriff!
-spokentexts_junge_top_a01_junge_ablenken_nein_tseq_st_3;But this isn't the Wild West. They'd flay me alive if I dragged a little boy into the investigation.
+spokentexts_junge_top_a01_junge_ablenken_nein_tseq_st_2;Mais je suis un shérif !
+spokentexts_junge_top_a01_junge_ablenken_nein_tseq_st_3;Mais ce n'est pas le Far West. Ils m'écorchaient vif si je traînais un petit garçon dans l'enquête.
 spokentexts_junge_top_a01_junge_ablenken_nein_tseq_st_4_direction;indignant
-spokentexts_junge_top_a01_junge_ablenken_nein_tseq_st_4;Little boy?! You must be kidding!
-spokentexts_junge_top_a01_junge_ablenken_nein_tseq_st_5;Sorry, sheriff. But your idea about distracting him is good all the same.
+spokentexts_junge_top_a01_junge_ablenken_nein_tseq_st_4;Un petit garçon ?! Vous plaisantez !
+spokentexts_junge_top_a01_junge_ablenken_nein_tseq_st_5;Désolé, euh shérif. Mais ton idée de le distraire est plutôt bonne malgré tout.
 sequences_junge_top_a01_junge_ablenken_nein_tseq#5;[The conversation is over.]
 texts_junge_top_a01_junge_lady_mestmacott_tseq_title;Lady Westmacott
-spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_1;Your mother is Lady Westmacott's companion, correct?
-spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_2;Yeah, but it's not like you think.
-spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_3;"At first I thought, ""Boy, you must really be wicked if you need to pay for friends!"""
-spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_4;But the lady's really OK.
-spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_5;She's a bit odd. And really old.
-spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_6;But other than that, she's great! She likes me.
-spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_7;The lady has peculiar taste.
+spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_1;Ta mère est l'accompagnatrice de Lady Westmacott, correct ?
+spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_2;Oui, mais ce n'est pas comme tu le penses.
+spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_3;"Au début je pensais, ""Boy, tu dois vraiment être méchant si tu dois payer pour tes amis !"""
+spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_4;Mais la dame est OK.
+spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_5;Elle est un peu bizarre. Et vraiment vieille.
+spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_6;Mais à part ça, elle est géniale ! Elle m'aime bien.
+spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_7;La dame a un goût particulier.
 spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_8_direction;lachend, protestierend
-spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_8;Hey!
-texts_junge_top_a01_junge_machs_gut_tseq_title;Say goodbye
-spokentexts_junge_top_a01_junge_machs_gut_tseq_st_1;I just remembered, there's something I forgot.
+spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_8;Hé !
+texts_junge_top_a01_junge_machs_gut_tseq_title;Dire au revoir
+spokentexts_junge_top_a01_junge_machs_gut_tseq_st_1;Je viens de me rappeler, qu'il y a quelque chose que j'ai oublié.
 spokentexts_junge_top_a01_junge_machs_gut_tseq_st_3_direction;bold
-spokentexts_junge_top_a01_junge_machs_gut_tseq_st_3;That happens at your age!
-spokentexts_junge_top_a01_junge_machs_gut_tseq_st_4;So Long.
-spokentexts_junge_top_a01_junge_machs_gut_tseq_st_5;So longer!
+spokentexts_junge_top_a01_junge_machs_gut_tseq_st_3;Cela arrive à votre âge !
+spokentexts_junge_top_a01_junge_machs_gut_tseq_st_4;À bientôt !
+spokentexts_junge_top_a01_junge_machs_gut_tseq_st_5;À la revoyure !
 texts_junge_top_a01_junge_steward_tseq_title;Steward
-spokentexts_junge_top_a01_junge_steward_tseq_st_1;Tell me, have you seen the steward anywhere?
-spokentexts_junge_top_a01_junge_steward_tseq_st_2;Hmm. Nope. He was walking around a little while ago though.
-spokentexts_junge_top_a01_junge_steward_tseq_st_3;Hopefully they didn't forget him in Zurich.
-spokentexts_junge_top_a01_junge_steward_tseq_st_4;Hehe.
-spokentexts_junge_top_a01_junge_steward_tseq_st_5;What's he supposed to do?
-spokentexts_junge_top_a01_junge_steward_tseq_st_6;I'm looking for a key to open a compartment door.
-spokentexts_junge_top_a01_junge_steward_tseq_st_7;Did you check his things behind the counter?
-spokentexts_junge_top_a01_junge_steward_tseq_st_8;I did. But the most promising drawer was locked.
-spokentexts_junge_top_a01_junge_steward_tseq_st_9;I'm sure the drawers will be locked.
-spokentexts_junge_top_a01_junge_steward_tseq_st_10;Can't you break it open? Or pick the lock - like the Raven!
-spokentexts_junge_top_a01_junge_steward_tseq_st_11;Perhaps. But I'd need a piece of wire or something like that.
-spokentexts_junge_top_a01_junge_steward_tseq_st_12;Ask my mom!
-spokentexts_junge_top_a01_junge_steward_tseq_st_13;She has a lot of hairpins. She doesn't like the wind messing up her hair.
-spokentexts_junge_top_a01_junge_steward_tseq_st_14;Hmm. Thanks for the tip!
-texts_junge_top_a01_junge_unkooperativer_geiger_tseq_title;Uncooperative violinist
-spokentexts_junge_top_a01_junge_unkooperativer_geiger_tseq_st_1;The violinist won't let me check his violin case.
-spokentexts_junge_top_a01_junge_unkooperativer_geiger_tseq_st_2;Of course he won't. He's hiding something!
-spokentexts_junge_top_a01_junge_unkooperativer_geiger_tseq_st_3;Should I distract him? Then you can have a look in his case.
-texts_junge_top_a01_junge_verschwundene_brieftasche_tseq_title;Missing purse
-spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_1;Something completely different this time.
-spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_2;The baroness in the second compartment over there is missing her purse.
-spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_3;Do you have an idea where it could be?
+spokentexts_junge_top_a01_junge_steward_tseq_st_1;Dites-moi, avez-vous vu l'intendant n'importe où?
+spokentexts_junge_top_a01_junge_steward_tseq_st_2;Hmm. Nan. Il se promenait un peu tout à l'heure.
+spokentexts_junge_top_a01_junge_steward_tseq_st_3;Espérons qu'ils ne l'oublient pas à Zurich.
+spokentexts_junge_top_a01_junge_steward_tseq_st_4;Hé hé.
+spokentexts_junge_top_a01_junge_steward_tseq_st_5;Qu'est-ce qu'il est censé faire ?
+spokentexts_junge_top_a01_junge_steward_tseq_st_6;Je suis à la recherche d'une clé pour ouvrir la porte du compartiment.
+spokentexts_junge_top_a01_junge_steward_tseq_st_7;Vous avez vérifié les babioles derrière le comptoir ?
+spokentexts_junge_top_a01_junge_steward_tseq_st_8;Je l'ai fait. Mais le tiroir le plus prometteur a été verrouillé.
+spokentexts_junge_top_a01_junge_steward_tseq_st_9;Je suis sûr que les tiroirs seront verrouillés.
+spokentexts_junge_top_a01_junge_steward_tseq_st_10;Vous ne pouvez pas le briser pou l'ouvrir ? Ou le crocheter - comme le Corbeau !
+spokentexts_junge_top_a01_junge_steward_tseq_st_11;Peut-être. Mais j'ai besoin d'un morceau de câble ou quelque chose du genre.
+spokentexts_junge_top_a01_junge_steward_tseq_st_12;Demandez à ma mère !
+spokentexts_junge_top_a01_junge_steward_tseq_st_13;Elle a des épingles à cheveux. Elle n'aime pas que le vent la décoiffe.
+spokentexts_junge_top_a01_junge_steward_tseq_st_14;Hmm. Merci du conseil !
+texts_junge_top_a01_junge_unkooperativer_geiger_tseq_title;Violoniste non coopératif
+spokentexts_junge_top_a01_junge_unkooperativer_geiger_tseq_st_1;Le violoniste ne me laisse pas fouiller son étui à violon.
+spokentexts_junge_top_a01_junge_unkooperativer_geiger_tseq_st_2;Bien sûr. Il cache quelque chose !
+spokentexts_junge_top_a01_junge_unkooperativer_geiger_tseq_st_3;Dois-je distraire ? Ensuite, vous pourrez jeter un oeil dans son étui.
+texts_junge_top_a01_junge_verschwundene_brieftasche_tseq_title;Sac disparus
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_1;A propos de quelque chose de complètement différent cette fois.
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_2;La baronne dans le deuxième compartiment a perdue son sac à main.
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_3;Vous avez une idée d'où il pourrait être ?
 sequences_junge_top_a01_junge_verschwundene_brieftasche_tseq#4;[The boy gets big eyes, looks over to Geiger.]
 spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_4_direction;inhales surprised
-spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_4;Hhhhh!
-spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_5;Do I ever!
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_4;Hhhhh !
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_5;C'est pas moi !
 sequences_junge_top_a01_junge_verschwundene_brieftasche_tseq#7;[The boy nods several times in the direction of the Geiger. Ohi is irritated.]
-spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_6;Hmm?
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_6;Hmm ?
 sequences_junge_top_a01_junge_verschwundene_brieftasche_tseq#9;"[The boy rolls his eyes (""How stupid is he doing""), then he gives Ohi to understand with a finger that he should come closer. Ohi bends down (idle).]"
-spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_7;That guy over there. With the violin case!
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_7;Ce gars là-bas. Avec l'étui à violon!
 sequences_junge_top_a01_junge_verschwundene_brieftasche_tseq#11;[The boy nods again in the direction of the violinist. Ohi looks around, then looks back at the boy.]
-spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_8;What about him?
-spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_9;He picked up something in Zurich and put it in his violin case.
-spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_10;Really?
-spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_11;Yeah and he made sure that nobody saw him.
-spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_12;But you saw him?
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_8;Et bien ?
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_9;Il a ramassé quelque chose à Zurich et l'a mis dans son étui à violon.
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_10;Vraiment ?
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_11;Ouais et il faisait attention à ce que personne ne le regarde.
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_12;Mais tu l'as vu ?
 spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_13_direction;"""Yes"""
 spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_13;Mmm-hmm.
-spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_14;Did you also see what it was?
-spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_15;No not really. 
-spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_16;But now that I think of it, it must have been the baroness' purse!
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_14;Tu aurais aussi vu ce que c'était ?
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_15;Non pas vraiment. 
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_16;Mais maintenant je crois le savoir, ça devait être le sac de la baronne !
 sequences_junge_top_a01_junge_verschwundene_brieftasche_tseq#21;[Ohi looks around again, looks back at the boy.]
-spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_17;I should look into it, shouldn't I?
-spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_18;I think so.
-texts_junge_top_a01_junge_was_will_er_mal_werden_tseq_title;The boy's plans
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_17;Je devrais regarder dedans alors, non ?
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_18;Je crois bien.
+texts_junge_top_a01_junge_was_will_er_mal_werden_tseq_title;Plans du garçon
 spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_1_direction;affected
-spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_1;Oh. And, er, how old are you now?
-spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_2;How old are you, Matt?
-spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_3;In eight months I'll be nine years old!
-spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_4;And do you already know what you want to be when you grow up? A burglar?
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_1;Oh. Et, euh, tu as quel âge ?
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_2;Quel âge tu as, Matt ?
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_3;Dans huit mois, j'aurais neuf ans !
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_4;Et tu sais déjà ce que tu voudras faire quand tu seras grand ? Cambrioleur ?
 spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_5_direction;laughs
-spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_5;Heh. No.
-spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_6;We'll see. Maybe an actor.
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_5;Hein. Non.
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_6;Voyons. Peut-être acteur.
 spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_7_direction;doubtful
-spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_7;Really? Well, I don't know...
-spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_8;You need a lot of talent for that!
-spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_9;I'm an actor in a theater group, you know!
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_7;Vraiment ? Eh bien, je ne sais pas...
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_8;Il faut beaucoup de talent !
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_9;Je suis un acteur dans une troupe de théâtre, tu sais !
 spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_10_direction;doubtful
-spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_10;You are?
-spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_11;Oh yes! And I'm one of the best in our group, if I may say so.
-spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_12;I get really deep into my roles, you know?
-spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_13;I don't just talk like the character. I THINK like him. I BECOME him. It's the only way to...
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_10;Vous ?
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_11;Oh oui ! Et je suis l'un des meilleurs dans notre groupe, si j'ose dire.
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_12;Je rentre vraiment profondément dans mes rôles, tu sais ?
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_13;Je ne parle pas seulement comme le personnage. Je PENSE comme lui. Je DEVIENS le personnage. C'est la seule façon de...
 spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_14_direction;coughs
-spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_14;Cough cough.
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_14;Tousse tousse.
 sequences_junge_top_a01_junge_was_will_er_mal_werden_tseq#16;[The boy coughs and starts to choke, as if he had swallowed itself.]
-spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_15;Matt?
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_15;Matt ?
 spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_16_direction;worried
-spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_16;Are you okay?
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_16;Ça va ?
 sequences_junge_top_a01_junge_was_will_er_mal_werden_tseq#19;[The boy choked increasingly, pointing to his neck.]
 spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_17_direction;cough
-spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_17;COUGH COUGH! HAUGH! 
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_17;TOUSSE TOUSSE ! ARGH ! 
 sequences_junge_top_a01_junge_was_will_er_mal_werden_tseq#21;[Ohi rushes to the boy, raises him from behind. Suddenly, the boy is very loose.]
-spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_18;I think you just have to be good at copying things to be an actor.
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_18;Je pense que vous devez être bon pour imiter à être un acteur.
 sequences_junge_top_a01_junge_was_will_er_mal_werden_tseq#23;[Ohi is still in shock, then he lets the boy slide down again and turns back to his position. The boy cheeky grin.]
 spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_19_direction;still in shock
-spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_19;That... That wasn't bad.
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_19;Quoi... C'était pas mal.
 spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_20_direction;still in shock
-spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_20;Disturbing. But not bad.
-texts_junge_top_a01_junge_wo_ist_sein_vater_tseq_title;His father
-spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_1;And how long has your mother worked for the lady?
-spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_2;Tell me... How long has your mother been working for the lady?
-spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_3;Two years.
-spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_4;And your father? What does he do?
+spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_20;Inquiétant. Mais pas mal.
+texts_junge_top_a01_junge_wo_ist_sein_vater_tseq_title;Son père
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_1;Et depuis combien de temps ta mère travaille pour cette dame ?
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_2;Dis-moi... Depuis combien de temps ta mère travaille pour cette dame ?
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_3;Deux ans.
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_4;Et ton père ? Qu'est-ce qu'il fait ?
 spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_5_direction;sad
-spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_5;He stayed home.
-spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_6;I used to go fishing with him. And hunting!
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_5;Il reste à la maison.
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_6;J'avais l'habitude d'aller pêcher avec lui. Et chasser !
 spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_7_direction;excited
-spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_7;He even let me shoot a real gun!
-spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_8;And then?
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_7;Il m'a même laissé tirer avec un vrai pistolet !
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_8;Et ?
 sequences_junge_top_a01_junge_wo_ist_sein_vater_tseq#10;[The boy is just hanging his head.]
 spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_9_direction;gloomy
-spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_9;Then mom fought with him and he left.
-spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_10;I was seven.
-texts_junge_top_a01_junge_wo_wohnt_er_tseq_title;Where does he live?
-spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_1;You and your mother... do you both live on Lady Westmacott's estate?
-spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_2;You and your mom, you both live on Lady Westmacott's estate?
-spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_3;I'm only there for the holidays.
-spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_4;Most of the time I'm at boarding school.
-spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_5;I imagine that's not very pleasant.
-spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_6;No, it's fine. I have friends there.
-spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_7;You always have to be so quiet in the lady's house, and I'm not allowed to bring any friends.
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_9;Maman s'est disputée avec lui et il est parti.
+spokentexts_junge_top_a01_junge_wo_ist_sein_vater_tseq_st_10;J'avais sept ans.
+texts_junge_top_a01_junge_wo_wohnt_er_tseq_title;Où il habite ?
+spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_1;Toi et ta mère... vous vivez tous les deux dans la demeure de Lady Westmacott ?
+spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_2;Toi et ta mère. vous vivez tous les deux dans la demeure de Lady Westmacott ?
+spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_3;Je ne suis là que pour les vacances.
+spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_4;La plupart du temps, je suis au pensionnat.
+spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_5;J'imagine que ce n'est pas très agréable.
+spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_6;Non, c'est bien. J'ai des amis là-bas.
+spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_7;Vous devez toujours être calme dans la maison de la dame, et je ne suis pas autorisé à inviter d'amis.
 spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_8_direction;understanding
-spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_8;Such a big house with so many places to hide... And no one to play hide and seek with.
-spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_9;You said it!
-spokentexts_junge_ex_1_st_1;Matt doesn't really seem to be content...
-spokentexts_junge_ex_2_st_1;Matt is digging in his heels.
-spokentexts_junge_ex_2_st_2;I won't get anything out of him as long as he's angry with me.
-spokentexts_junge_ex_3_st_1;The kid's not on the warpath anymore. I don't think he'll be causing any more trouble...
-spokentexts_junge_ex_3_st_2;...for the next half hour, anyway.
-spokentexts_junge_talk_5_st_1;Hey, Matt! The violinist really did steal the purse. Well observed.
-spokentexts_junge_talk_5_st_2;I knew it! I bet he's got more stuff planned.
-spokentexts_junge_talk_5_st_3;I'll stay here and keep an eye on him, secretly. OK?
-spokentexts_junge_talk_5_st_4;Sounds like a plan.
-spokentexts_junge_talk_mit_1_st_1;Hello, Matt!
+spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_8;Une grande maison avec tellement d'endroits pour se cacher... Et personne pour jouer à cache-cache.
+spokentexts_junge_top_a01_junge_wo_wohnt_er_tseq_st_9;A qui vous le dites !
+spokentexts_junge_ex_1_st_1;Matt ne semble pas vraiment content...
+spokentexts_junge_ex_2_st_1;Matt boude.
+spokentexts_junge_ex_2_st_2;Je n'obtiendrai rien de lui, tant qu'il est en colère contre moi.
+spokentexts_junge_ex_3_st_1;Le gamin est hors d'état de nuire. Je ne pense pas qu'il causera d'autres ennuis...
+spokentexts_junge_ex_3_st_2;...pour la prochaine demi-heure.
+spokentexts_junge_talk_5_st_1;Hé, Matt ! Le violoniste a vraiment volé le sac. Bien vu.
+spokentexts_junge_talk_5_st_2;Je le savais ! Je parie qu'il a en plus d'autres trucs prévus.
+spokentexts_junge_talk_5_st_3;Je vais rester ici et garder un oeil sur lui, en cachette. D'accord ?
+spokentexts_junge_talk_5_st_4;On dirait un plan.
+spokentexts_junge_talk_mit_1_st_1;Bonjour, Matt !
 sequences_junge_talk_mit_1#2;[The boy is not responding.]
-spokentexts_junge_talk_mit_1_st_2;Oh, come on!
-spokentexts_junge_talk_mit_1_st_3;Are you going to be angry with me for the rest of the trip?
+spokentexts_junge_talk_mit_1_st_2;Oh, allez !
+spokentexts_junge_talk_mit_1_st_3;Tu vas pas être en colère contre moi pour le reste du voyage ?
 spokentexts_junge_talk_mit_1_st_4_direction;defiantly
-spokentexts_junge_talk_mit_1_st_4;Until I get my pistol back.
-spokentexts_junge_talk_mit_1_st_5;I gave it to your mother.
+spokentexts_junge_talk_mit_1_st_4;Jusqu'à ce que je récupère mon pistolet.
+spokentexts_junge_talk_mit_1_st_5;Je l'ai donné à ta mère.
 sequences_junge_talk_mit_1#7;[The boy looks at Ohi (idle).]
 spokentexts_junge_talk_mit_1_st_6_direction;offended, annoyed
-spokentexts_junge_talk_mit_1_st_6;Oh, man!
-spokentexts_junge_talk_mit_1_st_7;Couldn't you have just raked me over the coals?
-spokentexts_junge_talk_mit_1_st_8;Would you have learned anything from that?
+spokentexts_junge_talk_mit_1_st_6;Oh, bon sang !
+spokentexts_junge_talk_mit_1_st_7;Vous pouviez pas juste me jeter dans un tas de braises ?
+spokentexts_junge_talk_mit_1_st_8;Tu en aurais retiré quelque chose ?
 spokentexts_junge_talk_mit_1_st_9_direction;defiantly
-spokentexts_junge_talk_mit_1_st_9;I didn't learn anything from this either!
+spokentexts_junge_talk_mit_1_st_9;J'en ai rien retiré de cette manière non plus !
 sequences_junge_talk_mit_1#12;[The boy turns back.]
-spokentexts_junge_talk_mit_2_st_1;Come on, Matt!
+spokentexts_junge_talk_mit_2_st_1;Allez, Matt !
 sequences_junge_talk_mit_2#2;[The boy is not responding.]
-spokentexts_junge_talk_mit_2_st_2;Do you really think that you can ignore me for longer than I can ignore you?
-spokentexts_junge_talk_mit_2_st_3;I'm Swiss! It's practically a national sport!
+spokentexts_junge_talk_mit_2_st_2;Tu penses vraiment pouvoir m'ignorer aussi longtemps que je peux le faire ?
+spokentexts_junge_talk_mit_2_st_3;Je suis Suisse ! C'est pratiquement un sport national !
 sequences_junge_talk_mit_2#5;[The boy is not responding.]
 sequences_junge_talk_mit_2#6;[Ohi shrugs.]
-spokentexts_junge_talk_mit_3_st_1;All right, Matt. Tell me now...
-spokentexts_junge_talk_mit_4_st_1;Hi, Matt. What I wanted to ask is...
+spokentexts_junge_talk_mit_3_st_1;Très bien, Matt. Dites-moi maintenant...
+spokentexts_junge_talk_mit_4_st_1;Salut, Matt. Je voulais te demander...
 sequences_junge_talk_mit_4#2;[Dialogue between Ohi and the boy starts.]
-spokentexts_junge_talk_mit_5_st_1;I've no idea what I'd say to Matt.
+spokentexts_junge_talk_mit_5_st_1;Je n'ai aucune idée de quoi dire à Matt.
 sequences_junge_used_mit_karamellbonbons#1;[Ohi stands before the boy, picks into his pocket, pulls out a few sweets and shows him on the open hand (idle).]
-spokentexts_junge_used_mit_karamellbonbons_st_1;Would you like a butterscotch?
+spokentexts_junge_used_mit_karamellbonbons_st_1;Tu voudrais un caramel ?
 sequences_junge_used_mit_karamellbonbons#3;[The boy looks at the candy and then turns back.]
-spokentexts_junge_used_mit_karamellbonbons_st_2;You think you can bribe me?
-spokentexts_junge_used_mit_karamellbonbons_st_3;I have no reason to. You made trouble and got punished for it.
-spokentexts_junge_used_mit_karamellbonbons_st_4;Take it as a peace offering.
+spokentexts_junge_used_mit_karamellbonbons_st_2;Vous pensez que vous pouvez me corrompre ?
+spokentexts_junge_used_mit_karamellbonbons_st_3;Je n'ai aucune raison de le faire. Tu as mal fait et tu as été puni pour cela.
+spokentexts_junge_used_mit_karamellbonbons_st_4;Prend-le comme une offre de paix.
 sequences_junge_used_mit_karamellbonbons#7;[The boy thinks for a moment, then looks back.]
-spokentexts_junge_used_mit_karamellbonbons_st_5;Just four?
-spokentexts_junge_used_mit_karamellbonbons_st_6;If I'm faster than you, there'll only be three!
+spokentexts_junge_used_mit_karamellbonbons_st_5;Que quatre ?
+spokentexts_junge_used_mit_karamellbonbons_st_6;Si j'étais aussi rapide que toi, il y en aurait que trois !
 sequences_junge_used_mit_karamellbonbons#10;[The boy is smiling and accessing. Ohi pulls the hand back quickly. The boy laughs.]
 spokentexts_junge_used_mit_karamellbonbons_st_7_direction;laughing
-spokentexts_junge_used_mit_karamellbonbons_st_7;Hey!
+spokentexts_junge_used_mit_karamellbonbons_st_7;Hé !
 sequences_junge_used_mit_karamellbonbons#12;[The boy picks Ohis hand, turns the finger and takes the candy. Ohi finally give him the candys and stroke his hair.]
-spokentexts_junge_used_mit_karamellbonbons_st_8;Friends again?
+spokentexts_junge_used_mit_karamellbonbons_st_8;Encore ami ?
 sequences_junge_used_mit_karamellbonbons#14;[The boy put a piece of candy in his mouth and nods. The other ones he puts in his pocket.]
 spokentexts_junge_used_mit_karamellbonbons_st_9_direction;yes, with his full mouth
 spokentexts_junge_used_mit_karamellbonbons_st_9;Mmm-hmm.
-spokentexts_junge_used_mit_karamellbonbons_st_10;All right then.
+spokentexts_junge_used_mit_karamellbonbons_st_10;Super alors.
 sequences_junge_used_mit_karamellbonbons#17;[Ohi raises cautionary the finger.]
-spokentexts_junge_used_mit_karamellbonbons_st_11;And no dangerous nonsense anymore!
+spokentexts_junge_used_mit_karamellbonbons_st_11;Et plus de bêtises dangereuse !
 spokentexts_junge_used_mit_karamellbonbons_st_12_direction;is annoyed, do not like it
-spokentexts_junge_used_mit_karamellbonbons_st_12;Okay.
-texts_pflegerin_mo_ex_1;Look at Mrs. Miller
-texts_pflegerin_mo_talk_mit_1__2;Talk to Mrs. Miller
-texts_pflegerin_mo_text_used_mit_haarnadel;Give the hairpins back to Mrs. Miller.
-texts_pflegerin_top_a01_pflegerin_brieftasche_tseq_title;Missing purse
-spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_2;A passenger's purse has gone missing.
-spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_3;I suppose you haven't seen it?
+spokentexts_junge_used_mit_karamellbonbons_st_12;D'acc.
+texts_pflegerin_mo_ex_1;Regarder Mme Miller
+texts_pflegerin_mo_talk_mit_1__2;Parler à Mme Miller
+texts_pflegerin_mo_text_used_mit_haarnadel;Rendre l'épingles à cheveux à Mme Miller.
+texts_pflegerin_top_a01_pflegerin_brieftasche_tseq_title;Sac disparus
+spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_2;Le sac d'une passagère a disparu.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_3;Je suppose que vous ne l'avez pas vu ?
 sequences_pflegerin_top_a01_pflegerin_brieftasche_tseq#2;[The nurse shakes her head.]
-spokentexts_pflegerin_top_a01_pflegerin_brieftasche_tseq_st_3;Sorry, no.
-spokentexts_pflegerin_top_a01_pflegerin_brieftasche_tseq_st_4;Nor have I.
-spokentexts_pflegerin_top_a01_pflegerin_brieftasche_tseq_st_5;Have you ask my little boy?
-spokentexts_pflegerin_top_a01_pflegerin_brieftasche_tseq_st_6;Matty is good at finding things.
-spokentexts_pflegerin_top_a01_pflegerin_brieftasche_tseq_st_7;I haven't asked him yet, but I will.
-texts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_title;Noticed anything?
-spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_2;Oh, I'm afraid not. I was totally focused on my work.
-spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_3;She's always got an awful lot to do, my Mary.
+spokentexts_pflegerin_top_a01_pflegerin_brieftasche_tseq_st_3;Non, désolé.
+spokentexts_pflegerin_top_a01_pflegerin_brieftasche_tseq_st_4;Malheureusement non.
+spokentexts_pflegerin_top_a01_pflegerin_brieftasche_tseq_st_5;Avez-vous demandé à mon garçon ?
+spokentexts_pflegerin_top_a01_pflegerin_brieftasche_tseq_st_6;Matty est doué pour trouver pleins choses.
+spokentexts_pflegerin_top_a01_pflegerin_brieftasche_tseq_st_7;Je ne lui ai pas encore demandé, mais je vais faire.
+texts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_title;Vu quelque chose ?
+spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_2;Oh, je crains que non. Je suis totalement concentré sur mon travail.
+spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_3;Ma Marie a toujours eu beaucoup de choses à faire.
 sequences_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq#3;[Nurse looks forward to the table.]
 spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_4_direction;upset
-spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_4;You have to tell me if that's not all right with you.
-spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_5;Good Lord, child! Knit as much as you want!
-spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_6;So, nothing out of the ordinary?
-spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_7;No, Constable. 
+spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_4;Vous devez me dire si quelque chose ne va pas.
+spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_5;Seigneur, mon enfant ! Tricotez autant que vous voulez !
+spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_6;Donc, rien qui sorte de l'ordinaire ?
+spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_7;Non, officier. 
 sequences_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq#7;[Nurse looks back to Ohi.]
-texts_pflegerin_top_a01_pflegerin_goodbye_tseq_title;Say goodbye
-spokentexts_pflegerin_top_a01_pflegerin_goodbye_tseq_st_1;Goodbye, Ms. Miller.
-spokentexts_pflegerin_top_a01_pflegerin_goodbye_tseq_st_2;Goodbye, Constable.
+texts_pflegerin_top_a01_pflegerin_goodbye_tseq_title;Dire au revoir
+spokentexts_pflegerin_top_a01_pflegerin_goodbye_tseq_st_1;Au revoir, Mme Miller.
+spokentexts_pflegerin_top_a01_pflegerin_goodbye_tseq_st_2;Au revoir, Officier.
 sequences_pflegerin_top_a01_pflegerin_goodbye_tseq#2;[The nurse begins to knit again.]
-texts_pflegerin_top_a01_pflegerin_haarnadel_zurueck_tseq_title;Hairpin
-spokentexts_pflegerin_top_a01_pflegerin_haarnadel_zurueck_tseq_st_1;Thank you for your hairpin, Ms. Miller. It really got me out of a jam.
+texts_pflegerin_top_a01_pflegerin_haarnadel_zurueck_tseq_title;Épingle à cheveux
+spokentexts_pflegerin_top_a01_pflegerin_haarnadel_zurueck_tseq_st_1;Merci pour votre épingle, Mme Miller. elle m'a vraiment sortie du pétrin.
 sequences_pflegerin_top_a01_pflegerin_haarnadel_zurueck_tseq#1;[Ohi gets out the needle, and give it to the nurse.]
-spokentexts_pflegerin_top_a01_pflegerin_haarnadel_zurueck_tseq_st_2;Oh, really? That's good to hear!
+spokentexts_pflegerin_top_a01_pflegerin_haarnadel_zurueck_tseq_st_2;Oh, vraiment ? C'est bon à entendre !
 sequences_pflegerin_top_a01_pflegerin_haarnadel_zurueck_tseq#3;[The nurse takes the hairpin and puts it into the pockets.]
-spokentexts_pflegerin_top_a01_pflegerin_haarnadel_zurueck_tseq_st_3;And thank you for bringing it back to me. Not everybody would have.
-spokentexts_pflegerin_top_a01_pflegerin_haarnadel_zurueck_tseq_st_4;I'm a Swiss policeman, madam. I couldn't do otherwise even if I tried.
-texts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_title;Hairpins
+spokentexts_pflegerin_top_a01_pflegerin_haarnadel_zurueck_tseq_st_3;Et merci pour me la ramener. Tout le monde ne l'aurait pas fait.
+spokentexts_pflegerin_top_a01_pflegerin_haarnadel_zurueck_tseq_st_4;Je suis un policier Suisse, madame. Je ne pouvais pas faire autrement, même si j'avais voulu.
+texts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_title;Épingle à cheveux
 spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_1_direction;slightly embarrassed
-spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_1;Please excuse my unusual request, but Matt said you have some hairpins. Could I borrow one?
+spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_1;Veuillez excuser ma demande inhabituelle, mais Matt dit que vous aviez des épingles à cheveux. Pourrais-je vous en emprunter une ?
 spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_2_direction;blankly, slightly shocked
-spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_2;One of my hairpins?!
-spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_3;It's a long story but it would be a big help.
+spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_2;Une épingles à cheveux ?!
+spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_3;C'est une longue histoire, mais elle me serait d'une grande aide.
 spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_4_direction;unsure
-spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_4;Well, if you really need one...
-spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_5;Go ahead, Mary! The constable won't do it any harm, will you, Mr. Zellner?
+spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_4;Eh bien, si vous en avez vraiment besoin d'une...
+spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_5;Allez-y, Mary ! Le policier ne lui fera pas de mal, n'est-ce pas M. Zellner ?
 sequences_pflegerin_top_a01_pflegerin_haarnadeln_tseq#5;[Ohi bows toward the writer.]
-spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_6;Of course not, madam.
+spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_6;Bien sûr que non, madame.
 sequences_pflegerin_top_a01_pflegerin_haarnadeln_tseq#7;[The nurse still do not know what to make of it. But then she pulls himself together, takes her purse and pulls out a hairpin,showing it to Ohi.]
-spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_7;Is this one OK?
+spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_7;Voilà, c'est bon ?
 sequences_pflegerin_top_a01_pflegerin_haarnadeln_tseq#9;[Ohi takes the hairpin.]
-spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_8;It'll do nicely, madam. How very kind of you.
+spokentexts_pflegerin_top_a01_pflegerin_haarnadeln_tseq_st_8;Elle est parfaite, madame. C'est très gentil de votre part.
 sequences_pflegerin_top_a01_pflegerin_haarnadeln_tseq#11;[The nurse is still looking irritated to Ohi as he already turns away. She shrugs her shoulders and lays the bag away.]
-texts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_title;Matt, the boy
-spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_1;The little boy, Matt... He's your son.
+texts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_title;Matt, le petit garçon
+spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_1;Le petit garçon, Matt... C'est votre fils.
 spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_2_direction;happy, proud
-spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_2;Oh, yes.
+spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_2;Oh, oui.
 spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_3_direction;surprised, afraid
-spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_3;*gasp* Has he done something?
-spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_4;No, no.
-spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_5;I've already met him. A clever little fellow.
+spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_3;*gasp* Il a fait quelque chose ?
+spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_4;Non, non.
+spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_5;Je l'ai déjà rencontré. Un petit garçon intelligent.
 spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_6_direction;relieved
-spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_6;"We always call him ""professor"" because he's so precocious."
+spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_6;"On l'appel toujours ""professeur"" parce qu'il est précoce."
 spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_7_direction;moody
-spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_7;If only someone could just drive the mischief out of him!
-spokentexts_pflegerin_ex_1_st_1;Ms. Miller made a good impression. She wanted to protect Lady Westmacott from me, a pushy admirer. Very diligent.
-spokentexts_pflegerin_ex_1_st_2;But she does seem a little nervous and tense.
-spokentexts_pflegerin_ex_1_st_3;I imagine she has her work cut out for her with Matt. And a difficult boss, from what they say...
-spokentexts_pflegerin_talk_mit_1_st_1;Mrs. Miller?
+spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_7;Si seulement quelqu'un pouvait juste conduire ce mal hors de lui !
+spokentexts_pflegerin_ex_1_st_1;Mme Miller m'a fait une bonne impression. Elle voulait protéger Lady Westmacott, un admirateur insistant. Très diligente.
+spokentexts_pflegerin_ex_1_st_2;Mais elle ne semble un peu nerveuse et tendue.
+spokentexts_pflegerin_ex_1_st_3;J'imagine qu'elle est préoccupée par son travail et par Matt. Et un patron difficile, apparemment...
+spokentexts_pflegerin_talk_mit_1_st_1;Mme Miller ?
 sequences_pflegerin_talk_mit_1#2;[She stops to knit on, look at Ohi.]
 spokentexts_pflegerin_talk_mit_1_st_2_direction;nervously
-spokentexts_pflegerin_talk_mit_1_st_2;Yes?!
-spokentexts_pflegerin_talk_mit_2_st_1;I think it's uncomfortable for her when I talk to her in front of Lady Westmacott. She seems to take it as an inappropriate distraction from her work.
-spokentexts_pflegerin_talk_mit_2_st_2;Although she's just knitting. Taking up a craft like that is typical of women who were told as little girls that idleness is a sin.
-texts_schriftstellerin_mo_ex_1;Observe Lady Clarissa Westmacott 
-texts_schriftstellerin_mo_talk_mit_1__2;Talk to Lady Clarissa Westmacott
-texts_schriftstellerin_mo_used_mit_krimi;Give Lady Westmacott the book
-texts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_title;Missing purse
-spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_1;There's something else.
-spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_4;I'm sorry, Constable Zellner. As you know, I only deal with murder, not burglary.
+spokentexts_pflegerin_talk_mit_1_st_2;Oui ?!
+spokentexts_pflegerin_talk_mit_2_st_1;Je pense que c'est inconfortable pour elle quand je lui parle en face de Lady Westmacott. Elle semble prendre ça comme une distraction inapproprié pendant son travail.
+spokentexts_pflegerin_talk_mit_2_st_2;Elle n'arrête pas de tricoter. Un métier typique des femmes à qui ont dit petites filles que l'oisiveté est un péché.
+texts_schriftstellerin_mo_ex_1;Observer Lady Clarissa Westmacott
+texts_schriftstellerin_mo_talk_mit_1__2;Parler à Lady Clarissa Westmacott
+texts_schriftstellerin_mo_used_mit_krimi;Donnez le livre à Lady Westmacott
+texts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_title;Sac disparus
+spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_1;Il y a autre chose.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_4;Je suis désolé, Officier Zellner. Comme vous le savez, je ne fait que dans l'assassinat, pas dans le cambriolage.
 sequences_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq#5;[The nurse knits on, but looks to Ohi.]
-spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_5;Have you asked my boy yet?
-spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_7;I'll go and do that now.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_5;Vous avez demandé à mon garçon ?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_7;J'y vais de ce pas.
 sequences_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq#9;[The nurse nodded and looks back down at her knitting.]
-texts_schriftstellerin_top_a01_schriftstellerin_buch_signieren_tseq_title;Sign book
+texts_schriftstellerin_top_a01_schriftstellerin_buch_signieren_tseq_title;Signer le livre
 sequences_schriftstellerin_top_a01_schriftstellerin_buch_signieren_tseq#0;[See Sequence book signing]
-texts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_title;Say goodbye
-texts_schriftstellerin_top_a01_schriftstellerin_goodbye_tseq_title;Say goodbye
-spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_2;As much as I'd like to keep talking, duty calls.
-spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_3;You were right.
+texts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_title;Dire au revoir
+texts_schriftstellerin_top_a01_schriftstellerin_goodbye_tseq_title;Dire au revoir
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_2;Je voudrais continuer à parler, mais devoir m'appelle.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_3;Vous avez raison.
 spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_4_direction;irritated
-spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_4;Madam?
-spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_5;I DID observe you as you came in.
-spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_6;You seemed so... eager.
-spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_7;I... It's been a long time since I've had a chance to prove myself, madam. 
-spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_8;And is this it? Your chance?
-spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_9;I do hope so.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_4;Madame ?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_5;Je vous ai observé quand vous vous êtes approché
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_6;Vous sembliez si... impatient.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_7;C. .. Ça fait longtemps que je n'ai pas eu la chance de faire mes preuves, madame.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_8;Et ça y est ? Vous avez votre chance ?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_9;J'espère.
 spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_10_direction;convinced encouragingly
-spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_10;Then grab it!
-spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_11;Even small people can make big changes, as my friend Ronald likes to say.
-spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_12;I shall do my best!
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_10;Alors saisissez là!
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_11;Même les petites gens peuvent faire de grandes choses, comme mon ami Ronald aime à le dire.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_12;Je ferai de mon mieux !
 sequences_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq#0;[The writer is smiling at the nurse, who shakes his head slightly. She finds it inappropriate that the writer makes fun of Ohi.]
-spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_tseq_st_1;Another time.
-spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_tseq_st_2;Farewell, Lady Westmacott.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_tseq_st_1;A une autre fois.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_tseq_st_2;Adieu, Lady Westmacott.
 spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_tseq_st_3_direction;friendly
-spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_tseq_st_3;Constable.
-texts_schriftstellerin_top_a01_schriftstellerin_mitreisende_archaeologe_tseq_title;The archaeologist
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_tseq_st_3;Officier.
+texts_schriftstellerin_top_a01_schriftstellerin_mitreisende_archaeologe_tseq_title;L'archéologue
 spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_geiger_tseq_st_1;About the other passengers...
 spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_archaeologe_tseq_st_2;Did you notice the man who just walked into the next carriage with a cup of tea?
 spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_archaeologe_tseq_st_3;I did. He seemed nervous.
