@@ -17,7 +17,7 @@ Traduction Francaise The Raven - Chapter 1 : The Eye of the Sphinx
 
 ### Note de Version
 ```
-V1 : Indisponible.
+V1 : Indisponible (en cours de traduction).
 ```
 
 ### Windows
