@@ -1606,180 +1606,180 @@ sequences_a01_salonwagen_schublade_use_1#2;[Ohi tried to open the drawer, but it
 spokentexts_a01_salonwagen_schublade_use_1_st_2;Verrouillé.
 sequences_a01_salonwagen_schublade_use_1#6;[Ohi turns away.]
 spokentexts_a01_salonwagen_schublade_use_1_st_3_direction;frustrated
-spokentexts_a01_salonwagen_schublade_use_1_st_3;Hmm. Where could he be?
-spokentexts_a01_salonwagen_schublade_use_1_st_4;If I want to impress Legrand, I should probably just do it. He's famous for his unconventional methods.
-spokentexts_a01_salonwagen_schublade_use_1_st_5;The lock is so cheap that I could easily pick it.
+spokentexts_a01_salonwagen_schublade_use_1_st_3;Hmm. Où pouvait-elle être ?
+spokentexts_a01_salonwagen_schublade_use_1_st_4;Si je veux impressionner Legrand, je devrais le faire. Il est célèbre pour ses méthodes non conventionnelles.
+spokentexts_a01_salonwagen_schublade_use_1_st_5;La serrure est tellement simple que je pourrais facilement la crocheter.
 spokentexts_a01_salonwagen_schublade_used_mit_haarnadel_st_1_direction;amused
-spokentexts_a01_salonwagen_schublade_used_mit_haarnadel_st_1;And suddenly it's ME who's the thief on the train.
+spokentexts_a01_salonwagen_schublade_used_mit_haarnadel_st_1;Et soudain, c'est MOI le voleur dans ce train.
 sequences_a01_salonwagen_schublade_used_mit_haarnadel#2;[Ohi put the needle in the lock, almost immediately it clicked.]
 spokentexts_a01_salonwagen_schublade_used_mit_haarnadel_st_2_direction;surprised
-spokentexts_a01_salonwagen_schublade_used_mit_haarnadel_st_2;Whoops? That was easier than expected.
+spokentexts_a01_salonwagen_schublade_used_mit_haarnadel_st_2;Oups ? C'était plus facile que prévu.
 sequences_a01_salonwagen_schublade_used_mit_haarnadel#4;[Ohi takes the needle.]
-texts_a01_salonwagen_tuer_zum_grossraumwagon_mo_leave_1;Go into the next car 
+texts_a01_salonwagen_tuer_zum_grossraumwagon_mo_leave_1;Aller dans la prochaine voiture
 sequences_a01_salonwagen_tuer_zum_grossraumwagon_leave_1#1;[Ohi goes to the Wagon.]
-texts_a01_salonwagen_tuer_zum_uebergang_mo_leave_1;Go outside
+texts_a01_salonwagen_tuer_zum_uebergang_mo_leave_1;Aller à l'extérieur
 sequences_a01_salonwagen_tuer_zum_uebergang_leave_1#1;[Ohi goes.]
-texts_a01_salonwagen_zahnstocher_mo_inventar_1;Toothpick
-spokentexts_a01_salonwagen_zahnstocher_ex_1_st_1;The wooden toothpicks are packed into small paper wrappers.
-spokentexts_a01_salonwagen_zahnstocher_ex_1_st_2;Nothing unusual.
-texts_a01_salonwagen_zahnstocherglas_mo_ex_1;Examine the glass of toothpicks
-texts_a01_salonwagen_zahnstocherglas_mo_take_1__2;Take a toothpick
-spokentexts_a01_salonwagen_zahnstocherglas_ex_1_st_1;The steward must have forgotten the toothpicks.
-spokentexts_a01_salonwagen_zahnstocherglas_ex_1_st_2;Normally he would offer them discreetly after dinner.
+texts_a01_salonwagen_zahnstocher_mo_inventar_1;Cure-dents
+spokentexts_a01_salonwagen_zahnstocher_ex_1_st_1;Ces cure-dents en bois sont conditionnés dans de petits emballages de papier.
+spokentexts_a01_salonwagen_zahnstocher_ex_1_st_2;Rien d'anormal.
+texts_a01_salonwagen_zahnstocherglas_mo_ex_1;Examiner le pot des cure-dents
+texts_a01_salonwagen_zahnstocherglas_mo_take_1__2;Prendre un cure-dent
+spokentexts_a01_salonwagen_zahnstocherglas_ex_1_st_1;Le stewart doit avoir oublié ces cure-dents.
+spokentexts_a01_salonwagen_zahnstocherglas_ex_1_st_2;Normalement, il devrait les offrir discrètement après le dîner.
 sequences_a01_salonwagen_zahnstocherglas_take_1#1;[Ohi grabs into the glass, takes out a toothpick.]
-spokentexts_a01_salonwagen_zahnstocherglas_take_2_st_1;I think one should be enough.
-texts_a01_salonwagen_zeitung_mo_inventar_1;Read the newspaper
+spokentexts_a01_salonwagen_zahnstocherglas_take_2_st_1;Je pense qu'un devrait suffire.
+texts_a01_salonwagen_zeitung_mo_inventar_1;Lire le journal
 sequences_a01_salonwagen_zeitung_ex_1#1;[Ohi takes out the newspaper, unfolds it and looks into it.]
 sequences_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen#0;[Ohi enters the wagon, is looking around. He sees the writer and solidifies.]
 spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_1_direction;almost speechless, excited
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_1;I don't believe it!
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_1;Je n'arrive pas à le croire !
 sequences_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen#3;[Ohi goes with his mouth open to  the table, the writer sits, she looks at him.]
 spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_3_direction;excited
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_3;I never thought I'd ever meet you!
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_3;Je n'aurais jamais pensé pouvoir vous rencontrer un jour !
 sequences_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen#5;[The nurse looks up.]
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_4;Pardon me, but we'd prefer...
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_4;Pardonnez-moi, mais nous préférions...
 spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_5_direction;interrupts the nurse
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_5;It's alright, Ms. Miller.
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_6;I'd like to speak to the inspector.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_5;C'est bon, Mme Miller.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_6;J'aimerais parler à l'inspecteur.
 spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_7_direction;embarrassed
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_7;Unfortunately just a constable, Lady Westmacott.
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_8;I'm reading The Vicarage in the Mirror right now! For the fifth time, at least!
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_9;That's nice, Constable...
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_10;Zellner! Anton Jakob Zellner.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_7;Malheureusement, juste officier, Lady Westmacott.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_8;Je lis Le Presbytère dans le Miroir ! Pour la cinquième fois, au moins !
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_9;C'est gentil, Officier...
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_10;Zellner ! Anton Jakob Zellner.
 sequences_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen#13;[The writer friendly nods, points to the nurse.]
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_11;This is my companion, Ms. Miller.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_11;Ma accompagnatrice, Mme Miller.
 sequences_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen#15;[Ohi touches his hat, the nurse nods slightly, then begins to knit.]
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_12;A pleasure.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_12;C'est un plaisir.
 sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#0;[The nurse looks quick up from their knits, sees Ohi. She stops to knit and lowers her knitting. Then she beckons Ohi and enters the idle-talk.]
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_1;Oh, Constable?
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_1;Oh, Officier ?
 sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#2;[Ohi comes to the table.]
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_2;Yes, ma'am?
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_3;My son didn't make any trouble for you, I hope?
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_4;Its just that he just walked past us, silent and seething... That's usually a sign that someone's laid down the law.
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_5;I'm afraid so. He played a trick on me, a rather dangerous one.
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_6;The lad left me no choice but to take away his wooden pistol as punishment.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_2;Oui, madame ?
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_3;Mon fils ne vous a fait aucune misère, j'espère ?
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_4;C'est juste que quand il passe devant nous, silencieux et bouillonnant... C'est habituellement mauvais signe.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_5;Je le crains. Il m'a joué un tour, un peu dangereux.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_6;Ce garnement ne m'a laissé aucun choix, j'ai dû confisqué son pistolet en bois en guise de punition.
 sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#8;[The nurse nods sympathetically.]
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_7;I understand. And - thank you!
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_8;Matty is a very lively child. Sometimes he needs a strong, fatherly hand.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_7;Je comprends. Et - je vous remercie !
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_8;Matty est un enfant très turbulent. Parfois, il a besoin d'une main forte, paternel.
 sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#12;[The writer is attentive and listens.]
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_9;Where is Matt's father, if I may ask?
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_9;Où est le père de Matt, si je peux me permettre ?
 sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#15;[The nurse is embarrassed, lowers view (idle).]
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_10;He... He's gone.
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_11;Ah... I understand.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_10;Il... Il est parti.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_11;Ah... je comprends.
 sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#18;[The nurse looks up again.]
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_12;Could you... err, leave Matty's pistol here, perhaps? So you don't have to bother with it.
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_13;Of course. I told him he wouldn't get it back until Venice.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_12;Pourriez-vous... Euhh, peut-être laisser le pistolet de Matty ici ? Vous n'auriez plus besoin de vous soucier de cela.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_13;Bien sûr. Je lui ai dit qu'il ne pourrait récupérer qu'à Venise.
 sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#21;[The nurse nods while Ohi gives her the gun and puts it on the table.]
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_14;Very well, thank you again, Constable.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_14;Très bien, et encore merci, Officier.
 sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#23;[Ohi bows slightly, taps his hat.]
 sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#24;[The conversation is over, the nurse begins to knit again. When you enter the location the next time, the gun has disappeared from the table.]
-spokentexts_salonwagen_seq_ohi_geht_zum_ersten_mal_hinter_die_bar_st_1;I suppose the steward won't object to me having a look around in in his absence.
-texts_a01_uebergang_holzpistole_mo_inventar_1;Wooden pistol
-spokentexts_a01_uebergang_holzpistole_ex_1_st_1;Matt will get his pistol back in Venice. That, and a good dressing down!
-texts_a01_uebergang_leiter_mo_ex_1;Examine the ladder
-spokentexts_a01_uebergang_leiter_ex_1_st_1;The ladder leads to the roof.
-spokentexts_a01_uebergang_leiter_ex_1_st_2;It would be suicidal to climb up there while the train is at full speed.
-spokentexts_a01_uebergang_leiter_ex_1_st_3;The wind, tunnels... No, I'll stay down here.
-texts_a01_uebergang_tuer_zum_salonwagen_mo_leave_1;Go into the saloon car.
+spokentexts_salonwagen_seq_ohi_geht_zum_ersten_mal_hinter_die_bar_st_1;Je suppose que le stewart ne s'opposera pas à un coup d'oeil pendant en son absence.
+texts_a01_uebergang_holzpistole_mo_inventar_1;Pistolet en bois
+spokentexts_a01_uebergang_holzpistole_ex_1_st_1;Matt récupéra son pistolet à Venise. Comme cela était prévu !
+texts_a01_uebergang_leiter_mo_ex_1;Examiner l'échelle
+spokentexts_a01_uebergang_leiter_ex_1_st_1;L'échelle mène jusqu'au toit.
+spokentexts_a01_uebergang_leiter_ex_1_st_2;Il serait suicidaire de grimper là-haut pendant que le train est à pleine vitesse.
+spokentexts_a01_uebergang_leiter_ex_1_st_3;Le vent, les tunnels... Non, je vais rester ici.
+texts_a01_uebergang_tuer_zum_salonwagen_mo_leave_1;Allez au wagon-salon.
 sequences_a01_uebergang_tuer_zum_salonwagen_leave_1#1;[Ohi enters the saloon wagon.]
-texts_a01_uebergang_tuer_zum_transportwagon_mo_leave_1-3;Enter the freight car
+texts_a01_uebergang_tuer_zum_transportwagon_mo_leave_1-3;Entrer dans la voiture de fret
 spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_1_st_1;I strongly suspect that the door is locked.
 sequences_a01_uebergang_tuer_zum_transportwagon_leave_1#2;[Ohi grabs the wheel to his surprise he can turn it.]
 spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_1_st_2_direction;surprised
-spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_1_st_2;No! It's open!
+spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_1_st_2;Non ! C'est ouvert !
 sequences_a01_uebergang_tuer_zum_transportwagon_leave_1#4;[Ohi opens the heavy door, enters.]
-spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_2_st_1;Inspector Legrand was quite clear.
-spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_2_st_2;I'm only to enter the freight car if there's news to report.
-spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_2_st_3;And the case of the missing purse will only be resolved once I've returned it to its owner.
+spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_2_st_1;L'inspecteur Legrand a été très clair.
+spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_2_st_2;Je peut uniquement entrer dans le wagon si il y a des nouvelles à signaler.
+spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_2_st_3;Et l'affaire du sac disparus ne sera résolu qu'une fois que je l'aurai rendu à sa propriétaire.
 sequences_a01_uebergang_tuer_zum_transportwagon_leave_3#1;[Ohi knocks twice the door. He opens it and enters.]
-texts_a01_uebergang_werkzeugkasten_mo_ex_1__2;Examine the box
-texts_a01_uebergang_werkzeugkasten_mo_ex_1-3;Examine the box
-texts_a01_uebergang_werkzeugkasten_mo_use_1;Open the box
-texts_a01_uebergang_werkzeugkasten_mo_use_1__2;Open the box
-texts_a01_uebergang_werkzeugkasten_mo_used_mit_haarnadel;Pick the lock
-texts_a01_uebergang_werkzeugkasten_mo_used_mit_schluessel;Unlock the padlock
-spokentexts_a01_uebergang_werkzeugkasten_ex_1_st_1;Hmm. A box with a padlock.
-spokentexts_a01_uebergang_werkzeugkasten_ex_1_st_2;I suppose it contains tools for the train's crew. Maybe for coupling and uncoupling the cars?
-spokentexts_a01_uebergang_werkzeugkasten_ex_1_st_3;At any rate, it's positioned so that it's easier to reach from the ground than from up here.
-spokentexts_a01_uebergang_werkzeugkasten_ex_2_st_1;The box is secured with a padlock. I won't be able to open it without a key.
-spokentexts_a01_uebergang_werkzeugkasten_ex_3_st_1;I have everything I need.
+texts_a01_uebergang_werkzeugkasten_mo_ex_1__2;Examiner la boîte
+texts_a01_uebergang_werkzeugkasten_mo_ex_1-3;Examiner la boîte
+texts_a01_uebergang_werkzeugkasten_mo_use_1;Ouvrir la boîte
+texts_a01_uebergang_werkzeugkasten_mo_use_1__2;Ouvrir la boîte
+texts_a01_uebergang_werkzeugkasten_mo_used_mit_haarnadel;Crocheter la serrure
+texts_a01_uebergang_werkzeugkasten_mo_used_mit_schluessel;Ouvrir le cadenas
+spokentexts_a01_uebergang_werkzeugkasten_ex_1_st_1;Hmm. Une boîte avec un cadenas.
+spokentexts_a01_uebergang_werkzeugkasten_ex_1_st_2;Je suppose qu'elle contient des outils pour l'équipage du train. Peut-être pour le couplage et le découplage des voitures ?
+spokentexts_a01_uebergang_werkzeugkasten_ex_1_st_3;En tout cas, elle est positionnée de telle manière qu'elle est plus facile d'accès depuis le sol que d'ici.
+spokentexts_a01_uebergang_werkzeugkasten_ex_2_st_1;La boîte est fermée par un cadenas. Je ne serai bien incapable de l'ouvrir sans clé.
+spokentexts_a01_uebergang_werkzeugkasten_ex_3_st_1;J'ai tout ce dont j'ai besoin.
 sequences_a01_uebergang_werkzeugkasten_use_1#1;[Ohi kneels down, takes the lock in his hand and pulls it. It will not open.]
 sequences_a01_uebergang_werkzeugkasten_use_1#2;[Cut on the box in the foreground, Ohi behind.]
-spokentexts_a01_uebergang_werkzeugkasten_use_1_st_1;Locked.
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_1;Fermé.
 sequences_a01_uebergang_werkzeugkasten_use_1#4;[Suddenly, the boy jumps behind Ohi and shoots with his wooden gun at him.]
-spokentexts_a01_uebergang_werkzeugkasten_use_1_st_2;BANG! BANG!
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_2;BANG ! BANG !
 sequences_a01_uebergang_werkzeugkasten_use_1#6;[Ohi terrified vastly and almost fell off the train. He clings tightly. He struggles to his feet, still in shock. The boy is aiming at him.]
 spokentexts_a01_uebergang_werkzeugkasten_use_1_st_3_direction;keuchen
 spokentexts_a01_uebergang_werkzeugkasten_use_1_st_3;Fff-fff.
-spokentexts_a01_uebergang_werkzeugkasten_use_1_st_4;Don't move!
-spokentexts_a01_uebergang_werkzeugkasten_use_1_st_5;Matt! Have you gone mad?
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_4;Bougez pas !
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_5;Matt! Tu es devenu fou ?
 spokentexts_a01_uebergang_werkzeugkasten_use_1_st_6_direction;cheerful, threatening
-spokentexts_a01_uebergang_werkzeugkasten_use_1_st_6;I'll shoot!
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_6;Je vais tirer !
 sequences_a01_uebergang_werkzeugkasten_use_1#11;[Ohi is angry and picks the weapon from the boy, pulls it roughly out of his hands.]
 spokentexts_a01_uebergang_werkzeugkasten_use_1_st_7_direction;surprised, angry
-spokentexts_a01_uebergang_werkzeugkasten_use_1_st_7;Hey! My pistol!
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_7;Hé ! Mon pistolet !
 spokentexts_a01_uebergang_werkzeugkasten_use_1_st_8_direction;still hard at breathing, must calm down
-spokentexts_a01_uebergang_werkzeugkasten_use_1_st_8;You'll get it back in Venice.
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_8;Tu le récupéras à Venise.
 spokentexts_a01_uebergang_werkzeugkasten_use_1_st_9_direction;outraged, angry
-spokentexts_a01_uebergang_werkzeugkasten_use_1_st_9;I could have fallen under the wheels!
-spokentexts_a01_uebergang_werkzeugkasten_use_1_st_10;I thought you were a ghost!
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_9;J'aurai pu tomber sous les roues !
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_10;J'aurais pu croire que tu étais un fantôme !
 spokentexts_a01_uebergang_werkzeugkasten_use_1_st_11_direction;calms down slowly
-spokentexts_a01_uebergang_werkzeugkasten_use_1_st_11;Ghosts don't exist.
-spokentexts_a01_uebergang_werkzeugkasten_use_1_st_12;They do too! One just flew past the window!
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_11;Les fantômes n'existent pas.
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_12;Que si ! Il y en a un qui vient juste voler devant la fenêtre !
 spokentexts_a01_uebergang_werkzeugkasten_use_1_st_13_direction;sarcastically until then strictly
-spokentexts_a01_uebergang_werkzeugkasten_use_1_st_13;Yes, yes. Sure. Now get moving!
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_13;Oui, oui. Bien sûr. Allez on y va !
 sequences_a01_uebergang_werkzeugkasten_use_1#19;[Ohi points to the lounge wagon.]
 spokentexts_a01_uebergang_werkzeugkasten_use_1_st_14_direction;offended
-spokentexts_a01_uebergang_werkzeugkasten_use_1_st_14;Oh, man!
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_14;Oh, mais !
 sequences_a01_uebergang_werkzeugkasten_use_1#21;[The boy is offended and goes in the lounge wagon.]
-spokentexts_a01_uebergang_werkzeugkasten_use_2_st_1;Won't work. The box is secured with a padlock.
-spokentexts_a01_uebergang_werkzeugkasten_used_mit_haarnadel_1_st_1;Picking a modern padlock in an uncomfortable position on a rocking train? I'm too old for that.
+spokentexts_a01_uebergang_werkzeugkasten_use_2_st_1;Ça marche pas. La boîte est verrouillée par un cadenas.
+spokentexts_a01_uebergang_werkzeugkasten_used_mit_haarnadel_1_st_1;Crocheter un cadenas moderne dans une position inconfortable sur un train qui gigote ? Je suis trop vieux pour ça.
 sequences_a01_uebergang_werkzeugkasten_used_mit_schluessel#1;[Ohi kneels down, takes the lock in his hand, then takes the key out of his pocket. He unlocks the lock, the lock flips up and hangs the opened lock then. He draws the key and put it back in his pocket.]
-spokentexts_a01_uebergang_werkzeugkasten_used_mit_schluessel_st_1;That's it.
+spokentexts_a01_uebergang_werkzeugkasten_used_mit_schluessel_st_1;Voilà !
 sequences_a01_uebergang_werkzeugkasten_used_mit_schluessel#3;[Ohi grabs in the tool box and pulls out a pair of tongs. He looks at each other briefly.]
-spokentexts_a01_uebergang_werkzeugkasten_used_mit_schluessel_st_2;There we go. This should help.
+spokentexts_a01_uebergang_werkzeugkasten_used_mit_schluessel_st_2;Voilà. Cela devrait aider.
 sequences_a01_uebergang_werkzeugkasten_used_mit_schluessel#5;[Ohi closes the tool box and gets up with the tongs in his hand. Then he puts the tongs in his pocket.]
-texts_a01_uebergang_zange_mo_inventar_1;Pliers
-spokentexts_a01_uebergang_zange_ex_1_st_1;My grandfather was a blacksmith. When I was a child I used to play with tongs and hammers in his workshop.
-spokentexts_a01_uebergang_zange_ex_1_st_2;Mother never cared for that - she was always worried about my little fingers.
-spokentexts_a01_uebergang_zange_ex_1_st_3;But I never hurt myself seriously. I'm quite clever with tools.
-spokentexts_a01_uebergang_seq_zeitung_lesen_st_1;In the wind is really no place to be reading the newspaper!
-spokentexts_a01_uebergang_seq_zeitung_lesen_st_2;I'd better go back inside.
+texts_a01_uebergang_zange_mo_inventar_1;Pinces
+spokentexts_a01_uebergang_zange_ex_1_st_1;Mon grand-père était forgeron. Quand j'étais enfant, j'avais l'habitude de jouer avec des pinces et des marteaux dans son atelier.
+spokentexts_a01_uebergang_zange_ex_1_st_2;Ma Mère ne s'est jamais inquiété de ça - elle était toujours inquiète pour mes petits doigts.
+spokentexts_a01_uebergang_zange_ex_1_st_3;Mais je ne me suis jamais blessé sérieusement. Je suis plutôt prudent avec des outils.
+spokentexts_a01_uebergang_seq_zeitung_lesen_st_1;Être en plein vent n'est pas vraiment bon pour lire le journal !
+spokentexts_a01_uebergang_seq_zeitung_lesen_st_2;Je ferais mieux de retourner à l'intérieur.
 sequences_a01_uebergang_seq_zeitung_lesen#2;[Ohi goes back to the lounge wagon]
 sequences_uebergang_seq_a01_uebergang_transportwagen_leave#0;[Ohi steps out of the door, closes it.]
 sequences_uebergang_seq_a01_uebergang_transportwagen_leave_erstmalig#1;[Ohi steps out of the door, closes it.]
-spokentexts_uebergang_seq_a01_uebergang_transportwagen_leave_erstmalig_st_1;An investigation on behalf of Legrand! That takes me one step closer.
-spokentexts_uebergang_seq_a01_uebergang_transportwagen_leave_erstmalig_st_4;If I can convince him of my competence, I might even be able to see this case through to the end!
-texts_a01_zeitung_ausgang_mo_leave;Read enough
+spokentexts_uebergang_seq_a01_uebergang_transportwagen_leave_erstmalig_st_1;Une enquête au nom de Legrand ! Cela se regarde d'un peu plus près.
+spokentexts_uebergang_seq_a01_uebergang_transportwagen_leave_erstmalig_st_4;Si j'arrive a le convaincre de mes capacités, je pourrais même suivre cette affaire jusqu'à la fin !
+texts_a01_zeitung_ausgang_mo_leave;Assez lu
 sequences_a01_zeitung_ausgang_leave_1#2;[Ohi folds the paper back together, and takes it.]
-texts_a01_zeitung_diebstahl_in_london_mo_ex_1;Read the article
-spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_1;Let's if there is any news?
+texts_a01_zeitung_diebstahl_in_london_mo_ex_1;Lire l'article
+spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_1;Voyons s'il y a des nouvelles ?
 spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_2_direction;reads, flies over
-spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_2;Blah blah blah... Eye of the Sphinx... One of two priceless jewels... Extraordinarily pure ruby... Two thousand BC... Et cetera, et cetera...
-spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_3;Old news. And here?
+spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_2;Bla bla bla... L'Oeil du Sphinx... L'un des deux plus inestimables joyaux... Des rubis extraordinairement pur... Deux mille ans avant JC... Et cetera, et cetera...
+spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_3;Que du vieux. Et là ?
 spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_4_direction;reads, flies over
-spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_4;Shocking burglary... Professional thieves... Surprised by museum guard Charles Langley and Constable Robert Oliver of Scotland Yard... Explosion...
-spokentexts__seq_a01_zeitung_diebstahl_in_london_ex_1_st_5;Constable Robert Oliver from Scotland Yard... He was there when the first Eye was stolen. Now he's guarding the second one?
-spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_5;Not really anything new. One of the two Eyes of the Sphinx, a ruby that's nearly four thousand years old, was stolen from the British Museum.
-spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_6;The burglar was surprised but managed to escape with his loot without being recognized.
-spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_7;That's the official story. But it says nothing about Legrand and the second Eye.
-texts_a01_zeitung_werbung_mo_ex_1;Look at the announcement
+spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_4;Cambriolage choquant... Des voleurs professionnels... Surpris par les gardes du musée Charles Langley et l'officier Robert Oliver de Scotland Yard... Explosion...
+spokentexts__seq_a01_zeitung_diebstahl_in_london_ex_1_st_5;L'officier Robert Oliver de Scotland Yard... Il était là quand le premier oeil a été volé. Maintenant, il garde le second ?
+spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_5;Non, rien de vraiment nouveau. L'un des deux yeux du Sphinx, un rubis qui a près de quatre mille ans, a été volé dans le British Museum.
+spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_6;Le cambrioleur a été surpris mais a réussi à s'échapper avec son butin sans être reconnu.
+spokentexts_a01_zeitung_diebstahl_in_london_ex_1_st_7;C'est l'histoire officielle. Mais ils ne disent rien sur Legrand et le deuxième œil.
+texts_a01_zeitung_werbung_mo_ex_1;Regarder l'annonce
 spokentexts_a01_zeitung_werbung_ex_1_st_1_direction;reads
-spokentexts_a01_zeitung_werbung_ex_1_st_1;Luna's Drops - The calming herbal liqueur for women.
+spokentexts_a01_zeitung_werbung_ex_1_st_1;Les Larmes de Luna - L'apaisante liqueur d'herbes pour les femmes.
 spokentexts_a01_zeitung_werbung_ex_1_st_2_direction;reads
-spokentexts_a01_zeitung_werbung_ex_1_st_2;A glass a day! It relaxes the nerves and maintains domestic tranquility.
+spokentexts_a01_zeitung_werbung_ex_1_st_2;Un verre par jour ! Il détend les nerfs et maintient votre tranquillité intérieure.
 spokentexts_a01_zeitung_werbung_ex_1_st_3_direction;reads
-spokentexts_a01_zeitung_werbung_ex_1_st_3;Luna's Drops! If you don't want to bother your husband.
+spokentexts_a01_zeitung_werbung_ex_1_st_3;Les Larmes de Luna ! Si vous ne voulez pas incommoder votre mari.
 spokentexts_a01_zeitung_werbung_ex_1_st_4_direction;amused
-spokentexts_a01_zeitung_werbung_ex_1_st_4;Hehehe.
+spokentexts_a01_zeitung_werbung_ex_1_st_4;Hé hé hé.
 spokentexts_a01_zeitung_artikel_cleopatra_ex_1_st_1;Hmm.
-spokentexts_a01_zeitung_artikel_cleopatra_ex_1_st_2;A story about the upcoming Oscars and Cleopatra's chances of winning.
-spokentexts_a01_zeitung_artikel_cleopatra_ex_1_st_3;An incredible feat. They built the largest movie set of all time in Rome.
-spokentexts_a01_zeitung_artikel_cleopatra_ex_1_st_4;And because of the main actress' many illnesses, several changes of director and months of delays, costs shot to over 40 million dollars.
-spokentexts_a01_zeitung_artikel_cleopatra_ex_1_st_5;The most expensive movie ever made! A record never to be broken.
-spokentexts_a01_zeitung_artikel_formel1_ex_1_st_1;John Surtees won the Formula 1 world championship for the first time on Saturday. He also won the world championship in motorcycle racing from 1956 to 1960.
-spokentexts_a01_zeitung_artikel_formel1_ex_1_st_2;Making him the only man in motor sports to win world championships in both motorcycle and Formula 1 events.
-spokentexts_a01_zeitung_artikel_formel1_ex_1_st_3;Hmm. Not really my cup of tea.
-spokentexts_a01_zeitung_artikel_formel1_ex_1_st_4;Too loud, too fast, too much exhaust.
+spokentexts_a01_zeitung_artikel_cleopatra_ex_1_st_2;Un article sur la prochaine cérémonie des Oscars et les chances de gagner de Cléopâtre.
+spokentexts_a01_zeitung_artikel_cleopatra_ex_1_st_3;Un exploit incroyable. Ils ont construit le plus grand plateau de cinéma de tous les temps à Rome.
+spokentexts_a01_zeitung_artikel_cleopatra_ex_1_st_4;Et à cause des nombreuses maladies de l'actrice principale, des plusieurs changements de réalisateur et des mois de retards, les coûts ont explosé à plus de 40 millions de dollars.
+spokentexts_a01_zeitung_artikel_cleopatra_ex_1_st_5;Le film le plus cher jamais réalisé ! Un record qui ne sera jamais cassé.
+spokentexts_a01_zeitung_artikel_formel1_ex_1_st_1;John Surtees a remporté le championnat du monde de Formule 1 pour la première fois samedi. Il a également remporté le championnat du monde de course de moto de 1956 à 1960.
+spokentexts_a01_zeitung_artikel_formel1_ex_1_st_2;Fait d lui le seul homme dans le sport automobile à remporter des championnats mondiaux à la fois moto et en Formule 1.
+spokentexts_a01_zeitung_artikel_formel1_ex_1_st_3;Hmm. C'est pas vraiment ma tasse de thé.
+spokentexts_a01_zeitung_artikel_formel1_ex_1_st_4;Trop bruyant, trop rapide, trop de gaz d'échappement.
 texts_verlassediebar_mo_leave_1;Revenir
 texts_hinterdiebar_mo_leave_1;Regarder derrière le bar
