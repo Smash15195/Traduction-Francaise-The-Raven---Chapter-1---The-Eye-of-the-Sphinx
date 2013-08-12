@@ -1,245 +1,245 @@
 characters_araber;Araber
 characters_junge;Junge
 characters_ohi;Ohi
-texts__mo_use_3;Use the wooden pistol with the tap
-texts_a03_kabine_archaeologe_waschbecken_mo_ex_1;Examine the sink
-texts_a03_kabine_archaeologe_waschbecken_mo_use_1__2;Turn on the tap
+texts__mo_use_3;Utiliser le pistolet en bois avec l'eau du robinet
+texts_a03_kabine_archaeologe_waschbecken_mo_ex_1;Examiner le lavabo
+texts_a03_kabine_archaeologe_waschbecken_mo_use_1__2;Ouvrir le robinet
 texts_a03_kabine_archaeologe_waschbecken_mo_used_mit_handtuch_1__2;Hold the towel under the running water
-spokentexts__use_mit_holzpistole_st_1;That would only work if it were a water pistol.
-spokentexts_a03_kabine_archaeologe_waschbecken_ex_1_st_1;When the high and mighty travel, they travel in style.
+spokentexts__use_mit_holzpistole_st_1;Cela ne fonctionnerait que si c'était un pistolet à eau.
+spokentexts_a03_kabine_archaeologe_waschbecken_ex_1_st_1;Quand il sont riche et puissant, ils voyagent dans avec classe.
 sequences_a03_kabine_archaeologe_waschbecken_use_1#1;[Ohi turns on the water tap, allowing the water to run shorts, the tap again.]
-spokentexts_a03_kabine_archaeologe_waschbecken_use_1_st_1;The tanks don't seem to be damaged. The water is still running.
+spokentexts_a03_kabine_archaeologe_waschbecken_use_1_st_1;Les réservoirs ne semblent pas être endommagés. L'eau coule toujours.
 sequences_a03_kabine_archaeologe_waschbecken_use_2#1;[Öhi turns the water on, makes it run briefly, then put it off again.]
 sequences_a03_kabine_archaeologe_waschbecken_used_mit_handtuch_1#2;[Ohi turns on the water tap, then takes the towel from his shoulders and keeps it under the water.]
-spokentexts_a03_kabine_archaeologe_waschbecken_used_mit_handtuch_1_st_1;It's soaking up the cold water.
+spokentexts_a03_kabine_archaeologe_waschbecken_used_mit_handtuch_1_st_1;Elle absorbe l'eau froide.
 sequences_a03_kabine_archaeologe_waschbecken_used_mit_handtuch_1#4;[Ohi puts the wet towel around his neck, just shudders and turns the water out.]
 spokentexts_a03_kabine_archaeologe_waschbecken_used_mit_handtuch_1_st_2_direction;cold, uncomfortable
 spokentexts_a03_kabine_archaeologe_waschbecken_used_mit_handtuch_1_st_2;Brrr.
 sequences_a03_kabine_archaeologe_waschbecken_used_mit_handtuch_1#6;[From now on, the towel that Ohi has be around his neck, wet.]
-spokentexts_a03_kabine_archaeologe_waschbecken_used_mit_handtuch_2_st_1;No. The towel is already wet enough.
-texts_a03_kabine_archaeologe_eckschrank_mo_ex_2;Explore the corner cupboard
-texts_a03_kabine_archaeologe_eckschrank_mo_use_1__3;Open the corner cupboard
-spokentexts_a03_kabine_archaeologe_eckschrank_ex_1_st_1;These compartments are like little hotel rooms. You could spend days or even weeks in here quite happily.
-spokentexts_a03_kabine_archaeologe_eckschrank_ex_2_st_1;There's a small sink under the mirror. Below that is a small cupboard where I'd expected to find a towel. No such luck, I'm afraid.
+spokentexts_a03_kabine_archaeologe_waschbecken_used_mit_handtuch_2_st_1;Non, la serviette est déjà assez mouillée.
+texts_a03_kabine_archaeologe_eckschrank_mo_ex_2;Fouiller le placard d'angle
+texts_a03_kabine_archaeologe_eckschrank_mo_use_1__3;Ouvrir le placard d'angle
+spokentexts_a03_kabine_archaeologe_eckschrank_ex_1_st_1;Ces compartiments sont comme de petites chambres d'hôtel. Vous pourriez y passer des jours voire des semaines.
+spokentexts_a03_kabine_archaeologe_eckschrank_ex_2_st_1;Il y a un petit évier sous le miroir. En dessous se trouve un petit placard où je m'attendais à trouver une serviette. Peine perdue, je le crains.
 sequences_a03_kabine_archaeologe_eckschrank_use_1#1;[Ohi opens the corner cupboard.]
-texts_a03_kabine_archaeologe_flaschen_mo_ex_1;Drink a glass of gin
+texts_a03_kabine_archaeologe_flaschen_mo_ex_1;Boire un verre de gin
 spokentexts_a03_kabine_archaeologe_flaschen_ex_1_st_1_direction;sarcastic
-spokentexts_a03_kabine_archaeologe_flaschen_ex_1_st_1;My situation isn't THAT desperate.
-texts_a03_kabine_archaeologe_koffer_mo_ex_1;Examine the suitcase
-texts_a03_kabine_archaeologe_koffer_mo_use_1;Search the suitcase
-spokentexts_a03_kabine_archaeologe_koffer_ex_1_st_1;Professor Lucien's suitcase.
-spokentexts_a03_kabine_archaeologe_koffer_ex_1_st_2;Unlike the leather bag, he left it behind when he fled the train with the other passengers.
-spokentexts_a03_kabine_archaeologe_koffer_use_1_st_1;I don't think there's anything interesting in it. Whatever the professor is hiding from me, it's in his leather bag.
-texts_a03_kabine_archaeologe_spiegel_mo_ex_1;Look into the mirror
+spokentexts_a03_kabine_archaeologe_flaschen_ex_1_st_1;Ma situation n'est pas SI désespérée.
+texts_a03_kabine_archaeologe_koffer_mo_ex_1;Examiner la valise
+texts_a03_kabine_archaeologe_koffer_mo_use_1;Fouiller la valise
+spokentexts_a03_kabine_archaeologe_koffer_ex_1_st_1;La valise du professeur Lucien.
+spokentexts_a03_kabine_archaeologe_koffer_ex_1_st_2;Contrairement au sac en cuir, il l'a laissé derrière quand il a fui le train avec les autres passagers.
+spokentexts_a03_kabine_archaeologe_koffer_use_1_st_1;Je ne pense pas qu'il y ait quelque chose d'intéressant dedans. Peu importe ce que le professeur me cache, c'est dans son sac de cuir.
+texts_a03_kabine_archaeologe_spiegel_mo_ex_1;Regarder dans le miroir
 sequences_a03_kabine_archaeologe_spiegel_ex_1#1;[Ohi looks in the mirror.]
-spokentexts_a03_kabine_archaeologe_spiegel_ex_1_st_1;What have you got yourself into?
-spokentexts_a03_kabine_archaeologe_spiegel_ex_1_st_2;Couldn't you have just let it be?
-spokentexts_a03_kabine_archaeologe_spiegel_ex_1_st_3;But no, of course not. And now you're here. On an out-of-control train in the Alps, responsible for the life of a child who'll be doomed without you.
-spokentexts_a03_kabine_archaeologe_spiegel_ex_1_st_4;What are you waiting for, eh? Time to save the day!
-texts_a03_kabine_archaeologe_tuer_zum_grossraumwagen_mo_leave_1;Go outside
+spokentexts_a03_kabine_archaeologe_spiegel_ex_1_st_1;Pourquoi es-tu entré là-dedans ?
+spokentexts_a03_kabine_archaeologe_spiegel_ex_1_st_2;Tu ne pouvais pas juste laisser faire? 
+spokentexts_a03_kabine_archaeologe_spiegel_ex_1_st_3;Mais non, bien sûr que non. Et maintenant tu es ici. Sur un train fou dans les Alpes, responsable de la vie d'un enfant qui va être condamnée sans toi.
+spokentexts_a03_kabine_archaeologe_spiegel_ex_1_st_4;Qu'est-ce que tu attends, hein ? Il est temps de sortir de cette situation !
+texts_a03_kabine_archaeologe_tuer_zum_grossraumwagen_mo_leave_1;Sortir
 sequences_a03_kabine_archaeologe_leave_1#1;[Ohi is leaving the cabin without the ax]
 sequences_a03_kabine_archaeologe_leave_2#1;[Ohi takes the Axe and leaves the cabin]
 sequences_a03_kabine_archaeologe_seq_ohi_betritt_die_kabine_mit_axt#0;[Ohi enters the cabin with an axe, and puts it then next  to the cabin door]
 sequences_a03_kabine_archaeologe_seq_ohi_betritt_die_kabine_ohne_axt#0;[Ohi enters the cabin without an ax]
 sequences_a03_kabine_archaeologe_tuer_zum_grossraumwagen_leave_1#1;[Ohi leaves the cabin.]
-texts_a03_kabine_baronin_handtuch_mo_ex_1;Examine the towel
-texts_a03_kabine_baronin_handtuch_mo_inventar_1;Towel
-texts_a03_kabine_baronin_handtuch_mo_inventar_2;Wet towel
-texts_a03_kabine_baronin_handtuch_mo_take_1__2;Take the towel
+texts_a03_kabine_baronin_handtuch_mo_ex_1;Examiner la serviette
+texts_a03_kabine_baronin_handtuch_mo_inventar_1;Serviette
+texts_a03_kabine_baronin_handtuch_mo_inventar_2;Serviette humide
+texts_a03_kabine_baronin_handtuch_mo_take_1__2;Prendre la serviette
 sequences_a03_kabine_baronin_handtuch_ex_1#1;[Ohi touched the towel.]
-spokentexts_a03_kabine_baronin_handtuch_ex_1_st_1;A large, soft towel. Very comfortable!
-spokentexts_a03_kabine_baronin_handtuch_ex_3_st_1;The towel is soaked. It's cold, heavy and the water is slowly running down my back.
-spokentexts_a03_kabine_baronin_handtuch_ex_3_st_2;I hope it's worth it.
-spokentexts_a03_kabine_baronin_handtuch_ex_4_st_2;But it's my only protection from the smoke and flying sparks.
-spokentexts_a03_kabine_baronin_handtuch_take_1_st_1;I'll wrap it around my neck to keep my hands free.
+spokentexts_a03_kabine_baronin_handtuch_ex_1_st_1;Une grande serviette douce. Très confortable !
+spokentexts_a03_kabine_baronin_handtuch_ex_3_st_1;La serviette est mouillée. Elle est froide, lourde et de l'eau coule lentement dans mon dos.
+spokentexts_a03_kabine_baronin_handtuch_ex_3_st_2;J'espère que ça vaut le coup.
+spokentexts_a03_kabine_baronin_handtuch_ex_4_st_2;Mais c'est ma seule protection contre la fumée et les étincelles.
+spokentexts_a03_kabine_baronin_handtuch_take_1_st_1;Je vais l'enrouler autour de mon cou pour garder mes mains libres.
 sequences_a03_kabine_baronin_handtuch_take_1#2;[Ohi takes the towel, putting it around his neck.]
 sequences_a03_kabine_baronin_handtuch_take_1#3;[From now on Ohi runs with the dry towel around his neck.]
-texts_a03_grossraumwagon_axt_mo_2;Take the axe
-texts_a03_grossraumwagon_axt_mo_inventar;Axe
-texts_a03_grossraumwagon_axt_mo_take_1-4;Take the axe
-spokentexts_a03_grossraumwagon_axt_ex_1_st_1;Not very handy. On the other hand, one does need a certain heft to accomplish anything with an axe.
-spokentexts_a03_grossraumwagon_axt_ex_2_st_1;I'll take the axe with me when I explore the rest of the train. It's just in the way here.
+texts_a03_grossraumwagon_axt_mo_2;Prendre la hache
+texts_a03_grossraumwagon_axt_mo_inventar;Hache
+texts_a03_grossraumwagon_axt_mo_take_1-4;Prendre la hache
+spokentexts_a03_grossraumwagon_axt_ex_1_st_1;Pas très pratique. D'un autre coté, on a besoin d'une certaine stature pour manier une pareille hache.
+spokentexts_a03_grossraumwagon_axt_ex_2_st_1;Je prendrais cette hache quand je explorerais le reste du train. Elle est très bien là.
 sequences_a03_grossraumwagon_axt_take_1#1;[Ohi takes the ax from the wall, from now on in his left Hand]
 sequences_a03_grossraumwagon_axt_take_2#1;[Ohi takes the ax from the table, from now on in his left Hand]
 sequences_a03_grossraumwagon_axt_take_3#1;[Ohi takes the ax from the bar, from now on in his left Hand]
 sequences_a03_grossraumwagon_axt_take_4#1;[Ohi takes the ax from beside the door, from now on in his left Hand]
 sequences_a03_grossraumwagon_axt_take_5#1;[Ohi takes the ax from the wall]
-spokentexts_a03_grossraumwagon_axt_take_5_st_1;An axe for emergencies. If this isn't an emergency, I don't know what is.
+spokentexts_a03_grossraumwagon_axt_take_5_st_1;Une hache pour les urgences. Si ce n'est pas une urgence, je ne sais pas ce que c'est.
 sequences_a03_grossraumwagon_axt_use_1_auf_tresen_ablegen#1;[Ohi puts the ax on the bar.]
 sequences_a03_grossraumwagon_axt_use_2_auf_tisch_ablegen#1;[Ohi puts the ax down on the table. ]
 sequences_a03_grossraumwagon_axt_use_3_an_wand_lehnen#1;[Ohi leans the Axe against the wall.]
 sequences_a03_grossraumwagon_axt_use_4_neben_der_tuer_anlehnen#1;[Ohi leans the ax to the door. ]
-texts_a03_grossraumwagon_buch_mo_ex_1;Examine the book
-texts_a03_grossraumwagon_buch_mo_inventar;Book
-spokentexts_a03_grossraumwagon_buch_ex_1_st_1;My book! It must have fallen off the table during the explosion!
-spokentexts_a03_grossraumwagon_buch_ex_1_st_2;I'll take it with me.
+texts_a03_grossraumwagon_buch_mo_ex_1;Examiner le livre
+texts_a03_grossraumwagon_buch_mo_inventar;Livre
+spokentexts_a03_grossraumwagon_buch_ex_1_st_1;Mon livre ! Il a dû tomber de la table lors de l'explosion !
+spokentexts_a03_grossraumwagon_buch_ex_1_st_2;Je le prends avec moi.
 sequences_a03_grossraumwagon_buch_ex_1#3;[Ohi picks up the book from the floor and puts it on.]
-texts_a03_grossraumwagon_fenster_mo_ex_1;Look out the window
-spokentexts_a03_grossraumwagon_fenster_ex_1_st_1;You can hardly see out the window because of the smoke!
-spokentexts_a03_grossraumwagon_fenster_ex_1_st_2;I don't know how much coal is burning on the tender up there. But it must be tons. I can't do anything about the fire.
-spokentexts_a03_grossraumwagon_fenster_ex_2_st_1;A steam locomotive is controlled chaos. Fire, hot steam, enormous pressure. All kept in check by tons of steel.
-spokentexts_a03_grossraumwagon_fenster_ex_2_st_2;A runaway steam locomotive is a bomb waiting to explode!
-spokentexts_a03_grossraumwagon_fenster_ex_3_st_1;The engine is slowly pulling away. The smoke is fading.
-spokentexts_a03_grossraumwagon_fenster_ex_3_st_2;It could take a while for the train to come to a stop. Especially since it's on a downward slope.
-texts_a03_grossraumwagon_notbremse_mo_ex_2;Examine the emergency brake
-texts_a03_grossraumwagon_notbremse_mo_use;Pull the emergency brake
-spokentexts_a03_salonwagen__notbremse_ex_1_st_1;The emergency brake! That could be our chance.
+texts_a03_grossraumwagon_fenster_mo_ex_1;Regarder par la fenêtre
+spokentexts_a03_grossraumwagon_fenster_ex_1_st_1;Vous pouvez à peine voir par la fenêtre à cause de la fumée !
+spokentexts_a03_grossraumwagon_fenster_ex_1_st_2;Je ne sais pas combien de charbon brûle là-haut. Mais il doit y avoir des tonnes. Je ne peux rien faire pour l'incendie.
+spokentexts_a03_grossraumwagon_fenster_ex_2_st_1;Une locomotive à vapeur contrôle le chaos. Du feu, de la vapeur, une pression énorme. Tous gardé en respect par tonnes d'acier.
+spokentexts_a03_grossraumwagon_fenster_ex_2_st_2;Une locomotive à vapeur qui s'emballe est une bombe prête à exploser !
+spokentexts_a03_grossraumwagon_fenster_ex_3_st_1;Le moteur s'éloigne lentement. La fumée se dissipe.
+spokentexts_a03_grossraumwagon_fenster_ex_3_st_2;Ça pourrait prendre un certain temps pour que le train s'immobilise. Surtout maintenant qu'il est sur une pente descendante.
+texts_a03_grossraumwagon_notbremse_mo_ex_2;Examiner le frein d'urgence
+texts_a03_grossraumwagon_notbremse_mo_use;Tirer le frein d'urgence
+spokentexts_a03_salonwagen__notbremse_ex_1_st_1;Le frein d'urgence ! Cela pourrait être notre chance.
 spokentexts_a03_salonwagen__notbremse_ex_2_st_1_direction;tired, frustrated
-spokentexts_a03_salonwagen__notbremse_ex_2_st_1;The emergency brake either broke in the explosion, or was sabotaged. In any case, it's not working.
+spokentexts_a03_salonwagen__notbremse_ex_2_st_1;Le frein d'urgence doit s'être cassé dans l'explosion, ou a été saboté. En tout cas, il ne marche pas.
 spokentexts_a03_grossraumwagon_notbremse_ex_2_st_2_direction;uncertain
-spokentexts_a03_grossraumwagon_notbremse_ex_2_st_2;I... I think I should try to uncouple the engine. I mean, how else can I stop the train?
+spokentexts_a03_grossraumwagon_notbremse_ex_2_st_2;Je... Je pense que je devrais essayer de découpler la loco. En d'autre termes, comment puis-je arrêter le train ?
 sequences_a03_grossraumwagon_notbremse_use_1#1;[Ohi puts a hand on the emergency brake, with the other he is holding itself. He closes his eyes, flexes his body. Then he pulls the emergency brake abruptly down ... nothing happens. He opens his eyes, tried two more times then he strikes frustrated against the brake.]
-spokentexts_a03_salonwagen__notbremse_use_1_st_2;Damn!
-spokentexts_a03_salonwagen__notbremse_use_1_st_3;That makes things extremely complicated.
-spokentexts_a03_salonwagen__notbremse_use_1_st_4;How can I stop the train? 
-texts_a03_grossraumwagon_tuer_zum_salonwagen_mo_leave_1;Go into the saloon car.
+spokentexts_a03_salonwagen__notbremse_use_1_st_2;Bon sang !
+spokentexts_a03_salonwagen__notbremse_use_1_st_3;Cela rend les choses bien plus compliquées.
+spokentexts_a03_salonwagen__notbremse_use_1_st_4;Comment puis-je arrêter le train ?
+texts_a03_grossraumwagon_tuer_zum_salonwagen_mo_leave_1;Allez dans le wagon-salon.
 sequences_a03_grossraumwagon_tuer_zum_salonwagen_leave_1#1;[Ohi enters the saloon wagon.]
-texts_a03_grossraumwagon_tuer_zum_tender_mo_betachten_1-6;Examine the door
-texts_a03_grossraumwagon_tuer_zum_tender_mo_use_1-3;Open the door
-texts_a03_grossraumwagon_tuer_zum_tender_mo_use_4-5;Crawl out
-texts_a03_grossraumwagon_tuer_zum_tender_mo_used_mit_axt;Break the door
-texts_a03_grossraumwagon_tuer_zum_tender_mo_used_mit_handtuch_01;Go outside with the towel
-texts_a03_grossraumwagon_tuer_zum_tender_mo_used_mit_handtuch_1-3;Use the door handle with the towel
-spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_1_st_1;This door leads to the tender. It will be uncomfortable, no doubt, but I don't think that the flames are directly behind the door.
-spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_1_st_2;I suppose there's a relatively safe place in the lee of the tender where one could stay a little while.
-spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_2_st_1;The axe works as a wedge to keep the door closed. The smoke isn't just toxic it also consists of coal particles and flying sparks.
-spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_2_st_2;If any of it gets into my lungs and eyes, I'll be out of action!
-spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_3_st_1;I must protect myself from the smoke before trying to open the door again.
-spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_4_st_1;If I go outside with a towel around my head, it'd eventually catch fire due to all the sparks flying around.
-spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_4_st_2;I don't want to risk what little hair I have left!
-spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_5_st_1;The wet towel around my head will protect me. With headgear like this, I can dare to plunge into the inferno.
-spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_6_st_1;I'm glad I don't have to go out there anymore. One of the most uncomfortable places I have ever been.
-spokentexts_a03_grossraumwagon_tuer_zum_tender_use_1_st_1;I need to stop the train as quickly as possible. There's nothing I can do about the coal fire!
+texts_a03_grossraumwagon_tuer_zum_tender_mo_betachten_1-6;Examiner la porte
+texts_a03_grossraumwagon_tuer_zum_tender_mo_use_1-3;Ouvrir la porte
+texts_a03_grossraumwagon_tuer_zum_tender_mo_use_4-5;Ramper
+texts_a03_grossraumwagon_tuer_zum_tender_mo_used_mit_axt;Briser la porte
+texts_a03_grossraumwagon_tuer_zum_tender_mo_used_mit_handtuch_01;Sortir avec la serviette
+texts_a03_grossraumwagon_tuer_zum_tender_mo_used_mit_handtuch_1-3;Utiliser la serviette avec la poignée de la porte 
+spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_1_st_1;Cette porte mène a l'attelage. Ça va pas être confortable, sans aucun doute, mais je ne crois pas que les flammes sont directement derrière la porte.
+spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_1_st_2;Je suppose qu'il y a un endroit relativement sûr à l'abri de tout ça où l'on pourrait rester un petit moment.
+spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_2_st_1;La hache fonctionne comme un coin pour garder la porte fermée. La fumée n'est pas toxique, elle est composée de particules de charbon et d'étincelles volantes.
+spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_2_st_2;Si tout ça me rentre dans les poumons et les yeux, je serai hors de combat !
+spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_3_st_1;Je dois me protéger de la fumée avant d'essayer d'ouvrir à nouveau la porte.
+spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_4_st_1;Si je sors avec une serviette autour de ma tête, elle pourrait prendre feu en raison de toutes les étincelles qui volent.
+spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_4_st_2;Je ne veux pas risquer de perdre le peu de cheveux qu'il me reste !
+spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_5_st_1;La serviette humide autour de ma tête va me protéger. Avec une coiffe pareille, je peux oser plonger dans l'enfer.
+spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_6_st_1;Je suis heureux de ne plus avoir a y retourner. Un des endroits les plus inconfortables que j'aie jamais vues.
+spokentexts_a03_grossraumwagon_tuer_zum_tender_use_1_st_1;J'ai besoin d'arrêter le train le plus rapidement possible. Il n'y a rien que je puisse faire pour le feu de charbon !
 spokentexts_a03_grossraumwagon_tuer_zum_tender_use_2_st_3_direction;exhales
-spokentexts_a03_grossraumwagon_tuer_zum_tender_use_2_st_3;Ffff! Here goes.
+spokentexts_a03_grossraumwagon_tuer_zum_tender_use_2_st_3;Pffff ! C'est parti.
 sequences_a03_grossraumwagon_tuer_zum_tender_use_2#4;[Ohi grabs the latch, pulls the hand back quickly.]
-spokentexts_a03_grossraumwagon_tuer_zum_tender_use_2_st_4;Ouch! Hot!
-spokentexts_a03_grossraumwagon_tuer_zum_tender_use_2_st_5;If the emergency brake doesn't work, I'll have to try something else. 
-spokentexts_a03_grossraumwagon_tuer_zum_tender_use_3_st_1;The handle is already too hot to touch!
+spokentexts_a03_grossraumwagon_tuer_zum_tender_use_2_st_4;Aïe ! Ça brûle !
+spokentexts_a03_grossraumwagon_tuer_zum_tender_use_2_st_5;Si le frein de secours ne fonctionne pas, je vais devoir essayer autre chose.
+spokentexts_a03_grossraumwagon_tuer_zum_tender_use_3_st_1;La poignée est trop chaude !
 sequences_a03_grossraumwagon_tuer_zum_tender_use_4#2;[Ohi takes the towel with both hands. One end of the wet towel falls down his back. The other end he pulls generously over his head and holding it with one hand (he would let go of the end, it would cover him up to my chest).]
 sequences_a03_grossraumwagon_tuer_zum_tender_use_4#3;[Under his towel protection Ohi kneels down beside the Axe. He pulls away, the door swings open. At the same time he's dropping the towel. He crawls with the ax in his hand to the front, surrounded by smoke and ash.]
 sequences_a03_grossraumwagon_tuer_zum_tender_use_5#1;[Ohi raises the towel with both hands. One end of the wet towel falls down his back. The other end he pulls generously over his head.]
 sequences_a03_grossraumwagon_tuer_zum_tender_use_5#2;[Cut to the coal tender, as it goes on (from the second time the sequence is shortened).]
 spokentexts_a03_grossraumwagon_tuer_zum_tender_used_mit_axt_st_1_direction;determined
-spokentexts_a03_grossraumwagon_tuer_zum_tender_used_mit_axt_st_1;OK. We'll do it the hard way!
+spokentexts_a03_grossraumwagon_tuer_zum_tender_used_mit_axt_st_1;D'accord. On va le faire à la dure !
 sequences_a03_grossraumwagon_tuer_zum_tender_used_mit_axt#2;[Ohi gets out the ax, aimed precisely and powerfully hits in the door at the height of the Lock. He turns the Axe back and forth until it dissolves again. Then he hits on again. This time he stands up with his upper body against the the ax until the door finally pops up.]
 sequences_a03_grossraumwagon_tuer_zum_tender_used_mit_axt#3;[Thick smoke and sparks Ohi swirl through the door in the face. Ohi coughs, turns off half and tries to protect himself with a raised arm against sparks.]
 spokentexts_a03_grossraumwagon_tuer_zum_tender_used_mit_axt_st_2_direction;cough
-spokentexts_a03_grossraumwagon_tuer_zum_tender_used_mit_axt_st_2;*cough cough* Arrgh!
+spokentexts_a03_grossraumwagon_tuer_zum_tender_used_mit_axt_st_2;*tousse tousse* Arrgh !
 sequences_a03_grossraumwagon_tuer_zum_tender_used_mit_axt#5;[Ohi grabs the door, close it again. He has forgotten that the door is still hot.]
 spokentexts_a03_grossraumwagon_tuer_zum_tender_used_mit_axt_st_3_direction;Hot
-spokentexts_a03_grossraumwagon_tuer_zum_tender_used_mit_axt_st_3;Ow!
+spokentexts_a03_grossraumwagon_tuer_zum_tender_used_mit_axt_st_3;Hou !
 sequences_a03_grossraumwagon_tuer_zum_tender_used_mit_axt#7;[Ohi takes the Axe, lays it on the ground and skin them under the door so that it acts as a wedge. Then he stands up again.]
 spokentexts_a03_grossraumwagon_tuer_zum_tender_used_mit_axt_st_4_direction;behave cough
-spokentexts_a03_grossraumwagon_tuer_zum_tender_used_mit_axt_st_4;Hhm-hhm!
+spokentexts_a03_grossraumwagon_tuer_zum_tender_used_mit_axt_st_4;Hhm-hhm !
 sequences_a03_grossraumwagon_tuer_zum_tender_used_mit_handtuch_1#2;[Ohi takes the towel from his shoulders, puts it on the right hand. Then he picks up the pawl and sahkes it ..]
 spokentexts_a03_grossraumwagon_tuer_zum_tender_used_mit_handtuch_1_st_1_direction;disappointed / angry
-spokentexts_a03_grossraumwagon_tuer_zum_tender_used_mit_handtuch_1_st_1;Locked.
+spokentexts_a03_grossraumwagon_tuer_zum_tender_used_mit_handtuch_1_st_1;Fermé.
 sequences_a03_grossraumwagon_tuer_zum_tender_used_mit_handtuch_1#4;[Ohi puts the towel back around his shoulders.]
 sequences_a03_grossraumwagon_tuer_zum_tender_used_mit_handtuch_3#1;[Siehe Benutzen 4.]
 sequences_a03_grossraumwagon_tuer_zum_tender_used_mit_handtuch_4#1;[Siehe Benutzen 5.]
-texts_a03_grossraumwagon_tuer_zur_kabine_archaeologe_mo_leave_1;Enter the archaeologist's compartment
+texts_a03_grossraumwagon_tuer_zur_kabine_archaeologe_mo_leave_1;Entrer dans le compartiment de l'archéologue
 sequences_a03_grossraumwagon_tuer_zur_kabine_archaeologe_leave_1#1;[Ohi opens the door and enters the cabin of the archaeologists.]
 sequences_a03_grossraumwagon_tuer_zur_kabine_archaeologe_leave_2#1;[Ohi enters the cabin with ax in hand]
-texts_a03_grossraumwagon_tuer_zur_kabine_baronin_mo_leave_1;Enter the baroness' compartment
+texts_a03_grossraumwagon_tuer_zur_kabine_baronin_mo_leave_1;Entrer dans le compartiment de la baronne
 sequences_a03_grossraumwagon_tuer_zur_kabine_baronin_leave_1#1;[Ohi trys to open the door of the cabin of the Baroness. But he succeeds only about 10 cm, then the door shuts again.]
-spokentexts_a03_grossraumwagon_tuer_zur_kabine_baronin_leave_1;Can't get in. I presume the baroness' luggage toppled over and is blocking the door.
+spokentexts_a03_grossraumwagon_tuer_zur_kabine_baronin_leave_1;Impossible d'y entrer, je suppose que les bagages de la baronne sont tombés et bloque la porte.
 sequences_a03_grossraumwagon_seq_a03_grossraumwagon_kabine_archaeologe_leave#0;[Ohi comes out out the cabin, the door closes behind him. The door was open.]
 sequences_a03_grossraumwagon_seq_a03_grossraumwagon_tender_leave#0;[Ohi grabs the towel from his head and stands up. The door, he has already wedged with the ax]
 sequences_a03_grossraumwagon_seq_a03_grossraumwagon_tender_leave_erstmalig#1;[Ohi pushes back one last time with the arms. Then he kneels down, takes the Axe and moves with the help of it the hot door tightly. Then he leans against it and wedged the door with an ax. He took the towel from his head and stands up.]
 spokentexts_a03_grossraumwagon_seq_a03_grossraumwagon_tender_leave_erstmalig_st_1_direction;Moaning, coughing
-spokentexts_a03_grossraumwagon_seq_a03_grossraumwagon_tender_leave_erstmalig_st_1;Oh ahh. Pff-pff. Hell could hardly be worse!
+spokentexts_a03_grossraumwagon_seq_a03_grossraumwagon_tender_leave_erstmalig_st_1;Oh ahh. Pff-pff. L'enfer ne pourrait guère être pire !
 sequences_a03_grossraumwagon_seq_a03_grossraumwagon_tender_leave_erstmalig#3;[Ohi is streching himself, is overcome by a fit of coughing and is finally back to normal.]
 sequences_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt#0;[Pressing in a lying position through the door, pulls himself with his arms forward.]
 spokentexts_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt_st_1_direction;strong cough
-spokentexts_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt_st_1;*COUGH COUGH*
+spokentexts_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt_st_1;*TOUSSE TOUSSE*
 sequences_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt#2;[Ohi grabs the door, then hooked his leg behind and enters them. He lies on his back, holding the door shut with his legs.]
 spokentexts_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt_st_2_direction;cough
-spokentexts_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt_st_2;*cough cough*
+spokentexts_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt_st_2;*tousse tousse*
 spokentexts_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt_st_3_direction;disgusted
-spokentexts_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt_st_3;Wow. That's not just smoke! I can actually taste ash!
+spokentexts_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt_st_3;Ouah. Ce n'est pas seulement de la fumée ! Je ne peux sentir des cendres dans ma bouche !
 sequences_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt#5;[Ohi gets up, place one foot before the door. Then he rips the towel off his head, stuffed it under the door and hits twice after it with his his feet.]
 sequences_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt#7;[Ohi turns around, wipes his face and through his hair, then wipes off his hands.]
-spokentexts_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt_st_5;It's time for my deputy sheriff's story!
+spokentexts_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt_st_5;C'est le moment de l'histoire de mon shérif adjoint !
 sequences_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt#9;[Ohi walks away towards saloon wagon.]
-texts_a03_salonwagen__notbremse_mo_ex_2;Examine the emergency brake
-texts_a03_salonwagen__notbremse_mo_use;Pull the emergency brake
+texts_a03_salonwagen__notbremse_mo_ex_2;Examiner le frein d'urgence
+texts_a03_salonwagen__notbremse_mo_use;Tirer le frein d'urgence
 spokentexts_a03_salonwagen__notbremse_ex_2_st_2_direction;unsure
-spokentexts_a03_salonwagen__notbremse_ex_2_st_2;I... I think I should try to uncouple the locomotive. I mean, how else can I stop the train?
+spokentexts_a03_salonwagen__notbremse_ex_2_st_2;Je... Je pense que je devrais essayer de découpler la locomotive. Pour faire simple, comment puis-je arrêter le train ?
 sequences_a03_salonwagen__notbremse_use_1#3;[Ohi turns in the direction of the boy.]
-spokentexts_a03_salonwagen__notbremse_use_1_st_1;Hold tight, Matt!
+spokentexts_a03_salonwagen__notbremse_use_1_st_1;Tiens bon, Matt !
 sequences_a03_salonwagen__notbremse_use_1#5;[Ohi puts a hand on the emergency brake, with the other he is holding itself. He closes his eyes, flexes his body. Then he pulls the emergency brake abruptly down ... nothing happens. He opens his eyes, tried two more times then he strikes frustrated against the brake.]
-texts_a03_salonwagen__tisch_mo_ex_2;Look at Matt under the table
-texts_a03_salonwagen__tisch_mo_talk_mit_1-3;Talk to Matt
-texts_a03_salonwagen__tisch_mo_use;Look under the table
-texts_a03_salonwagen__tisch_mo_used_mit_holzpistole_1__2;Give Matt the wooden pistol
-spokentexts_a03_salonwagen__tisch_ex_1_st_1;This is the table at which Lady Westmacott and Matt's mother were sitting.
-spokentexts_a03_salonwagen__tisch_ex_2a_st_1;Matt saw something. It could prove to be very useful!
-spokentexts_a03_salonwagen__tisch_ex_2a_st_2;But if I don't stop the train soon, I won't be able use that information in this lifetime.
-spokentexts_a03_salonwagen__tisch_ex_2b_st_1;Matt hasn't grasped the gravity of the situation yet, which is good as I can't take care of him AND the train.
-spokentexts_a03_salonwagen__tisch_use_1_st_1;Hello?
+texts_a03_salonwagen__tisch_mo_ex_2;Regarder Matt sous la table
+texts_a03_salonwagen__tisch_mo_talk_mit_1-3;Parler à Matt
+texts_a03_salonwagen__tisch_mo_use;Regarder sous la table
+texts_a03_salonwagen__tisch_mo_used_mit_holzpistole_1__2;Donner à Matt le pistolet en bois
+spokentexts_a03_salonwagen__tisch_ex_1_st_1;Il s'agit de la table à laquelle Lady Westmacott et la mère de Matt étaient assisses.
+spokentexts_a03_salonwagen__tisch_ex_2a_st_1;Matt a vu quelque chose. Ça pourrait s'avérer très utile !
+spokentexts_a03_salonwagen__tisch_ex_2a_st_2;Mais si je n'arrête pas le train bientôt, je ne serai pas en mesure d'utiliser cette information dans cette vie.
+spokentexts_a03_salonwagen__tisch_ex_2b_st_1;Matt n'a pas encore saisi la gravité de la situation, ce qui est bien. Je ne peux pas prendre soin de lui et du train.
+spokentexts_a03_salonwagen__tisch_use_1_st_1;Hé ho ?
 sequences_a03_salonwagen__tisch_use_1#5;[Shot of Ohi to the front, especially the area under the table.]
 sequences_a03_salonwagen__tisch_use_1#6;[Ohi bends down and fights back the tablecloth. Under the table sits the scared boy (idle). Ohi kneels to better talk to him(idle).]
 spokentexts_a03_salonwagen__tisch_use_1_st_2_direction;Oh, hello!
-spokentexts_a03_salonwagen__tisch_use_1_st_2;Hey! There you are.
+spokentexts_a03_salonwagen__tisch_use_1_st_2;Hé ! Tu es ici.
 spokentexts_a03_salonwagen__tisch_use_1_st_3_direction;slightl angry
-spokentexts_a03_salonwagen__tisch_use_1_st_3;What were you thinking?!
+spokentexts_a03_salonwagen__tisch_use_1_st_3;A quoi tu pensais ?!
 sequences_a03_salonwagen__tisch_use_1#9;[The boy looks guiltily down.]
 sequences_a03_salonwagen__tisch_use_1#10;[Cut to Ohi.]
 sequences_a03_salonwagen__tisch_use_1#11;[Ohi is slightly annoyed, but his anger dissipates slowly. He does not scold the boy.]
 spokentexts_a03_salonwagen__tisch_use_1_st_4_direction;less angry
-spokentexts_a03_salonwagen__tisch_use_1_st_4;Bah. Come out of there.
+spokentexts_a03_salonwagen__tisch_use_1_st_4;Bah. Sort de là.
 sequences_a03_salonwagen__tisch_use_1#13;[The boy looks up, but does not want to come out.]
-spokentexts_a03_salonwagen__tisch_use_1_st_5;Is he gone?
-spokentexts_a03_salonwagen__tisch_use_1_st_6;Is who gone?
-spokentexts_a03_salonwagen__tisch_use_1_st_7;The man!
+spokentexts_a03_salonwagen__tisch_use_1_st_5;Il est plus là ?
+spokentexts_a03_salonwagen__tisch_use_1_st_6;Qui ça ?
+spokentexts_a03_salonwagen__tisch_use_1_st_7;L'homme !
 sequences_a03_salonwagen__tisch_used_mit_holzpistole_1#4;[Ohi kneels down, pulls out the wooden gun.]
-spokentexts_a03_salonwagen__tisch_used_mit_holzpistole_1_st_2;Matt? Look.
+spokentexts_a03_salonwagen__tisch_used_mit_holzpistole_1_st_2;Matt ? Regarde.
 sequences_a03_salonwagen__tisch_used_mit_holzpistole_1#6;[Ohi shows Matt the gun. He looks over, looking forward and takes the gun.]
 spokentexts_a03_salonwagen__tisch_used_mit_holzpistole_1_st_3_direction;pleased
-spokentexts_a03_salonwagen__tisch_used_mit_holzpistole_1_st_3;Thanks!
-spokentexts_a03_salonwagen__tisch_used_mit_holzpistole_1_st_4;Cover me, okay?
+spokentexts_a03_salonwagen__tisch_used_mit_holzpistole_1_st_3;Merci !
+spokentexts_a03_salonwagen__tisch_used_mit_holzpistole_1_st_4;Tu me couvres, d'accord ?
 spokentexts_a03_salonwagen__tisch_used_mit_holzpistole_1_st_5_direction;military
-spokentexts_a03_salonwagen__tisch_used_mit_holzpistole_1_st_5;No problem!
+spokentexts_a03_salonwagen__tisch_used_mit_holzpistole_1_st_5;Pas de problème !
 sequences_a03_salonwagen__tisch_used_mit_holzpistole_1#10;[Ohi gets up again.]
 sequences_a03_salonwagen__tisch_used_mit_holzpistole_1#11;[From now on, Matt is sitting with a gun under the table.]
-texts_a03_salonwagen_fenster_mo_ex_1__2;Look out the window
+texts_a03_salonwagen_fenster_mo_ex_1__2;Regarder par la fenêtre
 sequences_a03_salonwagen_fenster_ex_1#2;[Ohi opens the window, put his head out and looks in the direction of travel.]
 spokentexts_a03_salonwagen_fenster_ex_1_st_1_direction;shouting against the wind
-spokentexts_a03_salonwagen_fenster_ex_1_st_1;The engine and coal tender are burning stronger and hotter! The airflow is feeding the flames.
+spokentexts_a03_salonwagen_fenster_ex_1_st_1;La locomotive et la réserve de charbon brûlent plus que jamais ! L'afflux d'air est en train de nourrir les flammes.
 sequences_a03_salonwagen_fenster_ex_1#4;[Ohi pulls his head back, closes the window.]
 spokentexts_a03_salonwagen_fenster_ex_1_st_2_direction;seriously committed
-spokentexts_a03_salonwagen_fenster_ex_1_st_2;I have to decouple the wagons immediately. Sooner or later, the engine will be blown apart!
-spokentexts_a03_salonwagen_fenster_ex_2_st_1;The boiler is under extreme pressure and there's nobody to control it. It's all up to me!
-texts_a03_salonwagen_handtasche_mo_ex_1;Examine the handbag
-texts_a03_salonwagen_handtasche_mo_take_1;Search the handbag
-spokentexts_a03_salonwagen_handtasche_ex_1_st_1;I suppose this handbag belongs to Miss Miller, Matt's mother. Lady Westmacott's bag is probably smaller... and more expensive.
+spokentexts_a03_salonwagen_fenster_ex_1_st_2;Je dois découpler les wagons immédiatement. Tôt ou tard, le moteur va volé en éclats !
+spokentexts_a03_salonwagen_fenster_ex_2_st_1;La chambre à vapeur est sous pression extrême et il n'y a personne pour la contrôler. C'est tout pour moi !
+texts_a03_salonwagen_handtasche_mo_ex_1;Examiner le sac
+texts_a03_salonwagen_handtasche_mo_take_1;Fouiller le sac
+spokentexts_a03_salonwagen_handtasche_ex_1_st_1;J'imagine que ce sac appartient à Mlle Miller, la mère de Matt. Le sac de Lady Westmacott est probablement plus petit... et plus coûteux.
 sequences_a03_salonwagen_handtasche_take_1#2;[Ohi opens the bag, and looks into it.]
 spokentexts_a03_salonwagen_handtasche_take_1_st_1_direction;triumphantly
-spokentexts_a03_salonwagen_handtasche_take_1_st_1;Aha!
+spokentexts_a03_salonwagen_handtasche_take_1_st_1;Aha !
 sequences_a03_salonwagen_handtasche_take_1#4;[Ohi takes out the wooden gun, looks at it, then puts it in his pocket.]
-texts_a03_salonwagen_holzpistole_mo_inventar;Wooden pistol
-spokentexts_a03_salonwagen_holzpistole_ex_1_st_1;Matt's wooden pistol. I'd better confiscate it.
-texts_a03_salonwagen_portemonnaie_mo_inventar;Wallet
-spokentexts_a03_salonwagen_portemonnaie_ex_1_st_1;I bought it second-hand last week. I like it because it tells a story.
-spokentexts_a03_salonwagen_portemonnaie_ex_1_st_2;A new one must have replaced it, although it's still quite okay.
-texts_a03_salonwagen_theke_mo_ex_1;Look under the counter
+texts_a03_salonwagen_holzpistole_mo_inventar;Pistolet en bois
+spokentexts_a03_salonwagen_holzpistole_ex_1_st_1;Le pistolet en bois de Matt. Je ferais mieux de le confisquer.
+texts_a03_salonwagen_portemonnaie_mo_inventar;Porte-monnaie
+spokentexts_a03_salonwagen_portemonnaie_ex_1_st_1;Je l'ai acheté d'occasion la semaine dernière. Je l'aime parce qu'il raconte une histoire.
+spokentexts_a03_salonwagen_portemonnaie_ex_1_st_2;Un nouveau doit le remplacé, mais il est encore tout à fait correct.
+texts_a03_salonwagen_theke_mo_ex_1;Regarder sous le comptoir
 sequences_a03_salonwagen_theke_ex_1#1;[Ohi takes a look behind the counter.]
-spokentexts_a03_salonwagen_theke_ex_1_st_1;Matt? Are you there?
-spokentexts_a03_salonwagen_theke_ex_1_st_2;Nothing.
-texts_a03_salonwagen_tuer_zum_grossraumwagon_mo_leave_1;Go into the next carriage 
+spokentexts_a03_salonwagen_theke_ex_1_st_1;Matt ? Tu es là ?
+spokentexts_a03_salonwagen_theke_ex_1_st_2;Rien.
+texts_a03_salonwagen_tuer_zum_grossraumwagon_mo_leave_1;Aller dans le wagon suivant
 sequences_a03_salonwagen_seq_leave_ohne_dialog_mit_matt#1;[Ohi hears a cough, and it looks to the sound rather than get out of the wagon]
 sequences_a03_salonwagen_seq_leave_ohne_dialog_mit_matt#2;[He looks around, searching and goes then to the table]
-spokentexts_a03_salonwagen_seq_leave_ohne_dialog_mit_matt_st_1;Matt?!
+spokentexts_a03_salonwagen_seq_leave_ohne_dialog_mit_matt_st_1;Matt ?!
 sequences_a03_salonwagen_seq_leave_ohne_dialog_mit_matt#4;[Ohi lifts the tablecloth up and looks at the boy]
-spokentexts_a03_salonwagen_seq_leave_ohne_dialog_mit_matt_st_2;What on earth are you doing there?!
+spokentexts_a03_salonwagen_seq_leave_ohne_dialog_mit_matt_st_2;Qu'est-ce que tu fais par terre ?!
 sequences_a03_salonwagen_seq_leave_ohne_dialog_mit_matt#8;[The boy looks guiltily down.]
 sequences_a03_salonwagen_seq_leave_ohne_dialog_mit_matt#9;[Cut to Ohi.]
 sequences_a03_salonwagen_seq_leave_ohne_dialog_mit_matt#10;[Öhi is slightly annoyed, but his anger dissipates slowly. He don't want to scold the boy.]
 sequences_a03_salonwagen_seq_leave_ohne_dialog_mit_matt#12;[The boy looks up, but does not want to come out.]
 sequences_a03_salonwagen_seq_leave_ohne_dialog_mit_matt#16;[Dialogue with the boy starts]
 sequences_a03_salonwagen_tuer_zum_grossraumwagon_leave_1#1;[Ohi walks through the door in the direction of the big Wagon.]
-texts_a03_salonwagen_tuer_zum_uebergang_mo_leave_1;Go outside
+texts_a03_salonwagen_tuer_zum_uebergang_mo_leave_1;Sortir
 sequences_a03_salonwagen_tuer_zum_uebergang_leave_1#1;[Ohi leaves the saloon wagon in the direction of the transition.]
 spokentexts_a03_salonwagen_seq_a03_salonwagen_junge_kommt_raus_st_1;I uncoupled the locomotive at full speed! Not bad, eh?
 sequences_a03_salonwagen_seq_a03_salonwagen_junge_kommt_raus#0;[Öhi kneels down, looking under the table.]
