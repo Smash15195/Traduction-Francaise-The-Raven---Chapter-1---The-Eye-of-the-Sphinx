@@ -77,7 +77,7 @@ spokentexts_ermittler_top_a00_ermittler_kennenlernen_will_helfen_tseq_st_1;Mais 
 spokentexts_ermittler_top_a00_ermittler_kennenlernen_will_helfen_tseq_st_2;Je peux sûrement vous être utile à quelque chose ! J'ai vu un coffre-fort d'être chargés...
 spokentexts_ermittler_top_a00_ermittler_kennenlernen_will_helfen_tseq_st_3;Nous avons tout sous contrôle.
 texts_junge_top_a00_junge_einbruch_london_tseq_title;Cambriolage à Londres
-spokentexts_junge_top_a00_junge_einbruch_london_tseq_st_1;Vous ne savez de nos jours il y a des voleurs bien plus dangereux que votre vieux Corbeau ?
+spokentexts_junge_top_a00_junge_einbruch_london_tseq_st_1;Tu sais de nos jours il y a des voleurs bien plus dangereux que votre vieux Corbeau ?
 sequences_junge_top_a00_junge_einbruch_london_tseq#1;[Ohi calls the boy during he's looking around. The boy took a step to Ohi to (listen-on idle boys, whisper-idle from Ohi).]
 sequences_junge_top_a00_junge_einbruch_london_tseq#2;[The camera cuts closer.]
 spokentexts_junge_top_a00_junge_einbruch_london_tseq_st_2_direction;tells vivid and exciting
@@ -87,7 +87,7 @@ spokentexts_junge_top_a00_junge_einbruch_london_tseq_st_3;Il y a eu une explosio
 spokentexts_junge_top_a00_junge_einbruch_london_tseq_st_4_direction;tense, breathless
 spokentexts_junge_top_a00_junge_einbruch_london_tseq_st_4;Vraiment ?
 spokentexts_junge_top_a00_junge_einbruch_london_tseq_st_5_direction;tells vivid and exciting
-spokentexts_junge_top_a00_junge_einbruch_london_tseq_st_5;Ja. Et savez-vous ce que disent les journaux?
+spokentexts_junge_top_a00_junge_einbruch_london_tseq_st_5;Ja. Et sais-tu ce que disent les journaux ?
 texts_junge_top_a00_junge_geh_weg_tseq_title;Il devrait partir
 spokentexts_junge_top_a00_junge_geh_weg_tseq_st_1;Déranger un officier suisse pendant qu'il lit un roman policier est une infraction très grave !
 spokentexts_junge_top_a00_junge_geh_weg_tseq_st_2;Je pourrais t'arrêter.
@@ -233,14 +233,14 @@ spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_7_dir
 spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_7;Je... Je suis un bon observateur ! Et j'ai un sens aiguisé de la déduction !
 sequences_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler#6;[The investigator turns slightly annoyed, points to the Crime Book of Ohi on table.]
 spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_8_direction;mocking
-spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_8;Merci pour ça ?
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_8;Faut-il remercier ça ?
 sequences_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler#12;[Ohi goes a few steps towards the investigators, so they returned to normal conversational distance to each other.]
 spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_9_direction;eagerly
 spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_9;J'ai observé ces gens sur le quai à Zurich !
 spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_10_direction;eagerly
 spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_10;Je sais par exemple, que cet homme la-bas est violoniste.
 sequences_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler#15;[Scene: The investigator glances for violinists.]
-spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_11;Cela aurait été plus impressionnant si il n'avait pas eu un étui a violon à coté de lui.
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_11;Cela aurait été plus impressionnant si il n'avait pas eu un étui à violon à coté de lui.
 sequences_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler#17;[The investigator turns around and wants to leave.]
 spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_12;Et je pense que le gentleman dans le wagon suivant est un médecin allemand en route pour l'Italie pour occuper un nouveau poste.
 sequences_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler#19;[Scene: The investigators thinks for a moment. Then he turns around.]
