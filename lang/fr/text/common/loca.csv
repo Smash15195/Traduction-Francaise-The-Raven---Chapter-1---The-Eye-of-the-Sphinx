@@ -33,14 +33,14 @@ menu_bonus_gallery_artworks;Artwork galerie
 menu_bonus_gallery_3d_model_gallery;3D modèles
 menu_bonus_gallery_next;Page suivante >
 menu_bonus_gallery_previous;< Page précédente
-bonus_audio_main_theme;The Raven Main Theme
+bonus_audio_main_theme;The Raven Thème Principal
 bonus_audio_zellner_im_zug;Aventure dans les Alpes
 bonus_audio_ueberfall_im_museum;Cambriolage au Musée
 bonus_audio_zellner_schiff_aussen;Journée ensoleillée en haute mer
 bonus_audio_oehi_action;Le gendarme en action
 bonus_audio_fahrender_zug;Train fou
 bonus_audio_humpelnde_leiber;Corps flasques
-bonus_audio_salonmusik_tag;Saloon Tune
+bonus_audio_salonmusik_tag;Musique de Salon
 bonus_audio_er_ist_zurueck;Il est de retour
 bonus_audio_oehi_schiff_innen;Chasse aux indices
 bonus_audio_bei_voller_fahrt;A pleine vitesse
@@ -208,7 +208,7 @@ action_continue;Continue without
 info_storage_2;If you continue without a storage device, you won’t be able to save any progress. Do you want to continue?
 action_continue_2;Yes, continue
 info_episode_lost;The storage device containing the game data was removed.
-action_ok;Okay
+action_ok;D'accord
 startscreen_message;Appuyez sur START
 episode_end_award_1;Tout simplement parfait !
 episode_end_award_2;Magistral !
