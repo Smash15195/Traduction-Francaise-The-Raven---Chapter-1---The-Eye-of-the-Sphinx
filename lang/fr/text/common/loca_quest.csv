@@ -19,85 +19,85 @@ hint_quest04_slot03;Je ne peux pas lui rendre son pistolet, mais peut-être qu'i
 text_quest04_slot04_content;Matt a vu le violoniste ramasser quelque chose sur le quai...
 text_quest04_slot05_content;Le violoniste affirme qu'il ne sait rien sur le sac. Si seulement je pouvais jeter un oeil à l'intérieur de son étui à violon...
 hint_quest04_slot05;Je peux peut-être le distraire, de sorte qu'il laisse son étui à violon sans surveillance.
-text_quest05_slot01_titel;Uncouple freight car
-text_quest05_slot01_content;I have to uncouple the freight car before the smoke in the tunnel suffocates us.
-text_quest05_slot02_content;I can't make heads or tails of the coupling mechanism in the dark. I need more light!
-text_quest05_slot03_content;Matches won't do — I need a better source of light.
-hint_quest05_slot03;Maybe I can make a torch somehow.
-text_quest05_slot04_content;The torch isn't burning very brightly and it goes out at the slightest movement. I need to make a larger flame.
-hint_quest05_slot04;Is there wax or oil or anything of that sort around here?
-text_quest06_slot01_titel;Talk to Matt
-text_quest06_slot01_content;I found Matt, but he's terrified. I have to calm him down somehow.
-hint_quest06_slot01;If Matt feels like he can defend himself, he might calm down.
-text_quest06_slot02_titel;Uncouple engine
-text_quest06_slot02_content;The engine won't stop on its own and I can't get into the cab because of the fire.
-text_quest06_slot03_content;The door is too hot to touch with my bare hands. I need to find something that will protect me from the heat.
-text_quest06_slot04_content;The smoke and embers are too much for me. I need to protect my face.
-text_quest07_slot01_titel;Board the ship
-text_quest07_slot01_content;Legrand doesn't want to let me on the ship. I have to find some way to come along.
-hint_quest07_slot01;I should take a good look around the pier.
-text_quest07_slot02_content;The suspicious trunk that I noticed while they were loading the ship must be in the cargo hold somewhere. Is that how the Raven got on board?
-text_quest08_slot01_titel;Get free
-text_quest08_slot01_content;Who knocked me out and tied me up? And more importantly: how can I free myself?
-hint_quest08_slot01;I might be a bit tied up at the moment, but that doesn't mean I can't reach nearby objects...
-text_quest08_slot02_content;Someone seems to have shot at a crate. I think the bullet is still stuck in the wood, but I can't pry it out with my fingers.
-text_quest08_slot03_content;I can't open the door with my bare hands. Maybe I need a tool of some sort.
-text_quest08_slot04_content;The ship set sail while I was unconscious — I'm officially a passenger now...
-text_quest08_slot05_titel;Raven hunting
-text_quest08_slot05_content;A black-clad figure was sighted on the roof. Could it be the Raven?
-hint_quest08_slot05;I should look around the port side.
-text_quest09_slot01_titel;Who is the murderer?
-text_quest09_slot01_content;Still no suspect in the baroness' murder. I'll see if I can get some useful information from the other passengers.
-text_quest09_slot02_content;I'm looking for clues that could lead us to the killer.
-hint_quest09_slot02;Maybe the gunshot I heard in the cargo hold is connected to the murder.
-text_quest09_slot03_content;Legrand gave me permission to search the baroness' cabin.
-hint_quest09_slot03;I should search the cabin thoroughly for clues.
-text_quest09_slot04_content;I think there's more than just feathers stuck in the vase, but my hand's too big to reach in.
-text_quest09_slot05_content;The spot of blood on the mattress looks strange.
-hint_quest09_slot05;If I take a sample of the blood, I can examine it in more detail.
-text_quest09_slot06_content;Constable Oliver doesn't want to let me talk to the stowaway in the hold. I have to distract him somehow.
-hint01_quest09_slot06;Maybe he'll leave his place if he has to deal with bodily needs...
-hint02_quest09_slot06;Matt has a better head for pranks than I do.
-text_quest09_slot07_content;I could examine the evidence on my own in Legrand's cabin.
-hint01_quest09_slot07;Did the bullets from the cargo hold and the baroness' cabin come from the same gun?
-hint02_quest09_slot07;Why does the blood on the baroness' bed look so strange?
-text_quest09_slot08_content;Enter the sick bay
-text_quest10_slot01_titel;Search for clues
-text_quest10_slot01_content;Maybe I'll find more clues in the medical facility.
-text_quest10_slot02_content;Doctor Gebhardt tied me up and intends to kill me. I have to act fast.
-hint_quest10_slot02;Maybe I can stall for time...
-text_quest11_slot01_titel;Look around
-text_quest11_slot01_content;I should use the time before the safe arrives to have a look around.
-text_quest11_slot02_titel;Enter treasure chamber
-text_quest11_slot02_content;The treasure chamber gate is locked.  I need to find a way to open it.
-text_quest11_slot03_content;The gate's mechanism is stuck. I need to find a way to at least open it a crack.
-text_quest11_slot04_content;A single pole isn't enough to lift the gate.
-hint_quest04_slot04;Maybe there's another pole around here somewhere.
-text_quest12_slot01_titel;Enter the basement
-text_quest12_slot01_content;The display case with the Eye fell into a hole as a result of the explosion. I need to get down there and see if the stone is still there.
-text_quest12_slot02_titel;Open secret door
-text_quest12_slot02_content;I have to find out what's behind the secret door before the police arrive and open the gates.
-text_quest12_slot03_content;What does the writing on the secret door mean?
-hint_quest03_slot03;Maybe the director of the museum can translate it for me.
-text_quest12_slot04_content;“The Sons of Horus”. Man, baboon, jackal and falcon.  
-hint_quest04_slot04;I can probably find out more about the Sons of Horus in the museum.
-text_quest13_slot01_titel;Get on the train
-text_quest13_slot01_content;I have to get on the train somehow, but just walking right on is not an option.
-text_quest13_slot02_content;I can't let anyone see me getting on the train. 
-hint_quest13_slot02;As long as the policeman is talking to the doctor I won't be able to get on unseen.
-text_quest14_slot01_titel;Leave the compartment
-text_quest14_slot01_content;I need to get out of the compartment unseen — but I can't use the door as long as there are people out there.
-text_quest14_slot02_titel;Examine freight car
-text_quest14_slot02_content;The view into the freight car is blocked. I need to find a way to get a look inside.
-hint_quest14_slot02;A mirror might come in handy.
-text_quest14_slot03_titel;Open porthole on roof 
-text_quest14_slot03_content;The porthole on the roof of the freight car is bolted shut. I need tools to open it.
-text_quest14_slot04_content;The nut that fell down almost gave me away. I need to prevent it from happening again.
-hint_quest14_slot04;Maybe I can hold onto the second nut somehow so that it doesn't fall down when I unscrew the bolt.
-text_quest15_slot01_titel;Escape the trunk
-text_quest15_slot01_content;I can't get the lid of the trunk open. I need to get out of here somehow.
-text_quest15_slot02_content;I can't get more than one arm though the slot in the lid, but maybe I can reach something useful.
-text_quest15_slot03_content;I've cut the strap, but the trunk is still on the shelf.
+text_quest05_slot01_titel;Découpler le wagon de marchandises
+text_quest05_slot01_content;Je dois découpler le wagon de marchandises avant que la fumée de ce tunnel ne nous étouffe.
+text_quest05_slot02_content;Je ne peux pas me pencher sur le mécanisme de couplage dans l'obscurité. J'ai besoin de plus de lumière !
+text_quest05_slot03_content;Les allumetees ne marcheront pas - J'ai besoin d'une meilleure source de lumière.
+hint_quest05_slot03;Je devrais me faire une torche avec quelque chose.
+text_quest05_slot04_content;La torche ne brûle pas de manière assez lumineuse et elle s'éteint aux moindres mouvements. J'ai besoin d'une plus grosse flamme.
+hint_quest05_slot04;Il n'y aurait pas de la cire, de l'huile ou quoi que ce soit du même genre dans le coin ?
+text_quest06_slot01_titel;Parler à Matt
+text_quest06_slot01_content;J'ai trouvé Matt, mais il est terrifié. Je dois le réconforter.
+hint_quest06_slot01;Si Matt a l'impression qu'il peut se défendre, il devrait se calmer.
+text_quest06_slot02_titel;Découpler la locomotive
+text_quest06_slot02_content;La locomotive ne s'arrêtera pas toute seule et je ne peux pas entrer dans la cabine à cause de l'incendie.
+text_quest06_slot03_content;La porte est trop chaude pour être touchée avec mes mains nues. J'ai besoin de trouver quelque chose pour me protéger de la chaleur.
+text_quest06_slot04_content;La fumée et les cendres sont importante. Je dois protéger mon visage.
+text_quest07_slot01_titel;Monter à bord
+text_quest07_slot01_content;Legrand ne veut pas me laisser monter à bord. Je dois trouver un moyen de venir.
+hint_quest07_slot01;Je dois jeter un bon coup d'oeil autour de la jetée.
+text_quest07_slot02_content;La malle suspecte que j'ai remarqué alors qu'ils étaient en train d'être chargé sur le navire doit être dans la soute quelque part. Est-ce comme ça que le Corbeau est monté à bord ?
+text_quest08_slot01_titel;Se libérer
+text_quest08_slot01_content;Qui m'a assommé et m'a ligoté ? Et plus important encore : comment puis-je me libérer ?
+hint_quest08_slot01;Je suis peut-être ligoté pour le moment, mais cela ne veut pas dire que je ne peux pas atteindre les objets à proximité...
+text_quest08_slot02_content;Quelqu'un semble avoir tiré sur une caisse. Je pense que la balle est toujours coincé dans le bois, mais je ne peux pas la retirer avec mes doigts.
+text_quest08_slot03_content;Je ne peux pas ouvrir la porte à mains nues. J'ai besoin d'un outil quelconque.
+text_quest08_slot04_content;Le navire est partit alors que j'étais inconscient - Je suis officiellement un passager maintenant...
+text_quest08_slot05_titel;Chasse du Corbeau
+text_quest08_slot05_content;Une silhouette vêtu de noir a été aperçu sur le toit. Pourrait-elle être le Corbeau ?
+hint_quest08_slot05;Je devrais jeter un coup d'oeil à bâbord.
+text_quest09_slot01_titel;Qui est le meurtrier ?
+text_quest09_slot01_content;Toujours aucun suspect pour l'assassinat de la baronne. Je vais voir si je peux obtenir des informations auprès des autres passagers.
+text_quest09_slot02_content;Je suis à la recherche d'indices qui pourraient nous mener au tueur.
+hint_quest09_slot02;Peut-être que le coup de feu que j'ai entendu dans la soute est lié à l'assassinat.
+text_quest09_slot03_content;Legrand m'a donné la permission de fouiller la cabine de la baronne.
+hint_quest09_slot03;Je dois fouiller plus minutieusement la cabine pour trouver des indices.
+text_quest09_slot04_content;Je pense qu'il y a plus que des plumes coincées dans le vase, mais ma main est trop grande.
+text_quest09_slot05_content;La tache de sang sur le matelas semble étrange.
+hint_quest09_slot05;Si je prends un échantillon de sang, je peux l'examiner plus en détail.
+text_quest09_slot06_content;L'Officier Oliver ne veut pas me laisser parler au passager clandestin dans la soute. Je dois le distraire.
+hint01_quest09_slot06;Peut-être qu'il s'en ira s'il doit faire face à des besoins naturels...
+hint02_quest09_slot06;Matt a une plus une tête de chenapan que moi.
+text_quest09_slot07_content;Je pourrais examiner les preuves moi-même dans la cabine de Legrand.
+hint01_quest09_slot07;Les balles de la soute et de la cabine de la baronne proviennent de la même arme ?
+hint02_quest09_slot07;Pourquoi le sang sur le lit de la baronne à l'air si étrange ?
+text_quest09_slot08_content;Entrer dans l'infirmerie
+text_quest10_slot01_titel;Chercher des indices
+text_quest10_slot01_content;Peut-être que je trouverai plus d'indices dans l'infirmerie.
+text_quest10_slot02_content;Le Docteur Gebhardt m'a attaché et veut me tuer. Je dois agir vite.
+hint_quest10_slot02;J dois pouvoir gagner du temps...
+text_quest11_slot01_titel;Jeter un coup d'oeil
+text_quest11_slot01_content;Je devrais jeter un coup d'oeil avant que le coffre-fort arrive.
+text_quest11_slot02_titel;Entrer dans la Salle du trésor
+text_quest11_slot02_content;La porte de la salle du trésor est verrouillé. Je dois trouver un moyen de l'ouvrir.
+text_quest11_slot03_content;Le mécanisme de la porte est coincé. Je dois trouver au moins un moyen d'ouvrir une fissure.
+text_quest11_slot04_content;Un bâton n'est pas suffisant pour soulever la porte.
+hint_quest04_slot04;Peut-être qu'il y a un autre bâton dans les parages.
+text_quest12_slot01_titel;Entrer dans le sous-sol
+text_quest12_slot01_content;La vitrine avec l'oeil est tombé dans le trou suite à l'explosion. Je dois y aller et voir si la pierre est toujours là.
+text_quest12_slot02_titel;Ouvrir la porte secrète
+text_quest12_slot02_content;Je dois savoir ce qu'il y a derrière la porte secrète avant que les policiers arrivent et ouvrent les portes.
+text_quest12_slot03_content;Qu'est-ce que l'inscription sur la porte secrète signifie ?
+hint_quest03_slot03;Peut-être que le directeur du musée peut la traduire pour moi.
+text_quest12_slot04_content;“Les Fils d'Horus”. Man, babouin, chacal et faucon.  
+hint_quest04_slot04;Je peux probablement en apprendre plus sur les fils d'Horus dans le musée.
+text_quest13_slot01_titel;Monter dans le train
+text_quest13_slot01_content;Je dois prendre le train, mais y aller simplement ​​n'est pas une option.
+text_quest13_slot02_content;Je ne peux pas laisser quelqu'un me voir monter dans le train.
+hint_quest13_slot02;Tant que le policier parle au médecin, je ne serai pas en mesure de passer inaperçu.
+text_quest14_slot01_titel;Quitter le compartiment
+text_quest14_slot01_content;J'ai besoin de sortir du compartiment inaperçu - mais je ne peux pas utiliser la porte tant qu'il y a des gens là-bas.
+text_quest14_slot02_titel;Examiner le wagon de marchandises
+text_quest14_slot02_content;La vue dans le wagons de marchandises est bloqué. Je dois trouver un moyen de jeter un oeil à l'intérieur.
+hint_quest14_slot02;Un miroir pourrait être utile.
+text_quest14_slot03_titel;Ouvrir le hublot sur ​​le toit
+text_quest14_slot03_content;Le hublot sur le toit du wagon de marchandises est boulonné. J'ai besoin d'outils pour l'ouvrir.
+text_quest14_slot04_content;L'écrou qui est tombé m'a presque trahi. J'ai besoin d'empêcher que cela se reproduise.
+hint_quest14_slot04;Je peux peut-être tenir le second écrou pour qu'il ne tombe pas quand lorsque je dévisse le boulon.
+text_quest15_slot01_titel;S'échapper de la malle
+text_quest15_slot01_content;Je ne peux pas soulever le couvercle de la malle. Je dois sortir de là.
+text_quest15_slot02_content;Je ne peux pas passer plus qu'un bras par la fente dans le couvercle, mais je peux peut-être atteindre quelque chose d'utile.
+text_quest15_slot03_content;J'ai coupé la sangle, mais la malle est encore sur l'étagère.
 hint_quest15_slot03;If the shelf won't move, maybe I can at least move the trunk.
 text_quest15_slot04_content;The strap didn't anchor itself on the shelf, it just knocked over some objects 
 text_quest15_slot05_content;Maybe there's a way to get at the pipe.
