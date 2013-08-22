@@ -97,107 +97,107 @@ hint_quest14_slot04;Je peux peut-être tenir le second écrou pour qu'il ne tomb
 text_quest15_slot01_titel;S'échapper de la malle
 text_quest15_slot01_content;Je ne peux pas soulever le couvercle de la malle. Je dois sortir de là.
 text_quest15_slot02_content;Je ne peux pas passer plus qu'un bras par la fente dans le couvercle, mais je peux peut-être atteindre quelque chose d'utile.
-text_quest15_slot03_content;J'ai coupé la sangle, mais la malle est encore sur l'étagère.
-hint_quest15_slot03;If the shelf won't move, maybe I can at least move the trunk.
-text_quest15_slot04_content;The strap didn't anchor itself on the shelf, it just knocked over some objects 
-text_quest15_slot05_content;Maybe there's a way to get at the pipe.
-hint_quest15_slot05;Perhaps I can go “fishing”...
-text_quest15_slot06_content;I have the pipe, but I'm still stuck in the trunk.
-text_quest16_slot01_titel;Enter the baroness' cabin
-text_quest16_slot01_content;I need to get into the baroness' cabin and open her secret compartment.
-text_quest16_slot02_content;I can't just enter through the door. The risk of being caught is too great.
-text_quest16_slot03_content;The ventilation shaft would be ideal, but it's bolted shut.
-hint_quest16_slot03;There might be tools in our cabin.
-text_quest16_slot04_content;I can't apply enough force on the penny to turn it with my bare hands. I need more leverage.
-text_quest16_slot05_content;As long as there's no way to get back up without leaving clues behind, I won't climb down into the cabin.
-hint_quest16_slot05;: I need something I can use to climb down.
-text_quest16_slot06_titel;Open secret hiding spot
-text_quest16_slot06_content;The secret hiding place must be somewhere in the cabin — but where?
-text_quest16_slot07content;Adil was right. I need to enter a combination to open the secret compartment.
-text_quest16_slot08_content;Maybe the other passengers know something useful.
-hint01_quest16_slot08;Every clue might help me in conversation with the other passengers.
-hint02_quest16_slot08;Adil might also be able to help.
-text_quest17_slot01_titel;Leave the cell
-text_quest17_slot01_content;No more victims. I need to get out of this cell and warn Constable Zellner.
-hint_quest17_slot01;Maybe I can reach something outside the cell that will help me.
-text_quest17_slot02_titel;Leave the cargo hold
-text_quest17_slot02_content;Both doors in the hold are locked. There must be another way out.
-text_quest17_slot03_content;I can't remove the grid with my bare hands. Maybe there's a way to pry it off.
-hint_quest17_slot03;The crane might come in handy, but I can't attach it directly to the bars.
-text_quest18_slot01_titel;Find Doctor Gebhardt
-text_quest18_slot01_content;Where is Doctor Gebhardt? I have to find him!
-text_quest19_slot01_titel;Enter museum 
-text_quest19_slot01_content;I need to get into the museum somehow in order to obtain the hidden blueprints for the treasure chamber.
-text_quest19_slot02_content;The guard won't let me into the museum. I have to persuade him that I'm permitted to enter.
-hint_quest19_slot02;It seems like part of the museum is being renovated. Maybe I can pretend to be a craftsman.
-text_quest19_slot03_content;Damn, the name on the stolen clothes isn't on the list of craftsmen.
-text_quest19_slot04_content;I can't get in via the roof at the moment. Maybe I'll find a way once I have the blueprints.
-text_quest19_slot05_content;There's a note next to the roof on the blueprints. Maybe that's my way into the museum.
-hint01_quest19_slot05;The same symbol appears on the blueprints and the chimney. Maybe the numbers next to it also have something to do with the chimney.
-hint02_quest19_slot05;They read from right to left in Arabic-speaking countries.
-text_quest20_slot01_titel;Light in the basement
-text_quest20_slot01_content;I can't see much in the darkness of the basement. I need to get light somehow.
-text_quest20_slot02_content;Light switch, cable, socket… everything is prepared. I just need to get the rust off the light bulbs electrical contacts.
-hint_quest20_slot02;I don't have sandpaper with me, but maybe I can find a similar abrasive surface to do the job.
-text_quest20_slot03_titel;Open window
-text_quest20_slot03_content;I need to open the window, but the alarm will go off as soon as the electrical contacts are separated.
-hint_quest20_slot03;Maybe there's a way to bridge the circuit?
-text_quest20_slot04_titel;Open display case
-text_quest20_slot04_content;I'm in the treasure chamber but there's still the bulletproof glass of the display case between the Eye and me.
-hint_quest20_slot04;Maybe I can use something to break the glass.
-index_note_start_01;Le retour du corbeau ?
-a00_common_01_diary;This is the private notebook of Constable Anton Jakob Zellner. Should you find this book, please send it directly to Zurich Police Headquarters.
-a00_common_02_museum;23 Sept. 1963 \n A rather valuable ruby was stolen from the British Museum in London. One of the two legendary “Eyes of the Sphinx”. The press is in a tizzy, as one might expect. They blame the “New Raven” for besmirching the reputation of the old RavenRaven père , as the latter never harmed a soul during his exploits.
-a00_common_03_task;24 Sept. 1963 \n I did it! I stood up and told the captain right to his face that I — I! — want the assignment. He was too shocked to say no. Inspector Nicolas Legrand, here, with us, in Switzerland! An opportunity I simply cannot pass up. But just what does he want here?
-a00_common_04_newspaper_a;London Post, 11 Sept. 1963 \n Legrand Hunts “Raven's Heir”! \n According to information obtained by this newspaper, Nicolas Legrand, 33, a French citizen and Interpol Special Investigator, has taken over the case of the “Raven's Heir”. Legrand is renowned among colleagues in police forces across Europe as an incisive investigator and a relentless bloodhound. He first demonstrated his talents five years ago when the young policeman surprised the world by catching the Raven, the most wanted criminal in all of Europe. A shootout erupted while he attempted to apprehend the wily thief, resulting in the death of the burglar. 
-a00_common_04_newspaper_b;The Raven, it must be said, was greatly esteemed by the public for his clever, daring robberies. \n A copycat criminal has plagued us for several months now — though the imitator leaves raven feathers at the scenes of his crimes, his thefts exhibit none of the original Raven's refinement and gamesmanship. The last three robberies have resulted in a total of five casualties, one of them severely injured, though by the grace of God no deaths. \n Scotland Yard, Interpol and Inspector Legrand could not be reached for comment. 
-index_note_inspektor_01;Inspector Nicolas Legrand
-a00_inspektor_dialog_01;Legrand looks different in person. Older, more worn. He's still a successful detective. But there are rumors that his methods in recent years have become, shall we say, reckless.
-a05_inspektor_note_inWater_01;He wants to find the Raven at all costs. He's willing to risk his career to do so. He could simply rest on his laurels until he retires. Yet that's the last thing he'd consider. He needs to prove himself. A truly awe-inspiring opponent. And as an ally...  
-a05_inspektor_raven_back_01;Legrand believes he may have shot the wrong man in Paris all those years ago! He thinks it's possible that the old Raven is still alive — and that he's returned!
-a07_inspektor_writer_ta_inspektor_01;Lady Westmacott says that Legrand has a driven look. I noticed it as well. This hunt for the Raven — it's not just a job for him. It's something more... 
-a07_inspektor_drugs_01;I caught Legrand injecting himself with something. Some kind of stimulant. Might explain his mood swings.
-a10_inspektor_a10_start_01;Legrand seems convinced that Dr. Gebhardt was the Raven — and the old Raven, at that. Something doesn't sit right with me — Legrand let himself be persuaded too easily...
-a11_inspektor_not_ambassy_01;Legrand said he'd go to the French embassy. But Constable Oliver said that wasn't the case. One of them is lying, that's clear — but why?
-index_note_legrands_trap_01;Legrand's trap
-a00_legrands_trap_talkto_01;Legrand seems to be laying a trap for the new Raven. I should try to find out more about his plans...
-a01_legrands_trap_wagon_01;Inspector Legrand and Constable Robert Oliver of Scotland Yard are guarding a safe in the freight car. Will the Raven really allow himself to be lured in? And even then, will the two of them be able to catch him? I have my doubts...
-a02_legrands_trap_bomb_01;A bomb! There was a bomb in the safe! \n He very nearly blew us all to smithereens, the damned criminal! \n Legrand blames himself for not having checked the cashbox. But I don't think he's right to do so. The Raven must have planted the bomb in the box before it was placed in the safe at the bank — an incredible feat! And the letter — how did he manage to place the letter on the safe with three people standing nearby? \n The purpose of the attack is clear enough, though. The Raven wanted Legrand out of the way in order to be able to swipe the second Eye at his leisure. But he's achieved just the opposite — Legrand won't give up. That's obvious. And I, too, have a new reason to bring that criminal to justice!
-a05_legrands_trap_terrorist_01;Constable Oliver accuses me of planting the letter. He says that only he, Inspector Legrand and I were present... He does have a point there...
-index_note_fiddler_01;The Violinist
-index_note_fiddler_02;The Violinist (David Kreutzer)
-a01_fiddler_whoishe_01;There's a man with a violin case sitting in the saloon car. \n He claims to be a soloist. Seems to be rather worse for the wear. His hand shakes. \n On his way to Venice, he says. Then on to Cairo by ship to give a concert at the Egyptian Museum.
-a01_fiddler_wallet_01;He took advantage of the opportunity and pocketed the purse. Seems to have money trouble. To say nothing of questionable morals. A dangerous combination.
-a01_fiddler_writer_ta_fiddler_01;Lady Westmacott considers Kreutzer to be the sort of man who leaches off of others.
-a07_fiddler_pistol_01;Kreutzer claims he was drunk last night and no longer recalls what transpired. The murder weapon belongs to him. A Luger 08. Is he really such a drunkard? Or is it just an act? And then there's the possibility that someone's trying to pin it all on him. That would explain why they didn't toss the Luger into the sea — to cast suspicion on the violinist.
-index_note_indy_01;Professor Edgar Lucien
-a01_indy_first_talk_01;I made the acquaintance of Professor Lucien from London's British Museum. He claims that the robbery at the museum hardly affected him. I don't believe him. He seems rather nervous.
-a01_indy_baroness_ta_indy_01;Baroness von Trebitz said that Professor Lucien is an Egyptologist and also head of the museum's Egyptian department. The stolen Eye of the Sphinx was under his purview. He mentioned none of that to me. He lied to me, in fact. What's he hiding?
-a07_indy_forecastle_01;Professor Lucien seems to feel something for Ms. Miller. Even his nerves seem calmer... Or they did until I made it clear that there may still be a thief and a murderer on board. At that he quickly took his leave and went to his cabin.
-a10_indy_eye_01;The good professor took possession of the Eye of the Sphinx in London and hid it. He was afraid that the safe was not, in fact, safe. Brave, but foolish. If someone had got wind of what he'd done, it would have been all too easy to get the jewel from him. \n But that certainly would explain why the professor was so nervous on the train and on the ship. And I can cross him off my list of suspects. He'd already stolen the gem, in effect — if he really wanted it for himself, he wouldn't have returned it.
-index_note_closed_door_01;The locked compartment
-a01_closed_door_01;The door to Professor Lucien's compartment is locked. From the outside? Or from the inside? And who locked it in the first place?
-a01_closed_door_open_window_01;I think the door was locked from the inside and that whoever locked it escaped through the window. If I'm right, then there really is a thief on the train.
-a01_closed_door_button_01;I found a button in the compartment. Might be a clue. Or it might be nothing.
-index_note_butler_01;James the Butler
-a01_butler_first_talk_01;Baroness von Trebitz and her butler have their own luxury compartment on the train. In my considered opinion, though, there's not a compartment on any train in the world large enough to share with the baroness. Her butler James must have the patience of a saint.
-a01_butler_wound_01;James suffered an injury to his right arm. Says it's an old war wound. Seems like the arm isn't completely lame, but he can't move it much. He makes do as best he can. 
-a07_butler_staircase_talk_01;James is worried about the consequences for his career if the murderer isn't caught. The baroness' death in itself doesn't seem to concern him much. Possibly because he's only been in her service for a couple of months.
-index_note_missing_wallet_01;Missing purse
-a01_missing_wallet_first_01;A missing purse — not exactly the case of the century. And I can't imagine that the Raven's somehow mixed up in it. All the same, I'm a police officer and I really should make an effort to find the purse.
-a01_missing_wallet_found_01;I suspect the baroness lost her purse and that Kreutzer, the violinist, found and pocketed it. Or could he be a pickpocket? Whatever the case may be, he's committed a crime.
-a01_missing_wallet_checked_01;I couldn't resist taking a peek in the purse. Shouldn't have, of course. It's hardly my place as a representative of the state to go riffling through other people's things. And it didn't reveal any new clues.
-index_note_baroness_01;Baroness von Trebitz
-a01_baroness_first_01;The baroness seems accustomed to being the center of attention. A trying person in my estimation. But also a generous philanthropist. She travels the world, supporting museums and galleries. It's she who's financing the exhibition in Cairo: the first time in centuries that both Eyes of the Sphinx will be displayed together. 
-a07_baroness_dead_01;Baroness von Trebitz has been murdered. Terrible. The first corpse I've seen up close. She was lying in a pool of her own blood on her bed. Even though I could hardly stand at the time, it's a sight I'll never forget.
-a07_baroness_butler_talk_01;The baroness was an alcoholic and a diabetic. And yet she never went to a doctor. Seems as though she had something of an aversion to the people dressed in white. She was rather disorganized and, according to her butler, the mess of photos in her cabin was her own doing.
-a07_baroness_diary_01;The baroness suffered a heavy loss. She wrote of nightmares in her diary and she carried the past with her in her many photographs. I suspect her family was killed in the war.
-a07_baroness_why_01;I don't know what the doctor's motive is, but I suspect it's tied up with their mutual past.
+text_quest15_slot03_content;J'ai coupé la sangle, mais la malle est encore sur le plateau.
+hint_quest15_slot03;Si le plateau ne bouge pas, je peux peut au moins déplacer la malle.
+text_quest15_slot04_content;La sangle n'est pas ancrée sur le plateau, elle cogne sur d'autres objets
+text_quest15_slot05_content;Il y a peut-être un moyen pour avoir un tuyaux.
+hint_quest15_slot05;Je peux peut-être aller “pêcher”...
+text_quest15_slot06_content;J'ai le tuyau, mais je suis toujours coincé dans la malle.
+text_quest16_slot01_titel;Entrer la cabine de la baronne
+text_quest16_slot01_content;J'ai besoin d'entrer dans la cabine de la baronne et d'ouvrir son compartiment secret.
+text_quest16_slot02_content;Je ne peux pas entrer par la porte. Le risque d'être pris est trop grand.
+text_quest16_slot03_content;Le conduit de ventilation serait idéal, mais il est boulonné.
+hint_quest16_slot03;Il y a peut-être des outils dans notre cabine.
+text_quest16_slot04_content;Je ne peux pas appliquer une force suffisante sur le pen pour le tourner à mains nues. J'ai besoin de plus de prise.
+text_quest16_slot05_content;Tant qu'il n'y a aucun moyen de repartir sans laisser d'indices derrière, je ne descendrais pas dans la cabine.
+hint_quest16_slot05;: J'ai besoin de quelque chose pour descendre.
+text_quest16_slot06_titel;Ouvrir la cachette secrète
+text_quest16_slot06_content;La cachette secrète doit être quelque part dans la cabine - mais où ?
+text_quest16_slot07content;Adil avait raison. J'ai besoin d'entrer une combinaison pour ouvrir le compartiment secret.
+text_quest16_slot08_content;Peut-être que les autres passagers savent quelque chose.
+hint01_quest16_slot08;Chaque indice peuvent m'aider pour une conversation avec les autres passagers.
+hint02_quest16_slot08;Adil pourrait également être en mesure d'aider.
+text_quest17_slot01_titel;Quitter la cellule
+text_quest17_slot01_content;Plus de victimes. Je dois sortir de cette cellule et avertir l'Offcier Zellner.
+hint_quest17_slot01;Je peux peut-être atteindre quelque chose en dehors de la cellule qui m'aidera.
+text_quest17_slot02_titel;Sortir de la soute
+text_quest17_slot02_content;Les deux portes de la soute sont verrouillées. Il doit y avoir un autre moyen de sortir.
+text_quest17_slot03_content;Je ne peux pas retirer la grille à mains nues. Peut-être qu'il y a un moyen de l'arracher.
+hint_quest17_slot03;La grue peut être utile, mais je ne peux pas l'attacher directement aux barreaux.
+text_quest18_slot01_titel;Trouver le docteur Gebhardt
+text_quest18_slot01_content;Où est le docteur Gebhardt ? Je dois le trouver !
+text_quest19_slot01_titel;Entrer dans le musée
+text_quest19_slot01_content;J'ai besoin d'entrer dans le musée, afin d'obtenir les plans cachés de la salle du trésor.
+text_quest19_slot02_content;Le gardien ne veut pas me laisser entrer dans le musée. Je dois le convaincre que j'y suis autorisé.
+hint_quest19_slot02;Il semble qu'une partie du musée est en cours de rénovation. Je pourrais faire semblant d'être un artisan.
+text_quest19_slot03_content;Mince, le nom sur les vêtements volés n'est pas sur la liste des artisans.
+text_quest19_slot04_content;Je ne peux pas entrer par le toit pour le moment. Peut-être que je trouverai un moyen une fois que j'aurai les plans.
+text_quest19_slot05_content;Il y a une note à côté du toit sur les plans. C'est peut-être ma chance d'entrer dans le musée.
+hint01_quest19_slot05;Le même symbole apparaît sur les plans et la cheminée. Les numéros à côté d'elle ont aussi peut-être quelque chose à voir avec la cheminée.
+hint02_quest19_slot05;Ils lisent de droite à gauche dans les pays arabophones.
+text_quest20_slot01_titel;Lumière dans le sous-sol
+text_quest20_slot01_content;Je vois presque rien dans l'obscurité de la cave. J'ai besoin de lumière.
+text_quest20_slot02_content;Interrupteur, câble, prise... tout est prêt. J'ai juste besoin d'enlever la rouille des culots des ampoules.
+hint_quest20_slot02;Je n'ai pas de papier de verre avec moi, mais je peux peut-être trouver une surface abrasive similaire pour faire le boulot.
+text_quest20_slot03_titel;Ouvrir la fenêtre
+text_quest20_slot03_content;J'ai besoin d'ouvrir la fenêtre, mais l'alarme se déclenche dès que les contacts électriques sont coupés.
+hint_quest20_slot03;il y a peut-être un moyen de shunter le circuit ?
+text_quest20_slot04_titel;Ouvrir la vitrine
+text_quest20_slot04_content;Je suis dans la salle du trésor, mais il y a toujours le verre pare-balles de la vitrine entre l'oeil et moi.
+hint_quest20_slot04;Je peux peut-être utiliser quelque chose pour briser la vitre.
+index_note_start_01;Le retour du Corbeau ?
+a00_common_01_diary;Ceci est l'ordinateur portable privé du Gendarme Anton Jakob Zellner. Si vous trouvez ce livre, veuillez l'envoyer directement au siège de la police de Zurich.
+a00_common_02_museum;23 Sept. 1963 \n Un précieux rubis a été volé au British Museum à Londres. L'un des deux "Oeil du Sphinx" légendaires. La presse est dans tous ses états, comme on pourrait s'y attendre. Ils reprochent au "Nouveeau Corbeau" de salir la réputation de l'ancien. Ce dernier n'ayant jamais blessé quiconque au cours de ses exploits.
+a00_common_03_task;24 Sept. 1963 \n Je l'ai fait ! Je me suis levé et j'ai dit au capitaine droit dans les yeux que je - je ! - voulais cette affectation. Il était trop choqué pour dire non. L'inspecteur Nicolas Legrand, ici, en Suisse ! C'est une opportunité que je ne peut tout simplement pas laisser passer. Mais qu'est-ce qu'il fait ici ?
+a00_common_04_newspaper_a;London Post, 11 Sept. 1963 \n Legrand chasse “l'Hertier du Corbeau”! \n Selon les informations obtenues par le journal, Nicolas Legrand, 33 ans, de nationalité française et enquêteur spécial à Interpol, a repris l'affaire de "l'Héritier du Corbeau". Legrand est reconnu parmi ses collègues à travers l'Europe comme un enquêteur incisif et un fin limier. Il a d'abord démontré ses talents il y a cinq ans, lorsque le jeune policier a surpris le monde en attrapant le Corbeau, le criminel le plus recherché dans toute l'Europe. Une fusillade a éclaté alors qu'il tentait d'appréhender le voleur, entraînant la mort du cambrioleur.
+a00_common_04_newspaper_b;Le Corbeau, il faut le dire, était très estimé par le public pour ses habiles vols audacieux. \n Un criminel imitateur nous tourmente depuis plusieurs mois maintenant - si l'imitateur laisse des plumes de corbeau sur les scènes de ses crimes, ses vols présentent aucun raffinement des tactiques du Corbeau original. Les trois derniers vols ont abouti à un total de cinq blessés dont un grièvement mais par la grâce de Dieu, aucun décès. \n Scotland Yard, Interpol et l'inspecteur Legrand n'ont pas pu être joint pour donner leur avis.
+index_note_inspektor_01;L'inspecteur Nicolas Legrand
+a00_inspektor_dialog_01;Legrand a l'air différent en vrai. Plus vieux, plus usé. C'est encore un grand enquêteur. Mais il y a des rumeurs que ses méthodes au cours des dernières années seraient devenus, dirons-nous, imprudente.
+a05_inspektor_note_inWater_01;Il veut trouver le Corbeau à tout prix. Il est prêt à risquer sa carrière pour ça. Il ne pouvait simplement se reposer sur ses lauriers jusqu'à sa retraite. Pourtant, c'est la dernière chose qu'il a en considération. Il a besoin de faire ses preuves. Un adversaire vraiment impressionnant. Et un allié...
+a05_inspektor_raven_back_01;Legrand estime qu'il pourrait avoir tiré sur le mauvais homme à Paris ! Il pense qu'il est possible que l'ancien Corbeau soit toujours en vie - et qu'il soit de retour !
+a07_inspektor_writer_ta_inspektor_01;Lady Westmacott dit que Legrand a un regard étrange. J'ai remarqué aussi. Cette chasse au Corbeau - ce n'est pas seulement un travail pour lui. C'est quelque chose de plus...
+a07_inspektor_drugs_01;J'ai surpris Legrand a s'injecter quelque chose. Une sorte de stimulant. Ça pourrait expliquer ses sautes d'humeur.
+a10_inspektor_a10_start_01;Legrand semble convaincu que le Dr Gebhardt était le corbeau - et l'ancien aussi. Quelque chose ne colle pas pour moi - Legrand se laisse convaincre trop facilement...
+a11_inspektor_not_ambassy_01;Legrand a dit qu'il irait à l'ambassade française. Mais l'Officier Oliver a dit que ce n'était pas le cas. L'un d'eux ment, c'est clair - mais pourquoi ?
+index_note_legrands_trap_01;Le piège de Legrand
+a00_legrands_trap_talkto_01;Legrand semble tendre un piège pour le nouveau Corbeau. Je devrais essayer d'en savoir plus sur ses projets...
+a01_legrands_trap_wagon_01;L'inspecteur Legrand et l'officier Robert Oliver de Scotland Yard gardent un coffre-fort dans le wagon. Est-ce que le Corbeau tombera vraiment dans le panneau ? Et même, seront-ils assez de deux pour pouvoir l'attraper ? J'ai des doutes...
+a02_legrands_trap_bomb_01;Une bombe ! Il y avait une bombe dans le coffre ! \n Il a faillit nous éparpiller façon puzzle ce maudit criminel ! \n Legrand se reproche de ne pas avoir vérifié le coffre. Mais je ne pense pas que ce soit le problème. Le Corbeau doit avoir posé la bombe dans le coffre avant qu'il ne soit placé dans le coffre-fort de la banque - un exploit incroyable ! Et la lettre - Comment a t-il réussi à placer la lettre sur le coffre-fort avec trois personnes se tenant à proximité ? \n Le but de l'attaque est assez clair, cependant. Le Corbeau voulait se débarrasser de Legrand afin de pouvoir voler le deuxième oeil tranquillement. Mais il a eu tout le contraire - Legrand ne va pas abandonner. C'est évident. Et moi aussi, j'ai une nouvelle raison de remettre ce criminel à la justice !
+a05_legrands_trap_terrorist_01;L'officier Oliver m'accuse d'avoir poser la lettre. Il dit que seul lui, l'inspecteur Legrand et moi étions présents... Il marque un point là...
+index_note_fiddler_01;Le violoniste
+index_note_fiddler_02;Le violoniste (David Kreutzer)
+a01_fiddler_whoishe_01;Il y a un homme avec un étui à violon assis dans le wagon-salon. \n Il déclare être soliste. Il semble usé pour ça. Sa main tremble. \n Il dit être en chemin pour Venise. Puis se rendra au Caire par navire pour donner un concert au Musée égyptien.
+a01_fiddler_wallet_01;Il a profité de l'occasion et a empoché le sac. Il semble avoir des problèmes d'argent. On ajoute à ça sa moralité douteuse on obtient une combinaison dangereuse.
+a01_fiddler_writer_ta_fiddler_01;Lady Westmacott considère Kreutzer être le genre d'homme à vivre aux crochets des autres.
+a07_fiddler_pistol_01;Kreutzer prétend qu'il était ivre la nuit dernière et ne se rappelle plus ce qui s'est passé. L'arme lui appartient. Un Luger 08. Était-il vraiment saoul ? Ou jouait-il la comédie ? Et puis il y a la possibilité que quelqu'un essaie de tout lui mettre sur le dos. Cela expliquerait pourquoi ils n'ont pas jetés le Luger dans la mer - pour faire tomber la suspicion sur le violoniste.
+index_note_indy_01;Professeur Edgar Lucien
+a01_indy_first_talk_01;J'ai fait la connaissance du professeur Lucien du British Museum de Londres. Il affirme que le vol au musée l'a à peine affecté. Je ne le crois pas. Il semble plutôt nerveux.
+a01_indy_baroness_ta_indy_01;La Baronne von Trebitz dit que le professeur Lucien est un égyptologue et également chef du département égyptien du musée. L'oeil volé du Sphinx était de son ressort. Il ne m'a rien dit de tout cela. Il m'a clairement menti. Qu'est-ce qu'il cache ?
+a07_indy_forecastle_01;Le professeur Lucien semble éprouver quelque chose pour Mme Miller. Même ses nerfs semblent plus calmes... Ou ils l'étaient jusqu'à ce que je dise clairement qu'il y a peut-être encore un voleur et un meurtrier à bord. Il a alors rapidement pris son congé et est parti à sa cabine.
+a10_indy_eye_01;Le bon professeur a pris possession de l'Oeil du Sphinx à Londres et l'a caché. Il avait peur que le coffre ne soit pas sûr. Courageux mais stupide. Si quelqu'un avait eu vent de ce qu'il avait fait, il aurait été trop facile pour lui d'obtenir le joyau. \n Mais ça expliquerait certainement pourquoi le professeur était tellement nerveux dans le train et sur ​​le bateau. Et je peux le rayer de ma liste de suspects. Il avait déjà volé le bijou - s'il voulait vraiment le garder, il ne l'aurait pas rendu.
+index_note_closed_door_01;Le compartiment verrouillé
+a01_closed_door_01;La porte du compartiment du professeur Lucien est verrouillée. De l'extérieur ? Ou de l'intérieur ? Et qui l'a verrouillée ?
+a01_closed_door_open_window_01;Je pense que la porte était verrouillée de l'intérieur et que, peu importe qui c'était, il s'est échappé par la fenêtre. Si j'ai raison, alors il y a vraiment un voleur dans le train.
+a01_closed_door_button_01;J'ai trouvé un bouton dans le compartiment. Ça pourrait être un indice. Ou ça pourrait n'être rien.
+index_note_butler_01;James le majordome
+a01_butler_first_talk_01;La Baronne von Trebitz et son majordome ont leur propre compartiment de luxe dans le train. À mon avis, cependant, il n'y a pas un compartiment dans n'importe quel train dans le monde assez grand pour être partager avec la baronne. Son majordome James doit avoir la patience d'un saint.
+a01_butler_wound_01;James a subi une blessure au bras droit. Il dit que c'est une vieille blessure de guerre. On dirait que le bras n'est pas complètement remis, mais il ne peut pas beaucoup le bouger. Il fait du mieux qu'il peut.
+a07_butler_staircase_talk_01;James s'inquiète des conséquences pour sa carrière si le meurtrier n'est pas arrêté. La mort de la baronne en lui-même ne semble pas beaucoup le préoccuper. Peut-être parce qu'il a seulement été à son service quelques mois.
+index_note_missing_wallet_01;Sac disparu
+a01_missing_wallet_first_01;Un sac à main disparu - pas exactement l'affaire du siècle. Et je ne peux pas imaginer que le Corbeau est quoi que ce soit à voir avec cela. Mais quand même, je suis officier de police et je devrais faire l'effort pour trouver ce sac à main.
+a01_missing_wallet_found_01;Je soupçonne que le sac perdu de la baronne ne l'a pas été pour Kreutzer, le violoniste, qui lui le trouva. Ou est-il un pickpocket ? Quoi qu'il en soit, il a commis un crime.
+a01_missing_wallet_checked_01;Je ne pouvais pas m'empêcher de jeter un coup d'oeil dans le sac. J'aurai pas dû c'est vrai. C'est le dure équilibre entre représentant de l'Etat et le respect de la vie d'autrui. En plus il n'a pas révélé de nouveaux indices.
+index_note_baroness_01;La Baronne von Trebitz
+a01_baroness_first_01;La baronne semble habitué à être le centre de toutes attentions. Une personne un peu mégalomane à mon avis. Mais aussi une généreuse philanthrope. Elle parcourt le monde, en soutenant les musées et les galeries. C'est elle qui finance l'exposition au Caire: la première fois depuis des siècles que les deux yeux du Sphinx seront exposés ensemble.
+a07_baroness_dead_01;La Baronne von Trebitz a été assassinée. C'est terrible. Le premier cadavre que j'ai vu d'aussi près. Elle gisait dans une mare de son propre sang sur son lit. Même si je tiendrai le coup à mon âge, c'est un spectacle que je n'oublierai jamais.
+a07_baroness_butler_talk_01;La Baronne était une alcoolique et diabétique. Pourtant, elle n'est jamais allé voir un médecin. C'est comme si elle avait une aversion pour les gens habillés en blanc. Elle était plutôt désorganisé selon son majordome et le désordre de photos dans sa cabine était son propre fait.
+a07_baroness_diary_01;La Baronne a subi une grande perte. Elle a écrit des cauchemars dans son journal et elle transportait ce passé avec elle dans ses nombreuses photographies. Je soupçonne que sa famille a été tué pendant la guerre.
+a07_baroness_why_01;Je ne connais pas le mobile du médecin, mais je soupçonne que c'est lié à leur passé commun.
 index_note_writer_01;Lady Clarissa Westmacott
-a01_writer_first_talk_01;I just adore her! To me, she's the greatest author of the century! And certainly the most successful.  \n It's such a shame that she stopped writing. Haven't read anything about it in the press yet. Fans around the world will be in an uproar when they find out! \n Clarissa Westmacott's most successful mysteries: \n Little Indians \n Death on the Rails \n Murder in Egypt \n Under a Full Moon \n Style's Affair of Mystery \n The Vicarage in the Mirror \n Maurice Partout's Easter\n Little Indians sold more than 100 million copies, making it the most successful mystery novel of all time.
-a07_writer_ta_boy_01;Lady Westmacott really cares about Mrs. Miller and especially Matt. She also knows a surprising amount of their history. I can't imagine her taking such an interest in all of her employees!
-a10_writer_ta_boy_02;Lady Westmacott is Matt's grandmother! She has a son from whom she's estranged. He married a young American woman and they moved to the USA. She had a son.  \n That explains why Lady Westmacott is so interested in Matt. Maybe she wants to make up for what happened with her son.
-index_note_caretaker_boy_01;Mary Miller and Matt Miller
+a01_writer_first_talk_01;Je l'adore ! Pour moi, elle est le plus grand auteur du siècle ! Et sûrement celle qui a le plus de succès.  \n C'est vraiment dommage qu'elle a cessé d'écrire. Je n'ai rien lu à ce sujet dans la presse. Les fans du monde entier seront en émoi quand ils le découvriront! \n Clarissa Westmacott's ces mystères les plus réussies: \n Les Petits Nègres \n Mort sur ​​les Rails \n Meurtre en Égypte \n Sous une Pleine Lune \n La Mystérieuse Affaire de Styles \n Le Presbytère dans le Miroir \n Maurice Partout quitte la scène\n Les Petits Nègres ce sont vendus à plus de 100 million, ce qui en fait le roman policier le plus vendu de tous les temps.
+a07_writer_ta_boy_01;Lady Westmacott se soucie vraiment de Mme Miller et surtout de Matt. Elle connaît également une grande partie de leur vie. Je ne peux pas l'imaginer porter un tel intérêt pour l'ensemble de ses employés !
+a10_writer_ta_boy_02;Lady Westmacott est la grand-mère de Matt ! Elle a un fils avec qui elle est brouillée. Il a épousé une jeune femme américaine et ils ont déménagé aux États-Unis. Elle avait donc un fils.  \n Ça explique pourquoi Lady Westmacott est si intéressé par Matt. Peut-être qu'elle veut se rattraper pour ce qui c'est passé avec son fils.
+index_note_caretaker_boy_01;Mary Miller et Matt Miller
 a01_caretaker_boy_woodpistol_01;Ms. Miller was introduced to me as Lady Westmacott's “companion”.  I think she's really more of a carer. She seems rather tense. Nervous and a bit unbalanced. Maybe it has something to do with her son, Matt? \n I like Matt. He's a lively, inquisitive boy. But it seems like his mother's got her hands full dealing with him.
 a01_caretaker_boy_father_01;Ms. Miller and Matt's father seem to be separated. It seems like the boy blames her for it. Lady Westmacott really seems to like Matt. She's paying for a good education for him.
 a03_caretaker_boy_why_train_01;The boy couldn't control himself and slipped onto the train to get his wooden pistol back. That was dangerous and courageous and adventurous... I want to be cross with him, but I can't.
