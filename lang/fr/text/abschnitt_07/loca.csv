@@ -1364,238 +1364,238 @@ spokentexts_archaeologe_top_a07_archaeologe_schluessel_tseq_st_15_direction;disa
 spokentexts_archaeologe_top_a07_archaeologe_schluessel_tseq_st_15;Oh... Of course.
 spokentexts_archaeologe_top_a07_archaeologe_schluessel_tseq_st_16_direction;disappointed
 spokentexts_archaeologe_top_a07_archaeologe_schluessel_tseq_st_16;See you later!
-texts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_title;Eye of the Sphinx
-spokentexts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_st_1;Do you think the Eye is well protected in the safe in Legrand's cabin?
-spokentexts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_st_2;Of course it is.
-spokentexts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_st_3;They assured me that it would take hours of work with heavy machinery to crack the safe.
-spokentexts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_st_4;And if Legrand isn't in his cabin, Constable Oliver or I check that everything is in order every hour.
+texts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_title;Oeil du Sphinx
+spokentexts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_st_1;Pensez vous que l'Oeil est suffisamment en sécurité dans le coffre de la cabine de Legrand ?
+spokentexts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_st_2;Bien sûr.
+spokentexts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_st_3;On m'a assuré que qu'il faudrait de l'équipement lourd et de nombreuses heures de travail pour le forcer.
+spokentexts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_st_4;Et si Legrand n'est pas dans sa cabine, l'Officer Oliver ou moi vérifions toutes les heures que tout est en ordre.
 spokentexts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_st_5_direction;thoughtfully
-spokentexts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_st_5;I understand...
+spokentexts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_st_5;Je vois...
 sequences_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq#6;[The archaeologist leaves for the side deck.]
-texts_archaeologe_top_a07_archaeologe_verabschieden_tseq_title;Say goodbye
-spokentexts_archaeologe_top_a07_archaeologe_verabschieden_tseq_st_1;I'll get back to you.
+texts_archaeologe_top_a07_archaeologe_verabschieden_tseq_title;Dire au revoir
+spokentexts_archaeologe_top_a07_archaeologe_verabschieden_tseq_st_1;Je vous tiendrai au courant.
 spokentexts_archaeologe_top_a07_archaeologe_verabschieden_tseq_st_2_direction;irritated
-spokentexts_archaeologe_top_a07_archaeologe_verabschieden_tseq_st_2;Err... Okay!
-spokentexts_archaeologe_top_a07_archaeologe_verabschieden_tseq_st_3;Ah, it's not that important.
+spokentexts_archaeologe_top_a07_archaeologe_verabschieden_tseq_st_2;Err... D'accord !
+spokentexts_archaeologe_top_a07_archaeologe_verabschieden_tseq_st_3;Bah, ce n'est pas si important.
 spokentexts_archaeologe_top_a07_archaeologe_verabschieden_tseq_st_4_direction;irritated
-spokentexts_archaeologe_top_a07_archaeologe_verabschieden_tseq_st_4;All right. Goodbye!
-spokentexts_archaeologe_ex_1_st_1;Ms. Miller and the professor are talking intensely. She seems pretty relaxed - by her standards.
+spokentexts_archaeologe_top_a07_archaeologe_verabschieden_tseq_st_4;Très bien. Au revoir !
+spokentexts_archaeologe_ex_1_st_1;Mme Miller et le professeur ont une vive conversation. Elle semble plutôt décontractée, comparé à d'habitue.
 sequences_archaeologe_talk_mit_1#1;[Same sequence as upstairs with the carer.]
 sequences_archaeologe_talk_mit_2#1;[Same sequence as upstairs with the carer.]
-texts_arzt_top_a07_arzt_projektil_tseq_title;The bullet
-spokentexts_arzt_top_a07_arzt_projektil_tseq_st_1;Inspector Legrand told me to ask you about the bullet.
-spokentexts_arzt_top_a07_arzt_projektil_tseq_st_2;What is that Frenchman's problem?
-spokentexts_arzt_top_a07_arzt_projektil_tseq_st_3;Can't he just accept that everything happens in good time?
-spokentexts_arzt_top_a07_arzt_projektil_tseq_st_4;He just wants results.
-spokentexts_arzt_top_a07_arzt_projektil_tseq_st_5;...which I'm producing as fast as I can!
-spokentexts__seq_arzt_top_a07_arzt_projektil_tseq_st_6;Have you already removed the bullet?
-spokentexts__seq_arzt_top_a07_arzt_projektil_tseq_st_7;Did Legrand send you? What's that Frenchman's problem?
-spokentexts__seq_arzt_top_a07_arzt_projektil_tseq_st_8;I already told you, I'll get in touch as soon as I have it.
-spokentexts_arzt_top_a07_arzt_projektil_tseq_st_6;That's also what I told the constable who he kept sending all night long, once I finally got rid of Legrand himself.
-spokentexts_arzt_top_a07_arzt_projektil_tseq_st_7;Did he look over your shoulder?
-spokentexts_arzt_top_a07_arzt_projektil_tseq_st_8;He probably wanted to take the scalpel from my hand and hack away himself! But this is MY surgery and I will not let amateurs interfere with my work!
-spokentexts_arzt_top_a07_arzt_projektil_tseq_st_9;That's understandable. How much longer will it take?
+texts_arzt_top_a07_arzt_projektil_tseq_title;La balle
+spokentexts_arzt_top_a07_arzt_projektil_tseq_st_1;L'Inspecteur Legrand m'a dit de vous demander des informations sur la balle.
+spokentexts_arzt_top_a07_arzt_projektil_tseq_st_2;Quel est donc le problème de ce français ?
+spokentexts_arzt_top_a07_arzt_projektil_tseq_st_3;Ne comprend-il pas que tout arrive en temps en en heure ?
+spokentexts_arzt_top_a07_arzt_projektil_tseq_st_4;Il veut simplement des résultats.
+spokentexts_arzt_top_a07_arzt_projektil_tseq_st_5;...que je m'efforce de produire le plus vite possible !
+spokentexts__seq_arzt_top_a07_arzt_projektil_tseq_st_6;Avez vous déjà extrait la balle ?
+spokentexts__seq_arzt_top_a07_arzt_projektil_tseq_st_7;Est-ce Legrand qui vous envoie ? Quel est donc le problème de ce français?
+spokentexts__seq_arzt_top_a07_arzt_projektil_tseq_st_8;Je vous ai déjà dit que je vous contacterais dès que je l'aurais.
+spokentexts_arzt_top_a07_arzt_projektil_tseq_st_6;J'ai dit la même chose à l'officer qu'il s'est obstiné à m'envoyer toute la nuit, après que je me sois débarassé de Legrand lui-même.
+spokentexts_arzt_top_a07_arzt_projektil_tseq_st_7;Regardait-il par-dessus votre épaule ?
+spokentexts_arzt_top_a07_arzt_projektil_tseq_st_8;Il aurait certainement préféré me prendre le scalpel et tailler lui même ! Mais c'est MA chambre opératoire et je n'ai aucune intention de laisser des amateurs interférer dans mon travail.
+spokentexts_arzt_top_a07_arzt_projektil_tseq_st_9;C'est compréhensible. Dans combien de temps aurez vous terminé ?
 spokentexts_arzt_top_a07_arzt_projektil_tseq_st_10_direction;annoyed
-spokentexts_arzt_top_a07_arzt_projektil_tseq_st_10;Hrrrmm.  I have just finished.
+spokentexts_arzt_top_a07_arzt_projektil_tseq_st_10;Hrrrmm.  Je viens de finir.
 sequences_arzt_top_a07_arzt_projektil_tseq#15;[The doctor takes a sachet from a table and hands it to Ohi (Idle).]
-spokentexts_arzt_top_a07_arzt_projektil_tseq_st_11;Send my regards to His Majesty.
+spokentexts_arzt_top_a07_arzt_projektil_tseq_st_11;Transmettez mon estime à Sa Majesté.
 sequences_arzt_top_a07_arzt_projektil_tseq#17;[Ohi takes the sachet, pockets it.]
-spokentexts_arzt_top_a07_arzt_projektil_tseq_st_12;Thanks.
-texts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_title;Drugged baroness?
-spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_1;Do you think the baroness might have been drugged?
-spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_2;She was very tired and unsteady when Legrand and I saw her.
-spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_3;I heard about that. I must have just missed her in the saloon.
-spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_4;And without having seen her myself, it's hard to make a diagnosis.
-spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_5;Of course. Can you say something about her general health?
-spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_6;She was quite overweight and the butler said that she suffered from diabetes. Despite that, she hadn't visited a doctor for several years.
-spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_7;Doesn't sound good.
-spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_8;Happens more frequently than you might suppose. Some people are scared of doctors and pay with an early death.
-spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_9;It's possible that the baroness wouldn't have lived much longer anyway.
-texts_arzt_top_a07_arzt_schlafmittel_tseq_title;Knockout drops
-spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_1;I am told, I was drugged.
-spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_2;That's how it seems.
-spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_3;What can you tell me about it?
+spokentexts_arzt_top_a07_arzt_projektil_tseq_st_12;Merci.
+texts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_title;La baronne droguée ?
+spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_1;Pensez vous que la baronne puisse avoir été droguée ?
+spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_2;Elle était très fatiguée et fébrile quand Legrand et moi l'avons vue.
+spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_3;J'ai entendu cela. J'ai dû la rater de peu dans le salon.
+spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_4;Et sans l'avoir vue, il est diffilce d'arriver à un diagnostic.
+spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_5;Bien sûr. Pouvez vous nous parler de son état de santé général ?
+spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_6;Elle était largement en sur-poids et le majordome a dit qu'elle était atteinte de diabète. Malgré cela, elle n'avait pas été voir un docteur depuis plusieurs années.
+spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_7;Cela n'augure rien de bon.
+spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_8;Cela arrive plus fréquemment que vous ne pensez. Certaines personnes ont peur des docteurs et le paient avec une mort prématurée.
+spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_9;Il est possible que la baronne n'aurait guère vécu plus longtemps dans son état.
+texts_arzt_top_a07_arzt_schlafmittel_tseq_title;Drogues
+spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_1;On m'a dit que j'avais été drogué.
+spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_2;Il semblerait en effet.
+spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_3;Vous pouvez m'en dire plus ?
 spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_4_direction;surprised
-spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_4;Me?
-spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_5;Why should that be my business?
-spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_6;Haven't you analyzed the glass?
+spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_4;Moi ?
+spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_5;En quoi est-ce de mon ressort ?
+spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_6;N'avez vous pas analysé le verre ?
 spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_7_direction;annoyed
-spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_7;No, I haven't.
-spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_8;The inspector said he's the better chemist.
-spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_9;I let him do it. That way, I could at least concentrate on the body!
-texts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_title;Analyze the body
-spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_1;What's the result of your examination of the victim?
-spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_2;She's dead.
+spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_7;Non.
+spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_8;L'Inspecteur a dit que, de nous deux, il était le meilleur chimiste.
+spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_9;Je l'ai laissé faire. De cette façon, je peux me concentrer sur le corps !
+texts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_title;Analyser le corps
+spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_1;Qu'avez vous pu déterminer grâce à l'examination de la victime ?
+spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_2;Elle est morte.
 spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_3_direction;"annoyed, emphasis on ""I"""
-spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_3;I didn't make you work all night long, Dr. Gebhardt.
+spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_3;Je ne suis pas celui qui vous a fait travailler toute la nuit, Docteur Gebhardt.
 spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_4;Hmrrmm.
-spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_5;She was shot. Point-blank shot, probably with a pistol.
-spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_6;It seems like she was lying in bed. The shot struck her heart. She died immediately.
+spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_5;On lui a tiré dessus. A bout portant, probablament avec un pistolet.
+spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_6;Il semblerait qu'elle était allongée sur son lit. Le tir a touché son coeur. Elle est morte sur le coup.
 spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_7_direction;"emphasis on ""one"""
-spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_7;One shot?
-spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_8;More were unnecessary. And we only heard one shot, no?
-spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_9;And there's just one entrance wound.
+spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_7;Un seul tir ?
+spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_8;Les suivants auraient été superflus. Et nous n'avons entendu qu'un coup de feu, n'est-ce pas ?
+spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_9;Et il n'a qu'une marque d'entrée.
 spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_10_direction;confirming
-spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_10;Just one.
-texts_arzt_top_a07_arzt_verabschieden_tseq_title;Say goodbye
-spokentexts_arzt_top_a07_arzt_verabschieden_tseq_st_1;I think that's it for now.
+spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_10;Un seul coup de feu.
+texts_arzt_top_a07_arzt_verabschieden_tseq_title;Dire au revoir.
+spokentexts_arzt_top_a07_arzt_verabschieden_tseq_st_1;Je crois que c'est tout pour le moment.
 spokentexts_arzt_top_a07_arzt_verabschieden_tseq_st_2_direction;decidedly
-spokentexts_arzt_top_a07_arzt_verabschieden_tseq_st_2;No.
+spokentexts_arzt_top_a07_arzt_verabschieden_tseq_st_2;Non.
 spokentexts_arzt_top_a07_arzt_verabschieden_tseq_st_3_direction;decidedly
-spokentexts_arzt_top_a07_arzt_verabschieden_tseq_st_3;That is it for now, then and later!
+spokentexts_arzt_top_a07_arzt_verabschieden_tseq_st_3;C'est tout pour le moment, et pour plus tard !
 spokentexts_arzt_top_a07_arzt_verabschieden_tseq_st_4_direction;decidedly
-spokentexts_arzt_top_a07_arzt_verabschieden_tseq_st_4;I'm going to lie down for a few hours.
+spokentexts_arzt_top_a07_arzt_verabschieden_tseq_st_4;Je vais aller me reposer quelques heures.
 sequences_arzt_top_a07_arzt_verabschieden_tseq#4;[The doctor covers the corpse.]
 spokentexts_arzt_top_a07_arzt_verabschieden_tseq_st_6_direction;busy
-spokentexts_arzt_top_a07_arzt_verabschieden_tseq_st_6;Can you tell that to your boss?!
+spokentexts_arzt_top_a07_arzt_verabschieden_tseq_st_6;Pouvez vous dire ça à votre patron ?!
 spokentexts_arzt_top_a07_arzt_verabschieden_tseq_st_7_direction;surprised, weak protest
-spokentexts_arzt_top_a07_arzt_verabschieden_tseq_st_7;But...
+spokentexts_arzt_top_a07_arzt_verabschieden_tseq_st_7;Mais...
 sequences_arzt_top_a07_arzt_verabschieden_tseq#8;[The doctor pushes Ohi softly but decidedly towards the door, opens it and pushes Ohi outside. He follows straight after him, reaches into his trouser pocket to take out the keys.]
 texts_arzt_top_a07_arzt_wessen_glas_tseq_title;Whose glass did I drink from?
-spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_1;Do you know whose glass I drank from?
-spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_2;What do you mean?
-spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_3;Captain di Conti handed me a glass of champagne. But where did he get it?
+spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_1;Savez vous dans quel verre j'ai bu ?
+spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_2;Que voulez vous dire ?
+spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_3;Le Capitaine di Conti m'a offert un verre de champagne. Mais où a-t-il pris ce verre ?
 spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_4_direction;stunned
-spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_4;I... I don't know?
-spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_5;Did you ask him?
-spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_6;I'm just asking because you were also in the saloon when the champagne was served.
-spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_7;Yes, but I only entered the saloon a few seconds before you did. I didn't manage to get a drink myself.
-spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_8;Which, in retrospect, is lucky.
-spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_9;You're right about that.
-texts_butler_mo_ex_1;Look at the butler
-texts_butler_mo_talk_1__2;Talk to the butler
-texts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_title;Baroness' alcohol consumption
-spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_1;The baroness seemed to be pretty drunk the last time I saw her.
+spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_4;Je... je ne sais pas ?
+spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_5;Lui avez vous demandé ?
+spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_6;Je vous demande cela car vous étiez également dans le salon quand le champagne a été servi.
+spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_7;Oui mais je suis arrivé à peine quelques secondes avant vous. Je ne suis d'ailleurs pas parvenu à obtenir un verre.
+spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_8;Ce qui, avec le recul, est une bonne chose.
+spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_9;Vous avez bien raison.
+texts_butler_mo_ex_1;Regarder le majordome
+texts_butler_mo_talk_1__2;Parler au majordome
+texts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_title;Consommation d'alcool de la barone
+spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_1;La baronne avait l'air complètement ivre quand je l'ai vue pour la dernière fois.
 spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_2_direction;überrascht
-spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_2;Is that so?
-spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_3;Does that surprise you? Did the baroness not drink?
-spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_4;Oh yes, she drank... It was no secret.
-spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_5;I understand.
-spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_6;How serious was her... habit?
-spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_7;Serious enough, sir.
-spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_8;Was she under any medical supervision?
-spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_9;Certainly not, sir. She adamantly refused to see a doctor.
-spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_10;Like so many elderly women, she had a distinct aversion to hospitals and the like.
-texts_butler_top_a07_butler_durchwuehlte_kabine_tseq_title;Ransacked cabin
-spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_1;The baroness' cabin seems to have been ransacked...
-spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_2;Indeed, sir. By the baroness herself!
+spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_2;Vraiment ?
+spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_3;Cale vous surprend il ? La baronne ne buvait-elle pas ?
+spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_4;Oh si, elle buvait... Ce n'était pas un secret.
+spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_5;Je vois.
+spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_6;Cette...habitude était-elle prononcée ?
+spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_7;Très prononcée, monsieur.
+spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_8;Etait-elle suivie médicalement ?
+spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_9;Certainement pas, monsieur. Elle refusait résolument de voir un docteur.
+spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_10;Comme beaucoup de femmes âgées, elle avait une aversion prononcée contre les hôpitaux et consorts.
+texts_butler_top_a07_butler_durchwuehlte_kabine_tseq_title;Cabine mise à sac
+spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_1;La cabine de la baronne semble avoir avoir été mise à sac...
+spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_2;En effet, monsieur. Par la baronne elle-même !
 spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_3_direction;surprised
-spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_3;Really?
-spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_4;She was searching for something the entire afternoon.
-spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_5;And did she find it?
-spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_6;I think she did, sir, yes. She was in high spirits when she finally left her cabin.
-spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_7;You wouldn't happen to know what she was looking for, would you?
-spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_8;I'm afraid not.
-texts_butler_top_a07_butler_irgendwelche_beobachtungen_schuss_tseq_title;Gunshot
-spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_schuss_tseq_st_1;Did you hear the gunshot?
-spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_schuss_tseq_st_2;The gunshot just before the alarm went off... Did you hear it from the forecastle?
-spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_schuss_tseq_st_3;No.
-spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_schuss_tseq_st_4;Just the alarm, sir.
-texts_butler_top_a07_butler_irgendwelche_beobachtungen_tseq_title;Last night
-spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_tseq_st_1;Did you notice anything suspicious last night?
-spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_tseq_st_2;No, sir. After the baroness went to the saloon, I went to the forecastle.
-spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_tseq_st_3;I was there until the alarm went off. I went to the side deck and arrived shortly after Professor Lucien and Miss Miller.
-spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_tseq_st_4;We found you and Inspector Legrand there. You were unconscious and the inspector asked us to take care of you.
-texts_butler_top_a07_butler_irgendwelche_freizeit_tseq_title;Leisure time
-spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_3;You said you were on the forecastle. It sounded like the baroness let you have the rest of the night off?
-spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_4;Not entirely, sir. One of the crew informed me that the baroness wanted to be roused at quarter to ten.
-spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_5;Right. Why was that?
-spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_6;I suppose that she wanted to toast the success of the journey with the captain and the other passengers.
-spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_7;She hadn't intended to take a nap then?
-spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_8;That was not her way, sir. She had a lot of... spirit, shall we say... when it came to social engagements and a glass or two of champagne.
-texts_butler_top_a07_butler_ordentliche_frau_tseq_title;Orderly woman?
-spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_1;Would you describe the baroness as orderly?
-spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_4;Well, she... She always had a lot of responsibilities, sir.
-spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_3;That doesn't answer my question.
-spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_5;She used to take a lot of luggage on journeys. And I helped her keep track of it as best I could.
-spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_6;She was always very angry when she couldn't find something.
-spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_7;What about the photos and documents I saw in her cabin?
-spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_9;I really don't know. They were out of bounds to me, sir.
-spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_11;Memories from the war, I'd say. They meant a lot to her.
-texts_butler_top_a07_butler_steifer_arm_tseq_title;Stiff arm
-spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_1;May I ask what happened to your arm?
-spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_2;A souvenir from the war, sir.
-spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_3;Doesn't it hinder your work?
+spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_3;Vraiment ?
+spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_4;Elle a cherché quelque chose tout l'après midi.
+spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_5;Et l'a-t-elle trouvé ?
+spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_6;Je crois, monsieur, oui. Elle était de très bonne humeur quand elle a fini par quitter sa cabine.
+spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_7;Et vous ne sauriez pas ce qu'elle cherchait, par hasard ?
+spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_8;Non je suis désolé.
+texts_butler_top_a07_butler_irgendwelche_beobachtungen_schuss_tseq_title;Coup de feu
+spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_schuss_tseq_st_1;Avez vous entendu le coup de feu ?
+spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_schuss_tseq_st_2;Le coup de feu juste avant que l'alarme ne sonne... L'avez vous entendu depuis le gaillard avant ?
+spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_schuss_tseq_st_3;Non.
+spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_schuss_tseq_st_4;Seulement l'alarme, monsieur.
+texts_butler_top_a07_butler_irgendwelche_beobachtungen_tseq_title;La nuit dernière
+spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_tseq_st_1;Avez vous remarqué quelque chose de suspect la nuit dernière ?
+spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_tseq_st_2;Non, monsieur. Une fois que la baronne est allée au salon, je suis parti sur le gaillard avant.
+spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_tseq_st_3;J'y suis resté jusqu'à ce que l'alarme ne sonne. Ensuite je suis arrivé sur le pont-promenade peu de temps après le Professeur Lucien et Mme Miller.
+spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_tseq_st_4;Nous vous avons retrouvé là bas, avec l'Inspecteur Legrand. Vous étiez inconscient et l'inspecteur a demandé à ce que l'on s'occupe de vous.
+texts_butler_top_a07_butler_irgendwelche_freizeit_tseq_title;Temps de repos
+spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_3;Vous avez dit être sur le gaillard avant. On dirait que la baronne vous avait donné le reste de votre soirée ?
+spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_4;Pas complètement, monsieur. Un des membres d'équipage m'a informé que la baronne voulait qu'on vienne la chercher à dix heures moins dix.
+spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_5;Bien. Et pourquoi cela ?
+spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_6;Je suppose qu'elle voulait partager le succès de ce voyage avec la capitaine et les autres passagers.
+spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_7;Elle n'avait pas l'intention de dormir alors ?
+spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_8;Elle n'était pas comme ça, monsieur. Elle avait beaucoup de... caractère, dirons nous... quand il s'agissait de rendez-vous sociaux et d'un ou deux glasses de champagne. She had a lot of... spirit, shall we say... when it came to social engagements and a glass or two of champagne.
+texts_butler_top_a07_butler_ordentliche_frau_tseq_title;Une femme bien ordonnée ?
+spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_1;Décririez vous la baronne comme quelqu'un de bien ordonné ?
+spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_4;Eh bien, elle... Elle avait beaucoup de responsabilités, monsieur.
+spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_3;Ca ne répond pas à ma question.
+spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_5;Elle avait l'habitude d'emmener beaucoup de bagages lors de ses voyages. Et je l'aidais à s'en occuper du mieux possible.
+spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_6;Elle était toujours très en colère si quelque chose venait à manquer.
+spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_7;Que sont les des photos et les documents que j'ai vu dans sa cabine ?
+spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_9;Je ne peux vraiment pas vous dire. Ils étaient hors limite pour moi, monsieur.
+spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_11;Des mémoires de la guerre je dirais. Ils lui tenaient beaucoup à coeur.
+texts_butler_top_a07_butler_steifer_arm_tseq_title;Bras handicapé
+spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_1;Puis je vous demander ce qui est arrivé à votre bras ?
+spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_2;Un souvenir de la guerre, monsieur.
+spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_3;Cela ne vous gêne-t-il pas dans votre travail ?
 spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_4_direction;sauer, vorwurfsvoll
-spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_4;Yes sir, obviously.
+spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_4;Si monsieur, évidemment.
 spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_5_direction;a bit ashamed
-spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_5;I didn't mean to offend you.
+spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_5;Je ne voulais pas vous offenser.
 spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_6_direction;traurig
-spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_6;The baroness had a soft spot for disabled veterans. I think she'd been through a lot herself.
-texts_butler_top_a07_butler_verabschieden_tseq_title;Say goodbye
-spokentexts_butler_top_a07_butler_verabschieden_tseq_st_1;I think that's all for now.
-spokentexts_butler_top_a07_butler_verabschieden_tseq_st_2;Please, sir, find the murderer! You have to clear me of all suspicion! 
+spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_6;La baronne avait un petit faible pour les anciens combattants handicapés. Je pense qu'elle a dû beaucoup souffrir elle aussi.
+texts_butler_top_a07_butler_verabschieden_tseq_title;Dire au revoir
+spokentexts_butler_top_a07_butler_verabschieden_tseq_st_1;Je pense que c'ets tout pour le moment.
+spokentexts_butler_top_a07_butler_verabschieden_tseq_st_2;S'il vous plait monsieur, trouvez le meurtrier ! Vous devez prouver que je n'avais rien à voir dans tout cela ! 
 sequences_butler_top_a07_butler_verabschieden_tseq#2;[Butler goes back to his normal Idle.]
-texts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_title;Work for the baroness
-spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_1;How long had you worked for the baroness?
-spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_2;Six months, sir.
-spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_3;Only six months?!
-spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_4;I always thought that butlers stayed with their employers for decades!
-spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_5;Those decades have to start at some point, Constable.
-spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_6;Her former butler wasn't able to fulfill his duties any longer. Gout, sir.
-spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_7;I understand.
-spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_8;I took on his duties and hoped for a secure position for the next twenty years!
-spokentexts_butler_ex_1_st_1;"The baroness' butler looks like he didn't get much sleep. I would describe his facial expression as ""worried""."
+texts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_title;Travail pour la baronne
+spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_1;Depuis combien de temps travailliez vous pour la baronne ?
+spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_2;Six mois, monsieur.
+spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_3;Seulement six mois ?!
+spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_4;J'ai toujours cru que les majordomes accompagnaient leurs employeurs pendant des décennies !
+spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_5;Les décennies en question doivent bien commencer quelque part, Officier.
+spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_6;Mon prédécesseur n'était plus capable d'assumer les tâches requises. La goutte, monsieur.
+spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_7;Je comprends.
+spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_8;J'ai obtenu le poste et espérait avoir assuré ma carrière pour les vingt prochaines années !
+spokentexts_butler_ex_1_st_1;"Le majordome de la baronne n'a pas l'air d'avoir beaucoup dormi. Je décrirais son visage comme ""inquiet""."
 sequences_butler_ex_1#2;[The butler sits nervously in one of the arm chairs, rubs his hands over his thighs, runs his fingers through his hair from time to time, drums his fingers on the table etc.]
-spokentexts_butler_talk_1_st_1;Hello, Mr. Inch.
-spokentexts_butler_talk_1_st_2;Oh, Constable. Hello.
-spokentexts_butler_talk_1_st_3;You look worse for the wear. It must be terrible for you.
-spokentexts_butler_talk_1_st_4;Quite terrible! No one will hire me now!
-spokentexts_butler_talk_1_st_5;Um... Excuse me?
+spokentexts_butler_talk_1_st_1;Bonjour, Mr Inch.
+spokentexts_butler_talk_1_st_2;Oh, Officier. Bonjour.
+spokentexts_butler_talk_1_st_3;Vous avez l'air mal en point. Ce doit être terrible pour vous.
+spokentexts_butler_talk_1_st_4;Complètement ! Personne ne voudra m'embaucher maintenant !
+spokentexts_butler_talk_1_st_5;Um... Pardon ?
 spokentexts_butler_talk_1_st_11_direction;eindringlich
-spokentexts_butler_talk_1_st_11;My mistress was murdered.
-spokentexts_butler_talk_1_st_12;Would you hire a butler who's been mixed up in a murder?
-spokentexts_butler_talk_1_st_13;But if it turns out that you're not guilty...
-spokentexts_butler_talk_1_st_14;If!
-spokentexts_butler_talk_1_st_15;But what if not? Who else would they blame?!
-spokentexts_butler_talk_1_st_16;There are no gardeners on this ship!
+spokentexts_butler_talk_1_st_11;Ma maîtresse a été assassinée.
+spokentexts_butler_talk_1_st_12;Engageriez vous un majordome qui a été mêlé à une histoire de meurtre ?
+spokentexts_butler_talk_1_st_13;Mais si votre culpabilité est écartée...
+spokentexts_butler_talk_1_st_14;Si !
+spokentexts_butler_talk_1_st_15;Mais dans le cas contraire ? Qui d'autre pourraient ils accuser ?!
+spokentexts_butler_talk_1_st_16;Il n'y a aucun jardinier à bord !
 spokentexts_butler_talk_1_st_17_direction;amused
-spokentexts_butler_talk_1_st_17;Heh. I understand your problem.
-spokentexts_butler_talk_1_st_18;Under these circumstances, I'm sure you'd answer some questions that could help clear your name, wouldn't you?
-spokentexts_butler_talk_1_st_19;Of course!
-spokentexts_butler_talk_2_st_1;I have some more questions for you, Mr. Inch.
-spokentexts_butler_talk_2_st_2;Oh! Of course, sir!
-spokentexts_butler_talk_3_st_1;The death of his mistress doesn't really bother Inch. He's only worried about his own future.
-texts_ermittler_mo_ex_1__2;Look at Inspector Legrand
-texts_ermittler_mo_used_mit_kissenbezug_1;Show Legrand the singed pillowcase
-texts_ermittler_mo_used_mit_patrone_1;Show Legrand the bullet
-texts_ermittler_top_a07_ermittler_blutfleck_tseq_title;Blood spot
-spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_1;I took a closer look at the blood spot from the baroness' bed.
-spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_2;I took a sample from the blood spot on the baroness' bed. Something about it bothers me.
-spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_3;Yes? What's wrong with it?
-spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_4;It looks... odd.
+spokentexts_butler_talk_1_st_17;Heh. Je comprends votre problème.
+spokentexts_butler_talk_1_st_18;Vu les circonstances, je suis certain que vous voudrez bien répondre à quelques questions qui pourraient vous innnocenter, n'est ce pas ?
+spokentexts_butler_talk_1_st_19;Bien sûr !
+spokentexts_butler_talk_2_st_1;J'ai d'autres questions à vous poser, Mr Inch.
+spokentexts_butler_talk_2_st_2;Oh ! Bien sûr, monsieur !
+spokentexts_butler_talk_3_st_1;La mort de sa maîtresse ne dérange pas vraiment Mr Inch. Seul son propre avenir l'inquiète.
+texts_ermittler_mo_ex_1__2;Regarder l'Inspecteur Legrand
+texts_ermittler_mo_used_mit_kissenbezug_1;Montrer la taie d'oreiller brûlée à Legrand
+texts_ermittler_mo_used_mit_patrone_1;Montrer la balle à Legrand
+texts_ermittler_top_a07_ermittler_blutfleck_tseq_title;Tâche de sang
+spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_1;J'ai observé plus précisément la tâche de sang sur le lit de la baronne.
+spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_2;J'ai pris un échantillon du sang sur le lit de la baronne. Il y a quelque chose qui me dérange.
+spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_3;Oui ? Qu'est ce qui cloche ?
+spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_4;Il a l'air...bizarre.
 spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_5_direction;doubtful
-spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_5;Odd?
-spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_6;I think it should be darker.
+spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_5;Bizarre ?
+spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_6;Je pense qu'il devrait être plus sombre.
 spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_7_direction;doubtful
-spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_7;I understand. The iron in blood causes it to darken the longer it's exposed to the air.
+spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_7;Je comprends. En raison du fer qu'il contient, le sang s'assombrira plus il sera exposé à l'air libre.
 spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_8_direction;cheered up
-spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_8;Right. And...
-spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_16;We don't have time to waste. Dr. Gebhardt examined the body thoroughly. He would have noticed if anything was wrong.
-spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_10;And you trust Dr. Gebhardt completely?
+spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_8;Exact. Et...
+spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_16;Nous n'avons pas de temps à perdre. Le docteur Gebhardt a examiné le corps de façon approfondi. Il aurait remarqué si quoi que ce soit n'était pas normal.
+spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_10;Et vous faites complètement confiance au docteur Gebhardt ?
 spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_11_direction;somewhat threatening
-spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_11;I trust everyone as much as is advisable.
-spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_12;There will be a complete autopsy in Cairo. Until then, the doctor is one of the few people on board who is not a suspect.
-spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_13;You, him, the stowaway, constable Oliver and I all have alibis.
-spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_15;There are still enough suspects left.
-texts_ermittler_top_a07_ermittler_daunen_tseq_title;Feathers
-spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_1;I found feathers in the baroness' cabin!
+spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_11;Je fais confiance à quiconque dans les limites du raisonnable.
+spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_12;Il y aura une autopsie complète à notre arrivée au Caire. En attendant, le docteur est un des rares individus qui n'est pas considéré comme un suspect.
+spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_13;Vous, lui, le clandestin, Officier Oliver and moi même avons tous des alibis.
+spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_15;A côté de cela, il reste suffisamment de suspects disponibles.
+texts_ermittler_top_a07_ermittler_daunen_tseq_title;Plumes
+spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_1;J'ai trouvé des plumes dans la cabine de la baronne !
 spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_2_direction;uninterested
-spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_2;Really?
-spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_3;Yes, under her bed!
-spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_4;Yes! They were in a vase next to the door.
-spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_5;Some were under the baroness' bed. Others were in a vase next to the door.
-spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_6;I hope this is leading up to some information that justifies this interruption?!
-spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_7;Some of the feathers are singed.
+spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_2;Vraiment ?
+spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_3;Oui, sous son lit !
+spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_4;Oui ! Elles étaient dans un vase, près de la porte.
+spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_5;Certaines étaient sous le lit. D'autres dans un vase près de la porte.
+spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_6;J'espère que tout cela va nous mener à une information justifiant cette interruption ?!
+spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_7;Certaines plumes sont brûlées.
 spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_8;Hmm.
-spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_9;Show me.
+spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_9;Montrez moi.
 sequences_ermittler_top_a07_ermittler_daunen_tseq#12;[Ohi pulls the sachet out of his pocket, hands it to the inspector.]
 sequences_ermittler_top_a07_ermittler_daunen_tseq#13;[The inspector takes the sachet, opens it and looks inside (Idle).]
-spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_10;Well... You may have something here.
+spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_10;Eh bien... Vous avez peut être déniché quelque chose là.
 sequences_ermittler_top_a07_ermittler_daunen_tseq#15;[The inspector shuts the sachet, places it in front of him on the desk.]
-spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_11;I think that someone fired a shot through a pillow or something like that and that the muzzle flash scorched the down.
-spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_12;Yes, possible. Try to find the pillow and we'll take it from there!
-texts_ermittler_top_a07_ermittler_geiger_tseq_title;Violinist
+spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_11;Je pense que quelqu'un a tiré un coup de feu à travers un oreiller ou quelque chose comme ça et que le canon a brûlé le duvet à l'intérieur.
+spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_12;Oui, possible. Essayez de trouver l'oreiller et nous nous occuperons du reste !
+texts_ermittler_top_a07_ermittler_geiger_tseq_title;Violoniste
 spokentexts_ermittler_top_a07_ermittler_geiger_tseq_st_1;Do you believe the violinist?
 spokentexts_ermittler_top_a07_ermittler_geiger_tseq_st_2;He'll be the first person I question.
 spokentexts_ermittler_top_a07_ermittler_geiger_tseq_st_3;He claims he can't remember anything from the last few hours. Says he drank a bottle of schnapps.
