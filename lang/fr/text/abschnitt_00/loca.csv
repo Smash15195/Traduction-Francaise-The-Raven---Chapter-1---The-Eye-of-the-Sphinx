@@ -106,7 +106,7 @@ spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_10;Ça doit être vraiment e
 spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_11_direction;affirmative
 spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_11;Oui.
 texts_junge_top_a00_junge_wozu_die_pistole_tseq_title;Faux pistolet
-spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_1;Et pouquoi as-tu besoin d'une arme ?
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_1;Et pourquoi as-tu besoin d'une arme ?
 spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_2;Et pourquoi cette arme ? Pour quoi en as-tu besoin ?
 spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_3;Pourquoi tu as besoin d'une arme ?
 spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_4;C'est à cause du Corbeau ! Il a été abattu. Alors j'ai besoin d'un pistolet !
@@ -124,16 +124,16 @@ texts_step_01;Pour examiner un objet, cliquez-gauche dessus. Cliquez sur le papi
 texts_step_02;Si vous déplacez le curseur de la souris sur le papier du sandwich encore une fois, vous verrez que le curseur a changé et que le texte en bas de l'écran dit ''Prendre le papier du sandwich''. Cliquez dessus une fois de plus pour le prendre.
 texts_step_03;Très bien. Déplacez le curseur en bas de l'écran. Cela fait apparaitre votre inventaire. Vous y trouverez tout les objets que le Gendarme Constable Zellner transporte. Cliquez-gauche sur le papier du sandwich.
 texts_step_04;Maintenant vous pouvez utiliser le papier du sandwich avec un autre objets. Déplacez le sur le trognon de pomme sur la table et faites un clic-gauche.
-texts_step_05;Open the inventory again and right-click on the sandwich paper.
+texts_step_05;Ouvrez l'inventaire à nouveau et faites un clic droit sur le papier du sandwich.
 texts_step_06;Bien sûr, vous pouvez aussi utiliser les objets de l'inventaire entre eux. Cliquez-gauche sur la serviette en papier puis sur le papier du sandwich dans l'inventaire.
 texts_step_07;Débarrassons-nous de tout ça. Jetez ces détritus dans votre inventaire dans le cendrier sur la table de Zellner.
 texts_step_08;Ce n'était pas trop dur, n'est-ce pas ? Maintenant vous savez tout ce que vous devez savoir sur les contrôles. Bon jeu !
-texts_step_01_controller;To examine an item move next to it with the left stick, use the right stick to select it and press $primary. Select the sandwich paper on the table.
-texts_step_02_controller;If you select the sandwich paper again, you'll see that the symbol displayed has changed and the text at the bottom of the screen says ''Take the sandwich paper''. Press $primary to pick it up.
-texts_step_03_controller;Very good. Now press $inventory. This opens the inventory, in which you can see all the items that Constable Zellner is carrying. Use the left stick to select the sandwich paper and press $primary, so that it is displayed in the top left corner of the screen.
-texts_step_04_controller;Now you can use the sandwich paper with other items. Select the apple core on the table and press $primary.
-texts_step_05_controller;Open the inventory again, select the sandwich paper and press $secondary to examine it.
-texts_step_06_controller;Of course, you can also use the items inside the inventory with each other. Select the paper napkin with $primary and then select the sandwich paper in the inventory with $primary.
+texts_step_01_controller;Pour examiner un objet déplacez-vous à côté de lui avec le stick gauche, utilisez le stick droit pour le sélectionner et appuyez sur $primary. Sélectionnez le papier du sandwich sur la table.
+texts_step_02_controller;Si vous sélectionnez le papier du sandwich encore une fois, vous verrez que le symbole affiché a changé et le texte en bas de l'écran indique ''Prendre le papier du sandwich''. Appuyez sur $primary pour le prendre.
+texts_step_03_controller;Très bien. Maintenant cliquez sur $inventory. Cela fait apparaitre l'inventaire, dans lequel se trouve tout vos objets. Utilisez le stick gauche pour sélectionner le papier du sandwich et appuyez sur $primary, de sorte qu'il s'affiche dans le coin supérieur gauche de l'écran.
+texts_step_04_controller;Maintenant, vous pouvez utiliser le papier du sandwich avec d'autres éléments. Sélectionnez le trognon de pomme sur la table et appuyez sur $primary.
+texts_step_05_controller;Ouvrez à nouveau l'inventaire, sélectionnez le papier du sandwich et appuyez sur $secondary pour l'examiner.
+texts_step_06_controller;Bien sûr, vous pouvez également utiliser les éléments à l'intérieur de l'inventaire entre eux. Sélectionnez la serviette en papier avec $primary , et sélectionnez le papier du sandwich dans l'inventaire avec $primary.
 texts_tutorial_apfelreste_mo_beteachten_1;Examiner le trognon de pomme
 texts_tutorial_apfelreste_mo_used_mit_apfelreste;Enroulez le trognon de pomme dans le papier du sandwich
 spokentexts_tutorial_apfelreste_ex_1_st_1;J'étais tellement excité ce matin que je ne pouvais pas manger quoi que ce soit. Inutile de dire qu'à la seconde où je suis monté dans le train, je mourais de faim.
@@ -178,12 +178,12 @@ spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_10_direct
 spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_10;Nous apprécions le soutien de la police Suisse.
 spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_11_direction;Je ne sais pas quoi faire de lui
 spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_11;Mais... Ce serait mieux si vous pouviez... rester assis et... garder un oeil ouvert.
-spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_1;Votre sens de la déduction laisse a désirer. Je pense que ça ira très bien sans vous.
-spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_2;Et bien... C'est impressionnant, j'avoue. Mais moins il y a de personnes impliqués, mieux c'est. Ça ira très bien sans vous.
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_1;Votre sens de la déduction laisse a désirer. Je pense que ça ira très bien sans votre aide.
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_2;Et bien... C'est impressionnant, j'avoue. Mais moins il y a de personnes impliqués, mieux c'est. Ça ira très bien sans votre aide.
 spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_3_direction;determined
 spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_3;Vous ne pouvez pas !
 sequences_grossraumwagon_seq_grossraumwagon_fragespiel_beendet#5;[The investigators have started to turn away, then looks back confused.]
-spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_4;Je ne peux pas ? Pardonnez moi ?
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_4;Je ne peux pas ? Pardonnez-moi ?
 sequences_grossraumwagon_seq_grossraumwagon_fragespiel_beendet#7;[Öhi takes courage all together.]
 spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_5_direction;trying to sound brave and determined
 spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_5;Je peux aider et je veux aider !
