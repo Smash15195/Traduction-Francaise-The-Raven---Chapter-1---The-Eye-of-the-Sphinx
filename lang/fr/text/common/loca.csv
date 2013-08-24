@@ -198,16 +198,16 @@ menu_unlock;Déverrouiller le jeu complet
 menu_unlock_tooltip;Ici vous pouvez débloquer le jeu complet.
 menu_download;Contenu Téléchargeable
 menu_download_tooltip;Vous pouvez télécharger des chapitres supplémentaires ici.
-info_live;You need to be signed into Xbox LIVE to access this feature.
-info_login;There is no profile logged in. To play ‘The Raven’ you have to be logged in.
+info_live;Vous devez être connecté au Xbox LIVE pour accéder à cette fonctionnalité.
+info_login;Il n'existe pas de profil pour jouer 'The Raven', vous devez vous connecter.
 action_login;Se connecter maintenant
 action_quit;Quitter le jeu
-info_storage;No storage device has been selected or the selected storage device has been removed. Please select a storage device in order to save your progress.
-action_select;Select device
-action_continue;Continue without
-info_storage_2;If you continue without a storage device, you won’t be able to save any progress. Do you want to continue?
-action_continue_2;Yes, continue
-info_episode_lost;The storage device containing the game data was removed.
+info_storage;Aucun périphérique de stockage n'a été sélectionné ou le périphérique de stockage sélectionné a été enlevé. Veuillez sélectionner un périphérique de stockage pour sauvegarder votre progression.
+action_select;Sélectionner un périphérique
+action_continue;Continuer sans
+info_storage_2;Si vous continuez sans périphérique de stockage, vous ne serez pas en mesure d'enregistrer vos progrès. Voulez-vous continuer ?
+action_continue_2;Oui, continuer
+info_episode_lost;Le dispositif de stockage contenant les données de jeu a été enlevé.
 action_ok;D'accord
 startscreen_message;Appuyez sur START
 episode_end_award_1;Tout simplement parfait !
