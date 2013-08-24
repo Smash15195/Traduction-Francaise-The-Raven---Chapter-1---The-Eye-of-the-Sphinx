@@ -8,8 +8,8 @@ Traduction Francaise The Raven - Chapter 1 : The Eye of the Sphinx
 
 |||
 |-----------------------------------:|:--------------------------|
-|				**Site de la traduction** : | [Chez-Smash15195.com/The Raven Chapter 1](http://www.chez-smash15195.com/nouvelle-traduction-the-raven-chapter-1/) | 
-|              **Forum CanardPC** : | http://**/ |
+|				**Site de la traduction** : | [Chez-Smash15195.com/The Raven Chapter 1](http://www.chez-smash15195.com/traduction-francaise/the-raven-chapter-1-contruc/chapitre-1-loeil-du-sphinx/) | 
+|              **Forum CanardPC** : | http://forum.canardpc.com/threads/82085-Trad-FR-The-Raven-Chapitre-1-L%C2%92Oeil-du-Sphinx |
 |          **Forum RPGFrance** : | http://**/ |
 |                 **Avancement** : | [Feuille Google Doc](https://**/) |
 |        **Un problème ?** : | [Ouvrir un ticket](https://github.com/Smash15195/Traduction-Francaise-The-Raven---Chapter-1---The-Eye-of-the-Sphinx/issues/) |
