@@ -5,38 +5,38 @@
 			<name value="Nimo" />
 			<name value="Smash15195" />
 		</function>
-		<function value="Creative Director">
+		<function value="Directeur Créatif">
 			<name value="Jan Theysen" />
 		</function>
-		<function value="Executive Producer">
+		<function value="Producteur exécutif">
 			<name value="Marc König" />
 		</function>
-		<function value="Project Lead">
+		<function value="Chef de projet">
 			<name value="Henrike Jahn" />
 		</function>
-		<function value="Art Direction &amp; Lighting Backgrounds">
+		<function value="Direction artistique &amp; Éclairage">
 			<name value="Christoph Kucher" />
 		</function>
-		<function value="3D Backgrounds by Polygonfabrik">
+		<function value="3D Décors par Polygonfabrik">
 			<name value="Sebastian Wessel" />
 			<name value="Karim Rehimi" />
 			<name value="Markus Maciak" />
 			<name value="Nils Meißner" />
 			<name value="Sebastian Wunnicke" />			
 		</function>
-		<function value="Pre-Viz &amp; Cinematics">
+		<function value="Pre-Viz &amp; Cinématiques">
 			<name value="Tom Degener" />
 		</function>
-		<function value="Character Design">
+		<function value="Conception personnages">
 			<name value="Stefan Obst" />
 		</function>
-		<function value="Character Design by Artist Entertainment">
+		<function value="Conception personnages par Artist Entertainment">
 			<name value="Michał Jastrzębski" />
 			<name value="Artur Jastrzębski" />
 			<name value="Adam Kurzac" />
 			<name value="Jakub Lipski" />			
 		</function>
-		<function value="Animators">
+		<function value="Animateurs">
 			<name value="Geoffrey Köhler" />
 			<name value="Marina Dmitrieva" />
 			<name value="Thomas Derksen" />
@@ -44,25 +44,25 @@
 			<name value="Jean-Philippe Welsh" />	
 			<name value="Ratul Sarna" />				
 		</function>
-		<function value="Programming">
+		<function value="Programmation">
 			<name value="Thomas Jahn" />
 			<name value="Arne von Öhsen" />
 			<name value="Benjamin Kuhr" />
 			<name value="Katrin Drewello" />			
 		</function>
-		<function value="Gameplay Logic">
+		<function value="Logique de Gameplay">
 			<name value="Henrike Jahn" />
 			<name value="Arne von Öhsen" />			
 		</function>
-		<function value="Music">
+		<function value="Musique">
 			<name value="Benny Oschmann" />
 		</function>	
-		<function value="Sound Effects">
+		<function value="Effets sonores">
 			<name value="Marco Rosenberg" />
 			<name value="Marc König" />
 			<name value="Clemens Brix" />			
 		</function>		
-		<function value="Story, Texts &amp; Puzzle Design">
+		<function value="Histoire, Textes &amp; Énigme">
 			<name value="Jan Theysen" />
 			<name value="Marco Rosenberg" />			
 		</function>		
@@ -71,14 +71,14 @@
 			<name value="Joanna Materek" />
 			<name value="Daniel Farin" />			
 		</function>		
-		<function value="Content Integration">
+		<function value="Intégration contenu">
 			<name value="Dirk Theysen" />
 			<name value="Hanno Sass" />
 			<name value="Britta Struss" />
 			<name value="Lukas Höppner" />
 			<name value="Patrick Graw" />			
 		</function>	
-		<function value="Additional Graphics">
+		<function value="Graphismes additionnelles">
 			<name value="Robin Kuhlmann" />
 			<name value="Dennis Lehmann" />
 			<name value="Matthias Oberprieler" />
@@ -88,10 +88,10 @@
 			<name value="Thomas Derksen" />
 			<name value="Uli Meyer" />			
 		</function>		
-		<function value="Cinematics">
+		<function value="Cinématiques">
 			<name value="Tom Degener" />
 		</function>	
-		<function value="Testers">
+		<function value="Testeurs">
 			<name value="Timo Gellers" />
 			<name value="Hanno Sass" />
 			<name value="Björn Böttcher" />
@@ -101,54 +101,54 @@
 		</function>		´
 	</title>
 	<title value="Nordic Games GmbH">
-		<function value="Executive Producer">
+		<function value="Producteur exécutif">
 			<name value="Reinhard Pollice" />
 		</function>	
-		<function value="Producer &amp; Script Editor">
+		<function value="Producteur &amp; Script">
 			<name value="Martin Kreuch" />
 		</function>		
-		<function value="Localization Manager">
+		<function value="Responsable localisation">
 			<name value="Gennaro Giani" />
 		</function>	
-		<function value="Marketing Director">
+		<function value="Directeur marketing">
 			<name value="Nik Blower " />
 		</function>		
-		<function value="PR &amp; Marketing Manager">
+		<function value="PR &amp; Responsable marketing">
 			<name value="Peter Hercher" />
 			<name value="Philipp Brock" />			
 		</function>	
-		<function value="Lead Graphic Artist">
+		<function value="Chef Infographiste">
 			<name value="Ernst Satzinger" />
 		</function>		
-		<function value="Age Rating Coordinator">
+		<function value="Coordinateur classification des âges">
 			<name value="Thomas Reisinger" />
 		</function>		
-		<function value="Sales Director">
+		<function value="Directeur des ventes">
 			<name value="Georg Klotzberg" />
 		</function>	
-		<function value="Sales">
+		<function value="Ventes">
 			<name value="Roland Hobiger" />
 			<name value="Nik Blower" />
 			<name value="Reinhold Schor" />			
 		</function>	
-		<function value="Digital Distribution Manager">
+		<function value="Directeur de la distribution numérique">
 			<name value="Thomas Reisinger" />
 		</function>	
-		<function value="Manufacturing">
+		<function value="Fabrication">
 			<name value="Anton Seicarescu" />
 		</function>	
-		<function value="Accounting &amp; Office Management">
+		<function value="Comptabilité &amp; Bureau de gestion">
 			<name value="Marion Mayer" />
 			<name value="Anton Seicarescu" />			
 		</function>	
-		<function value="Business &amp; Product Development Management">
+		<function value="Business &amp; Gestion développement produit">
 			<name value="Reinhard Pollice" />
 		</function>	
-		<function value="Nordic Games GmbH Management">
+		<function value="Direction Nordic Games GmbH">
 			<name value="Klemens Kreuzer" />
 			<name value="Lars Wingefors" />			
 		</function>	
-		<function value="Business Development Consulting">
+		<function value="Conseil développement entreprises">
 			<name value="Leo Zullo (Wired Productions)" />
 			<name value="Jason Harman (Wired Productions)" />			
 		</function>	
@@ -157,38 +157,38 @@
 			<name value="Klemens Kreuzer" />
 			<name value="Egil Strunke" />			
 		</function>	
-		<function value="External QA">
+		<function value="Assurance qualité extérieur">
 			<name value="Quantic Lab" />
 			<name value="www.quanticlab.com" />			
 		</function>	
-		<function value="CEO">
+		<function value="Directeur Général">
 			<name value="Stefan Seicarescu" />
 		</function>	
-		<function value="Project Management">
+		<function value="Gestion de projet">
 			<name value="Marius Popa" />
 		</function>	
-		<function value="Webpage Team">
+		<function value="Équipe site internet">
 			<name value="Ernst Satzinger" />
 			<name value="Fabian Hackhofer" />
 			<name value="Peter Hercher" />
 			<name value="Philipp Brock" />			
 		</function>	
-		<function value="Cover Artwork">
+		<function value="Illustration couverture">
 			<name value="Daniel Farin" />
 		</function>	
-		<function value="External PR">
+		<function value="Relations publiques">
 			<name value="Tom Ohle &amp; Evolve PR Team" />
 			<name value="Luke Mortner, Simon Byron, Lauren Dillon (Premier PR UK)" />			
 		</function>	
 	</title>		
-	<title value="German Voice Recordings">		
-		<function value="Recorded at">
+	<title value="Enregistrements audio Allemands">		
+		<function value="Enregistré à">
 			<name value="2day Productions, Berlin" />
 		</function>	
 		<function value="Ton">
 			<name value="David Riedel" />
 		</function>	
-		<function value="Sound Editing">
+		<function value="Montage sonore">
 			<name value="Wolfgang Sandvoss" />
 			<name value="Sebastian Damerius" />
 			<name value="Benjamin Schimpke" />
@@ -199,12 +199,12 @@
 			<name value="Christian Wunder" />
 			<name value="Marco Rosenberg" />			
 		</function>		
-		<function value="Regie">
+		<function value="Régie">
 			<name value="Marco Rosenberg" />
 			<name value="Jan Theysen" />			
 		</function>	
 	</title>		
-	<title value="Voices">				
+	<title value="Voix">				
 		<function value="Jakob Anton Zellner">
 			<name value="Peter Groeger" />
 		</function>	
@@ -223,7 +223,7 @@
 		<function value="Lady Clarissa Westmacott">
 			<name value="Gisela Fritsch" />
 		</function>	
-		<function value="Constable Robert Oliver">
+		<function value="Gendarme Robert Oliver">
 			<name value="Olaf Reichmann" />
 		</function>	
 		<function value="Dr. Emil Gebhardt">
@@ -238,54 +238,54 @@
 		<function value="David Kreutzer">
 			<name value="Christian Gaul" />
 		</function>	
-		<function value="Kapitän Mario di Conti">
+		<function value="Capitaine Mario di Conti">
 			<name value="Jürgen Kluckert" />
 		</function>	
-		<function value="Professor Edgar Lucien">
+		<function value="Professeur Edgar Lucien">
 			<name value="Rainer Doering" />
 		</function>	
-		<function value="Baronin von Trebitz">
+		<function value="Boronne von Trebitz">
 			<name value="Philine Peters-Arnolds" />
 		</function>	
-		<function value="Direktor Abbas Mokhtar">
+		<function value="Directeur Abbas Mokhtar">
 			<name value="Kaspar Eichel" />
 		</function>	
-		<function value="Museumswache Ägypten">
+		<function value="Garde Musée Égypte">
 			<name value="Detlef Bierstedt" />
 		</function>	
-		<function value="Museumswache London">
+		<function value="Garde Musée Londre">
 			<name value="Axel Lutter" />
 		</function>	
-		<function value="Steward des Orient Express">
+		<function value="Steward de l'Orient Express">
 			<name value="Martin Klaus" />
 		</function>	
 	</title>
-	<title value="English Localization">		
+	<title value="Localisation Anglaise">		
 		<function value="Recorded at">
 			<name value="OMUK London Studios" />
 		</function>	
-		<function value="Director">
+		<function value="Réalisation">
 			<name value="Mark Estdale" />
 			<name value="Jo Green" />
 			<name value="Marco Rosenberg" />			
 		</function>		
-		<function value="Engineers">
+		<function value="Ingénieurs">
 			<name value="Juanma Delfin" />
 			<name value="Vicky Prentice" />			
 		</function>	
-		<function value="Dialogue Editors">
+		<function value="Rédaction dialogue">
 			<name value="Marta Puerto" />
 			<name value="Vicky Prentice" />
 			<name value="Matthew Panayiotopoulos" />			
 		</function>	
-		<function value="Dialogue post-production">
+		<function value="Post-production Dialogue">
 			<name value="Kit Challis" />
 		</function>	
 		<function value="Casting">
 			<name value="Mark Estdale" />
 		</function>	
 	</title>
-	<title value="Voices">	
+	<title value="Voix">	
 		<function value="Anton Jakob Zellner">
 			<name value="Neil McCaul" />
 		</function>	
@@ -295,7 +295,7 @@
 		<function value="Adil Jamal">
 			<name value="Kerry Shale" />
 		</function>	
-		<function value="Inspector Nicolas Legrand">
+		<function value="Inspecteur Nicolas Legrand">
 			<name value="Andrew Wincott" />
 		</function>	
 		<function value="Clive Alfred Inch">
@@ -304,7 +304,7 @@
 		<function value="Lady Clarissa Westmacott">
 			<name value="Nicolette McKenzie" />
 		</function>	
-		<function value="Constable Robert Oliver">
+		<function value="Gendarme Robert Oliver">
 			<name value="Olaf Reichmann" />
 		</function>	
 		<function value="Dr. Emil Gebhardt">
@@ -319,29 +319,29 @@
 		<function value="David Kreutzer">
 			<name value="Kevin Howarth" />
 		</function>	
-		<function value="Captain Mario di Conti">
+		<function value="Capitaine Mario di Conti">
 			<name value="Rupert Farley" />
 		</function>	
-		<function value="Professor Edgar Lucien">
+		<function value="Professeur Edgar Lucien">
 			<name value="Ian Drysdale" />
 		</function>	
-		<function value="Baroness von Trebitz">
+		<function value="Baronne von Trebitz">
 			<name value="Rula Lenska" />
 		</function>	
-		<function value="Director Abbas Mokhtar">
+		<function value="Directeur Abbas Mokhtar">
 			<name value="Rob Rackstraw" />
 		</function>	
-		<function value="Museum Guard Egypt">
+		<function value="Garde Musée Égypte">
 			<name value="Tim Bentinck" />
 		</function>	
-		<function value="Museum Guard London">
+		<function value="Garde Musée Londre">
 			<name value="Tim Bentinck" />
 		</function>	
-		<function value="Steward of the Orient Express">
+		<function value="Steward de l'Orient Express">
 			<name value="Rob Rackstraw" />
 		</function>	
 	</title>
-	<title value="Used Technology">			
+	<title value="Technologie utilisée">			
 		<function value="Unity3D">
 			<name value="http://unity3d.com" />
 		</function>	
