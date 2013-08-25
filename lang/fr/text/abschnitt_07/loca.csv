@@ -1796,418 +1796,418 @@ spokentexts_ermittler_ex_3_st_4;J'hésite à informer Legrand à propos du faux 
 spokentexts_ermittler_ex_3_st_5;Je ferais bien de jeter un oeil au corps de la baronne et de tester mes théories.
 texts_frau_mo_ex_1;Regarder Mlle Mayers
 texts_frau_mo_talk_mit_1-3;Parler à Mlle Mayers
-texts_frau_top_a07_frau_beobachtungen_tseq_title;Events
-spokentexts_frau_top_a07_frau_beobachtungen_tseq_st_1;Did you hear or see anything suspicious last night?
-spokentexts_frau_top_a07_frau_beobachtungen_tseq_st_2;No. I didn't feel very well last night. I went to bed early.
-spokentexts_frau_top_a07_frau_beobachtungen_tseq_st_3;So you're feeling better this morning?
-spokentexts_frau_top_a07_frau_beobachtungen_tseq_st_4;Thanks for asking.
-texts_frau_top_a07_frau_eltern_tseq_title;Your parents
-spokentexts_frau_top_a07_frau_eltern_tseq_st_1;I'm sure your parents are truly sorry they can't be with you at this difficult time.
-spokentexts_frau_top_a07_frau_eltern_tseq_st_2;Maybe - but I'm not a little girl anymore.
-spokentexts_frau_top_a07_frau_eltern_tseq_st_3;And thinking about my fiancée keeps me going.
+texts_frau_top_a07_frau_beobachtungen_tseq_title;Evènements
+spokentexts_frau_top_a07_frau_beobachtungen_tseq_st_1;Avez vous vu ou entendu quelque chose de particulier hier soir ?
+spokentexts_frau_top_a07_frau_beobachtungen_tseq_st_2;Non. Je ne me sentais pas très bien hier soir. Je suis allé me coucher rapidement.
+spokentexts_frau_top_a07_frau_beobachtungen_tseq_st_3;Et vous vous sentez mieux ce matin ?
+spokentexts_frau_top_a07_frau_beobachtungen_tseq_st_4;Oui, merci.
+texts_frau_top_a07_frau_eltern_tseq_title;Vos parents
+spokentexts_frau_top_a07_frau_eltern_tseq_st_1;J'imagine que vos parents sont vraiment tristes de ne pas être à vos côtés dans un moment si difficile.
+spokentexts_frau_top_a07_frau_eltern_tseq_st_2;Peut être, mais je ne suis plus une petite fille.
+spokentexts_frau_top_a07_frau_eltern_tseq_st_3;Et puis penser à mon fiancé me maintient à flots.
 spokentexts_frau_top_a07_frau_eltern_tseq_st_4_direction;surprised
-spokentexts_frau_top_a07_frau_eltern_tseq_st_4;You... You're engaged?
-spokentexts_frau_top_a07_frau_eltern_tseq_st_5;Yes. My boyfriend and I got engaged right before the trip. I want to surprise my parents. Especially my dad!
-spokentexts_frau_top_a07_frau_eltern_tseq_st_6;I'm sure he'll be very surprised!
-spokentexts_frau_top_a07_frau_eltern_tseq_st_7;But what will you do if your father doesn't agree to the engagement?
-spokentexts_frau_top_a07_frau_eltern_tseq_st_8;What choice does he have? When he put me on this boat full of thieves and murderers in the first place?
-spokentexts_frau_top_a07_frau_eltern_tseq_st_9;Charming.
-texts_frau_top_a07_frau_sonnen_tseq_title;Sunbathing
-spokentexts_frau_top_a07_frau_sonnen_tseq_st_1;Do you think it's appropriate to go sunbathing in a situation like this?
-spokentexts_frau_top_a07_frau_sonnen_tseq_st_2;"What ""situation""?"
+spokentexts_frau_top_a07_frau_eltern_tseq_st_4;Vous... Vous êtes fiancée ?
+spokentexts_frau_top_a07_frau_eltern_tseq_st_5;Oui. Mon pétit ami et moi nous sommes fiancés juste avant le voyage. Je veux faire la surprise à mes parents. Surtout mon père !
+spokentexts_frau_top_a07_frau_eltern_tseq_st_6;Je suis sûr qu'il sera très surpris !
+spokentexts_frau_top_a07_frau_eltern_tseq_st_7;Mais que ferez vous si votre père s'oppose aux fiançailles ?
+spokentexts_frau_top_a07_frau_eltern_tseq_st_8;Quel choix a-t-il ? Surtout quand c'est lui qui m'a laissée sur un bateau rempli de voleurs et de meurtriers ?
+spokentexts_frau_top_a07_frau_eltern_tseq_st_9;Charmant.
+texts_frau_top_a07_frau_sonnen_tseq_title;Bronzage
+spokentexts_frau_top_a07_frau_sonnen_tseq_st_1;Pensez vous qu'il est décent de bronzer ainsi vu notre situation ?
+spokentexts_frau_top_a07_frau_sonnen_tseq_st_2;"Quelle ""situation""?"
 spokentexts_frau_top_a07_frau_sonnen_tseq_st_3_direction;in disgust
-spokentexts_frau_top_a07_frau_sonnen_tseq_st_3;A woman was murdered last night!
-spokentexts_frau_top_a07_frau_sonnen_tseq_st_4;If refusing to sunbathe could bring the dead back to life, I'd go back to my cabin immediately!
-texts_frau_top_a07_frau_verabschieden_tseq_title;Say goodbye
-spokentexts_frau_top_a07_frau_verabschieden_tseq_st_1;Enjoy the sun, Miss Mayers. And don't let us disturb you.
-spokentexts_frau_top_a07_frau_verabschieden_tseq_st_2;If you're trying to make me feel guilty, Constable, it's not working.
-spokentexts_frau_ex_1_st_1;Miss Mayers seems to have found an opportunity to do nothing.
+spokentexts_frau_top_a07_frau_sonnen_tseq_st_3;Une femme a été tuée la nuit dernière !
+spokentexts_frau_top_a07_frau_sonnen_tseq_st_4;Si s'abstenir de bronzer pouvait la ramener à la vie je rentrerais dans ma cabine sur le champ !
+texts_frau_top_a07_frau_verabschieden_tseq_title;Dire au revoir
+spokentexts_frau_top_a07_frau_verabschieden_tseq_st_1;Profitez bien du soleil, Mlle Mayers. J'espère qu'on ne vous dérangera pas trop.
+spokentexts_frau_top_a07_frau_verabschieden_tseq_st_2;Si vous essayez de me faire culpabiliser, Officer, sachez que ce n'est très efficace.
+spokentexts_frau_ex_1_st_1;Mlle Mayers semble avoir trouvé l'occasion de ne rien faire.
 sequences_frau_ex_1#3;[The young woman lies on the sunbed with her eyes closed and sunbathes.(Idle).]
-spokentexts_frau_talk_mit_1_st_1;Hello, Miss Mayers.
+spokentexts_frau_talk_mit_1_st_1;Bonjour, Mlle Mayers.
 sequences_frau_talk_mit_1#2;[The young woman opens her eyes, lifts her head (Idle).]
-spokentexts_frau_talk_mit_1_st_2;Hello, Mr...
-spokentexts_frau_talk_mit_1_st_3;Constable Zellner.
+spokentexts_frau_talk_mit_1_st_2;Bonjour, Mr...
+spokentexts_frau_talk_mit_1_st_3;Officier Zellner.
 sequences_frau_talk_mit_2#2;[The young woman opens the eyes, lifts her head (Idle).]
 spokentexts_frau_talk_mit_2_st_2;Hmm?
 sequences_frau_talk_mit_2#4;[Dialogue between Ohi and the woman starts.]
-spokentexts_frau_talk_mit_3_st_1;Miss Mayers doesn't really seem to be much help in my investigations. She's probably too busy thinking about her... fiancée.
-texts_geiger_mo_ex_1;Look at David Kreutzer
-spokentexts_geiger_ex_1_st_1;Mr. Kreutzer clearly feels uneasy... But does Legrand actually think he's the Raven?!
-spokentexts_geiger_ex_1_st_2;He was on the train and has sticky fingers, that's true.
-spokentexts_geiger_ex_1_st_3;But he doesn't have the profile of an international master criminal.
-texts_junge_mo_ex_1;Look at Matt
-texts_junge_mo_talk_mit_1-3;Talk to Matt
-texts_junge_mo_used_mit_zwille_1__2;Give the slingshot back to Matt
-texts_junge_top_a07_junge_der_archaeologe_tseq_title;Professor Lucien
-spokentexts_junge_top_a07_junge_der_archaeologe_tseq_st_1;Your mother and Professor Lucien seem to be on very good terms with each other.
+spokentexts_frau_talk_mit_3_st_1;Mlle Mayers ne semble pas d'une grande aide dans mon enquête. Elle est surement trop occupée à penser à son... fiancé.
+texts_geiger_mo_ex_1;Regarder David Kreutzer
+spokentexts_geiger_ex_1_st_1;Mr Kreutzer a l'air vraiment mal à l'aise... Mais Legrand pense-t-il sérieusement que c'est le Corbeau ?!
+spokentexts_geiger_ex_1_st_2;C'est vrai qu'il était dans le train et a tendance à s'approprier les biens d'autrui.
+spokentexts_geiger_ex_1_st_3;Mais il n'a pas le profil d'un maître du crime international.
+texts_junge_mo_ex_1;Regarder Matt
+texts_junge_mo_talk_mit_1-3;Parler à Matt
+texts_junge_mo_used_mit_zwille_1__2;Rendre le lance-pierre à Matt
+texts_junge_top_a07_junge_der_archaeologe_tseq_title;Professeur Lucien
+spokentexts_junge_top_a07_junge_der_archaeologe_tseq_st_1;Ta maman et la Professeur Lucien semblent bien s'entendre.
 spokentexts_junge_top_a07_junge_der_archaeologe_tseq_st_2_direction;unpleasantly
 spokentexts_junge_top_a07_junge_der_archaeologe_tseq_st_2;Mmm.
-spokentexts_junge_top_a07_junge_der_archaeologe_tseq_st_3;Don't you like him?
-spokentexts_junge_top_a07_junge_der_archaeologe_tseq_st_4;Don't know.
-spokentexts_junge_top_a07_junge_der_archaeologe_tseq_st_5;He seems to be very nice...
-spokentexts_junge_top_a07_junge_der_archaeologe_tseq_st_6;I guess.
+spokentexts_junge_top_a07_junge_der_archaeologe_tseq_st_3;Tu ne l'aimes pas ?
+spokentexts_junge_top_a07_junge_der_archaeologe_tseq_st_4;Je ne sais pas.
+spokentexts_junge_top_a07_junge_der_archaeologe_tseq_st_5;Il semble très gentil...
+spokentexts_junge_top_a07_junge_der_archaeologe_tseq_st_6;Je suppose.
 texts_junge_top_a07_junge_die_schriftstellerin_tseq_title;Lady Westmacott
-spokentexts_junge_top_a07_junge_die_schriftstellerin_tseq_st_1;Lady Westmacott is all by herself in the saloon. Maybe you'd like to visit her later?
-spokentexts_junge_top_a07_junge_die_schriftstellerin_tseq_st_2;Sure!
-spokentexts_junge_top_a07_junge_die_schriftstellerin_tseq_st_3;The lady tells exciting stories!
-spokentexts_junge_top_a07_junge_die_schriftstellerin_tseq_st_4;I know. She's my favorite writer.
-spokentexts_junge_top_a07_junge_die_schriftstellerin_tseq_st_5;She told me that it's not much fun to write detective novels.
-spokentexts_junge_top_a07_junge_die_schriftstellerin_tseq_st_6;She'd rather write something else, but her fans always want the same thing.
-spokentexts_junge_top_a07_junge_die_schriftstellerin_tseq_st_7;They made her rich and famous.
-spokentexts_junge_top_a07_junge_die_schriftstellerin_tseq_st_8;I told her to just write want she wants to write. If it's good, someone will buy it. And if not, at least she had fun writing it.
-spokentexts_junge_top_a07_junge_die_schriftstellerin_tseq_st_9;Then she smiled and nodded. She said it was a good idea.
-texts_junge_top_a07_junge_leave_tseq_title;Say goodbye
-spokentexts_junge_top_a07_junge_leave_tseq_st_1;I have to leave again.
-spokentexts_junge_top_a07_junge_leave_tseq_st_2;Sure.
+spokentexts_junge_top_a07_junge_die_schriftstellerin_tseq_st_1;Lady Westmacott est toute seule dans le salon. Peut être aimerais-tu aller la voir plus tard ?
+spokentexts_junge_top_a07_junge_die_schriftstellerin_tseq_st_2;Bien sûr !
+spokentexts_junge_top_a07_junge_die_schriftstellerin_tseq_st_3;Elle raconte des histoires passionnantes!
+spokentexts_junge_top_a07_junge_die_schriftstellerin_tseq_st_4;je sais. C'est mon auteur préféré.
+spokentexts_junge_top_a07_junge_die_schriftstellerin_tseq_st_5;Elle m'a dit qu'écrire des romans policiers n'était pas très amusant.
+spokentexts_junge_top_a07_junge_die_schriftstellerin_tseq_st_6;Elle préfèrerait écrire autre chose mais ses admirateurs veulent toujours la même chose.
+spokentexts_junge_top_a07_junge_die_schriftstellerin_tseq_st_7;Grâce à eux elle est devenu riche et célèbre.
+spokentexts_junge_top_a07_junge_die_schriftstellerin_tseq_st_8;Je lui ai dit d'écrire ce dont elle avait envie. Si c'est bon, quelqu'un l'achètera. Sinon, au moins elle se sera fait plaisir en l'écrivant.
+spokentexts_junge_top_a07_junge_die_schriftstellerin_tseq_st_9;Ensuite elle a hoché la tête en souriant. elle a dit que c'était une bonne idée.
+texts_junge_top_a07_junge_leave_tseq_title;Dire au revoir
+spokentexts_junge_top_a07_junge_leave_tseq_st_1;Je dois m'en aller à nouveau.
+spokentexts_junge_top_a07_junge_leave_tseq_st_2;D'accord.
 sequences_junge_top_a07_junge_leave_tseq#4;[End of the dialogue, continues at the forecastle.]
-texts_junge_top_a07_junge_seine_mom_tseq_title;His mom
-spokentexts_junge_top_a07_junge_seine_mom_tseq_st_1;I heard you and your mom used to argue a lot?
-spokentexts_junge_top_a07_junge_seine_mom_tseq_st_2;We did. Everything was bad. The house, school, the other kids...
-spokentexts_junge_top_a07_junge_seine_mom_tseq_st_3;We didn't have much money and I was always alone.
-spokentexts_junge_top_a07_junge_seine_mom_tseq_st_4;But you do know that your mother would love to have been with you, don't you? She had to go out to work, to earn money.
-spokentexts_junge_top_a07_junge_seine_mom_tseq_st_5;She wouldn't have had to if... if Dad were still around.
-spokentexts_junge_top_a07_junge_seine_mom_tseq_st_6;Hmm. And how do you get along with her now?
+texts_junge_top_a07_junge_seine_mom_tseq_title;Sa mère
+spokentexts_junge_top_a07_junge_seine_mom_tseq_st_1;On m'a dit que ta mère et toi vous disputiez beaucoup ?
+spokentexts_junge_top_a07_junge_seine_mom_tseq_st_2;Avant oui. Rien n'allait. La maison, l'écolé, les autres enfants...
+spokentexts_junge_top_a07_junge_seine_mom_tseq_st_3;Nous avions pas beaucoup d'argent et j'étais toujours tout seul.
+spokentexts_junge_top_a07_junge_seine_mom_tseq_st_4;Mais tu sais bien que ta mère aurait préféré être à tes côtés, n'est ce pas ? Elle devait aller travailler, pour gagner de l'argent.
+spokentexts_junge_top_a07_junge_seine_mom_tseq_st_5;Elle n'en aurait pas eu besoin si... si Papa était resté.
+spokentexts_junge_top_a07_junge_seine_mom_tseq_st_6;Hmm. Et comment t'entends tu avec elle maintenant ?
 sequences_junge_top_a07_junge_seine_mom_tseq#6;[The boy hunches his shoulders.]
-spokentexts_junge_top_a07_junge_seine_mom_tseq_st_7;I'm always happy when we do something together on vacation! Now she has more time for me!
-spokentexts_junge_top_a07_junge_seine_mom_tseq_st_8;And I like my boarding school. I have a lot of friends there and the teachers aren't soooo bad.
-texts_junge_top_a07_junge_spiel_antwort_1_tseq_title;Start
-spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_1;Then let's get started!
+spokentexts_junge_top_a07_junge_seine_mom_tseq_st_7;Je suis toujours heureux quand on fait quelque chose ensemble pendant les vacances ! Maintenant elle a plus de temps pour moi !
+spokentexts_junge_top_a07_junge_seine_mom_tseq_st_8;Et j'aime bien aller au pensionnat. J'ai plein d'amis là bas et les profs ne sont siiiii terribles.
+texts_junge_top_a07_junge_spiel_antwort_1_tseq_title;Commencer
+spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_1;Allons y !
 spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_2_direction;is happy
-spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_2;Oh yeah!
-spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_3;What are we playing for?
-spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_4;Err... I thought we'd just play for fun...
+spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_2;Oh oui !
+spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_3;Pour quoi joue-t-on ?
+spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_4;Err... Je pensais juste jouer pour s'amuser...
 spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_5_direction;reproachfully
-spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_5;That's so boring!
-spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_6;We have to bet something! Otherwise it isn't fun!
+spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_5;C'est nul !
+spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_6;On doit parier quelque chose ! Sinon ce n'est pas amusant !
 spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_7_direction;reproachfully
-spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_7;You English people!
-spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_8;So, I'll bet my brand-new slingshot! And you?
-spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_9;I don't want to gamble.
-spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_10;How about ice cream in Cairo?
-spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_11;OK. If I win, I get the slingshot - if I lose, I get an ice cream in Cairo.
+spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_7;Vous les anglais !
+spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_8;Alors, je parie mon lance-pierre flambant neuf ! Et vous ?
+spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_9;Je ne veux pas rien mettre en jeu.
+spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_10;Pourquoi pas une glace au Caire ?
+spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_11;OK. Si je gagne, le lance-pierre est à moi, si je perds j'ai droit à une glace à notre arrivée au Caire.
 spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_12_direction;acting upset
-spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_12;Hey!
-spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_13;Never cheat Matt Miller! So what do you say - ice cream versus slingshot?
-spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_14;Hmm. All right. Let the games begin!
-texts_junge_top_a07_junge_spiel_antwort_2_tseq_title;The rules
-spokentexts_junge_top_a07_junge_spiel_antwort_2_tseq_st_1;I think you'll have to explain the rules to me first...
-spokentexts_junge_top_a07_junge_spiel_antwort_2_tseq_st_2;OK.
-spokentexts_junge_top_a07_junge_spiel_antwort_4_tseq_st_4;You play with the blue pucks and I play with the red ones. You have to push the pucks with this stick into the zone over there and score as many points as possible.
-spokentexts_junge_top_a07_junge_spiel_antwort_4_tseq_st_5;Sounds easy. How many pucks do I have?
-spokentexts_junge_top_a07_junge_spiel_antwort_4_tseq_st_6;Six. Now comes the kicker: first it's your turn, then mine, and so on. And everyone is allowed to shoot the other person's pucks out of the zone!
-texts_junge_top_a07_junge_spiel_antwort_3_tseq_title;One more time!
-spokentexts_junge_top_a07_junge_spiel_antwort_3_tseq_st_1;This time I'll win!
-spokentexts_junge_top_a07_junge_spiel_antwort_3_tseq_st_2;Na! I doubt that!
+spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_12;Hey !
+spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_13;N'essayez jamais de tricher contre Matt Miller! Alors qu'ets ce que vous en pensez ? Glace contre lance-pierre ?
+spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_14;Hmm. Très bien. Que le jeu commence !
+texts_junge_top_a07_junge_spiel_antwort_2_tseq_title;Les règles
+spokentexts_junge_top_a07_junge_spiel_antwort_2_tseq_st_1;Tu devrais commencer par m'expliquer les règles...
+spokentexts_junge_top_a07_junge_spiel_antwort_2_tseq_st_2;D'accord.
+spokentexts_junge_top_a07_junge_spiel_antwort_4_tseq_st_4;Vous jouez avec les palets bleus et moi les rouges. Avec le manche, vous devez pousser les palets dans la zone là bas et faire le maximum de points.
+spokentexts_junge_top_a07_junge_spiel_antwort_4_tseq_st_5;Ca a l'air facile. Combien ai-je de palets ?
+spokentexts_junge_top_a07_junge_spiel_antwort_4_tseq_st_6;Six. Mais il y a un twist : vous jouez en premier, puis c'est moi et ainsi de suite. Et on a le droit de tirer dans les palets adverses pour les expulser !
+texts_junge_top_a07_junge_spiel_antwort_3_tseq_title;Encore une fois !
+spokentexts_junge_top_a07_junge_spiel_antwort_3_tseq_st_1;Cette fois ci, c'est la bonne !
+spokentexts_junge_top_a07_junge_spiel_antwort_3_tseq_st_2;Nan ! J'en doute !
 sequences_junge_top_a07_junge_spiel_antwort_3_tseq#2;[Minigame (Dummy) starts.]
-texts_junge_top_a07_junge_spiel_antwort_4_tseq_title;The rules
-spokentexts_junge_top_a07_junge_spiel_antwort_4_tseq_st_1;I still don't really understand the rules.
-spokentexts_junge_top_a07_junge_spiel_antwort_4_tseq_st_2;Oh man! You have to pay attention!
-spokentexts_junge_top_a07_junge_spiel_antwort_4_tseq_st_3;OK-It's very easy.
-texts_junge_top_a07_junge_spiel_antwort_5_tseq_title;Give up
-spokentexts_junge_top_a07_junge_spiel_antwort_5_tseq_st_1;I think I've had enough for now.
-spokentexts_junge_top_a07_junge_spiel_antwort_5_tseq_st_2;Oh, come on! One more time!
-spokentexts_junge_top_a07_junge_spiel_antwort_5_tseq_st_3;Later.
-spokentexts_junge_top_a07_junge_spiel_antwort_5_tseq_st_4;Hmm. OK.
+texts_junge_top_a07_junge_spiel_antwort_4_tseq_title;Les règles
+spokentexts_junge_top_a07_junge_spiel_antwort_4_tseq_st_1;Je n'ai toujours pas vraiment compris les règles.
+spokentexts_junge_top_a07_junge_spiel_antwort_4_tseq_st_2;Oh punaise ! Concentrez vous !
+spokentexts_junge_top_a07_junge_spiel_antwort_4_tseq_st_3;OK, c'est très simple.
+texts_junge_top_a07_junge_spiel_antwort_5_tseq_title;Abandonner
+spokentexts_junge_top_a07_junge_spiel_antwort_5_tseq_st_1;Je pense qu'on va arrêter là pour l'instant.
+spokentexts_junge_top_a07_junge_spiel_antwort_5_tseq_st_2;Oh, allez ! Une dernière !
+spokentexts_junge_top_a07_junge_spiel_antwort_5_tseq_st_3;Plus tard.
+spokentexts_junge_top_a07_junge_spiel_antwort_5_tseq_st_4;Hmm. d'accord.
 sequences_junge_top_a07_junge_spiel_antwort_5_tseq#4;[End of the dialogue, the boy plays alone again.]
-texts_junge_top_a07_junge_spiel_erstmalig_tseq_title;The game
-spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_1;What are you playing there?
-spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_2;I'm playing shuffleboard. At least, I'm trying to.
-spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_3;Never played it before.
-spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_4;It's easy. Professor Lucien explained it to me.
-spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_5;And who won?
-spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_6;We didn't play.
-spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_7;You didn't want to play with him, did you?
+texts_junge_top_a07_junge_spiel_erstmalig_tseq_title;Le jeu
+spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_1;A quoi joues tu ?
+spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_2;Je joue aux palets. en tout cas j'essaie.
+spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_3;Je n'y ai jamais joué.
+spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_4;C'est facile. Le Professeur Lucien m'a expliqué comment faire.
+spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_5;Et qui a gagné ?
+spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_6;Nous n'avons pas joué.
+spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_7;Tu ne veux pas jouer avec lui, n'ets ce pas ?
 sequences_junge_top_a07_junge_spiel_erstmalig_tseq#7;[The boy looks away, hunches his shoulders. Doesn't want to answer.]
-spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_8;Do you want to play a game with me?
+spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_8;Veux tu faire une partie avec moi ?
 spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_9_direction;happy
-spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_9;Sure!
-texts_junge_top_a07_junge_spiel_tseq_title;The game
-spokentexts_junge_top_a07_junge_spiel_tseq_st_1;About the game...
+spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_9;D'accord !
+texts_junge_top_a07_junge_spiel_tseq_title;Le jeu
+spokentexts_junge_top_a07_junge_spiel_tseq_st_1;A propos du jeu...
 sequences_junge_top_a07_junge_spiel_tseq#1;[Continues with the menu.]
-texts_junge_top_a07_junge_wie_geht_es_ihm_tseq_title;How's he doing?
-spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_1;Have you recovered from our adventure?
+texts_junge_top_a07_junge_wie_geht_es_ihm_tseq_title;Comment va-t-il ?
+spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_1;Es tu bien remis de notre aventure ?
 spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_2_direction;Yes
 spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_2;Mmm-hmm.
-spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_6;Um, Mr. Zellner?
-spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_7;Hmm?
-spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_8;What's going on?
-spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_9;What do you mean?
-spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_10;Everybody's acting so strange. And there's tape across that door. I saw that in a movie once.
-spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_11;You don't have to be worried.
-spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_12;Is it about the man from the train?
-spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_13;It might be about the thief, yes.
-spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_14;Haven't you caught him yet?
-spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_15;I'm working on it.
-spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_16;OK.
-texts_junge_top_a07_junge_zwille_zurueck_tseq_title;Slingshot
+spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_6;Um, Mr. Zellner ?
+spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_7;Hmm ?
+spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_8;Qu'y a-t-il ?
+spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_9;Que veux tu dire ?
+spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_10;Tout le monde se comporte bizarrement. Et il y a cette bande au travers de la porte. J'ai vu ça dans un film une fois.
+spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_11;Ne t'inquiète pas.
+spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_12;C'est à propos de l'homme dans le train ?
+spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_13;Oui, il se peut que ce soit lié au voleur.
+spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_14;Ne l'avez vous pas encore attrapé ?
+spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_15;J'y travaille.
+spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_16;D'accord.
+texts_junge_top_a07_junge_zwille_zurueck_tseq_title;Lance-pierre
 sequences_junge_top_a07_junge_zwille_zurueck_tseq#0;[See used with slingshot sequence]
-spokentexts_junge_ex_1_st_1;Matt is keeping himself busy with that strange game. He seems to be okay again.
-spokentexts_junge_ex_1_st_2;But I think he'd be running all over the place if he'd really come to terms with what happened on the train.
-spokentexts_junge_talk_mit_1_st_1;Hello there, partner!
-spokentexts_junge_talk_mit_1_st_2;Hi!
-spokentexts_junge_talk_mit_1_st_3;Are you all right?
+spokentexts_junge_ex_1_st_1;Matt est occupé avec son jeu étrange. Il a l'air d'aller bien.
+spokentexts_junge_ex_1_st_2;Mais j'aurais pensé le voir courrir dans tous les sens si il s'était vraiment remis de ce qui est arrivé à bord du train.
+spokentexts_junge_talk_mit_1_st_1;Salut, camarade !
+spokentexts_junge_talk_mit_1_st_2;Salut !
+spokentexts_junge_talk_mit_1_st_3;Comment vas tu ?
 spokentexts_junge_talk_mit_1_st_4_direction;Yes
 spokentexts_junge_talk_mit_1_st_4;Mmm-hmm.
-spokentexts_junge_talk_mit_2_st_1;Hello, Matt!
-spokentexts_junge_talk_mit_2_st_2;Hi there!
-spokentexts_junge_talk_mit_3_st_1;I'll let him play for now.
-spokentexts_junge_used_mit_zwille_1_st_1;I won the slingshot in a hard-fought duel! I won't give it back until I've shot it at least once!
+spokentexts_junge_talk_mit_2_st_1;Bonjour, Matt!
+spokentexts_junge_talk_mit_2_st_2;Salut !
+spokentexts_junge_talk_mit_3_st_1;Je vais le laisser jouer pour l'instant.
+spokentexts_junge_used_mit_zwille_1_st_1;J'ai gagné le lance-pierre après un duel acharné ! Je ne vais pas le rendre avant de ne l'avoir utilisé au moins une fois !
 spokentexts_junge_used_mit_zwille_2_st_1_direction;conspiratorially
 spokentexts_junge_used_mit_zwille_2_st_1;Psst, Matt!
-spokentexts_junge_used_mit_zwille_2_st_2;What?
-spokentexts_junge_used_mit_zwille_2_st_3;Here's your slingshot back.
+spokentexts_junge_used_mit_zwille_2_st_2;Quoi ?
+spokentexts_junge_used_mit_zwille_2_st_3;Voilà ton lance-pierre.
 sequences_junge_used_mit_zwille_2#4;[Ohi reaches into his pocket, hands Matt the slingshot, covered.]
-spokentexts_junge_used_mit_zwille_2_st_4;Really? Thanks!
+spokentexts_junge_used_mit_zwille_2_st_4;Vraiment ? Merci !
 sequences_junge_used_mit_zwille_2#6;[The boy takes the slingshot, both are in the normal talking-position.]
-spokentexts_junge_used_mit_zwille_2_st_5;You're welcome.
-spokentexts_junge_used_mit_zwille_2_st_6;But...
-spokentexts_junge_used_mit_zwille_2_st_7;You should put Constable Oliver on the list of people who'd better not see it.
+spokentexts_junge_used_mit_zwille_2_st_5;De rien.
+spokentexts_junge_used_mit_zwille_2_st_6;Mais...
+spokentexts_junge_used_mit_zwille_2_st_7;Tu ferais bien d'ajouter l'Officier Oliver à la liste des gens qui ne doivent pas l'apercevoir.
 spokentexts_junge_used_mit_zwille_2_st_8_direction;at first irritated, then he understands
-spokentexts_junge_used_mit_zwille_2_st_8;I...ahhh! I understand.
-spokentexts_junge_used_mit_zwille_2_st_9;Don't worry. I'll be careful.
-spokentexts_junge_used_mit_zwille_2_st_10;Good man.
-texts_kapitaen_mo_ex_1;Look at Captain DiConti
-texts_kapitaen_mo_ex_2;Look at Captain DiConti
-texts_kapitaen_mo_talk_mit_1-2;Talk to Captain DiConti
-texts_kapitaen_mo_talk_mit_1-3;Talk to Captain DiConti
-texts_kapitaen_mo_talk_mit_4-6;Talk to Captain DiConti
-texts_kapitaen_top_a07_kapitaen_alarm_tseq_title;Alarm
-spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_1;Is it possible to find out where the alarm was set off?
-spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_2;I'm afraid not.
-spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_3;There are alarms all over the ship.
-spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_4;I saw that they're sealed. Can't we just check whether the seal is broken?
+spokentexts_junge_used_mit_zwille_2_st_8;Je...ahhh! Je comprends.
+spokentexts_junge_used_mit_zwille_2_st_9;Ne vous en faîtes pas. Je ferai attention.
+spokentexts_junge_used_mit_zwille_2_st_10;Parfait.
+texts_kapitaen_mo_ex_1;Regarder le Capitaine DiConti
+texts_kapitaen_mo_ex_2;Regarder le Capitaine DiConti
+texts_kapitaen_mo_talk_mit_1-2;Parler au Capitaine DiConti
+texts_kapitaen_mo_talk_mit_1-3;Parler au Capitaine DiConti
+texts_kapitaen_mo_talk_mit_4-6;Parler au Capitaine DiConti
+texts_kapitaen_top_a07_kapitaen_alarm_tseq_title;Alarme
+spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_1;Y a-t-il un moyen de déterminer où l'alarme a été sonnée ?
+spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_2;J'ai peur que non.
+spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_3;Il y a des alarmes dans tous les coins du navire.
+spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_4;J'ai vu qu'elles étaient scellées. Ne peut-on pas vérifier si les sceaux sont brisés ?
 spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_5_direction;unangenehm berührt
-spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_5;I'm afraid they're gonna be missing on a lot of alarms. You know, this is an old ship and over the years...
-spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_6;So you're saying that the alarms haven't been regularly maintained?
+spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_5;J'ai bien peur qu'ils soient manquants sur pas mal d'alrmes. Ca navire n'est plus tout jeune et au fil du temps...
+spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_6;Vous suggérez que les alarmes n'ont pas été maintenues en ordre ?
 spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_7_direction;eifrig
-spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_7;I'll inform the crew immediately, of course...
-spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_8;Of course.
-texts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_title;Tired baroness
-spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_1;But at some point she didn't feel well anymore?
-spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_2;Earlier you said that the baroness was in a good mood and was clinking glasses with you.
-spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_3;What happened afterwards? We met you outside the saloon...
-spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_4;She overdid it a bit. She suddenly started to swoon and almost spilled her drink.
-spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_5;I asked her if she wanted to rest for a moment in her cabin. At first she didn't want to - she definitely wanted to stay in the saloon.
-spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_6;But then she realized that she really did need to lie down.
-spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_7;We left together. You know the rest of the story.
-texts_kapitaen_top_a07_kapitaen_baronin_tseq_title;The baroness
-spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_1;How was the baroness?
-spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_2;She really surprised me!
-spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_3;After she was so unapproachable at the reception and didn't show her face for the entire afternoon, I was afraid she was one of the bores and bourgeoisie.
-spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_7;But then she arrived in the early evening in the best of moods. Already had a few, if you know what I mean. Ha ha.
-spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_8;Did she say anything to you?
-spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_9;She asked me where Legrand's cabin was. I told her, then invited her to come for 'drinks' in the evening. I said it would be great fun!
-spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_10;"""The whole ship will be there and you don't want to miss that,"" I told her."
-spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_11;And then?
-spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_12;She seemed to like the idea. She smiled and left again for a few minutes.
-spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_13;Then she came back and seemed very happy. We drank a toast to life!
-texts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_title;My glass
-spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_1;The glass you handed me last night - where did you get it?
-spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_2;Oh! I understand.
-spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_3;You think your glass was poisoned as well?
-spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_4;Did you pour it yourself?
+spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_7;Je vais prévenir l'équipage immédiatement, évidemment...
+spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_8;Evidemment.
+texts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_title;Baronne fatiguée
+spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_1;Mais à un moment elle ne sentait plus très bien ?
+spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_2;Plus tôt vous avez dit que la baronne était de bonne humeur et trinquait avec vous.
+spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_3;Que s'ets-il passé ensuite ? Nous vous avons recontré devant le salon...
+spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_4;Elle a un peu abusé. Brusquement elle a commencé à s'évanouir et a failli renverser son verre.
+spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_5;Je lui ai suggéré d'aller se reposer un peu dans sa cabine. Au début elle s'est obstiné, elle voulait vraiment rester au salon.
+spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_6;Mais finalement elle a compris qu'elle avait vraiment besoin d'un peu de repos.
+spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_7;Je l'ai accompagnée. Vous connaissez la suite.
+texts_kapitaen_top_a07_kapitaen_baronin_tseq_title;La baronne
+spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_1;Comment était la baronne ?
+spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_2;J'ai été très surpris !
+spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_3;Après avoir été si distante lors de l'accueil et n'être pas sortie de tout l'après midi, j'avais peur qu'elle fasse partie des aristocrates méprisants.
+spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_7;Mais elle était d'humeur radieuse quand elle est arrivée en début de soirée. Elle avait déjà pris un peu d'avance, si vous voyez ce que je veux dire. Ha ha.
+spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_8;Vous a-t-elle dit quelque chose ?
+spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_9;Elle m'a demandé où était la cabine de Legrand. Après lui avoir répondu je lui ai proposé de venir boire un verre et s'amuser dans la soirée.
+spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_10;"""Tout le monde sera là, vous ne voulez pas manquer ça,"" Je lui ai dit."
+spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_11;Et ensuite ?
+spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_12;Elle a semblé apprécier l'idée. Elle a souri et s'est éclipsé quelques minutes.
+spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_13;Quand elle est revenu elle avait l'air très heureuse. Nous avons trinqué à la Vie !
+texts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_title;Mon verre
+spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_1;Où avez vous trouvé la verre que vous m'avez offert hier soir ?
+spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_2;Oh ! Je vois.
+spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_3;Vous pensez que votre verre a lui aussi été empoisonné ?
+spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_4;L'avez vous rempli vous même ?
 spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_5_direction;denkt nach
-spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_5;No... I saw that you weren't doing so well and wanted to rescue the situation.
-spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_6;I took the first available glass and I gave it to you.
-spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_7;Was it on the table?
+spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_5;Non... J'ai vu que vous n'aviez pas l'air très bien et j'ai voulu vous sortir de cette situation.
+spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_6;J'ai attrapé le premier verre venu et vous l'ai tendu.
+spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_7;Etait-il sur la table ?
 spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_8_direction;denkt nach
-spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_8;No... I hurried over to you, together with Dr. Gebhardt who... Of course!
-spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_9;He had the glass in his hand! He was looking around for a place to set it down so that he could examine you.
-spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_10;I took it from him.
-spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_11;And gave it to me.
-spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_12;I'd like to apologize for that! But...
-spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_13;You looked so worse for the wear and... I just wanted to comfort you! I didn't think of looking for a new glass for you.
-spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_14;Hmm. So the doctor had the drugged glass in his hand.
-texts_kapitaen_top_a07_kapitaen_champagner_tseq_title;Poisoned champagne
-spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_1;Did everyone drink from the same bottle of champagne last night?
+spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_8;Non... Je me suis hâté vers vous, avec le Docteur Gebhardt qui... bien sûr !
+spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_9;Il avait le verre dans sa main ! Il cherchait un endroit pour le poser et pouvoir vous examiner.
+spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_10;Je lui ai pris.
+spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_11;Et vous me l'avez donné.
+spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_12;Je vous présente mes excuses ! Mais...
+spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_13;Vous aviez l'air vraiment mal en point et... je voulais juste vous réconforter ! Chercher un autre verre pour vous ne m'a pas traversé l'esprit.
+spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_14;Hmm. Le docteur avait donc le verre empoisonné.
+texts_kapitaen_top_a07_kapitaen_champagner_tseq_title;Champagne empoisonné
+spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_1;Tout le monde a-t-il bu de la même bouteille de champagne hier soir ?
 spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_2_direction;verteidigt sich
-spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_2;There was more than one bottle, if that's what you mean. There were quite a few guests and the event lasted several hours...
-spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_3;The last bottle of champagne, the one the baroness drank from. Did anyone else drink from it?
-spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_4;Certainly.
-spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_5;We have reason to believe that the champagne was drugged.
+spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_2;On a bu plus d'une bouteille, si c'est ce à quoi vous pensez. Il y avait pas mal d'invités et la soirée s'est étendue sur plusieurs heures...
+spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_3;La dernière bouteille de champagne, celle dont a bu la baronne. D'autres personnes ont-elles bu de cette bouteille ?
+spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_4;Certainement.
+spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_5;Nous pensons que le champagne a été drogué.
 spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_6_direction;erschrocken, empört
-spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_6;Incredible!
-spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_7;But... Wouldn't that have made everyone drowsy?
-spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_8;Not if it was only the baroness' glass that was drugged.
-spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_9;I see. That's possible. On a night like that, many glasses are filled and emptied.
-spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_10;There are several stewards, many guests... No one keeps track of every glass and every bottle.
-spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_11;A few drops in a glass...
-spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_12;Yes, it's certainly possible.
-texts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_title;Events last night
-spokentexts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_st_1;What was your experience of last night?
-spokentexts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_st_2;Phew! Terrible!
-spokentexts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_st_3;Dinner was fantastic! Everyone was excited about having a pleasant drink under the stars - and then this.
-spokentexts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_st_4;You were in the saloon all night long?
+spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_6;Incroyable !
+spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_7;Mais... Cela n'aurait-il pas rendu tout le monde endormi ?
+spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_8;Pas si seul le verre de la baronne a été drogué.
+spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_9;Je vois. C'est possible. Dans une telle soirée, beaucoup de verres sont remplis et vidés.
+spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_10;Il y a plusieurs garçons, de nombreux invités... Personne n'est responsable du suivi des bouteilles et de chaque verre...
+spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_11;Quelques gouttes dans un verre...
+spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_12;Oui, c'est certainement une possibilité.
+texts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_title;Evénements de la nuit dernière
+spokentexts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_st_1;Comment avez vécu la nuit dernière ?
+spokentexts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_st_2;Phew ! Désastreux !
+spokentexts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_st_3;Le dîner était fantastique ! Tout le monde était excité à l'idée de partager un verre à la belle étoile, et ensuite ceci.
+spokentexts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_st_4;Vous êtes resté au salon toute la soirée ?
 spokentexts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_st_5_direction;bestätigend
-spokentexts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_st_5;As the captain, I have to care for my passengers!
-spokentexts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_st_6;After you and the others rushed out, I tried to maintain a festive atmosphere.
-spokentexts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_st_7;But when the alarm goes off, I lose the battle. Ha!
-texts_kapitaen_top_a07_kapitaen_passagiere_tseq_title;Passengers
-spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_1;What can you tell me about the passengers?
-spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_2;Oh, not that much, I'm afraid. I wanted to get to know them properly at the reception...
-spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_3;In most cases, I just shook hands with them as they boarded the ship.
-spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_4;There are a few regulars on board and after dinner I had a conversation with Mr. Kreutzer, a talented violinist, and Lady Westmacott.
-spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_5;But you already know them from the train.
-spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_6;It seems like there aren't that many passengers on board?
-spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_7;These bloody airplanes are making our lives miserable.
-spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_8;Can you imagine? Grown men prefer to jam themselves into narrow metal coffins instead of enjoying the fresh sea air on a ship!
-spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_9;It's all about saving time.
+spokentexts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_st_5;En tant que capitaine, je me dois de veiller sur mes passagers !
+spokentexts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_st_6;J'ai tenté de maintenir une ambiance festive après que vous et les autres ne soyez partis.
+spokentexts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_st_7;Mais une fois que l'alarme sonnée, la bataillé était perdue. Ha !
+texts_kapitaen_top_a07_kapitaen_passagiere_tseq_title;Passagers
+spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_1;Que pouvez vous me dire sur les passagers ?
+spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_2;Oh, pas grand chose, malheureusement. Je pensais apprendre à les connaître correctement pendant la cérémonie d'accueil...
+spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_3;Dans la plupart des cas je les ai simplement salués quand ils sont montés à bord.
+spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_4;Il y a quelques réguliers à bord et après le dîner j'ai discuté avec Mr Kreutzer, un violoniste de talent, et Lady Westmacott.
+spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_5;Mais vous les avez déjà rencontrés dans le train.
+spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_6;On dirait qu'il y a peu de passagers à bord ?
+spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_7;Ces satanés avions nous mènent la vie dure.
+spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_8;Imaginez vous. Des gens qui préfèrent se serrer dans des petits cercueils en métal plutôt que de profiter du bon air frais marin sur un navire !
+spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_9;Tout pour gagner du temps.
 spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_10_direction;überzeugt, leidenschaftlich
-spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_10;It shouldn't be about how much time it takes to get from A to B, but about how you spend that time! What you experience on the journey! That's what it's about!
-texts_kapitaen_top_a07_kapitaen_ueber_ihn_tseq_title;Captain DiConti
-spokentexts_kapitaen_top_a07_kapitaen_ueber_ihn_tseq_st_1;So if you can't say much about the passengers... What can you tell me about yourself?
+spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_10;Ce n'est pas le temps pour aller de A à B qui devrait compter mais la façon dont vous passez ce temps ! Tout ce que vous rencontrez pendant votre voyage ! Voilà ce qui compte !
+texts_kapitaen_top_a07_kapitaen_ueber_ihn_tseq_title;Capitaine DiConti
+spokentexts_kapitaen_top_a07_kapitaen_ueber_ihn_tseq_st_1;Si vous ne pouvez rien me dire sur les passagers... Parlez moi de vous.
 spokentexts_kapitaen_top_a07_kapitaen_ueber_ihn_tseq_st_2_direction;erheitert
-spokentexts_kapitaen_top_a07_kapitaen_ueber_ihn_tseq_st_2;Oh, Constable. Don't get me started!
-spokentexts_kapitaen_top_a07_kapitaen_ueber_ihn_tseq_st_3;You MUST have better things to do than listen to an old captain's tall tales!
-spokentexts_kapitaen_top_a07_kapitaen_ueber_ihn_tseq_st_4;Join me for a nightcap tonight! Then I'll tell you about my adventures in the war!
-spokentexts_kapitaen_top_a07_kapitaen_ueber_ihn_tseq_st_5;Until then, here's the quick and dirty summary: captain, bachelor, war hero. I have a mastiff, Sultan, and so many little ailments that it's not funny anymore.
-spokentexts_kapitaen_top_a07_kapitaen_ueber_ihn_tseq_st_6;When is it ever?
-spokentexts_kapitaen_top_a07_kapitaen_ueber_ihn_tseq_st_7;You're right. But let's save the other stories for tonight!
-spokentexts_kapitaen_top_a07_kapitaen_ueber_ihn_tseq_st_8;If I really get going now, a judge might see it as complicity in murder... or at least in the murderer's escape, HAHAHA!
-texts_kapitaen_top_a07_kapitaen_verabschieden_tseq_title;Say goodbye
-spokentexts_kapitaen_top_a07_kapitaen_verabschieden_tseq_st_1;I've completely forgotten what I wanted to ask you.
-spokentexts_kapitaen_top_a07_kapitaen_verabschieden_tseq_st_2;Oh, I know the feeling, Constable!
+spokentexts_kapitaen_top_a07_kapitaen_ueber_ihn_tseq_st_2;Oh, Officier. Ne me lancez pas !
+spokentexts_kapitaen_top_a07_kapitaen_ueber_ihn_tseq_st_3;Vous dEVEZ avoir bien mieux à faire qu'écouter les histoires d'un vieux capitaine !
+spokentexts_kapitaen_top_a07_kapitaen_ueber_ihn_tseq_st_4;Retrouvez moi autour d'un verre ce soir ! Je vous raconterai mes aventures de guerre !
+spokentexts_kapitaen_top_a07_kapitaen_ueber_ihn_tseq_st_5;En attendant, voilà la version courte : capitaine, célibataire, héros de guerre. J'ai un dogue, Sultan, et tellement de petites douleurs que je n'ai plus le coeur à en rire.
+spokentexts_kapitaen_top_a07_kapitaen_ueber_ihn_tseq_st_6;L'a-t-on jamais vraiment ?
+spokentexts_kapitaen_top_a07_kapitaen_ueber_ihn_tseq_st_7;Vous avez raison. Mais gardons les autres histoires pour ce soir !
+spokentexts_kapitaen_top_a07_kapitaen_ueber_ihn_tseq_st_8;Si je me lance maintenant, un juge pourrait croire que je suis complice de meurtre... ou au moins que j'aide à la fuite d'un meurtrier, HAHAHA!
+texts_kapitaen_top_a07_kapitaen_verabschieden_tseq_title;Dire au revoir
+spokentexts_kapitaen_top_a07_kapitaen_verabschieden_tseq_st_1;J'ai complètement oublié ce que je voulais vous demander.
+spokentexts_kapitaen_top_a07_kapitaen_verabschieden_tseq_st_2;Oh je connais ça, Officier !
 sequences_kapitaen_top_a07_kapitaen_verabschieden_tseq#3;[End of the dialogue.]
-spokentexts_kapitaen_top_a07_kapitaen_verabschieden_tseq_st_3;I'll get back to my investigations now.
-spokentexts_kapitaen_top_a07_kapitaen_verabschieden_tseq_st_4;Ciao, Constable!
+spokentexts_kapitaen_top_a07_kapitaen_verabschieden_tseq_st_3;Je vais retourner enquêter.
+spokentexts_kapitaen_top_a07_kapitaen_verabschieden_tseq_st_4;Ciao, Officier !
 sequences_kapitaen_top_a07_kapitaen_verabschieden_tseq#7;[Captain goes back into his normal Idle.]
-spokentexts_kapitaen_ex_1_st_1;Captain di Conti seems old and tired. The price you pay for a life like his, I suppose.
+spokentexts_kapitaen_ex_1_st_1;Le Capitaine di Conti a l'air vieux et fatigué. Je suppose que c'ets le prix à payer pour une vie comme la sienne.
 sequences_kapitaen_ex_1#2;[The captain sits on a chair, places a hand on his stomach from time to time (seems to be in pain, but doesn't want to show it).]
-spokentexts_kapitaen_ex_2_st_1;Captain di Conti is sitting at the bar again. He gave me the glass of champagne last night.
-spokentexts_kapitaen_talk_mit_1_st_1;Pardon me, Captain di Conti?
+spokentexts_kapitaen_ex_2_st_1;Le Capitaine di Conti est encore assis au bar. Il m'a donné le verre de champagne hier soir.
+spokentexts_kapitaen_talk_mit_1_st_1;Excusez moi, Capitaine di Conti?
 sequences_kapitaen_talk_mit_1#2;[The captain looks up (Idle).]
-spokentexts_kapitaen_talk_mit_1_st_2;Constable! What can I do for you?
+spokentexts_kapitaen_talk_mit_1_st_2;Officier ! Que puis-je pour vous ?
 spokentexts_kapitaen_talk_mit_1_st_3_direction;warmly
-spokentexts_kapitaen_talk_mit_1_st_3;Are you all right?
-spokentexts_kapitaen_talk_mit_1_st_4;Sure, sure!
-spokentexts_kapitaen_talk_mit_1_st_5;I'm just savoring the fresh sea air. There's nothing better in the morning!
-spokentexts_kapitaen_talk_mit_1_st_6;It's almost midday.
-spokentexts_kapitaen_talk_mit_1_st_7;Hahaha! One of the advantages of being the captain is that you choose your own hours. It's only afternoons and nights that I'm any good.
-spokentexts_kapitaen_talk_mit_1_st_8;But of course, I also discharge my duties in the morning when special events force me to!
-spokentexts_kapitaen_talk_mit_1_st_9;Of course. I think I'll leave you alone again.
-spokentexts_kapitaen_talk_mit_1_st_10;Yes, do that, do that. I'm sure you have work to do.
-spokentexts_kapitaen_talk_mit_2_st_1;I don't believe he can help me. He has an alibi for the time of the crime and he doesn't seem to have a motive.
+spokentexts_kapitaen_talk_mit_1_st_3;Vous allez bien ?
+spokentexts_kapitaen_talk_mit_1_st_4;Oui, oui !
+spokentexts_kapitaen_talk_mit_1_st_5;Je profite de l'air frais. Il n'y a rien de mieux de bon matin !
+spokentexts_kapitaen_talk_mit_1_st_6;Il est presque midi.
+spokentexts_kapitaen_talk_mit_1_st_7;Hahaha ! Etre capitaine a ses avantages, comme définir ses propores horaires. Je ne suis à l'aise que l'après midi et la nuit.
+spokentexts_kapitaen_talk_mit_1_st_8;Mais bon, je suis également en service le matin quand des circonstances exceptionnelles le demande !
+spokentexts_kapitaen_talk_mit_1_st_9;Evidemment. Je vais vous laisser.
+spokentexts_kapitaen_talk_mit_1_st_10;Oui, faites donc, faites donc. J'imagine que vous avez du travail.
+spokentexts_kapitaen_talk_mit_2_st_1;Je doute qu'il puisse m'aider. Il a un alibi pour l'heure du crime and n'a aucun mobile.
 spokentexts_kapitaen_talk_mit_2_st_2_direction;happy
-spokentexts_kapitaen_talk_mit_2_st_2;And he's not a good witness either. He drank pretty heavily last night. Like every other night, it seems.
-spokentexts_kapitaen_talk_mit_3_st_1;I believe I've got everything I can out of him. There's nothing more he can tell me at the moment.
-spokentexts_kapitaen_talk_mit_4_st_1;Hello, Captain di Conti!
-spokentexts_kapitaen_talk_mit_4_st_2;Ahh!
+spokentexts_kapitaen_talk_mit_2_st_2;Ce n'est pas un très bon témoin non plus. Il a beaucoup bu hier soir. Comme tous les soirs on dirait.
+spokentexts_kapitaen_talk_mit_3_st_1;Je pense qu'il n'y a rien de plus à en tirer. Il n'a plus rien à me dire pour l'instant.
+spokentexts_kapitaen_talk_mit_4_st_1;Bonjour, Capitaine di Conti !
+spokentexts_kapitaen_talk_mit_4_st_2;Ahh !
 spokentexts_kapitaen_talk_mit_4_st_3_direction;herzlich
-spokentexts_kapitaen_talk_mit_4_st_3;Constable Zellner! You're back on your feet again! Glad to see it!
-spokentexts_kapitaen_talk_mit_5_st_1;Pardon me, Captain di Conti?
+spokentexts_kapitaen_talk_mit_4_st_3;Officier Zellner ! Vous êtes à nouveau sur pieds ! J'en suis ravi !
+spokentexts_kapitaen_talk_mit_5_st_1;Excusez moi, Capitaine di Conti ?
 spokentexts_kapitaen_talk_mit_5_st_2_direction;erfreut
-spokentexts_kapitaen_talk_mit_5_st_2;Constable!
+spokentexts_kapitaen_talk_mit_5_st_2;Officier !
 sequences_kapitaen_talk_mit_5#3;[Dialogue between Ohi and the captain starts.]
-spokentexts_kapitaen_talk_mit_6_st_1;I'm sure Captain di Conti wouldn't mind a chat, but I don't think he can help me at the moment.
-texts_pflegerin_mo_ex_1;Look at Miss Miller and Professor Lucien.
-texts_pflegerin_mo_ex_2;Look at Miss Miller
-texts_pflegerin_mo_talk_mit_1__2;Talk to Miss Miller and Professor Lucien
-texts_pflegerin_mo_talk_mit_3-5;Talk to Miss Miller
-texts_pflegerin_mo_used_mit_zwille;Give the slingshot to Matt's mother
-texts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_title;Tranquilizer
-spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_1;If you worked in a pharmacy, you would certainly know something about medicine and poisons.
-spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_2;Everything is a potential poison, constable. It depends on the dose.
-spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_3;Have you ever heard of chloral hydrate?
-spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_4;It's a tranquilizer, isn't it?
-spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_5;I'm asking you.
-spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_6;Lady Westmacott also asked questions like that. For her last novel.
-spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_7;But since I've never wanted to kill anyone, I never bothered with things like strychnine and arsenic and all that.
-spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_8;I could recommend something for a headache, sore throat or rash.
-spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_9;That's kind of you, but there's really no need.
-texts_pflegerin_top_a07_pflegerin_blut_tseq_title;Blood
-spokentexts_pflegerin_top_a07_pflegerin_blut_tseq_st_1;Could you perhaps tell me how to analyze a blood sample?
-spokentexts_pflegerin_top_a07_pflegerin_blut_tseq_st_2;Me? No, I'm afraid not.
-spokentexts_pflegerin_top_a07_pflegerin_blut_tseq_st_3;I just thought, since you worked in a pharmacy during the war...
-spokentexts_pflegerin_top_a07_pflegerin_blut_tseq_st_4;In a dispensing pharmacy, not in a hospital!
-spokentexts_pflegerin_top_a07_pflegerin_blut_tseq_st_5;I'm hardly suited to a career in a hospital. I faint at the sight of blood.
-spokentexts_pflegerin_top_a07_pflegerin_blut_tseq_st_6;In that case, I won't bother you with this anymore.
-texts_pflegerin_top_a07_pflegerin_das_internat_tseq_title;Matt at boarding school
-spokentexts_pflegerin_top_a07_pflegerin_das_internat_tseq_st_1;Lady Westmacott told me that Matt's become a real athlete at his boarding school?
+spokentexts_kapitaen_talk_mit_6_st_1;Je suis sûr que la Capitaine di Conti aimerait bien discuter, mais je ne pense pas qu'il puisse m'aider pour le moment.
+texts_pflegerin_mo_ex_1;Regarder Mlle Miller and le Professeur Lucien.
+texts_pflegerin_mo_ex_2;Regarder Mlle Miller
+texts_pflegerin_mo_talk_mit_1__2;Parler à Mlle Miller and au Professeur Lucien
+texts_pflegerin_mo_talk_mit_3-5;Parler à Mlle Miller
+texts_pflegerin_mo_used_mit_zwille;Donner le lance-pierre à la mère de Matt
+texts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_title;Sédatif
+spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_1;Ayant travaillé dans une pharmacie vous devez avoir des connaissances sur les médicaments et les poisons.
+spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_2;Tout est potentiellement un poison, Officier. Ca dépend de la dose.
+spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_3;Connaissez vous l'hydrate de chloral ?
+spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_4;C'est un sédatif, n'est ce pas ?
+spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_5;J'ai posé la question.
+spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_6;Lady Westmacott posait le même genre de question. Pour son dernier roman.
+spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_7;Mais vu que je n'ai jamais voulu tué qui que ce soit, je ne me suis jamais intéressée aux choses comme la strychnine, l'arsenic ou autres.
+spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_8;Je peux vous prescrire quelque chose en cas de migraine, mal de gorge ou démangeaison.
+spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_9;C'est gentil, mais pas nécessaire merci.
+texts_pflegerin_top_a07_pflegerin_blut_tseq_title;Sang
+spokentexts_pflegerin_top_a07_pflegerin_blut_tseq_st_1;Pourriez vous me dire comment analyser un échantillon sanguin ?
+spokentexts_pflegerin_top_a07_pflegerin_blut_tseq_st_2;Moi ? Non, malheureusement.
+spokentexts_pflegerin_top_a07_pflegerin_blut_tseq_st_3;Je pensais, vu que vous aviez travaillé dans une pharmacie pendant la guerre...
+spokentexts_pflegerin_top_a07_pflegerin_blut_tseq_st_4;Dans une pharmacie publique, pas un hôpital !
+spokentexts_pflegerin_top_a07_pflegerin_blut_tseq_st_5;Je ne suis pas vraiment faite pour une carrière hospitalière. Je m'évanouie à la vue du sang.
+spokentexts_pflegerin_top_a07_pflegerin_blut_tseq_st_6;Dans ce cas je ne vais pas vous déranger plus longtemps avec ça.
+texts_pflegerin_top_a07_pflegerin_das_internat_tseq_title;Matt au pensionnat
+spokentexts_pflegerin_top_a07_pflegerin_das_internat_tseq_st_1;Lady Westmacott m'a dit que Matt était devenu un vrai petit athlète à son pensionnat ?
 spokentexts_pflegerin_top_a07_pflegerin_das_internat_tseq_st_2_direction;glad
-spokentexts_pflegerin_top_a07_pflegerin_das_internat_tseq_st_2;That is true!
-spokentexts_pflegerin_top_a07_pflegerin_das_internat_tseq_st_3;He's full of energy. His teachers try to calm him down with sports.
-spokentexts_pflegerin_top_a07_pflegerin_das_internat_tseq_st_4;He's very talented and learns new games very quickly.
-spokentexts_pflegerin_top_a07_pflegerin_das_internat_tseq_st_5;I regret to say that was never one of my strong points. It must be good for his self-confidence.
-spokentexts_pflegerin_top_a07_pflegerin_das_internat_tseq_st_6;It certainly is. He's settled down and he's become something of a... leader... in his class.
-spokentexts_pflegerin_top_a07_pflegerin_das_internat_tseq_st_7;A year ago I'd have never dared to hope that everything would work out so well.
-texts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_title;Professor Lucien
-spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_1;You and Professor Lucien seemed to be having a lively conversation.
+spokentexts_pflegerin_top_a07_pflegerin_das_internat_tseq_st_2;C'est vrai !
+spokentexts_pflegerin_top_a07_pflegerin_das_internat_tseq_st_3;Il est plein d'énergie. Ses professeurs essaient de le canaliser avec du sport.
+spokentexts_pflegerin_top_a07_pflegerin_das_internat_tseq_st_4;Il est très prometteur et apprend des nouveaux jeux rapidement.
+spokentexts_pflegerin_top_a07_pflegerin_das_internat_tseq_st_5;J'avoue que cela n'a jamais été un de mes points forts. Cela doit être bon pour sa confiance en soi.
+spokentexts_pflegerin_top_a07_pflegerin_das_internat_tseq_st_6;Tout à fait. Il est plus calme et est devenu comme un... leader... dans sa classe.
+spokentexts_pflegerin_top_a07_pflegerin_das_internat_tseq_st_7;Je n'aurais jamais espéré autant il y un an.
+texts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_title;Le Professeur Lucien
+spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_1;Le Professeur Lucien et vous sembliez partager une vive conversation.
 spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_2_direction;excited
-spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_2;Oh, yes! He's an expert in ancient Egyptian art and preeminent in hieroglyphic research.
+spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_2;Oh, oui ! Il est expert en art d'Egypte antique et prééminent en recherche hyéroglyphique.
 spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_3_direction;excited
-spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_3;He's the head of the Egyptian Department in the British Museum, you know? And he's going to open an exhibition at the Egyptian Museum in Cairo.
-spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_4;Right. For the Eye.
-spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_5;They had planned on exhibiting both jewels together for the first time in decades, but that's not going to happen now, sadly.
+spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_3;Saviez vous q'il était le chef du département égyptien au British Museum ? Et il vient au Caire pour ouvrir une exposition à l'Egyptian Museum.
+spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_4;Oui. Pour l'Oeil.
+spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_5;Ils devaient exposer les deux joyaux ensemble pour la première fois depuis des décennies mais ce n'est malheureusement plus à l'ordre du jour maintenant.
 spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_6_direction;worried
-spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_6;I think it's quite upsetting for him.
-spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_7;We're working hard to ensure that at least one Eye will be on display.
-spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_8;I know. I'll ask Lady Westmacott if she'd like to participate in the opening of the exhibition. I think it would be good for her!
+spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_6;Je crois que cela l'a beaucoup affecté.
+spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_7;Nous travaillons d'arrache pied pour qu'au moins un Oeil soit exposé.
+spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_8;Je sais. Je vais demander à Lady Westmacott si elle voudrait participer à l'ouverture de l'exposition. Cela lui ferait du bien !
 spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_9_direction;friendly, with a twinkle in his eyes
-spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_9;And Professor Lucien will surely offer you a private tour.
-texts_pflegerin_top_a07_pflegerin_der_butler_tseq_title;The butler
-spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_1;The baroness's butler said that he was on the forecastle as well?
-spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_2;Yes, he was standing on the other side of the deck smoking a cigarette.
-spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_3;Was he on the forecastle the whole time?
+spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_9;Et le Professeur Lucien vous offrira probablement une visite privée.
+texts_pflegerin_top_a07_pflegerin_der_butler_tseq_title;La majordome
+spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_1;Le majordome de la baronne assure avoir été lui aussi sur le gaillard avant ?
+spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_2;Oui, il fumait une cigarette de l'autre côté du pont.
+spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_3;Est-il resté en permanence sur le gaillard avant ?
 spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_4_direction;in deep thought
-spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_4;I... I'm not sure. He was there... and later he was on the side deck with us.
+spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_4;Je... J'ai un doute. Il était là... et ensuite il était sur le pont-promenade avec nous.
 spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_5_direction;suddenly illuminated
-spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_5;Oh, yeah... yes,he looked after you while you were unconscious.
-spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_6;He unbuttoned your collar and held your head while the doctor checked you.
-spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_7;But you can't say for certain whether he came from the forecastle with you and Professor Lucien or afterwards?
-spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_8;Well... No. But where else could he have come from?
-texts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_title;Legrand's investigations
-spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_1;Did you report that to Inspector Legrand?
-spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_2;Yes, last night.
-spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_3;He was very interested and took a lot of notes.
-spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_4;But I wanted to look for Lady Westmacott and he let me go without further delay. He said that he'd take down my full statement today.
-spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_5;I understand.
+spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_5;Oh, oui... oui, il s'est occupé de vous pendant que vous étiez inconscient.
+spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_6;Il a déboutonné votre col et soutenu votre tête pendant l'examination du docteur.
+spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_7;Mais vous ne pouvez pas me dire si il est arrivé du gaillard avant avec le Professeur et vous, ou après ?
+spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_8;Eh bien... Non. Mais d'où aurait-il pu arriver ?
+texts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_title;L'enquête de Legrand
+spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_1;Avez vu expliqué cela à l'Inspecteur Legrand ?
+spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_2;Oui, hier soir.
+spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_3;Il était très intéressé et a pris beaucoup de notes.
+spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_4;Mais je souhaitais voir Lady Westmacott donc il m'a laissé partir sans attendre. Il a dit qu'il prendrait ma déposition complète aujourd'hui.
+spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_5;Je vois.
 spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_6_direction;carefully
-spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_6;Do you think the man from the train also killed the baroness, Constable Zellner?
-spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_7;I don't know yet.
-spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_8;It's horrible. Explosions, thieves, murderers! This isn't the right place for a lady and a little boy.
-texts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_title;Last night
-spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_1;How was last night for you?
-spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_2;It was awful! I was having a conversation with Edgar... Professor Lucien... here on the forecastle.
-spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_3;Then I wanted to look for the lady and went forward via the side deck.
-spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_4;When I passed the baroness' cabin, I heard a muffled scream.
+spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_6;Pensez vous que l'homme du train est aussi responsable du meurtre de la baronne, Officier Zellner ?
+spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_7;Il est trop tôt pour le dire.
+spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_8;C'est horrible. Des explosions, des voleurs, des meurtriers ! Ce n'est pas un endroit pour une femme et un jeune enfant.
+texts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_title;La nuit dernière
+spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_1;Comment avez vous vécu la nuit dernière ?
+spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_2;C'était horrible ! Je discutait avec Edgar... Le Professeur Lucien... ici sur le gaillard avant.
+spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_3;J'ai ensuite voulu aller voir Lady Westmacott, en passant par le pont-promenade.
+spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_4;J'ai entendu un cri étouffé en passant devant la cabine de la baronne.
 spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_5_direction;surprised, interested
-spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_5;You heard a scream?
-spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_6;Yes! I thought the baroness probably had a fall. I went to the door and listened for a moment.
-spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_7;Since I couldn't hear anything, I knocked on the door and asked whether she was all right. There was no answer.
+spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_5;Vous avez entendu un cri ?
+spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_6;Oui ! J'ai pensé que la baronne était tombée. J'ai écouté à la porte quelques instants.
+spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_7;N4entendant rien, j'ai frappé à la porte et demandé si tout allait bien. Mais je n'ai pas eu de réponse.
 spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_8_direction;thoughtfully
-spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_8;Interesting. And then?
-spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_9;I didn't know what to do. So I tried to open the door. It was locked.
-spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_10;I saw the baroness' butler, Mr. Inch, on the forecastle. I thought he might have the key and went back.
-spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_15;On the way, the bobby crossed my path and then Edgar, who wanted to check the safe. I explained the situation to him and then the alarm went off.
+spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_8;Intéressant. Ensuite ?
+spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_9;Je ne savais pas quoi faire donc j'ai essayé d'ouvrir la porte. Elle était verrouillée.
+spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_10;J'ai vu le majordome, Mr Inch, sur le gaillard avant. J'y suis retourné en supposant qu'il devait avoir la clé .
+spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_15;En chemin j'ai rencontré le policier, puis Edgar qui voulait vérifier le coffre. Je lui ai expliqué ce qui s'était passé et à ce moment l'alarme a retenti.
 texts_pflegerin_top_a07_pflegerin_der_junge_tseq_title;Matt
-spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_1;How is Matt? He seems happy enough.
-spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_2;After all the commotion, he's already back to his old self again.
-spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_3;But... I haven't told him about the murder. That would be a bit too much for him.
-spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_4;I think he's made of sterner stuff.
-spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_5;I want to thank you again for what you did on the train!
+spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_1;Comment va Matt ? Il a l'air content.
+spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_2;Après tout ce qui s'est passé il est déjà de retour à son état normal.
+spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_3;Mais... Je ne lui ai pas parlé du meurtre. Ce serait un peu trop pour lui.
+spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_4;Je pense qu'il est plus fort que ça.
+spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_5;Permettez moi de vous remercier encore une fois pour ce que vous avez fait à bord du train !
 spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_6_direction;overwhelmed by her feelings
-spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_6;I wouldn't have known ...
+spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_6;Je n'ose pas imaginer...
 sequences_pflegerin_top_a07_pflegerin_der_junge_tseq#6;[The carer turns away slightly, has to contain her tears.]
 spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_7_direction;soothing her
-spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_7;Think nothing of it.
+spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_7;Ce n'est rien.
 sequences_pflegerin_top_a07_pflegerin_der_junge_tseq#8;[Ohi tenderly takes her arm, she stands normal again.]
 spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_8_direction;soothing her
-spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_8;Everything's fine.
-texts_pflegerin_top_a07_pflegerin_der_schrei_tseq_title;The scream
-spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_1;How did the scream sound?
-spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_2;It was a short... outcry. Very frightened, as if someone had been startled.
-spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_3;Was it a woman's voice?
-spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_4;Yes, the voice was high.
-spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_5;Hmm. But the baroness had a rather deep voice...
-spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_6;That's true. But who knows how she sounded when she screamed? Even some men's cries are high-pitched.
-spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_7;So it could have been a scream from the baroness. Possibly because she discovered someone in her cabin.
-spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_8;Possibly ...
-spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_9;That person might have threatened her with a weapon so that she wouldn't scream for help.
+spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_8;Tout va bien.
+texts_pflegerin_top_a07_pflegerin_der_schrei_tseq_title;Le cri
+spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_1;A quoi ressemblait le cri ?
+spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_2;C'était une courte... exclamation. Très effrayée, comme si quelqu'un avait été surpris.
+spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_3;Etait-ce une voix de femme ?
+spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_4;Oui, la voix était aigue.
+spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_5;Hmm. La baronne a plutôt une voix grave...
+spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_6;C'est vrai. Mais qui sait comment elle sonnait quand elle criait ? Même certains cris masculins sont aigus.
+spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_7;Ce pourrait donc être un cri de la baronne. Peut être car elle aurait surpris quelqu'un dans sa cabine.
+spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_8;Possible...
+spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_9;Cette personne aurait pu la menacer avec une arme pour éviter qu'elle appelle à l'aide.
 spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_10_direction;shocked
-spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_10;Oh God.
-spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_11;He waited until the coast was clear...
+spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_10;Oh mon Dieu.
+spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_11;Il a attendu que la voie soit libre...
 spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_12_direction;timid, disturbed
-spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_12;Oh please, stop it, Mr. Zellner!
+spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_12;Oh, Mr Zellner, arrêtez s'il vous plait !
 texts_pflegerin_top_a07_pflegerin_die_schriftstellerin_tseq_title;Lady Westmacott
 spokentexts_pflegerin_top_a07_pflegerin_die_schriftstellerin_tseq_st_1;How does it feel to work for such a world-famous person?
 spokentexts_pflegerin_top_a07_pflegerin_die_schriftstellerin_tseq_st_3;The work is very interesting and varied and it pays well, too.
