@@ -12,342 +12,342 @@ characters_pflegerin;Pflegerin
 characters_schriftstellerin;Schriftstellerin
 characters_wachmann;Wachmann
 texts_a07__kabine_ermittler_bettzeug_mo_ex_1;Examiner la literie
-spokentexts_a07__kabine_ermittler_bettzeug_ex_1_st_1;Neatly folded and unused.
-spokentexts_a07__kabine_ermittler_bettzeug_ex_1_st_2;Legrand hasn't slept since we cast off - nor on the train.
-texts_a07_kabine_ermittler_alarmmelder_mo_ex_1;Examine the alarm
-spokentexts_a07_kabine_baronin_alarmmelder_ex_1_st_1;That must be one of the alarms...
-spokentexts_a07_kabine_baronin_alarmmelder_ex_1_st_2;Another alarm...
-spokentexts_a07_kabine_ermittler_alarmmelder_ex_1_st_3;It was tripped at some point, but there's no way to determine when.
-texts_a07_kabine_ermittler_ausgang_mo_leave_1;Go outside
+spokentexts_a07__kabine_ermittler_bettzeug_ex_1_st_1;Parfaitement pliée et inutilisée..
+spokentexts_a07__kabine_ermittler_bettzeug_ex_1_st_2;Legrand n' apas dormi depuis notre départ, ni à bord du train.
+texts_a07_kabine_ermittler_alarmmelder_mo_ex_1;Examiner l'alarme
+spokentexts_a07_kabine_baronin_alarmmelder_ex_1_st_1;Voilà une des alarmes...
+spokentexts_a07_kabine_baronin_alarmmelder_ex_1_st_2;Une autre alarme...
+spokentexts_a07_kabine_ermittler_alarmmelder_ex_1_st_3;Elle a été déjà déclenchée auparavant, mais impossible de savoir quand.
+texts_a07_kabine_ermittler_ausgang_mo_leave_1;Sortir
 sequences_a07_kabine_ermittler_ausgang_leave_1#1;[Ohi opens the door, goes outside]
-texts_a07_kabine_ermittler_badezimmer_mo_ex_1__2;Search the bathroom
+texts_a07_kabine_ermittler_badezimmer_mo_ex_1__2;Fouiller la salle de bain
 spokentexts_a07_kabine_ermittler_badezimmer_ex_1_st_1_direction;sniffle
-spokentexts_a07_kabine_ermittler_badezimmer_ex_1_st_1;*sniff*
-spokentexts_a07_kabine_ermittler_badezimmer_ex_1_st_2;Smells like chemicals. Legrand probably developed the photos in here.
-spokentexts_a07_kabine_ermittler_badezimmer_ex_2_st_1;There are still fragments of the syringe that the inspector broke in the sink...
-spokentexts_a07_kabine_ermittler_badezimmer_ex_2_st_2;Why is he pushing himself like this? Even if he catches the Raven - is it worth ruining his career and his health?
-texts_a07_kabine_ermittler_baronin_patrone_mo_ex_1;Examine the sachet
-texts_a07_kabine_ermittler_baronin_patrone_mo_inventar_2-4;Luger bullet
-texts_a07_kabine_ermittler_baronin_patrone_mo_take_1;Take the bullet
-spokentexts_a07_kabine_ermittler_baronin_patrone_ex_1_st_1;Aha! That's the bullet the doctor removed from the baroness' corpse.
+spokentexts_a07_kabine_ermittler_badezimmer_ex_1_st_1;*snif*
+spokentexts_a07_kabine_ermittler_badezimmer_ex_1_st_2;Ca sent les produits chimiques. Legrand doit surement développer ses photos ici.
+spokentexts_a07_kabine_ermittler_badezimmer_ex_2_st_1;Il reste des morceaux de la seringue que Legrand a brisé dans l'évier...
+spokentexts_a07_kabine_ermittler_badezimmer_ex_2_st_2;Pourquoi en fait-il autant ? Même s'il finit par attraper le Corbeau, cela vaut-il la peine de ruiner sa santé et sa carrière ?
+texts_a07_kabine_ermittler_baronin_patrone_mo_ex_1;Examiner le sachet
+texts_a07_kabine_ermittler_baronin_patrone_mo_inventar_2-4;Balle de Luger
+texts_a07_kabine_ermittler_baronin_patrone_mo_take_1;Prendre la balle
+spokentexts_a07_kabine_ermittler_baronin_patrone_ex_1_st_1;Aha ! Voilà la balle que le docteur a extrait du corps de la baronne.
 sequences_a07_kabine_ermittler_baronin_patrone_ex_1#2;[Ohi picks up the sachet, pockets it.]
-spokentexts_a07_kabine_ermittler_baronin_patrone_ex_2_st_1;The doctor removed this bullet from the baroness' heart. According to Legrand it's from a 7.65 mm Luger cartridge.
-spokentexts_a07_kabine_ermittler_baronin_patrone_ex_3_st_1;The bullet that the doctor removed from the baroness' heart matches the one from the cargo hold.
-spokentexts_a07_frachtraum_patrone_ex_2_st_2;So the murderer also fired his gun in the cargo hold... But why?
-spokentexts_a07_frachtraum_patrone_ex_3_st_1;The murderer recorded the shot in the cargo hold on an audiotape!
-spokentexts_a07_frachtraum_patrone_ex_3_st_2;That was the shot we heard last night!
+spokentexts_a07_kabine_ermittler_baronin_patrone_ex_2_st_1;Le docteur a extrait cette balle du coeur de la baronne. D'après Legrand elle provient d'une cartouche de Luger 7,65 mm.
+spokentexts_a07_kabine_ermittler_baronin_patrone_ex_3_st_1;La balle que le docteur a extrait du coeur de la baronne est identique à celle de la soute.
+spokentexts_a07_frachtraum_patrone_ex_2_st_2;Le meurtrier a donc aussi tiré dans la soute... Mais pourquoi ?
+spokentexts_a07_frachtraum_patrone_ex_3_st_1;Le meurtrier a enregistré le coup de feu dans la soute sur un bande audio.
+spokentexts_a07_frachtraum_patrone_ex_3_st_2;C'est ce coup de feu que nous avons entendu hier soir !
 sequences_a07_kabine_ermittler_baronin_patrone_take_1#2;[Ohi takes cartridge from the desk, pockets it.]
-texts_a07_kabine_ermittler_belichtungsapparat_mo_ex_1;Examine the enlarger
-spokentexts_a07_kabine_ermittler_belichtungsapparat_ex_1_st_1;Legrand must have taken and developed the photos himself. He even made copies and enlargements.
-spokentexts_a07_kabine_ermittler_belichtungsapparat_ex_1_st_2;He seems to be prepared for everything, with access to more resources than a normal detective.
+texts_a07_kabine_ermittler_belichtungsapparat_mo_ex_1;Examiner la loupe
+spokentexts_a07_kabine_ermittler_belichtungsapparat_ex_1_st_1;Legrand a dû prendre et développer lui même les photos. Il a même fait des copies et des agrandissements.
+spokentexts_a07_kabine_ermittler_belichtungsapparat_ex_1_st_2;Il semble paré à toute éventualité et avoir accès à plus de ressources qu'un policier normal.
 texts_a07_kabine_ermittler_briefchen_mo_inventar_1;Sachet
-texts_a07_kabine_ermittler_briefchen_mo_inventar_2;Down feathers
-spokentexts_a07_kabine_ermittler_briefchen_ex_1_st_1;These little sachets contain the evidence we've collected - at least, the evidence that fits in little sachets!
-spokentexts_a07_kabine_ermittler_briefchen_ex_2_st_1;The tip of one of the down feathers I found under the baroness's bed is singed.
-spokentexts_a07_kabine_ermittler_briefchen_ex_3_st_1;Some of the down feathers I found in the vase are singed.
-spokentexts_a07_kabine_ermittler_briefchen_ex_4_st_1;There were singed feathers under the baroness' bed and in a vase next to the door. That can't be a coincidence!
-texts_a07_kabine_ermittler_forensikkoffer_mo_ex_1-4;Examine the forensics box
-texts_a07_kabine_ermittler_forensikkoffer_mo_used_mit_serviette_wattestaebchen;Analyze the blood sample
-spokentexts_a07_kabine_ermittler_forensikkoffer_ex_1_st_1;A masterpiece!
-spokentexts_a07_kabine_ermittler_forensikkoffer_ex_1_st_2;Forensic teams use kits like these.
-spokentexts_a07_kabine_ermittler_forensikkoffer_ex_1_st_3;Not in Switzerland, of course. But in Paris, London, New York... In the wide world of crime, they're placing more emphasis on the correct preservation of evidence.
-spokentexts_a07_kabine_ermittler_forensikkoffer_ex_1_st_5;It's a small lab used to conduct simple analyses onsite.
-spokentexts_a07_kabine_ermittler_forensikkoffer_ex_2_st_1;All right. What have we got here?
-spokentexts_a07_kabine_ermittler_forensikkoffer_ex_2_st_2;There must be something in it for analyzing blood...
-spokentexts_a07_kabine_ermittler_forensikkoffer_ex_4_st_1;My knowledge of chemistry isn't good enough to find out what the red liquid is.
-spokentexts_a07_kabine_ermittler_forensikkoffer_ex_4_st_2;But it's not blood, that's for sure.
-spokentexts_a07_kabine_ermittler_forensikkoffer_ex_4_st_3;If the blood on the blanket and on the sheets is artificial as well, Doctor Gebhardt will have some explaining to do!
+texts_a07_kabine_ermittler_briefchen_mo_inventar_2;Plumes de duvet
+spokentexts_a07_kabine_ermittler_briefchen_ex_1_st_1;Ces petits sachets contiennent les indices que j'ai récupéré, en tout cas ceux qui rentrent dans des petits sachets !
+spokentexts_a07_kabine_ermittler_briefchen_ex_2_st_1;L'extrémité d'une des plumes de duvet que j'ai trouvé sous le lit de la baronne est brûlée.
+spokentexts_a07_kabine_ermittler_briefchen_ex_3_st_1;Certaines plumes de duvet que j'ai trouvé dans le vase sont brûlées.
+spokentexts_a07_kabine_ermittler_briefchen_ex_4_st_1;Il y avait des plumes brûlées sous le lit de la baronne et dans un save près de la porte. Ce n'est pas une coïncidence !
+texts_a07_kabine_ermittler_forensikkoffer_mo_ex_1-4;Examiner la boîte d'instruments médico-légaux
+texts_a07_kabine_ermittler_forensikkoffer_mo_used_mit_serviette_wattestaebchen;Analyser l'échantillon de sang
+spokentexts_a07_kabine_ermittler_forensikkoffer_ex_1_st_1;Une oeuvre d'art !
+spokentexts_a07_kabine_ermittler_forensikkoffer_ex_1_st_2;Les équipes médico-légales utilisent des équipements similaires.
+spokentexts_a07_kabine_ermittler_forensikkoffer_ex_1_st_3;Pas en Suisse évidemment. Mais à Paris, Londres, New York... Face au monde du crime, préserver correctement les indices est de plus en plus important.
+spokentexts_a07_kabine_ermittler_forensikkoffer_ex_1_st_5;C'ets un petit laboratoire pour effectuer des analyses rapides sur le terrain.
+spokentexts_a07_kabine_ermittler_forensikkoffer_ex_2_st_1;Très bien. Qu'avons nous là ?
+spokentexts_a07_kabine_ermittler_forensikkoffer_ex_2_st_2;Il doit bien y avoir quelque chose pour analyser du sang ici....
+spokentexts_a07_kabine_ermittler_forensikkoffer_ex_4_st_1;Mes connaissances en chimie sont trop limitées pour déterminer la fonction du liquide rouge.
+spokentexts_a07_kabine_ermittler_forensikkoffer_ex_4_st_2;Mais ce n'est pas du sang, ça c'est sûr.
+spokentexts_a07_kabine_ermittler_forensikkoffer_ex_4_st_3;Si le sang sur le couverture et les draps est aussi artificiel le Docteur Gebhardt va devoir s'expliquer !
 sequences_a07_kabine_ermittler_forensikkoffer_used_mit_serviette_oder_wattestaebchen#1;[It switches to the close-up view of the forensic box.]
-texts_a07_kabine_ermittler_foto_bett_mo_ex_1;Look at the picture
-spokentexts_a07_kabine_ermittler_foto_bett_ex_1_st_1;Hmm. Yes. The bed, the blood spot...
-spokentexts_a07_kabine_ermittler_foto_bett_ex_1_st_2;The spot on the sheet is much bigger than the one on the mattress.
-spokentexts_a07_kabine_ermittler_foto_bett_ex_1_st_3;There's blood on the blanket as well. A lot of blood, I'd say.
-spokentexts_a07_kabine_ermittler_foto_bett_ex_2_st_1;The blanket and the sheet are gone. I guess they're in the medical center.
-texts_a07_kabine_ermittler_foto_gesicht_mo_ex_1;Look at the photo
-spokentexts_a07_kabine_ermittler_foto_gesicht_ex_1_st_1;Shot in her sleep.
-spokentexts_a07_kabine_ermittler_foto_gesicht_ex_1_st_2;She didn't feel a thing. She went to sleep and never woke up.
-texts_a07_kabine_ermittler_foto_kabine_mo_ex_1;Look at the photo
-spokentexts_a07_kabine_ermittler_foto_kabine_ex_1_st_1;This photo provides an overview of the crime scene.
-texts_a07_kabine_ermittler_foto_leiche_mo_ex_1;Look at the picture
-spokentexts_a07_kabine_ermittler_foto_leiche_ex_1_st_1;Yes, that's how we found her yesterday...
-spokentexts_a07_kabine_ermittler_foto_leiche_ex_1_st_2;...I think. I wasn't really myself at the time.
-spokentexts_a07_kabine_ermittler_foto_leiche_ex_2_st_1;Hmm. No. Nothing suspicious.
-texts_a07_kabine_ermittler_fotos_ausgang_mo_leave;Finish the investigation
+texts_a07_kabine_ermittler_foto_bett_mo_ex_1;Regarder l'image
+spokentexts_a07_kabine_ermittler_foto_bett_ex_1_st_1;Hmm. Oui. Le lit, la tâche de sang...
+spokentexts_a07_kabine_ermittler_foto_bett_ex_1_st_2;La tâche sur le drap est plus grosse que cella sur le matelas.
+spokentexts_a07_kabine_ermittler_foto_bett_ex_1_st_3;Il y a aussi du sang sur la couverture. Pas mal de sang même.
+spokentexts_a07_kabine_ermittler_foto_bett_ex_2_st_1;Aucune trace de la couverture et des draps. Je suppose qu'ils sont à l'infirmerie.
+texts_a07_kabine_ermittler_foto_gesicht_mo_ex_1;Regarder la photo
+spokentexts_a07_kabine_ermittler_foto_gesicht_ex_1_st_1;Tuée dans son sommeil.
+spokentexts_a07_kabine_ermittler_foto_gesicht_ex_1_st_2;Elle n'a rien senti. Elle s'est endormi et ne s'est jamais réveillée.
+texts_a07_kabine_ermittler_foto_kabine_mo_ex_1;Regarder la photo
+spokentexts_a07_kabine_ermittler_foto_kabine_ex_1_st_1;Cette photo couvre toute la scène du crime.
+texts_a07_kabine_ermittler_foto_leiche_mo_ex_1;Regarder l'image
+spokentexts_a07_kabine_ermittler_foto_leiche_ex_1_st_1;Oui, On l'a trouvé ainsi hier...
+spokentexts_a07_kabine_ermittler_foto_leiche_ex_1_st_2;...Je crois. Je n'étais pas vraiment dans mon assiette à ce moment là.
+spokentexts_a07_kabine_ermittler_foto_leiche_ex_2_st_1;Hmm. Non. Rien de suspect.
+texts_a07_kabine_ermittler_fotos_ausgang_mo_leave;Terminer l'enquête
 sequences_a07_kabine_ermittler_fotos_ausgang_leave_1#1;[With a click you return to the cabin view]
-texts_a07_kabine_ermittler_fotos_mo_ex_1__2;Look at the photos
-spokentexts_a07_kabine_ermittler_fotos_ex_1_st_1;Legrand must have taken them yesterday at the crime scene...
-texts_a07_kabine_ermittler_grundriss_schiff_mo_ex_1;Examine the layout of the ship
-spokentexts_a07_kabine_ermittler_grundriss_schiff_ex_1_st_1;A rough diagram of the ship. Legrand marked the baroness' cabin.
-spokentexts_a07_kabine_ermittler_grundriss_schiff_ex_1_st_2;Seems like he didn't turn up anything else of note.
-texts_a07_kabine_ermittler_mikroskop_mo_ex_1-3__5;Examine the microscope
-texts_a07_kabine_ermittler_mikroskop_mo_ex_4;Look through the microscope
-texts_a07_kabine_ermittler_mikroskop_mo_used_mit_patrone;Analyze the bullet
-texts_a07_kabine_ermittler_mikroskop_mo_used_mit_daunenfedern;Analyze the down feathers with the microscope.
-texts_a07_kabine_ermittler_mikroskop_mo_used_mit_kissenbezug;Analyze the pillowcase with the microscope.
-texts_a07_kabine_ermittler_mikroskop_mo_used_mit_serviette;Analyze the blood sample with the microscope.
-texts_a07_kabine_ermittler_mikroskop_mo_used_mit_serviette_wattestaebchen;Analyze the blood sample with the microscope.
-spokentexts_a07_kabine_ermittler_mikroskop_used_mit_daunenfedern_st_1;The down feathers are obviously singed.
-spokentexts_a07_kabine_ermittler_mikroskop_used_mit_daunenfedern_st_2;I can't find out anything more with the microscope either.
-spokentexts_a07_kabine_ermittler_mikroskop_used_mit_kissenbezug_st_1;I can't put the pillowcase under the microscope.
-spokentexts_a07_kabine_ermittler_mikroskop_used_mit_kissenbezug_st_2;But I don't need to. The burn marks are visible to the naked eye.
-spokentexts_a07_kabine_ermittler_mikroskop_used_mit_serviette_st_1;I've never analyzed blood with a microscope. I wouldn't know what to look for.
-spokentexts_a07_kabine_ermittler_mikroskop_used_mit_serviette_st_2;A chemical analysis would make more sense.
-spokentexts_a07_kabine_ermittler_mikroskop_used_mit_serviette_oder_wattestaebchen_st_1;I don't think I can analyze the sample optically.
-spokentexts_a07_kabine_ermittler_mikroskop_ex_1_st_1;A microscope... Looks like the one that Lutz Reichinger uses in his pharmacy. Just more modern.
-spokentexts_a07_kabine_ermittler_mikroskop_ex_2_st_1;There's nothing on the slide.
+texts_a07_kabine_ermittler_fotos_mo_ex_1__2;Regarder les photos
+spokentexts_a07_kabine_ermittler_fotos_ex_1_st_1;Legrand a dû les prendre hier sur la scène du crime...
+texts_a07_kabine_ermittler_grundriss_schiff_mo_ex_1;Examiner le plan du bateau
+spokentexts_a07_kabine_ermittler_grundriss_schiff_ex_1_st_1;Une esquisse du navire. Legrand a marqué la cabine de la baronne.
+spokentexts_a07_kabine_ermittler_grundriss_schiff_ex_1_st_2;Apparemment il n'a rien remarqué d'autre.
+texts_a07_kabine_ermittler_mikroskop_mo_ex_1-3__5;Examiner le microscope
+texts_a07_kabine_ermittler_mikroskop_mo_ex_4;Regarder à travers le microscope
+texts_a07_kabine_ermittler_mikroskop_mo_used_mit_patrone;Analyser la balle
+texts_a07_kabine_ermittler_mikroskop_mo_used_mit_daunenfedern;Analyser les plumes de duvet avec le microscope.
+texts_a07_kabine_ermittler_mikroskop_mo_used_mit_kissenbezug;Analyser la taie d'oreiller avec le microscope.
+texts_a07_kabine_ermittler_mikroskop_mo_used_mit_serviette;Analyser l'échantillon de sang avec microscope.
+texts_a07_kabine_ermittler_mikroskop_mo_used_mit_serviette_wattestaebchen;Analyser l'échantillon de sang avec microscope.
+spokentexts_a07_kabine_ermittler_mikroskop_used_mit_daunenfedern_st_1;Les plumes de duvet sont effectivement brûlées.
+spokentexts_a07_kabine_ermittler_mikroskop_used_mit_daunenfedern_st_2;Je ne vois rien d'autre au microscope.
+spokentexts_a07_kabine_ermittler_mikroskop_used_mit_kissenbezug_st_1;Je ne peux pas mettre la taie d'oreiller sous le microscope.
+spokentexts_a07_kabine_ermittler_mikroskop_used_mit_kissenbezug_st_2;Mais ce n'est pas nécessaire. Les marques de brûlure sont visibles à l'oeil nu.
+spokentexts_a07_kabine_ermittler_mikroskop_used_mit_serviette_st_1;Je n'ai jamais analysé de sang avec un microscope. Je n'ai aucune idée de ce que je recherche.
+spokentexts_a07_kabine_ermittler_mikroskop_used_mit_serviette_st_2;Une analyse chimique me semble plus appropriée.
+spokentexts_a07_kabine_ermittler_mikroskop_used_mit_serviette_oder_wattestaebchen_st_1;Je ne pense pas qu'une analyse optique de l'échantillon soit intéressante.
+spokentexts_a07_kabine_ermittler_mikroskop_ex_1_st_1;Un microscope... On dirait celui que Lutz Reichinger utilise dans sa pharmacie. En plus moderne.
+spokentexts_a07_kabine_ermittler_mikroskop_ex_2_st_1;Il n'y a rien sur la lamelle.
 sequences_a07_kabine_ermittler_mikroskop_ex_2#2;[Ohi looks into the microscope (Idle).]
-spokentexts_a07_kabine_ermittler_mikroskop_ex_2_st_2;And therefore, nothing to see.
+spokentexts_a07_kabine_ermittler_mikroskop_ex_2_st_2;Et du coup, rien à observer.
 sequences_a07_kabine_ermittler_mikroskop_ex_2#4;[Ohi stops to look into the microscope, stands there normal again.]
-spokentexts_a07_kabine_ermittler_mikroskop_ex_3_st_1;First I have to put something under the microscope.
-spokentexts_a07_kabine_ermittler_mikroskop_ex_5_st_1;Both bullets came from the same gun.
-spokentexts_a07_kabine_ermittler_mikroskop_ex_5_st_2;That means that whoever shot the baroness was also in the cargo hold.
-spokentexts_a07_kabine_ermittler_mikroskop_ex_5_st_3;That fact may be important later.
-spokentexts_a07_kabine_ermittler_mikroskop_used_mit_baronin_patrone_st_1;All right.
+spokentexts_a07_kabine_ermittler_mikroskop_ex_3_st_1;D'abord je dois mettre quelque chose sous le microscope.
+spokentexts_a07_kabine_ermittler_mikroskop_ex_5_st_1;Les deux balles viennent de la même arme.
+spokentexts_a07_kabine_ermittler_mikroskop_ex_5_st_2;Ce qui veut dire que celui qui a tiré sur la baronne était aussi dans la soute.
+spokentexts_a07_kabine_ermittler_mikroskop_ex_5_st_3;Cette information sera sans doute importante plus tard.
+spokentexts_a07_kabine_ermittler_mikroskop_used_mit_baronin_patrone_st_1;Très bien.
 sequences_a07_kabine_ermittler_mikroskop_used_mit_baronin_patrone#2;[Ohi takes out the cartridge, places it under the microscope.]
-spokentexts_a07_kabine_ermittler_mikroskop_used_mit_frachraum_patrone_st_1;Okay.
+spokentexts_a07_kabine_ermittler_mikroskop_used_mit_frachraum_patrone_st_1;D'accord.
 sequences_a07_kabine_ermittler_mikroskop_used_mit_frachraum_patrone#2;[Ohi takes out the cartridge, places it under the microscope.]
-texts_a07_kabine_ermittler_schreibtisch_akte_mo_ex_1__2;Examine the police file
-spokentexts_a07_kabine_ermittler_schreibtisch_akte_ex_1_st_1;Legrand's file on the Raven...
-spokentexts_a07_kabine_ermittler_schreibtisch_akte_ex_1_st_2;Centimetres thick but totally useless. We're not dealing with the Raven! Why can't he see that?
-spokentexts_a07_kabine_ermittler_schreibtisch_akte_ex_1_st_3;Our man is ruthless... A bomber and quite probably a murderer!
-spokentexts_a07_kabine_ermittler_schreibtisch_akte_ex_2_st_1;This file belongs in a museum. It's history.
-spokentexts_a07_kabine_ermittler_schreibtisch_akte_ex_2_st_2;The inspector should concentrate on the present.
-texts_a07_kabine_ermittler_schreibtisch_aufputschmittel_mo_ex_1__2;Examine the bottle
-spokentexts_a07_kabine_ermittler_schreibtisch_aufputschmittel_ex_1_st_1;Hmm. There's nothing written on the bottle.
-spokentexts_a07_kabine_ermittler_schreibtisch_aufputschmittel_ex_1_st_2;I suppose it's some sort of stimulant, legal or not.
-spokentexts_a07_kabine_ermittler_schreibtisch_aufputschmittel_ex_1_st_3;Legrand has been awake for at least than thirty hours straight, maybe more.
-spokentexts_a07_kabine_ermittler_schreibtisch_aufputschmittel_ex_2_st_1;I shudder to think what kind of side effects this stuff might have.
-spokentexts_a07_kabine_ermittler_schreibtisch_aufputschmittel_ex_2_st_2;A policeman on a murder investigation should have his wits about him.
-spokentexts_a07_kabine_ermittler_schreibtisch_aufputschmittel_ex_2_st_3;The risk that he could miss evidence - or endanger himself and others - is too high.
-texts_a07_kabine_ermittler_schreibtisch_ausgang_mo_leave;Back
+texts_a07_kabine_ermittler_schreibtisch_akte_mo_ex_1__2;Examiner le dossier de police
+spokentexts_a07_kabine_ermittler_schreibtisch_akte_ex_1_st_1;Le dossier de Legrand sur le Corbeau...
+spokentexts_a07_kabine_ermittler_schreibtisch_akte_ex_1_st_2;Plusieurs centimètres d'épaisseur mais complètement superflu. Le Corbeau n'est pas derrière tout ça ! Pourquoi se voile-t-il la face ?
+spokentexts_a07_kabine_ermittler_schreibtisch_akte_ex_1_st_3;Notre homme est sans pitié... Un poseur de bombe et sans doute un meurtrier !
+spokentexts_a07_kabine_ermittler_schreibtisch_akte_ex_2_st_1;Ce dossier devrait être dans un musée. C'est de l'histoire ancienne.
+spokentexts_a07_kabine_ermittler_schreibtisch_akte_ex_2_st_2;L'inspecteur ferait mieux de se concentrer sur le présent.
+texts_a07_kabine_ermittler_schreibtisch_aufputschmittel_mo_ex_1__2;Examiner la bouteille
+spokentexts_a07_kabine_ermittler_schreibtisch_aufputschmittel_ex_1_st_1;Hmm. Il n'y a rien d'écrit sur la bouteille.
+spokentexts_a07_kabine_ermittler_schreibtisch_aufputschmittel_ex_1_st_2;J'imagine que c'ets une sorte de stimulant, légal ou non.
+spokentexts_a07_kabine_ermittler_schreibtisch_aufputschmittel_ex_1_st_3;Legrand est debout depuis au moins trente heures, peut être même plus.
+spokentexts_a07_kabine_ermittler_schreibtisch_aufputschmittel_ex_2_st_1;Je n'ose pas imaginer les effets secondaires que ce truc doit provoquer.
+spokentexts_a07_kabine_ermittler_schreibtisch_aufputschmittel_ex_2_st_2;Un policier devrait être en pleine possession de ses moyens pour faire face à une enquête de meurtre.
+spokentexts_a07_kabine_ermittler_schreibtisch_aufputschmittel_ex_2_st_3;Le risque de rater des indices ou de mettre end anger sa vie et celle d'autrui est trop important.
+texts_a07_kabine_ermittler_schreibtisch_ausgang_mo_leave;Retour
 sequences_a07_kabine_ermittler_schreibtisch_ausgang_leave_1#1;[With a click you return to the cabin view]
-texts_a07_kabine_ermittler_schreibtisch_mo_betreten;Examine the desk
-texts_a07_kabine_ermittler_schreibtisch_rohr_mo_ex_1__2;Examine the pipe
-spokentexts_a07_kabine_ermittler_schreibtisch_rohr_ex_1_st_1;This is the pipe from the cargo hold...
-spokentexts_a07_kabine_ermittler_schreibtisch_rohr_ex_1_st_2;Legrand seems to have inspected it for fingerprints. I can still make out the powder.
-spokentexts_a07_kabine_ermittler_schreibtisch_rohr_ex_2_st_1;Hmm. No. Nothing to see on the end of the pipe that the attacker held.
-spokentexts_a07_kabine_ermittler_schreibtisch_rohr_ex_2_st_2;Either he wore gloves or he cleaned the pipe.
-texts_a07_kabine_ermittler_tresor_mo_ex_1__2;Examine the safe
-spokentexts_a07_kabine_ermittler_tresor_ex_1_st_1;"A ""Lockmaster and Son"" - tough to crack."
-spokentexts_a07_kabine_ermittler_tresor_ex_1_st_2;If I wanted to steal the Eye, I'd concentrate on getting the three keys.
-spokentexts_a07_kabine_ermittler_tresor_ex_2_st_1;If everything goes according to plan, the first time this monster is opened will be in the museum in Cairo.
-spokentexts_a07_kabine_ermittler_tresor_ex_2_st_2;Fingers crossed!
-texts_a07_kabine_ermittler_zerbrochene_spritze_mo_ex_1__2;Examine the broken syringe
-spokentexts_a07_kabine_ermittler_zerbrochene_spritze_ex_1_st_1;I have no idea what he was injecting himself with.
-spokentexts_a07_kabine_ermittler_zerbrochene_spritze_ex_1_st_2;Judging by his shocked reaction, it's nothing to be proud of.
-spokentexts_a07_kabine_ermittler_zerbrochene_spritze_ex_2_st_1;I suppose it was some kind of stimulant.
-spokentexts_a07_kabine_ermittler_zerbrochene_spritze_ex_2_st_2;It seems like the hunt for the Raven is more important than his health.
+texts_a07_kabine_ermittler_schreibtisch_mo_betreten;Examiner le bureau
+texts_a07_kabine_ermittler_schreibtisch_rohr_mo_ex_1__2;Examiner le tuyau
+spokentexts_a07_kabine_ermittler_schreibtisch_rohr_ex_1_st_1;C'est le tuyau que j'ai trouvé dans la soute...
+spokentexts_a07_kabine_ermittler_schreibtisch_rohr_ex_1_st_2;Legrand semble y avoir cherché des empreintes. Je distingue encore des traces de poudre.
+spokentexts_a07_kabine_ermittler_schreibtisch_rohr_ex_2_st_1;Hmm. Non. Aucune marque du côté où l'attaquant tenait le tuyau.
+spokentexts_a07_kabine_ermittler_schreibtisch_rohr_ex_2_st_2;Soit il portait des gants, soit il a nettoyé le tuyau.
+texts_a07_kabine_ermittler_tresor_mo_ex_1__2;Examiner le coffre
+spokentexts_a07_kabine_ermittler_tresor_ex_1_st_1;"A ""Lockmaster et fils"" - dur à forcer."
+spokentexts_a07_kabine_ermittler_tresor_ex_1_st_2;Si je voulais dérober l'Oeil, j'essaierais plutôt d'obtenir les trois clés.
+spokentexts_a07_kabine_ermittler_tresor_ex_2_st_1;Si tout se passe comme prévu, ce monstre sera ouvert pour la première fois au musée du Caire.
+spokentexts_a07_kabine_ermittler_tresor_ex_2_st_2;Croisons les doigts !
+texts_a07_kabine_ermittler_zerbrochene_spritze_mo_ex_1__2;Examiner la seringue cassée
+spokentexts_a07_kabine_ermittler_zerbrochene_spritze_ex_1_st_1;Je n'ai aucune idée de ce qu'il s'injectait.
+spokentexts_a07_kabine_ermittler_zerbrochene_spritze_ex_1_st_2;Vu le choc sur son visage, ce ne doit pas être recommandé.
+spokentexts_a07_kabine_ermittler_zerbrochene_spritze_ex_2_st_1;J'imagine que c'était une sorte de stimulant.
+spokentexts_a07_kabine_ermittler_zerbrochene_spritze_ex_2_st_2;Apparemment la traque du Corbeau est plus importante que sa propre santé.
 sequences_a07_kabine_ermittler_seq_a07_kabine_ermittler_ende_erstes_gespraech#0;[The inspector nods briefly to Ohi, turns around snappily to continue with his work. Ohi is also moving, but suddenly stops, the inspector sways and has to hold on to the table. He touches his face, as if he was dizzy (Idle). Ohi turns back into the talking-position.]
 spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_ende_erstes_gespraech_st_1_direction;shocked, worried
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_ende_erstes_gespraech_st_1;Inspector Legrand?
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_ende_erstes_gespraech_st_1;Inspecteur Legrand ?
 spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_ende_erstes_gespraech_st_2_direction;worried
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_ende_erstes_gespraech_st_2;Are you okay?
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_ende_erstes_gespraech_st_2;Vous allez bien ?
 sequences_a07_kabine_ermittler_seq_a07_kabine_ermittler_ende_erstes_gespraech#3;[The inspector doesn't turn around, just nods and raises his hand, makes an ''I'm okay'' gesture. After that back to Idle.]
 spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_ende_erstes_gespraech_st_3_direction;carefully
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_ende_erstes_gespraech_st_3;Maybe you should take a break?
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_ende_erstes_gespraech_st_3;Vous devriez peut être faire une pause ?
 spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_ende_erstes_gespraech_st_4_direction;annoyed
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_ende_erstes_gespraech_st_4;I can sleep once I've caught the Raven.
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_ende_erstes_gespraech_st_4;Je dormirai quand j'aurai coincé le Corbeau.
 spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_ende_erstes_gespraech_st_5_direction;annoyed
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_ende_erstes_gespraech_st_5;Goodbye, Constable.
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_ende_erstes_gespraech_st_5;Au revoir, Officier.
 sequences_a07_kabine_ermittler_seq_a07_kabine_ermittler_ende_erstes_gespraech#7;[Ohi wants to refuse, maybe raises one hand slightly. Then he changes his mind, nods, goes to the door, opens it and leaves the cabin.]
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_ende_erstes_gespraech_st_6;Be seeing you.
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_kabine_durchsuchen_st_1;We already searched it thoroughly.
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_kabine_durchsuchen_st_2;Sure.
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_kabine_durchsuchen_st_3;But what about now, by daylight...
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_kabine_durchsuchen_st_4;Yes, yes, fine. It can't hurt.
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_kabine_durchsuchen_st_5;Here, take this with you.
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_ende_erstes_gespraech_st_6;A bientôt.
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_kabine_durchsuchen_st_1;Nous l'avons déjà fouillée de fond en comble.
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_kabine_durchsuchen_st_2;Bien sûr.
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_kabine_durchsuchen_st_3;Mais pas en plein jour...
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_kabine_durchsuchen_st_4;Oui, oui, d'accord. Ca ne peut pas faire de mal.
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_kabine_durchsuchen_st_5;Tenez, prenez ça avec vous.
 sequences_a07_kabine_ermittler_seq_a07_kabine_ermittler_kabine_durchsuchen#5;[The inspector hands Ohi some sachets, in which evidence samples can be collected (Idle).]
 sequences_a07_kabine_ermittler_seq_a07_kabine_ermittler_kabine_durchsuchen#6;[Ohi takes the sachets, the inspector goes back into the normal position]
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_kabine_durchsuchen_st_6;Thanks. I let you know if I find anything important.
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_kabine_durchsuchen_st_7;But only then, please. I'm very busy.
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_kabine_durchsuchen_st_8;Of course.
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_kabine_durchsuchen_st_6;Merci. Je vous tiendrai au courant si je découvre quelque chose d'important.
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_kabine_durchsuchen_st_7;Seulement dans cette éventualité s'il vous plait. Je suis très occupé.
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_kabine_durchsuchen_st_8;Bien sûr.
 sequences_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein#0;[Ohi enters the cabin, closes the door and turns to the inspector.]
 sequences_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein#1;[The inspector pauses in his work and goes back to talking positively (Idle).]
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_st_1;Constable?
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_st_1;Officier ?
 sequences_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig#0;[Ohi enters the cabin, closes the door and turns to the inspector.]
 sequences_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig#1;[The inspector holds a test tube in his hand, takes a close look at the liquid inside it (holds it up the light or similar). He glances at Ohi when he comes in, then he looks back to the tube (Idle).]
 spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_1_direction;busy
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_1;Ah! Zellner.
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_1;Ah ! Zellner.
 spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_2_direction;busy
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_2;Are you ready?
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_3;Good morning, Inspector Legrand!
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_4;My head is pounding, but I think I'm okay...
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_5;Chloral hydrate.
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_2;Etes vous prêt ?
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_3;Bonjour, Inspecteur Legrand !
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_4;J'ai encore mal au crâne, mais sinon ça va...
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_5;Hydrate de chloral.
 spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_6;Hhm...?
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_7;That's why you have a headache.
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_7;La raison de votre migraine.
 sequences_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig#9;[The inspector takes down the test tube, places it into a holder. He looks at Ohi (Idle).]
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_8;I found traces of it in your champagne glass.
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_8;J'en ai trouvé des traces dans votre verre de champagne.
 spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_1_direction;excited, wants to say ''inspector'', then pauses
 spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_1;Ins...
 sequences_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen#1;[The inspector stands in front of the sink with rolled up sleeves and is afraid. He drops a glass syringe, which breaks in the sink.]
 spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_2_direction;shocked, finishes the word mechanically
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_2;...pector?
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_2;...pecteur?
 sequences_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen#3;[The inspector rolls up his sleeves (of course in a way that you can't see it, he turns away from Ohi or something like that).]
 spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_3_direction;upset
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_3;Can't you knock?
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_4;I, er, didn't realize... I'm really...
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_3;On ne vous a jamais appris à frapper ?
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_4;Je, euh, ne me suis pas rendu compte... Je suis vraiment...
 spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_5_direction;upset, frustrated
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_5;I... I'm not getting anywhere.
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_6;I'm going to question each passenger individually.
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_8;Anyone without an airtight alibi will be checked for gunshot residue.
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_9;But Inspector...
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_11;People trip up when you put pressure on them, Constable Zellner.
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_5;Je... Je n'avance pas.
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_6;Je vais aller interroger chacun des passagers individuellement.
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_8;Ceux sans alibi solide subiront des analyses de résidus de poudre.
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_9;Mais Inspecteur...
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_11;Les gens font des erreurs une fois sous pression, Officier Zellner.
 sequences_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen#12;[While he speaks he is collecting some things from the table, maybe takes his jacket and goes to the exit. Opens the door and holds it open for Ohi (Idle).]
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_12;The Raven is nervous. He's changed his methodology and become a murderer.
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_13;I'll see it in his eyes. After you.
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_12;Le Corbeau est nerveux. Il a changé son mode opératoire et est devenu un meurtrier.
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_13;Je le lirai dans ses yeux. Après vous.
 sequences_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen#16;[Ohi walks through the door, the inspector follows, beginning to pull on his jacket.]
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_14;But Inspector Legrand!
-texts_a07__vorderdeck__meer_mo_ex_1;Look at the sea
-spokentexts_a07__vorderdeck__meer_ex_1_st_1;Salty sea air in my old lungs, wind in my thinning hair...
-spokentexts_a07__vorderdeck__meer_ex_1_st_2;If I hadn't become a policeman, I could have been a sailor.
-texts_a07__vorderdeck__shuffleboard_equipment_mo_ex_10;Examine the shuffleboard equipment
-spokentexts_a07__vorderdeck__shuffleboard_equipment_ex_1_st_1000;I wonder if this game is an advanced version of bocce.
-spokentexts_a07__vorderdeck__shuffleboard_equipment_ex_1_st_2;Maybe the inventor realized that it's difficult to play ball games on a boat and came up with an alternative.
-texts_a07_vorderdeck_ausgang_nebendeck_mo_leave_1;Go to the side deck
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen_st_14;Mais Inspecteur Legrand!
+texts_a07__vorderdeck__meer_mo_ex_1;Regarder la mer
+spokentexts_a07__vorderdeck__meer_ex_1_st_1;L'air marin dans mes vieux poumons, le vent dans ce qui reste de mes cheveux...
+spokentexts_a07__vorderdeck__meer_ex_1_st_2;J'aurais pu être un marin si je n'étais pas devenu policier.
+texts_a07__vorderdeck__shuffleboard_equipment_mo_ex_10;Examiner le matériel du jeu de palets
+spokentexts_a07__vorderdeck__shuffleboard_equipment_ex_1_st_1000;Je me demande si ce jeu est une variante de la pétanque.
+spokentexts_a07__vorderdeck__shuffleboard_equipment_ex_1_st_2;Son inventeur a peut être réalisé qu'il était impossible de jouer aux boules sur un bateau et a trouvé une alternative.
+texts_a07_vorderdeck_ausgang_nebendeck_mo_leave_1;Aller sur le pont-promenade
 sequences_a07_vorderdeck_ausgang_nebendeck_leave_1#1;[Ohi goes to the side deck.]
-texts_a07_vorderdeck_tuer_frachtraum_mo_ex_1__2;Examine the door of the cargo hold
-spokentexts_a07_vorderdeck_tuer_frachtraum_ex_1_st_1;The stowaway surely didn't sleep well last night in the cargo hold.
-spokentexts_a07_vorderdeck_tuer_frachtraum_ex_1_st_2;Although his cell is probably more comfortable than my cabin. And more spacious.
-spokentexts_a07_vorderdeck_tuer_frachtraum_ex_2_st_1;I have to talk to the young fellow right away.
-spokentexts_a07_vorderdeck_tuer_frachtraum_ex_2_st_3;Even though he was already under arrest at the time of the shot, he may have noticed something before.
-spokentexts_a07_vorderdeck_tuer_frachtraum_ex_2_st_4;And what about the other gunshot?
-spokentexts_a07_vorderdeck_tuer_frachtraum_ex_2_st_5;Could the second missing bullet from the murder weapon be stuck down there in one of the wooden crates?
-texts_a07_vorderdeck_wasserflasche_mo_ex_1-4;Examine the water bottle
-texts_a07_vorderdeck_wasserflasche_mo_kaputte_flasche;Shards
-texts_a07_vorderdeck_wasserflasche_mo_used_mit_zwille;Shoot the water bottle with the slingshot
-spokentexts_a07_vorderdeck_wasserflasche_ex_1_st_1;Constable Oliver brought something to drink
-spokentexts_a07_vorderdeck_wasserflasche_ex_1_st_2;You can tell it's not the first time he's had to guard something.
-spokentexts_a07_vorderdeck_wasserflasche_ex_2_st_1;The bottle should be full of water - unless the good constable happens to have a secret alcohol problem.
-spokentexts_a07_vorderdeck_wasserflasche_ex_2_st_2;No way to verify that - I can't get the bottle without him noticing.
-spokentexts_a07_vorderdeck_wasserflasche_ex_3_st_1;Constable Oliver is drinking the water he brought along. Without it, he'd get very thirsty!
-spokentexts_a07_vorderdeck_wasserflasche_ex_4_st_1;The bottle is nothing more than broken glass in a puddle!
-spokentexts_a07_vorderdeck_wasserflasche_ex_4_st_2;If Constable Oliver gets thirsty now, he'll be in a bind! I should help out.
-spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_1_st_1;If I had some ammo, I'm sure I could hit the bottle!
-spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_1;All right...
+texts_a07_vorderdeck_tuer_frachtraum_mo_ex_1__2;Examiner la porte de la soute
+spokentexts_a07_vorderdeck_tuer_frachtraum_ex_1_st_1;Le clandestin a dû passer une sale nuit dans la soute.
+spokentexts_a07_vorderdeck_tuer_frachtraum_ex_1_st_2;Encore que sa cellule est probablement plus confortable que ma cabine. Et plus grande.
+spokentexts_a07_vorderdeck_tuer_frachtraum_ex_2_st_1;Il faut que je parle à ce jeune homme rapidement.
+spokentexts_a07_vorderdeck_tuer_frachtraum_ex_2_st_3;Même s'il était déjà en état d'arrestation au moment du coup de feu, il a peut être vu quelque chose avant.
+spokentexts_a07_vorderdeck_tuer_frachtraum_ex_2_st_4;Et qu'en est-il de l'autre coup de feu ?
+spokentexts_a07_vorderdeck_tuer_frachtraum_ex_2_st_5;Est-il possible que la seconde balle manquante dans le pistolet soit logée dans une des caisses en soute ?
+texts_a07_vorderdeck_wasserflasche_mo_ex_1-4;Examiner la bouteille d'eau
+texts_a07_vorderdeck_wasserflasche_mo_kaputte_flasche;Eclats
+texts_a07_vorderdeck_wasserflasche_mo_used_mit_zwille;Tirer sur la bouteille d'eau avec le lance-pierre
+spokentexts_a07_vorderdeck_wasserflasche_ex_1_st_1;L'officier Oliver a amené à boire.
+spokentexts_a07_vorderdeck_wasserflasche_ex_1_st_2;On voit que ce n'est pas la première fois qu'il joue les gardes.
+spokentexts_a07_vorderdeck_wasserflasche_ex_2_st_1;La bouteille a l'air remplie d'eau, à moins que l'officier ne cache un penchant pour l'alcool.
+spokentexts_a07_vorderdeck_wasserflasche_ex_2_st_2;Impossible de le vérifier, je ne peux pas prendre la bouteille sans qu'il ne le remarque.
+spokentexts_a07_vorderdeck_wasserflasche_ex_3_st_1;L'Officier Oliver boit l'eau qu'il a maené. Sans elle il serait assoiffé !
+spokentexts_a07_vorderdeck_wasserflasche_ex_4_st_1;En lieu de la bouteille il ne reste que du verre brisé dans une flaque d'eau !
+spokentexts_a07_vorderdeck_wasserflasche_ex_4_st_2;Si l'Officier Oliver a encore soif il va avoir un problème ! Je devrais l'aider.
+spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_1_st_1;Si j'avais des munitions, je suis sûr que je pourrais toucher la bouteille !
+spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_1;Très bien...
 sequences_a07_vorderdeck_wasserflasche_used_mit_zwille_2#2;[Ohi gets in position, looks around and takes out the slingshot. He stretches it and shoots a little stone.]
 sequences_a07_vorderdeck_wasserflasche_used_mit_zwille_2#3;[The little stone doesn't strike the bottle but the sleeping guard's shin. He jumps up with a start, holds his shin and dances around on one leg. Ohi whirls around and looks intently and detached out to the sea.]
 spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_2_direction;pain
-spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_2;AAAHH!
+spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_2;AAAHH !
 spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_3_direction;pain
-spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_3;Ow-ow-ow!
+spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_3;Ow-ow-ow !
 sequences_a07_vorderdeck_wasserflasche_used_mit_zwille_2#6;[While the guard hops around, he is swaying from one side to another and accidentally hits the water bottle. It falls over and breaks.]
 spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_4_direction;pain, anger
-spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_4;Argh!
+spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_4;Argh !
 spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_5_direction;upset
-spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_5;Hey, Zellner! What in blazes was that?
+spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_5;Hé, Zellner ! C'était quoi ce truc ?
 sequences_a07_vorderdeck_wasserflasche_used_mit_zwille_2#9;[The guard moves into an Idle in which he rubs his shin and at the same time he speaks with Ohi (Idle).]
 sequences_a07_vorderdeck_wasserflasche_used_mit_zwille_2#10;[Ohi turns around and hides the slingshot behind his back.]
 spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_6_direction;innocent
-spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_6;What?
-spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_7;Something hit me!
-spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_8;You mean... Someone shot at you?
+spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_6;Pardon ?
+spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_7;Quelque chose m'a frappé !
+spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_8;Vous voulez dire que... Quelqu'un vous a tiré dessus ?
 spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_9_direction;upset
-spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_9;Yes! Well, no... erm... I don't know.
-spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_10;Didn't you notice anything?
-spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_11;I was riveted by the fantastic view! We Swiss aren't used to seeing the horizon like this.
+spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_9;Oui ! Enfin, non... euh... Je ne sais pas.
+spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_10;Vous n'avez rien remarqué ?
+spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_11;J'étais absorbé par cette vue fantastique ! Nous les Suisses ne sommes pas habitués à voir l'horizon ainsi.
 sequences_a07_vorderdeck_wasserflasche_used_mit_zwille_2#17;[The guard makes a snide gesture, thereby the broken water bottle catches his eye.]
-spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_12;And my bottle's broken too!
+spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_12;Et ma bouteille s'est brisée !
 sequences_a07_vorderdeck_wasserflasche_used_mit_zwille_2#19;[The frustrated guard sits down again, shakes his head and goes back into the normal Idle.]
 spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_13_direction;to himself, upset
-spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_13;I don't believe this.
+spokentexts_a07_vorderdeck_wasserflasche_used_mit_zwille_2_st_13;Je n'y crois pas.
 sequences_a07_vorderdeck_wasserflasche_used_mit_zwille_2#23;[After a little while the guard falls asleep again]
-texts_a07_vorderdeck_zwille_mo_inventar;Slingshot
-texts_a07_vorderdeck_zwille_mo_used_mit_steinchen;Combine the stones and the slingshot
-spokentexts_a07_vorderdeck_zwille_ex_1_st_1;A good slingshot! Drawing on the expert knowledge of generations of boarding school students.
-spokentexts_a07_vorderdeck_zwille_ex_1_st_2;And combined with the stones, there are countless opportunities for making mischief.
-spokentexts_a07_vorderdeck_zwille_ex_2_st_1;It packs a lot of power! Could be easier to aim, though. Better not let Constable Oliver catch me with it.
-spokentexts_a07_vorderdeck_zwille_used_mit_steinchen_st_1;The little stones make perfect ammunition for the slingshot! Now I just need a suitable target.
+texts_a07_vorderdeck_zwille_mo_inventar;Lance-pierre
+texts_a07_vorderdeck_zwille_mo_used_mit_steinchen;Combiner les cailloux et le lance-pierre
+spokentexts_a07_vorderdeck_zwille_ex_1_st_1;Un superbe lance-pierre ! Basé sur l'expertise de générations d'étudiants pensionnaires.
+spokentexts_a07_vorderdeck_zwille_ex_1_st_2;Et si on y ajoute les cailloux, les possibilités sont sans fin.
+spokentexts_a07_vorderdeck_zwille_ex_2_st_1;Il a du punch ! Par contre c'est un peu difficile de viser. Il ne vaut mieux que l'Officier Oliver m'attrape avec.
+spokentexts_a07_vorderdeck_zwille_used_mit_steinchen_st_1;Les petits cailloux font des munitions parfaites pour le lance-pierre ! Il ne manque plus qu'une cible maintenant.
 sequences_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen#0;[Ohi arrives on the scene with a plate of ham and eggs and stops in front of the guard (Idle).]
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_1;Constable Oliver?
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_1;Officier Oliver?
 sequences_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen#2;[The guard startles, looks up at Ohi.]
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_2;Hmm?
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_3;Ham and eggs, piping hot!
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_2;Hmm ?
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_3;Du jambon et des oeufs, bien chauds !
 spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_4_direction;eager, a bit desperate
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_4;Oh, but... I shouldn't.. really...
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_5;I don't see anyone here who'd rebuke you. It was a hard night!
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_6;True.
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_4;Oh, mais... Je ne devrais pas... vraiment...
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_5;Personne ici ne vous réprimandera. La nuit a été difficile !
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_6;C'ets vrai.
 sequences_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen#8;[Ohi hands him the plate and then stands there normal again. The guard takes the plate and happily he starts to eat the food (Idle).]
 spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_7_direction;eating mouthful
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_7;Mmm. Delicious!
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_7;Mmm. Délicieux !
 spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_8_direction;eating mouthful
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_8;Just enough salt!
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_8;Juste ce qu'il faut de sel !
 sequences_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen#11;[The guard has finished, hands Ohi the plate (Idle).]
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_9;That was good of you - cheers!
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_10;You don't expect me to wash your dirty dishes as well, do you?
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_9;C'était gentil de votre part, merci !
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_10;Vous ne pensez tout de même pas que je vais faire votre vaisselle ?
 spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_11_direction;sarcastically
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_11;Oh, of course not, your majesty!
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_11;Oh, bien sûr que non votre majesté !
 sequences_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen#15;[The guard places the plate beside him on the floor.]
 spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_12_direction;content
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_12;That was a proper meal and no mistake.
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen_st_12;C'est ce que j'appelle un bon repas.
 sequences_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen#18;[The guard takes the water bottle, takes a sip and puts it away again.]
 sequences_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen#19;[From now on he regularly takes a sip.]
 sequences_a07_vorderdeck_seq_a07_vorderdeck_essen_bringen#21;"[playing sequence ""guard_goes_ to_ get_ water"".]"
 sequences_a07_vorderdeck_seq_a07_vorderdeck_frachtraum_leave#0;[Close up of the door.]
 sequences_a07_vorderdeck_seq_a07_vorderdeck_frachtraum_leave#1;[Ohi opens the door slightly, it squeaks loudly. He sticks his head out. In front of him stands the guard with his hands on his hips.]
 spokentexts_a07_vorderdeck_seq_a07_vorderdeck_frachtraum_leave_st_1_direction;in disgust
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_frachtraum_leave_st_1;That takes the biscuit!!
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_frachtraum_leave_st_2;I noticed that the door was unguarded and just wanted make sure that everything was all right.
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_frachtraum_leave_st_1;Alors ça c'ets la palme !
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_frachtraum_leave_st_2;J'ai remarqué que personne ne surveillait la porte donc j'ai voulu m'assurer que tout était en ordre.
 spokentexts_a07_vorderdeck_seq_a07_vorderdeck_frachtraum_leave_st_3_direction;angry
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_frachtraum_leave_st_3;Tell it to Legrand!
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_frachtraum_leave_st_3;Vous direz ça à Legrand !
 spokentexts_a07_vorderdeck_seq_a07_vorderdeck_frachtraum_leave_st_4_direction;angry
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_frachtraum_leave_st_4;He's expressly forbidden that anyone speaks to the witness before he does!
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_frachtraum_leave_st_4;Il avait formellement interdit à quiconque de parler au témoin avant lui !
 sequences_a07_vorderdeck_seq_a07_vorderdeck_wachmann_holt_wasser#1;[The guard wants to take the bottle. Then he notices that it's not there anymore.]
 sequences_a07_vorderdeck_seq_a07_vorderdeck_wachmann_holt_wasser#3;[The guard looks sullenly to the fragments of glass.]
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_wachmann_holt_wasser_st_1;Could you... Could you bring me something to drink? Those ham and eggs were pretty salty...
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_wachmann_holt_wasser_st_2;I'm sorry. I have to proceed with my investigations. Goodbye.
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_wachmann_holt_wasser_st_1;Pourriez vous... Pourriez vous m'amener quelque chose à boire ? Ce jambon et ces oeufs étaient assez salés...
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_wachmann_holt_wasser_st_2;Je suis désolé. Je dois avancer dans l'enquête. Au revoir.
 sequences_a07_vorderdeck_seq_a07_vorderdeck_wachmann_holt_wasser#6;[Ohi walks away a few steps, so the guard can't see him anymore. Then he watches the guard secretly.]
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_wachmann_holt_wasser_st_3;Let's see how long he can resist his thirst.
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_wachmann_holt_wasser_st_3;Voyons combien de temps il va résister à la soif.
 sequences_a07_vorderdeck_seq_a07_vorderdeck_wachmann_holt_wasser#8;[The guard is getting nervous, looks around. Then he makes a decision and goes away in a hurry.]
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_wachmann_holt_wasser_st_4;Not long at all...
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_wachmann_holt_wasser_st_4;Pas très longtemps...
 sequences_a07_vorderdeck_seq_a07_vorderdeck_wachmann_holt_wasser#10;[Ohi goes to the door, opens it and goes inside.]
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_1;That's it!
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_2;Oh man!
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_3;The athlete wins the day!
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_4;One more time!
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_5;No, that's enough for me.
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_6;All right.
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_1;Et voilà !
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_2;Oh non !
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_3;L'athlète l'emporte!
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_4;Encore une !
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_5;Non, ça suffit pour moi.
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_6;D'accord.
 sequences_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen#6;[The boy reluctantly reaches into his pocket and hands Ohi a slingshot.]
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_7;Here.
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_8;Are you sure?
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_7;Voilà.
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_8;Tu es sûr ?
 spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_9_direction;confidently
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_9;Gambling debts are debts of honor.
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_10;I'll give it back to you when I don't need it anymore, okay?
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_11;Okay. But make sure my Mom doesn't catch you with it. She thinks it's dangerous.
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_9;Dettes de jeu, dettes d'honneur.
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_10;Je te le rendrai quand je n'en aurai plus besoin, d'accord ?
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_11;Okay. Mais faites attention à ce que ma mère ne vous attrape avec. Elle dit que c'est dangereux.
 sequences_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen#12;[The Boy gives Ohi the slingshot, he looks at it, then he pockets it. Afterwards the boy continues with his game.]
 spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_verloren_st_1;Hmrrrr.
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_verloren_st_2;I win again!
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_verloren_st_3;That's another ice cream!
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_verloren_st_2;Encore une victoire !
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_verloren_st_3;Une glace de plus !
 sequences_a07_vorderdeck_seq_a07_vorderdeck_spiel_verloren#3;"[dialogue selection ""game"" appears]"
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_verloren_erstmalig_st_1;Rats!
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_verloren_erstmalig_st_2;Ha-ha! I win!
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_verloren_erstmalig_st_3;That's one ice cream for me!
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_verloren_erstmalig_st_4;You've been practicing!
-texts_a07_frachtraum_ausgangstuer_mo_betachten_1;Examine the door
-texts_a07_frachtraum_ausgangstuer_mo_leave_1__2;Leave the cargo hold
-texts_a07_frachtraum_ausgangstuer_mo_use_1__2;Open the door
-texts_a07_frachtraum_ausgangstuer_mo_used_mit_rohr;Open the door with the pipe
-spokentexts_a07_frachtraum_ausgangstuer_leave_1_st_1;Maybe I won't get another chance to look around the cargo hold.
-spokentexts_a07_frachtraum_ausgangstuer_leave_1_st_2;I must try to find out who was responsible for the shot.
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_verloren_erstmalig_st_1;Purée !
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_verloren_erstmalig_st_2;Ha-ha! J'ai gagné !
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_verloren_erstmalig_st_3;Une glace de plus pour moi!
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_verloren_erstmalig_st_4;Tu t'es entraîné !
+texts_a07_frachtraum_ausgangstuer_mo_betachten_1;Examiner la porte
+texts_a07_frachtraum_ausgangstuer_mo_leave_1__2;Quitter la soute
+texts_a07_frachtraum_ausgangstuer_mo_use_1__2;Ouvrir la porte
+texts_a07_frachtraum_ausgangstuer_mo_used_mit_rohr;Ouvrir la porte à l'aide du tuyau
+spokentexts_a07_frachtraum_ausgangstuer_leave_1_st_1;Je n'aurai peut être pas d'autre occasion d'explorer la soute.
+spokentexts_a07_frachtraum_ausgangstuer_leave_1_st_2;Il faut que je trouve qui est responsable du coup de feu.
 sequences_a07_frachtraum_ausgangstuer_leave_2#1;[Ohi geht die Treppe hoch.]
-spokentexts_a07_frachtraum_ausgangstuer_leave_2_st_1;And what happens to me now?
-spokentexts_a07_frachtraum_ausgangstuer_leave_2_st_2;What do you think will happen?
-spokentexts_a07_frachtraum_ausgangstuer_leave_2_st_3;You'll stay in there until you start telling the truth.
-spokentexts_a07_frachtraum_ausgangstuer_leave_2_st_4;I was telling the truth!
-spokentexts_a07_frachtraum_ausgangstuer_leave_2_st_5;Tell it to Inspector Legrand.
-spokentexts_a07_frachtraum_ausgangstuer_leave_2_st_6;He'd love to listen to more lies...
+spokentexts_a07_frachtraum_ausgangstuer_leave_2_st_1;Qu'allez vous faire de moi ?
+spokentexts_a07_frachtraum_ausgangstuer_leave_2_st_2;Qu'est ce que vous croyez ?
+spokentexts_a07_frachtraum_ausgangstuer_leave_2_st_3;Vous resterez ici tant que vous ne nous aurez pas dit la vérité.
+spokentexts_a07_frachtraum_ausgangstuer_leave_2_st_4;Je vous ai dit la vérité !
+spokentexts_a07_frachtraum_ausgangstuer_leave_2_st_5;Gardez ça pour l'Inspecteur Legrand.
+spokentexts_a07_frachtraum_ausgangstuer_leave_2_st_6;Il adorerait entendre plus de mensonges...
 sequences_a07_frachtraum_ausgangstuer_leave_2#8;[Ohi leaves the cargo hold.]
 sequences_a07_frachtraum_ausgangstuer_leave_2#9;"[Continues at the forecastle with sequence ""cargo hold_leave"".]"
-texts_a07_frachtraum_draht_mo_inventar;Wire
-spokentexts_a07_frachtraum_draht_ex_1_st_1;This piece of wire held the lid of the toolbox closed.
-spokentexts_a07_frachtraum_draht_ex_1_st_2;The wire is quite strong but flexible all the same.
-texts_a07_frachtraum_geschlossener_spint_01_mo_betachten_1;Examine the lockers
-texts_a07_frachtraum_geschlossener_spint_01_mo_use;Open the locker
-spokentexts_a07_frachtraum_geschlossener_spint_02_ex_1_st_1;The cargo hold also seems to serve as a changing room for the crew.
-spokentexts_a07_frachtraum_geschlossener_spint_02_ex_1_st_2;At least for the part of it that doesn't do their work in white uniforms.
+texts_a07_frachtraum_draht_mo_inventar;Fil
+spokentexts_a07_frachtraum_draht_ex_1_st_1;Ce bout de fil maintient le couvercle de la caisse à outils fermé.
+spokentexts_a07_frachtraum_draht_ex_1_st_2;Le fil est très résistant mais également flexible.
+texts_a07_frachtraum_geschlossener_spint_01_mo_betachten_1;Examiner les casiers
+texts_a07_frachtraum_geschlossener_spint_01_mo_use;Ouvrir le casier
+spokentexts_a07_frachtraum_geschlossener_spint_02_ex_1_st_1;On dirait que la soute fait aussi office de vestiaire pour l'équipage.
+spokentexts_a07_frachtraum_geschlossener_spint_02_ex_1_st_2;Tout du moins pour ceux qui ne portent pas d'uniformes blancs.
 sequences_a07_frachtraum_geschlossener_spint_01_use_1#1;[Ohi tries to open the locker but it's closed.]
 spokentexts_a07_frachtraum_geschlossener_spint_01_used_mit_schraubenzieher_st_1;Breaking into the lockers would be in poor taste.
 spokentexts_a07_frachtraum_geschlossener_spint_01_used_mit_schraubenzieher_st_2;Seamen are not known for being understanding when others go rifling through their belongings.
-texts_a07_frachtraum_kiste_mit_saegen_mo_ex_1;Examine the crate
+texts_a07_frachtraum_kiste_mit_saegen_mo_ex_1;Examiner la caisse
 spokentexts_a07_frachtraum_kiste_mit_saegen_ex_1_st_1;I could take one of the saws with me as a souvenir!
 spokentexts_a07_frachtraum_kiste_mit_saegen_ex_1_st_2;On the other hand it'd remind me of my bump and of my rather inelegant escape...
 texts_a07_frachtraum_kiste_mo_betachten_1-2;Examine the crate with the bullet hole
@@ -2730,4 +2730,4 @@ spokentexts_wachmann_talk_mit_8_st_1;Ahem.
 spokentexts_wachmann_talk_mit_8_st_2_direction;yawning
 spokentexts_wachmann_talk_mit_8_st_2;*baille* Qu'est ce qu'il y a maintenant ? M'avez vous amené quelque chose à manger ?
 spokentexts_wachmann_used_mit_zwille_st_1;Il pourrait être plus coopératif, mais finalement il ne fait que son travail.
-spokentexts_wachmann_used_mit_zwille_st_2;Pas de raison de lui lancer une pierre dans la tête !
+spokentexts_wachmann_used_mit_zwille_st_2;Aucune raison de lui lancer une pierre dans la tête !
