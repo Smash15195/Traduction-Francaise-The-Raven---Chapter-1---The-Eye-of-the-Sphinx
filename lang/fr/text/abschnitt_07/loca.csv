@@ -348,381 +348,381 @@ sequences_a07_frachtraum_geschlossener_spint_01_use_1#1;[Ohi tries to open the l
 spokentexts_a07_frachtraum_geschlossener_spint_01_used_mit_schraubenzieher_st_1;Breaking into the lockers would be in poor taste.
 spokentexts_a07_frachtraum_geschlossener_spint_01_used_mit_schraubenzieher_st_2;Seamen are not known for being understanding when others go rifling through their belongings.
 texts_a07_frachtraum_kiste_mit_saegen_mo_ex_1;Examiner la caisse
-spokentexts_a07_frachtraum_kiste_mit_saegen_ex_1_st_1;I could take one of the saws with me as a souvenir!
-spokentexts_a07_frachtraum_kiste_mit_saegen_ex_1_st_2;On the other hand it'd remind me of my bump and of my rather inelegant escape...
-texts_a07_frachtraum_kiste_mo_betachten_1-2;Examine the crate with the bullet hole
-texts_a07_frachtraum_kiste_mo_betachten_3;Examine the bullet hole
-texts_a07_frachtraum_kiste_mo_used_mit_draht;Use the wire with the bullet hole
-texts_a07_frachtraum_kiste_mo_used_mit_eiswuerfelzange;Use the ice tongs with the bullet hole
-texts_a07_frachtraum_kiste_mo_used_mit_schraubenzieher;Take the bullet out of the hole
-spokentexts_a07_frachtraum_kiste_ex_1_st_1;Whoever fired the shot hit the crate.
-spokentexts_a07_frachtraum_kiste_ex_2_st_1;Did the shooter just want to intimidate me?
-spokentexts_a07_frachtraum_kiste_ex_2_st_2;Or...
+spokentexts_a07_frachtraum_kiste_mit_saegen_ex_1_st_1;Je pourrais emporter un des scies comme souvenir !
+spokentexts_a07_frachtraum_kiste_mit_saegen_ex_1_st_2;D'un autre côté cela me rappellerait ma bosse et ma pitoyable évasion...
+texts_a07_frachtraum_kiste_mo_betachten_1-2;Examiner la caisse perforée
+texts_a07_frachtraum_kiste_mo_betachten_3;Examiner la perforation
+texts_a07_frachtraum_kiste_mo_used_mit_draht;Utiliser le fil sur la perforation
+texts_a07_frachtraum_kiste_mo_used_mit_eiswuerfelzange;Utiliser la pince à glace sur la perforation
+texts_a07_frachtraum_kiste_mo_used_mit_schraubenzieher;Sortir la balle de la perforation
+spokentexts_a07_frachtraum_kiste_ex_1_st_1;La personne qui a tiré a touché la caisse.
+spokentexts_a07_frachtraum_kiste_ex_2_st_1;Le tireur voulait-il simplement m'intimider ?
+spokentexts_a07_frachtraum_kiste_ex_2_st_2;Ou...
 sequences_a07_frachtraum_kiste_ex_2#3;[Ohi touches the bullet hole.]
-spokentexts_a07_frachtraum_kiste_ex_2_st_3;Maybe he needed the bullet?
+spokentexts_a07_frachtraum_kiste_ex_2_st_3;Peut être qu'il avait besoin de la balle ?
 sequences_a07_frachtraum_kiste_ex_3#1;[Ohi kneels down in front of the box, takes a look at the bullet hole (Idle).]
-spokentexts_a07_frachtraum_kiste_ex_3_st_1;Can't see anything.
-spokentexts_a07_frachtraum_kiste_ex_3_st_2;If the bullet is still stuck in the wood, it's too deep to reach with my fingers.
-spokentexts_a07_frachtraum_kiste_used_mit_draht_st_1;The wire is too flexible to pull something out of the hole.
-spokentexts_a07_frachtraum_kiste_used_mit_draht_st_2;I need something less bendy.
-spokentexts_a07_frachtraum_kiste_used_mit_eiswuerfelzange_st_1;No. The bullet hole is too small for the tongs.
+spokentexts_a07_frachtraum_kiste_ex_3_st_1;Je ne vois rien.
+spokentexts_a07_frachtraum_kiste_ex_3_st_2;Si la balle est encore logée dans le bois, le trou est trop profond pour que je l'atteigne à mains nues.
+spokentexts_a07_frachtraum_kiste_used_mit_draht_st_1Le fil est trop flexible pour réussir à sortir quelque chose du trou.
+spokentexts_a07_frachtraum_kiste_used_mit_draht_st_2;Il me faut un outil moins pliable.
+spokentexts_a07_frachtraum_kiste_used_mit_eiswuerfelzange_st_1;Non. Le trou est trop petit pour utiliser la pince.
 sequences_a07_frachtraum_kiste_used_mit_schraubenzieher#1;[Ohi takes out the screw driver, sticks it into the hole and fiddles around with it.]
 spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_1_direction;angestrengt, konzentriert
-spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_1;Well...
-spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_2;I think the bullet is still in the wood.
+spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_1;Eh bein...
+spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_2;J'ai l'impression que la balle est encore logée dans le bois.
 sequences_a07_frachtraum_kiste_used_mit_schraubenzieher#4;[Ohi could finally get out the projectile. He puts the screw driver away, stands up and while he is standing he holds the projectile in front of his eyes (Idle).]
 spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_3_direction;whistling
-spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_3;Piuhh!
-spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_4;I'm not a weapons specialist. But at first sight I'd say that this bullet looks exactly the same as the one Doctor Gebhardt gave me for Legrand.
-spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_5;That would mean that the murderer also fired a shot here in the cargo hold before the murder... But why?
+spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_3;Pffiuu!
+spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_4;Je ne suis pas spécialistes des armes à feu, mais à première vue cette balle ressemble comme deux gouttes d'eau à celle que le Docteur Gebhardt m'a donnée pour Legrand.
+spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_5;Le meurtrier aurait donc tirer dans la soute avant de commettre le meurtre... Mais pourquoi ?
 sequences_a07_frachtraum_kiste_used_mit_schraubenzieher#8;[Ohi puts the cartridge into his shirt pocket, tapping it with his hand (''here you are safe'').]
-spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_6;Did they just want to make sure their old gun still worked, or was it something else?
-spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_7;And did the bullet really come from the same gun?
-spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_8;I can only check that in Legrand's cabin.
-texts_a07_frachtraum_kleidertruhe_mo_ex_1;Examine the trunk
-spokentexts_a07_frachtraum_kleidertruhe_ex_1_st_1;Somebody put the trunk back on the shelf. I can't tell whether it was our young friend or someone else.
-spokentexts_a07_frachtraum_kleidertruhe_ex_2_st_1;It must be uncomfortable travelling like that, even if you're as young and slim as our guest in the cell over there.
-texts_a07_frachtraum_offener_spint_mo_betachten_1__2;Examine the lockers
-texts_a07_frachtraum_offener_spint_mo_use;Open the locker
-spokentexts_a07_frachtraum_offener_spint_use_1_st_1;A stroke of luck! The lock is open!
+spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_6;Voulait-il simplement vérifier que leur vieux pistolet fonctionnait encore ou y avait-il une autre raison ?
+spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_7;Et la balle provient-elle vraiment de la même arme ?
+spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_8;Je ne pourrai vérifier cela que dans la cabine de Legrand.
+texts_a07_frachtraum_kleidertruhe_mo_ex_1;Examiner le coffre
+spokentexts_a07_frachtraum_kleidertruhe_ex_1_st_1;Quelqu'un a remis le coffre sur l'étagère. Impossible de savoir si c'est l'oeuvre de notre jeune ami ou de quelqu'un d'autre.
+spokentexts_a07_frachtraum_kleidertruhe_ex_2_st_1;Voyager ainsi doit être très inconfortable, même en étant aussi jeune et mince que notre invité dans sa cellule.
+texts_a07_frachtraum_offener_spint_mo_betachten_1__2;Examiner les casiers
+texts_a07_frachtraum_offener_spint_mo_use;Ouvrir le casier
+spokentexts_a07_frachtraum_offener_spint_use_1_st_1;Quelle chance ! Il n'est pas verrouillé !
 sequences_a07_frachtraum_offener_spint_use_1#2;[Opens the locker.]
 spokentexts_a07_frachtraum_offener_spint_use_1_st_2;Hmm.
-spokentexts_a07_frachtraum_offener_spint_use_1_st_3;Oil-stained overalls...
+spokentexts_a07_frachtraum_offener_spint_use_1_st_3;Une salopette couverte d'huile...
 sequences_a07_frachtraum_offener_spint_use_1#5;[Ohi sifts through the cupboard, notices a metallic toolbox lying on the bottom shelf and places it on the floor.]
-spokentexts_a07_frachtraum_offener_spint_use_1_st_4;And here...
-spokentexts_a07_frachtraum_offener_spint_use_1_st_5;An old toolbox!
-texts_a07_frachtraum_patrone_mo_inventar_1-3;Bullet from the cargo hold
-spokentexts_a07_frachtraum_patrone_ex_1_st_1;The bullet resembles the one that the doctor removed from the baroness' corpse.
-spokentexts_a07_frachtraum_patrone_ex_1_st_2;But I can't be certain until I check it under the microscope in Legrand's cabin.
-spokentexts_a07_frachtraum_patrone_ex_2_st_1;The bullet from the cargo hold matches the one that killed the baroness.
-texts_a07_frachtraum_schraubenzieher_mo_inventar;Screwdriver
-spokentexts_a07_unterdeck_kabine_ermittler_used_mit_schraubenzieher_st_1;The slot of the lock is too small for the screwdriver.
-spokentexts_a07_unterdeck_kabine_ermittler_used_mit_schraubenzieher_st_2;And I don't want to simply break the door open. Legrand would notice and I'd be lucky if he doesn't lock me up with the stowaway.
-texts_a07_unterdeck_kabine_ermittler_mo_used_mit_schraubenzieher;Break the door.
-spokentexts_a07_frachtraum_schraubenzieher_ex_1_st_1;A well-used screwdriver from the toolbox. I don't see anything special.
-texts_a07_frachtraum_werkzeugkiste_mo_betachten_1__2;Examine the toolbox
-texts_a07_frachtraum_werkzeugkiste_mo_use;Search the toolbox
-spokentexts_a07_frachtraum_werkzeugkiste_ex_1_st_1;It's been through a lot. Hardly any paint, dented... and the lid is held shut by a wire.
+spokentexts_a07_frachtraum_offener_spint_use_1_st_4;Et ici...
+spokentexts_a07_frachtraum_offener_spint_use_1_st_5;Une vieille caisse à outils !
+texts_a07_frachtraum_patrone_mo_inventar_1-3;Balle de la soute
+spokentexts_a07_frachtraum_patrone_ex_1_st_1;La balle ressemble à celle que le docteur a extrait du corps de la baronne.
+spokentexts_a07_frachtraum_patrone_ex_1_st_2;Mais je n'en serai certain qu'après l'avoir examiné avec le microscope dans la cabine de Legrand.
+spokentexts_a07_frachtraum_patrone_ex_2_st_1;La balle de la soute est identique à celle qui a tué la baronne.
+texts_a07_frachtraum_schraubenzieher_mo_inventar;Tournevis
+spokentexts_a07_unterdeck_kabine_ermittler_used_mit_schraubenzieher_st_1;La serrure est trop petite pour le tournevis.
+spokentexts_a07_unterdeck_kabine_ermittler_used_mit_schraubenzieher_st_2;Je ne veux pas casser la porte. Legrand le remarquerait immédiatement et j''aurai de la chance si il ne m'enfermait pas avec le clandestin.
+texts_a07_unterdeck_kabine_ermittler_mo_used_mit_schraubenzieher;Casser la porte.
+spokentexts_a07_frachtraum_schraubenzieher_ex_1_st_1;Un tournevis ayant vécu provenant de la boîte à outils. Rien de particulier.
+texts_a07_frachtraum_werkzeugkiste_mo_betachten_1__2;Examiner la boîte à outils
+texts_a07_frachtraum_werkzeugkiste_mo_use;Fouiller la boîte à outils
+spokentexts_a07_frachtraum_werkzeugkiste_ex_1_st_1;Elle en a vu de belles. Peinture presque entièrement disparu, des bosses... et la couvercle est maintenu fermé grâce à un fil.
 sequences_a07_frachtraum_werkzeugkiste_ex_1#2;[Ohi bends down, fiddles with the wire.]
-spokentexts_a07_frachtraum_werkzeugkiste_ex_1_st_2;I'll take it with me.
+spokentexts_a07_frachtraum_werkzeugkiste_ex_1_st_2;Je vais le prendre avec moi.
 sequences_a07_frachtraum_werkzeugkiste_ex_1#4;[Ohi pockets the wire, opens the box and takes a look inside (Idle).]
-spokentexts_a07_frachtraum_werkzeugkiste_ex_1_st_3;Hmm... Some wrenches, a bit of wire wool, an oily cloth... And here - a screwdriver!
+spokentexts_a07_frachtraum_werkzeugkiste_ex_1_st_3;Hmm... Des clés à molette, une pelote de fil, un chiffon huileux... et là un tournevis !
 sequences_a07_frachtraum_werkzeugkiste_ex_1#6;[Ohi takes the screw driver, closes the box and goes back into the normal position.]
-spokentexts_a07_frachtraum_werkzeugkiste_ex_2_st_2;I've got the screwdriver, that's all I need.
+spokentexts_a07_frachtraum_werkzeugkiste_ex_2_st_2;J'ai le tournevis, c'est tout ce dont j'ai besoin.
 sequences_a07_frachtraum_geschlossener_spint_02_use_1#1;[Ohi tries to open the locker but it's closed.]
 sequences_a07_frachtraum_seq_a07_frachtraum_betreten#0;[Ohi walks through the door. He leaves it ajar. He goes downstairs to the cargo hold.]
 sequences_a07_frachtraum_seq_a07_frachtraum_betreten#1;[Cut to the cell, you see vaguely from the Arabian's point of view.]
 sequences_a07_frachtraum_seq_a07_frachtraum_betreten#2;[The Arabian stands with his hands on the grid (Idle).]
 sequences_a07_frachtraum_seq_a07_frachtraum_betreten#3;[Ohi walks towards him.]
 sequences_a07_frachtraum_seq_a07_frachtraum_betreten#4;[The Arabian taps the fingers of his left hand on the poles several times. It looks like a nervous tic. Ohi notices it.]
-spokentexts_a07_frachtraum_seq_a07_frachtraum_betreten_st_1;Nervous?
-spokentexts_a07_frachtraum_seq_a07_frachtraum_betreten_st_2;I would be too, in your position.
+spokentexts_a07_frachtraum_seq_a07_frachtraum_betreten_st_1;Nerveux ?
+spokentexts_a07_frachtraum_seq_a07_frachtraum_betreten_st_2;Vous le seriez aussi si les rôles étaient inversés.
 sequences_a07_frachtraum_seq_a07_frachtraum_betreten#7;[Cut to the total.]
 sequences_a07_frachtraum_seq_a07_frachtraum_gespraech_beendet#0;[Ohi takes a few steps back into the room.]
-spokentexts_a07_frachtraum_seq_a07_frachtraum_gespraech_beendet_st_1;He's lying like a cheap rug, but he probably doesn't know anything about the murder.
-spokentexts_a07_frachtraum_seq_a07_frachtraum_gespraech_beendet_st_2;Very disappointing.
-spokentexts_a07_frachtraum_seq_a07_frachtraum_gespraech_beendet_st_3;So I have to keep searching. What interests me most is the shot that was fired here in the cargo hold last night.
-texts_a07_hinterdeck_ausgang_nebendeck_mo_leave_1;Go to the side deck
+spokentexts_a07_frachtraum_seq_a07_frachtraum_gespraech_beendet_st_1;Il ment comme il respire, mais il ne sait probablement rien à propos du meurtre.
+spokentexts_a07_frachtraum_seq_a07_frachtraum_gespraech_beendet_st_2;C'est décevant.
+spokentexts_a07_frachtraum_seq_a07_frachtraum_gespraech_beendet_st_3;Je dois continuer à chercher. Le coup de feu tiré ici la nuit dernière dans la soute est ce qui m'intrigue le plus.
+texts_a07_hinterdeck_ausgang_nebendeck_mo_leave_1;Aller sur le pont-promenade
 sequences_a07_hinterdeck_ausgang_nebendeck_leave_1#1;[Ohi heads to the side deck.]
-texts_a07_hinterdeck_ausgang_salon_mo_leave_1;Enter the saloon
+texts_a07_hinterdeck_ausgang_salon_mo_leave_1;Entrer dans le salon
 sequences_a07_hinterdeck_ausgang_salon_leave_1#1;[Ohi geht in den Salon]
-texts_a07_hinterdeck_handtuecher_mo_ex_1;Examine the towels
-spokentexts_a07_hinterdeck_handtuecher_ex_1_st_1;Big, soft towels...
-spokentexts_a07_hinterdeck_handtuecher_ex_1_st_2;I COULD reserve a deck chair with it.
+texts_a07_hinterdeck_handtuecher_mo_ex_1;Examiner les serviettes
+spokentexts_a07_hinterdeck_handtuecher_ex_1_st_1;Des serviettes grandes et douces...
+spokentexts_a07_hinterdeck_handtuecher_ex_1_st_2;Je POURRAIS réserver un bain de soleil avec.
 spokentexts_a07_hinterdeck_handtuecher_ex_1_st_3_direction;gauges
-spokentexts_a07_hinterdeck_handtuecher_ex_1_st_3;No, better not.
-texts_a07_hinterdeck_lautsprecher_mo_ex_1;Examine the speakers
-spokentexts_a07_hinterdeck_lautsprecher_ex_1_st_1;These things made quite a racket last night. I couldn't hear myself think.
-texts_a07_hinterdeck_lichterkette_mo_ex_1;Examine the chain of lights
-spokentexts_a07_hinterdeck_lichterkette_ex_1_st_1;Did Edison have any idea what would become of his invention?
-texts_a07_hinterdeck_liegestuhl_mo_ex_1;Examine the deck chair
-texts_a07_hinterdeck_liegestuhl_mo_use_1;Lie in the sun
-spokentexts_a07_hinterdeck_liegestuhl_ex_1_st_1;I'd really like to lie in the sun and take a nap.
-spokentexts_a07_hinterdeck_liegestuhl_ex_1_st_2;But I don't have time for that at the moment.
-spokentexts_a07_hinterdeck_liegestuhl_use_1_st_1;No, Jakob. Business before pleasure.
-texts_a07_kabine_baronin_alarmmelder_mo_ex_1;Examine the alarm
-spokentexts_a07_kabine_baronin_alarmmelder_ex_1_st_3;It was tripped at some point. The seal is broken. But there's no way of telling whether it happened yesterday or five years ago.
-texts_a07_kabine_baronin_bett_mo_ex_1;Examine the bed
-texts_a07_kabine_baronin_bett_mo_ex_2;Search the bed
-texts_a07_kabine_baronin_bett_mo_ex_3;Examine the blood spot
-texts_a07_kabine_baronin_bett_mo_used_mit_serviette;Take a specimen
-texts_a07_kabine_baronin_bett_mo_used_mit_wattestaebchen;Take a specimen
-texts_a07_kabine_baronin_bett_mo_used_mit_kissenbezug;Use the pillowcase with the blood spot
-spokentexts_a07_kabine_baronin_bett_used_mit_kissenbezug_st_1;Better not. The pillowcase is evidence. I shouldn't smear blood on it.
-spokentexts_a07_kabine_baronin_bett_ex_1_st_1;There's still blood on the mattress.
-spokentexts_a07_kabine_baronin_bett_ex_1_st_2;The sheet and the blanket have already been removed. To analyze them, I suppose.
+spokentexts_a07_hinterdeck_handtuecher_ex_1_st_3;Non, il ne vaut mieux pas.
+texts_a07_hinterdeck_lautsprecher_mo_ex_1;Examiner les hauts parleurs
+spokentexts_a07_hinterdeck_lautsprecher_ex_1_st_1;ces trucs ont fait un bruit monstre hier soir. Je n'arrivais même plus à réfléchir.
+texts_a07_hinterdeck_lichterkette_mo_ex_1;Examiner la chaîne de lumières
+spokentexts_a07_hinterdeck_lichterkette_ex_1_st_1;Edison avait-il la moindre idée de ce qu'adviendrait de son invention ?
+texts_a07_hinterdeck_liegestuhl_mo_ex_1;Examiner le bain de soleil
+texts_a07_hinterdeck_liegestuhl_mo_use_1;S'allonger au soleil
+spokentexts_a07_hinterdeck_liegestuhl_ex_1_st_1;J'aimerais bien m'allonger au soleil et faire une sieste.
+spokentexts_a07_hinterdeck_liegestuhl_ex_1_st_2;Mais je n'ai pas le temps pour le moment.
+spokentexts_a07_hinterdeck_liegestuhl_use_1_st_1;Non, Jakob. Le travail d'abord, le plaisir ensuite.
+texts_a07_kabine_baronin_alarmmelder_mo_ex_1;Examiner l'alarme
+spokentexts_a07_kabine_baronin_alarmmelder_ex_1_st_3;Elle a été déclenchée à un moment. Le sceau est brisé. Mais il n'y a aucun moyen de savoir si c'était hier ou il y a cinq ans.
+texts_a07_kabine_baronin_bett_mo_ex_1;Examiner le lit
+texts_a07_kabine_baronin_bett_mo_ex_2;Fouiller le lit
+texts_a07_kabine_baronin_bett_mo_ex_3;Examiner la tâche de sang
+texts_a07_kabine_baronin_bett_mo_used_mit_serviette;Relever un échantillon
+texts_a07_kabine_baronin_bett_mo_used_mit_wattestaebchen;Relever un échantillon
+texts_a07_kabine_baronin_bett_mo_used_mit_kissenbezug;Utiliser la taie d'oreiller sur la tâche de sang
+spokentexts_a07_kabine_baronin_bett_used_mit_kissenbezug_st_1;Mieux vaut éviter. La taie d'oreiller fait partie des indices. Mieux vaut éviter de mettre du sang dessus.
+spokentexts_a07_kabine_baronin_bett_ex_1_st_1;Il y a toujours du sang sur le matelas.
+spokentexts_a07_kabine_baronin_bett_ex_1_st_2;Les draps et la couverture ont été ramassés. Pour effectuer des analyses j'imagine.
 sequences_a07_kabine_baronin_bett_ex_2#1;[Ohi goes close up to the bed, looks around, then bends down and looks along the surface of the mattress.]
-spokentexts_a07_kabine_baronin_bett_ex_2_st_1;Hmm. Nothing.
-spokentexts_a07_kabine_baronin_bett_ex_3_st_1;The blood spot is the only sign that someone committed a crime in here.
+spokentexts_a07_kabine_baronin_bett_ex_2_st_1;Hmm. Rien.
+spokentexts_a07_kabine_baronin_bett_ex_3_st_1;La tâche de sang est le seul signe qu'un crime a été commis ici.
 spokentexts_a07_kabine_baronin_bett_ex_3_st_2_direction;irritated, found something
 spokentexts_a07_kabine_baronin_bett_ex_3_st_2;Hmm.
-spokentexts_a07_kabine_baronin_bett_ex_3_st_3;Somehow...
+spokentexts_a07_kabine_baronin_bett_ex_3_st_3;Comme si...
 sequences_a07_kabine_baronin_bett_ex_3#4;[Ohi leans against the mattress, takes a closer look at the spot (Idle).]
-spokentexts_a07_kabine_baronin_bett_ex_3_st_4;That's odd...
-spokentexts_a07_kabine_baronin_bett_ex_3_st_5;The blood is so... red. Shouldn't it gradually darken in the air? Turn brown?
+spokentexts_a07_kabine_baronin_bett_ex_3_st_4;C'est étrange...
+spokentexts_a07_kabine_baronin_bett_ex_3_st_5;Le sang est tellement... rouge. Ne devrait-il pas devenir de plus en plus sombre au contact de l'air ? Devenir marron ?
 sequences_a07_kabine_baronin_bett_ex_3#7;[Ohi positions himself again.]
-spokentexts_a07_kabine_baronin_bett_ex_4_st_1;The unusual color of the blood could be something that Legrand and Dr. Gebhardt missed last night.
-spokentexts_a07_kabine_baronin_bett_ex_4_st_2;All cats are gray in the dark, as the saying goes. I should take a sample.
-spokentexts_a07_kabine_baronin_bett_ex_5_st_1;I don't care what Legrand and Doctor Gebhardt say. The blood spot looks strange and I'd like to take a sample.
-spokentexts_a07_kabine_baronin_bett_ex_5_st_2;Maybe I'll get the chance to analyze it.
-spokentexts_a07_kabine_baronin_bett_used_mit_serviette_st_1;A napkin is not the best way of doing this.
-spokentexts_a07_kabine_baronin_bett_used_mit_serviette_st_2;On the other hand... What is there to lose?
-spokentexts_a07_kabine_baronin_bett_used_mit_serviette_st_3;Legrand and Gebhardt have the blood-soaked blanket. They can hardly complain if I take a sample of this bit myself.
+spokentexts_a07_kabine_baronin_bett_ex_4_st_1;Legrand et le Dr Gebhardt ont peut être manqué d'observer la couleur étrange du sang hier soir.
+spokentexts_a07_kabine_baronin_bett_ex_4_st_2;La nuit tous les chats sont gris, comme on dit. Je devrais relever un échantillon.
+spokentexts_a07_kabine_baronin_bett_ex_5_st_1;Peu importe ce que disent Legrand et le Dr Gebhardt. Le sang a l'air bizarre et je veux relever un échantillon.
+spokentexts_a07_kabine_baronin_bett_ex_5_st_2;J'aurai peut être la chance de pouvoir l'analyser.
+spokentexts_a07_kabine_baronin_bett_used_mit_serviette_st_1;Une serviette en papier n'est pas le meilleur moyen de faire ça.
+spokentexts_a07_kabine_baronin_bett_used_mit_serviette_st_2;D'un autre côté... je n'ai rien à perdre.
+spokentexts_a07_kabine_baronin_bett_used_mit_serviette_st_3;Legrand et Gebhardt ont déjà la couverture ensanglantée. Ils ne pourront pas vraiment se plaindre si je relève un échantillon de cette tâche là.
 sequences_a07_kabine_baronin_bett_used_mit_serviette#4;[Ohi takes out the napkin, dabs and rubs the blood spot. In between he checks whether the napkin has absorbed enough blood, he continues again. Ohi looks at the red spot on the napkin (Idle).]
-spokentexts_a07_kabine_baronin_bett_used_mit_serviette_st_4;That should be enough.
+spokentexts_a07_kabine_baronin_bett_used_mit_serviette_st_4;Ca devrait suffire.
 sequences_a07_kabine_baronin_bett_used_mit_serviette#6;[Ohi folds the napkin carefully with the blood spot inside and pockets the napkin.]
-spokentexts_a07_kabine_baronin_bett_used_mit_wattestaebchen_st_1;I always wanted to do that!
+spokentexts_a07_kabine_baronin_bett_used_mit_wattestaebchen_st_1;J'ai toujours voulu faire ça !
 sequences_a07_kabine_baronin_bett_used_mit_wattestaebchen#2;[Ohi takes out the sachet with the stick and rips it open. Then he dabs and rolls the stick over the blood spot. Then he holds it in front of his eyes (Idle).]
 sequences_a07_kabine_baronin_bett_used_mit_wattestaebchen#4;[Ohi puts the stick back into the sachet and pockets the sachet.]
-texts_a07_kabine_baronin_bullaugen_mo_ex_1__2;Examine the porthole
-spokentexts_a07_kabine_baronin_bullaugen_ex_1_st_1;The portholes face the side deck.
-spokentexts_a07_kabine_baronin_bullaugen_ex_1_st_2;If someone climbed out of the cabin through a porthole, Legrand and I would have seen them.
-spokentexts_a07_kabine_baronin_bullaugen_ex_2_st_1;Hmm. The portholes are locked. One cannot open or close them from outside.
-spokentexts_a07_kabine_baronin_bullaugen_ex_2_st_2;It's the same problem as with the door: if someone left the cabin through the porthole, how did they lock it?
-spokentexts_a07_kabine_baronin_bullaugen_ex_2_st_3;And the baroness wasn't shot from outside. The doctor said she was shot at close range.
-texts_a07_kabine_baronin_daunenfedern_vase_mo_ex_1;Examine the down feathers
+texts_a07_kabine_baronin_bullaugen_mo_ex_1__2;Examiner le hublot
+spokentexts_a07_kabine_baronin_bullaugen_ex_1_st_1;Le hublot donne sur le pont-promenade.
+spokentexts_a07_kabine_baronin_bullaugen_ex_1_st_2;Si quelqu'un était sorti de la cabine par le hublot, Legrand et moi l'aurions vu.
+spokentexts_a07_kabine_baronin_bullaugen_ex_2_st_1;Hmm. Les hublots sont verrouillés. On ne peut ni les ouvrir ni les fermer de l'extérieur.
+spokentexts_a07_kabine_baronin_bullaugen_ex_2_st_2;C'est le même souci qu'avec la porte : si quelqu'un avait quitté la cabine par le hublot, comment l'aurait-il verrouillé ?
+spokentexts_a07_kabine_baronin_bullaugen_ex_2_st_3;Et la baronne n'a pas été tué de l'extérieur de la cabine. Le docteur a bien dit qu'on lui avait tiré dessus à bout-portant.
+texts_a07_kabine_baronin_daunenfedern_vase_mo_ex_1;Examiner les plumes de duvet
 sequences_a07_kabine_baronin_daunenfedern_vase_ex_1#1;[Ohi collects 2-3 feathers from the floor, holds them in front of his face.]
-spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_2;Nothing special.
-spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_3;Although...
+spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_2;Rien de spécial.
+spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_3;Encore que...
 sequences_a07_kabine_baronin_daunenfedern_vase_ex_1#5;[Ohi takes a closer look, holds the feathers close to his eyes (Idle).]
-spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_4;It seems like one of the feathers was scorched at the top... literally burnt!
+spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_4;J'ai l'impression qu'une des plumes a été brûlée à son extrémité... oui complètement brûlée !
 sequences_a07_kabine_baronin_daunenfedern_vase_ex_1#8;[Ohi stands up with the feather in his hand, grabs his jacket and takes one of the paper sachets and puts the feather inside.]
-spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_5;I'd better take it with me.
-spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_6;More down feathers.
+spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_5;Je ferai mieux de la prendre avec moi.
+spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_6;Encore des plumes de duvet.
 sequences_a07_kabine_baronin_daunenfedern_vase_ex_1#10;[Ohi takes a closer look, holds the feathers close to his eyes (Idle).]
-spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_7;And they're singed as well...
-spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_8;I'll take one with me.
+spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_7;Elles sont brûlées elles aussi...
+spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_8;Je vais en prendre une avec moi.
 sequences_a07_kabine_baronin_daunenfedern_vase_ex_1#13;[Ohi stands up with the feather in his hand, grabs the jacket and takes one of the paper sachets and puts the feather inside.]
-texts_a07_kabine_baronin_fotos_mo_ex_1;Examine the mess
-texts_a07_kabine_baronin_fotos_mo_ex_2__3;Examine the photos
-spokentexts_a07_kabine_baronin_fotos_ex_1_st_1;This mess caught my eye last night.
-spokentexts_a07_kabine_baronin_fotos_ex_1_st_2;It seems like everything in here has been rifled through. Maybe by the murderer?
-spokentexts_a07_kabine_baronin_fotos_ex_1_st_3;According to the butler, the baroness caused this mess, searching for a photo or document.
-spokentexts_a07_kabine_baronin_fotos_ex_2_st_1;Hmm. Mostly old photos.
-spokentexts_a07_kabine_baronin_fotos_ex_2_st_2;Judging by the clothes, they're from the twenties - some of them are even older.
-spokentexts_a07_kabine_baronin_fotos_ex_2_st_3;Children, houses, group photographs. Could be her family. Some faces appear more frequently.
-spokentexts_a07_kabine_baronin_fotos_ex_2_st_4;Maybe Bubi and J., who the baroness mentioned in her diary, are among them?
-spokentexts_a07_kabine_baronin_fotos_ex_3_st_1;Why did the murderer rifle through the photos if, as Legrand thinks, he was searching for the key?
-spokentexts_a07_kabine_baronin_fotos_ex_3_st_2;Or was it really about a photo? Or does this mess actually have nothing to do with the case?
-spokentexts_a07_kabine_baronin_fotos_ex_3_st_4;According to the butler, the baroness seemed to have found what she was searching for. She was so excited, she forgot about everything else.
-spokentexts_a07_kabine_baronin_fotos_ex_3_st_5;What if she was searching for a photograph? One that shows the murderer?
-texts_a07_kabine_baronin_gepaeck_mo_ex_1;Examine the luggage
-texts_a07_kabine_baronin_gepaeck_mo_ex_2;Search the luggage
-spokentexts_a07_kabine_baronin_gepaeck_ex_1_st_1;Apparently the baroness didn't have time to unpack her bags.
-spokentexts_a07_kabine_baronin_gepaeck_ex_1_st_2;Or rather, didn't have time to tell her butler to unpack them for her.
-spokentexts_a07_kabine_baronin_gepaeck_ex_2_st_1;Hmm. Sifting through all that would take ages.
-spokentexts_a07_kabine_baronin_gepaeck_ex_2_st_2;But here - the baroness's handbag!
+texts_a07_kabine_baronin_fotos_mo_ex_1;Examiner le désordre
+texts_a07_kabine_baronin_fotos_mo_ex_2__3;Examiner les photos
+spokentexts_a07_kabine_baronin_fotos_ex_1_st_1;Ce désordre a attiré mon attention hier soir.
+spokentexts_a07_kabine_baronin_fotos_ex_1_st_2;On a l'air d'avoir fouillé partout L'oeuvre du meurtrier peut être ?
+spokentexts_a07_kabine_baronin_fotos_ex_1_st_3;Si j'en crois le majordome, la baronne a mis ce désordre en cherchant une photo ou un document.
+spokentexts_a07_kabine_baronin_fotos_ex_2_st_1;Hmm. Que des vieilles photos.
+spokentexts_a07_kabine_baronin_fotos_ex_2_st_2;Vu le style des habits, elles datent des années vingt, certaines sont mêmes plus anciennes.
+spokentexts_a07_kabine_baronin_fotos_ex_2_st_3;Des enfants, des maisons, des photos de groupe. Peut être sa famille. Certains visages reviennent fréquemment.
+spokentexts_a07_kabine_baronin_fotos_ex_2_st_4;Peut être Bubi et J., que la baronne a mentionné dans son journal, sont parmi eux ?
+spokentexts_a07_kabine_baronin_fotos_ex_3_st_1;Pourquoi le meurtrier a-t-il fouillé dans les photos si, comme le pense Legrand, il cherchait la clé ?
+spokentexts_a07_kabine_baronin_fotos_ex_3_st_2;Où était-ce vraiment à propos d'une photo ? A moins que ce désordre n'ait rien à voir avec l'enquête ?
+spokentexts_a07_kabine_baronin_fotos_ex_3_st_4;D'après le majordome, la baronne a finalement trouvé ce qu'elle cherchait. Elle était si heureuse qu'elle en a oublié tout le reste.
+spokentexts_a07_kabine_baronin_fotos_ex_3_st_5;Et si elle cherchait une photographie ? Une montrant le meurtrier ?
+texts_a07_kabine_baronin_gepaeck_mo_ex_1;Examiner le bagage
+texts_a07_kabine_baronin_gepaeck_mo_ex_2;Fouiller le bagage
+spokentexts_a07_kabine_baronin_gepaeck_ex_1_st_1;La baronne n'a apparemment pas eu le temps de défaire ses bagages.
+spokentexts_a07_kabine_baronin_gepaeck_ex_1_st_2;Ou plutôt elle n'a pas eu le temps de demander à son majordome de le faire.
+spokentexts_a07_kabine_baronin_gepaeck_ex_2_st_1;Hmm. Fouiller tout ça va me prendre des années.
+spokentexts_a07_kabine_baronin_gepaeck_ex_2_st_2;Mais là, la sac à main de la baronne !
 sequences_a07_kabine_baronin_gepaeck_ex_2#3;[Ohi lifts the bag and places it on some suitcases or the like, so he can search in a comfortable position. He opens it and takes a look inside (Idle).]
-spokentexts_a07_kabine_baronin_gepaeck_ex_2_st_3;Aha!
+spokentexts_a07_kabine_baronin_gepaeck_ex_2_st_3;Aha !
 sequences_a07_kabine_baronin_gepaeck_ex_2#5;[Ohi reaches into the handbag and takes out a small leather-bound diary and places it next to the bag. Then he goes back into the normal position.]
-spokentexts_a07_kabine_baronin_gepaeck_ex_2_st_4;A small leather-bound book. 1964 is engraved on it. This must be the baroness's diary.
+spokentexts_a07_kabine_baronin_gepaeck_ex_2_st_4;Un petit livre avec une couverture en cuir. 1964 est imprimé sur le devant. Ce doit être le journal de la baronne.
 sequences_a07_kabine_baronin_gepaeck_ex_2#7;[From now on the handbag and the diary are activated, the luggage is idle.]
-texts_a07_kabine_baronin_handtasche_mo_ex_1__2;Search the handbag
+texts_a07_kabine_baronin_handtasche_mo_ex_1__2;Fouiller le sac à main
 sequences_a07_kabine_baronin_handtasche_ex_1#1;[Ohi grabs the bag and pushes it open with his hands and looks inside. (Idle).]
-spokentexts_a07_kabine_baronin_handtasche_ex_1_st_1;Cosmetics, a handkerchief, a spectacles case... Nothing special.
+spokentexts_a07_kabine_baronin_handtasche_ex_1_st_1;Du maquillage, un mouchoir, un étui à lunettes... Rien d'intéressant.
 sequences_a07_kabine_baronin_handtasche_ex_1#3;[Ohi closes the bag and leaves it there. He goes back into the normal position.]
-texts_a07_kabine_baronin_kissenbezug_mo_ex_1;Pillowcase with burn marks
-spokentexts_a07_kabine_baronin_kissenbezug_ex_1_st_1;What a discovery! This pillow was obviously used to muffle a shot!
-spokentexts_a07_kabine_baronin_kissenbezug_ex_1_st_2;Legrand, here I come!
-spokentexts_a07_kabine_baronin_kissenbezug_ex_2_st_1;I'm sure that the pillow was used as a silencer. If Legrand doesn't want to hear about it, that's his problem.
-texts_a07_kabine_baronin_kleiderpuppe_mo_ex_1;Examine the mannequin
+texts_a07_kabine_baronin_kissenbezug_mo_ex_1;Taie d'oreiller et marques de brûlure
+spokentexts_a07_kabine_baronin_kissenbezug_ex_1_st_1;Quelle découverte ! Cet oreiller a été utilisé pour atténuer le bruit du coup de feu !
+spokentexts_a07_kabine_baronin_kissenbezug_ex_1_st_2;Legrand, me voilà !
+spokentexts_a07_kabine_baronin_kissenbezug_ex_2_st_1;Je suis persuadé que cet oreiller a été utilisé comme silencieux. Si Legrand ne veut rien entendre, c'est son problème.
+texts_a07_kabine_baronin_kleiderpuppe_mo_ex_1;Examiner le mannequin
 spokentexts_a07_kabine_baronin_kleiderpuppe_ex_1_st_1;The mannequin surely came with the cabin. A mannequin for the baroness' clothes would have... a more generous figure.
-texts_a07_kabine_baronin_lueftungsschacht_mo_ex_1__2;Examine the cover
-spokentexts_a07_kabine_baronin_lueftungsschacht_ex_1_st_1;Hmm. There should be a ventilation shaft behind the hatch.
-spokentexts_a07_kabine_baronin_lueftungsschacht_ex_1_st_2;Usually a good way to break in and out undetected. But we're on a ship! The ventilation shafts are very small here.
-spokentexts_a07_kabine_baronin_lueftungsschacht_ex_2_st_1;I can't say why... And it seems impossible...
+texts_a07_kabine_baronin_lueftungsschacht_mo_ex_1__2;Examiner la grille
+spokentexts_a07_kabine_baronin_lueftungsschacht_ex_1_st_1;Hmm. Il devrait y avoir un conduit de ventilation derrière cette trappe.
+spokentexts_a07_kabine_baronin_lueftungsschacht_ex_1_st_2;Souvent une bonne approche pour entrer et sortir sans être remarqué. Mais nous sommes sur un bateau ! Les conduits de ventilation sont très étroits.
+spokentexts_a07_kabine_baronin_lueftungsschacht_ex_2_st_1;Je ne sais pas pourquoi... Et cela semble impossible...
 spokentexts_a07_kabine_baronin_lueftungsschacht_ex_2_st_2_direction;"emphasis on ""door"""
-spokentexts_a07_kabine_baronin_lueftungsschacht_ex_2_st_2;...but something tells me that the murderer entered AND left the cabin through the door. The only question is how.
-texts_a07_kabine_baronin_nachricht_mo_inventar_1__2;Message from the baroness
-spokentexts_a07_kabine_baronin_nachricht_ex_1_st_1;The message from the desk of the baroness says:
+spokentexts_a07_kabine_baronin_lueftungsschacht_ex_2_st_2;...mais quelque chose me dit que le meurtrier est entrée ET sorti de la cabine par la porte. Reste à savoir comment.
+texts_a07_kabine_baronin_nachricht_mo_inventar_1__2;Message de la baronne
+spokentexts_a07_kabine_baronin_nachricht_ex_1_st_1;Le message sur le bureau de la baronne est le suivant :
 spokentexts_a07_kabine_baronin_nachricht_ex_1_st_2_direction;reads out loud
-spokentexts_a07_kabine_baronin_nachricht_ex_1_st_2;"""Inspector. Be in the saloon at 10 pm. There is a murderer on board and I will expose him! B."""
-spokentexts_a07_kabine_baronin_nachricht_ex_2_st_1;I wonder what information Legrand is keeping from me.
-spokentexts_a07_kabine_baronin_nachricht_ex_2_st_2;If I didn't know better, I'd say he was hiding something.
-texts_a07_kabine_baronin_reiseschrank_mo_ex_1__2;Examine the portable cupboard
-texts_a07_kabine_baronin_reiseschrank_mo_useden_1;Open the portable cupboard.
-spokentexts_a07_kabine_baronin_reiseschrank_ex_1_st_1;The most un-portable portmanteau I've ever seen!
-spokentexts_a07_kabine_baronin_reiseschrank_ex_2_st_1;A portable bar is more like it.
-spokentexts_a07_kabine_baronin_reiseschrank_ex_2_st_2;Must be hard work transporting this big, heavy thing halfway around the globe.
-spokentexts_a07_kabine_baronin_reiseschrank_ex_2_st_3;And the baroness was lucky that the other freight cars were only lightly damaged by the explosion.
-spokentexts_a07_kabine_baronin_reiseschrank_ex_2_st_4;"Although I'm not sure you can call it ""lucky"" for an alcoholic like her to have so much booze at hand all the time."
-spokentexts_a07_kabine_baronin_reiseschrank_ex_3_st_1;An impressive piece, but I don't think it will get me anywhere with the murder investigations.
+spokentexts_a07_kabine_baronin_nachricht_ex_1_st_2;"""Inspecteur. Soyez au salon à 22h. Il y a un meurtrier à bord et je vais le démasquer ! B."""
+spokentexts_a07_kabine_baronin_nachricht_ex_2_st_1;Je me demande quelle information Legrand a gardé pour lui.
+spokentexts_a07_kabine_baronin_nachricht_ex_2_st_2;Si je le connaissais pas, je dirais qu'il me cache quelque chose.
+texts_a07_kabine_baronin_reiseschrank_mo_ex_1__2;Examiner la commode portable
+texts_a07_kabine_baronin_reiseschrank_mo_useden_1;Ouvrir la commode portable.
+spokentexts_a07_kabine_baronin_reiseschrank_ex_1_st_1;Le porte-manteau le plus impraticable que j'ai jamais vu !
+spokentexts_a07_kabine_baronin_reiseschrank_ex_2_st_1;On dirait plutôt un bar portable.
+spokentexts_a07_kabine_baronin_reiseschrank_ex_2_st_2;Transporter ce monstre autour du globe doit représenter un sacré boulot.
+spokentexts_a07_kabine_baronin_reiseschrank_ex_2_st_3;La baronne a de la chance que les autres voitures de transport n'aient été que légèrement endommagés dans l'explosion.
+spokentexts_a07_kabine_baronin_reiseschrank_ex_2_st_4;"Encore que je ne suis pas certain que ce soit une ""chance"" pour une alcoolique comme elle d'avoir autant d'alcool à portée de main en permanence."
+spokentexts_a07_kabine_baronin_reiseschrank_ex_3_st_1;C'ets impressionnant mais je doute que cela me soit d'une quelconque aide dans mon enquête.
 sequences_a07_kabine_baronin_reiseschrank_use_1#1;[Ohi releases the clasp of the portable cupboard and opens it.]
 spokentexts_a07_kabine_baronin_reiseschrank_use_1_st_1_direction;impressed whistling
-spokentexts_a07_kabine_baronin_reiseschrank_use_1_st_1;*whistle*
+spokentexts_a07_kabine_baronin_reiseschrank_use_1_st_1;*siffle*
 sequences_a07_kabine_baronin_reiseschrank_use_1#3;[From now on the cupboard stands open.]
-texts_a07_kabine_baronin_schrank_mo_ex_1;Search the cupboard
+texts_a07_kabine_baronin_schrank_mo_ex_1;Fouiller la commode
 sequences_a07_kabine_baronin_schrank_ex_1#1;[Ohi opens the cupboard.]
-spokentexts_a07_kabine_baronin_schrank_ex_1_st_1;Hmm. A tape recorder.
+spokentexts_a07_kabine_baronin_schrank_ex_1_st_1;Hmm. Un enregistreur.
 sequences_a07_kabine_baronin_schrank_ex_1#3;[Ohi examines one of the built in speakers.]
-spokentexts_a07_kabine_baronin_schrank_ex_1_st_2;Must go with the built-in speakers.  Probably part of the cabin's furnishings.
+spokentexts_a07_kabine_baronin_schrank_ex_1_st_2;Ca doit fonctionner avec les haut parleurs intégrés.  Ca fait surement partie de l'équipement de la cabine.
 sequences_a07_kabine_baronin_schrank_ex_1#5;[Ohi looks back to the audiotape.]
 sequences_a07_kabine_baronin_schrank_ex_1#6;[Ohi leaves the cupboard open. From now on you can only click on the audiotape inside.]
-texts_a07_kabine_baronin_schreibblock_mo_bertrachten_1__2;Examine the notepad
-spokentexts_a07_kabine_baronin_schreibblock_ex_1_st_1;Hmm. The notepad has the ship's emblem on it.
-spokentexts_a07_kabine_baronin_schreibblock_ex_1_st_2;I suppose all the first-class cabins have them.
+texts_a07_kabine_baronin_schreibblock_mo_bertrachten_1__2;Examiner le bloc-notes
+spokentexts_a07_kabine_baronin_schreibblock_ex_1_st_1;Hmm. L'emblème du bateau est sur le bloc-notes.
+spokentexts_a07_kabine_baronin_schreibblock_ex_1_st_2;J'imagine que toutes les cabines de première classe en ont.
 sequences_a07_kabine_baronin_schreibblock_ex_2#1;"[Switch into the close-up scene ""notepad"".]"
-texts_a07_kabine_baronin_sonnenblumenbild_mo_ex_1;Examine the painting
-spokentexts_a07_kabine_baronin_sonnenblumenbild_ex_1_st_1;Sunflowers - by Van Gogh, I presume. He liked to paint that sort of thing.
-spokentexts_a07_kabine_baronin_sonnenblumenbild_ex_1_st_2;It can't be an original. They cost thousands of francs.
-texts_a07_kabine_baronin_tagebuch_mo_ex_1;Read the diary
-texts_a07_kabine_baronin_tagebuch_mo_ex_2;Examine the diary
-texts_a07_kabine_baronin_tagebuch_mo_take_1;Take the diary
-spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_1;Let's see...
+texts_a07_kabine_baronin_sonnenblumenbild_mo_ex_1;Examiner le tableau
+spokentexts_a07_kabine_baronin_sonnenblumenbild_ex_1_st_1;Les Tournesols, de Van Gogh, je crois. Il aimait peindre ce genre de choses.
+spokentexts_a07_kabine_baronin_sonnenblumenbild_ex_1_st_2;Ca ne peut pas être un original. Ils coûtent des milliers de francs.
+texts_a07_kabine_baronin_tagebuch_mo_ex_1;Lire le journal
+texts_a07_kabine_baronin_tagebuch_mo_ex_2;Examiner le journal
+texts_a07_kabine_baronin_tagebuch_mo_take_1;Prendre le journal
+spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_1;Voyons voir...
 sequences_a07_kabine_baronin_tagebuch_ex_1#2;[Ohi takes the book, opens it.]
-spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_2;Yes, it's a diary all right.
-spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_3;Difficult to read.
+spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_2;Oui, c'ets bien un journal.
+spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_3;Difficile à lire.
 sequences_a07_kabine_baronin_tagebuch_ex_1#5;[Ohi skims to the end of the book.]
-spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_4;No entry from yesterday.
+spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_4;Aucune entrée hier.
 sequences_a07_kabine_baronin_tagebuch_ex_1#7;[Ohi skims backwards again.]
-spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_5;A brief, sober description of what she's done recently.
+spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_5;Une description brève et simple de ce qu'elle a fait récemment.
 spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_6_direction;reads out loud
-spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_6;Met Maurice. Arranged benefit concert for renovation of Louvre southeastern wing.
+spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_6;Rencontré Maurice. Mis en place concert de charité pour la rénovation de l'aile sud-est du Louvre.
 spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_7_direction;reads out loud
-spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_7;Times photo shoot for Eye of Sphinx. B.M. poor excuse for photographer. Too fidgety.
+spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_7;Séance photo du Times pour l'Oeil du Sphinx. B.M. piètre photographe. Trop agité.
 sequences_a07_kabine_baronin_tagebuch_ex_1#11;[Ohi skims over.]
-spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_8;And so on.
+spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_8;Et ça continue.
 sequences_a07_kabine_baronin_tagebuch_ex_1#13;[Ohi skims over.]
-spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_9;Hmm. This entry looks strange. The handwriting is... shaky. Difficult to read...
-spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_10;Dreamt of Bubi. Yesterday would have been his birthday. Next week -  J.'s.
+spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_9;Hmm. Cette entrée est étrange. L'écriture est... tremblante. Difficile à lire...
+spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_10;Rêvé de Bubi. Son anniversaire était hier. La semaine prochaine, celui de J..
 sequences_a07_kabine_baronin_tagebuch_ex_1#17;[Ohi closes the book and places it on the suitcase again.]
-spokentexts_a07_kabine_baronin_tagebuch_ex_2_st_1;The baroness was a very busy woman and looks like she had to cope with loss.
-spokentexts_a07_kabine_baronin_tagebuch_ex_2_st_2;"She writes about ""Bubi"" and ""J."" - neither seem to be alive anymore."
-spokentexts_a07_kabine_baronin_tagebuch_ex_2_st_3;Almost every family lost loved ones in the war - maybe hers as well?
-spokentexts_a07_kabine_baronin_tagebuch_ex_2_st_4;That also explains her photos.
-spokentexts_a07_kabine_baronin_tagebuch_ex_2_st_5;Pictures that remind her of a past in which they were still all together.
-spokentexts_a07_kabine_baronin_tagebuch_take_1_st_1;I'll leave it there.
-spokentexts_a07_kabine_baronin_tagebuch_take_1_st_2;I don't have time to read all of it.
-texts_a07_kabine_baronin_tonbandgeraet_mo_ex_1-3;Examine the tape recorder
-spokentexts_a07_kabine_baronin_tonbandgeraet_ex_1_st_1;The tape recorder is older than the hills. But it was once very expensive.
-spokentexts_a07_kabine_baronin_tonbandgeraet_ex_1_st_2;Top of the range, and that doesn't come cheap.
-spokentexts_a07_kabine_baronin_tonbandgeraet_ex_2_st_1;Hmm. Strange.
-spokentexts_a07_kabine_baronin_tonbandgeraet_ex_2_st_2;There's only one reel...
+spokentexts_a07_kabine_baronin_tagebuch_ex_2_st_1;La baronne était une femme très occupée et il semble qu'elle avait eu sa part de deuil.
+spokentexts_a07_kabine_baronin_tagebuch_ex_2_st_2;"Elle écrit à propos de ""Bubi"" and ""J."" mais aucun ne semble être vivant aujourd'hui."
+spokentexts_a07_kabine_baronin_tagebuch_ex_2_st_3;Presque tout le monde a perdu des êtres aimés pendant la guerre, elle aussi peut être ?
+spokentexts_a07_kabine_baronin_tagebuch_ex_2_st_4;Cela expliquerait aussi ses photos.
+spokentexts_a07_kabine_baronin_tagebuch_ex_2_st_5;Des photos qui lui rappellent une époque où ils étaient tous ensemble.
+spokentexts_a07_kabine_baronin_tagebuch_take_1_st_1;Je vais le laisser là.
+spokentexts_a07_kabine_baronin_tagebuch_take_1_st_2;Je n'ai pas le temps de le lire en entier.
+texts_a07_kabine_baronin_tonbandgeraet_mo_ex_1-3;Examiner l'enregistreur
+spokentexts_a07_kabine_baronin_tonbandgeraet_ex_1_st_1;L'enregistreur date de mathusalem. Mais il valait beaucoup d'argent à une époque.
+spokentexts_a07_kabine_baronin_tonbandgeraet_ex_1_st_2;Le top du top, et ce n'est pas donné.
+spokentexts_a07_kabine_baronin_tonbandgeraet_ex_2_st_1;Hmm. Etrange.
+spokentexts_a07_kabine_baronin_tonbandgeraet_ex_2_st_2;Il n'y a qu'une bobine...
 sequences_a07_kabine_baronin_tonbandgeraet_ex_2#3;[Ohi removes the spool, looks at it (Idle).]
-spokentexts_a07_kabine_baronin_tonbandgeraet_ex_2_st_3;... and it's the wrong one.
+spokentexts_a07_kabine_baronin_tonbandgeraet_ex_2_st_3;... et ce n'est pas la bonne.
 sequences_a07_kabine_baronin_tonbandgeraet_ex_2#5;[Ohi puts the spool away (in the cupboard or the like), then looks back to the cupboard again.]
-spokentexts_a07_kabine_baronin_tonbandgeraet_ex_2_st_4;No. No sign of the original reel.
-spokentexts_a07_kabine_baronin_tonbandgeraet_ex_3_st_1;Normally there's one reel for the tape with the recording and a second reel to wind it up as it plays.
-spokentexts_a07_kabine_baronin_tonbandgeraet_ex_3_st_2;The reel that comes with the device should be on the right. But the reel was on the left.
-spokentexts_a07_kabine_baronin_tonbandgeraet_ex_3_st_3;That means that someone played a recording and then didn't rewind it and just took the take-up reel instead.
-texts_a07_kabine_baronin_tonbandspule_mo_ex_1;Examine the audiotape reel
-texts_a07_kabine_baronin_tonbandspule_mo_inventar_1;Audiotape reel
-texts_a07_kabine_baronin_tonbandspule_mo_take_1;Take the audiotape reel
-spokentexts_a07_kabine_baronin_tonbandspule_ex_1_st_1;"A reel made by  ""Seibling"". I know the brand."
-spokentexts_a07_kabine_baronin_tonbandspule_ex_1_st_2;Seibling's tapes can be overwritten many times without losing quality.
-spokentexts_a07_kabine_baronin_tonbandspule_ex_1_st_3;They're used in offices so that executives can record messages for their secretaries on the same tape over and over again.
-spokentexts_a07_kabine_baronin_tonbandspule_ex_1_st_4;But they're not good for much else. They're robust but they don't offer much in terms of sound quality.
-spokentexts_a07_kabine_baronin_tonbandspule_ex_2_st_1;The Seibling-brand reel from the baroness' cabin.
-spokentexts_a07_kabine_baronin_tonbandspule_ex_2_st_2;The tape that came on it and the reel that belongs to the player are both gone.
+spokentexts_a07_kabine_baronin_tonbandgeraet_ex_2_st_4;Non. Aucune trace de la bande d'origine.
+spokentexts_a07_kabine_baronin_tonbandgeraet_ex_3_st_1;D'habitude il y a une bobine pour l'enregistrement et une seconde qui la remonte au fur et à mesure.
+spokentexts_a07_kabine_baronin_tonbandgeraet_ex_3_st_2;La bobine livrée avec l'appareil devrait être à droite. Mais cette bobine était à gauche.
+spokentexts_a07_kabine_baronin_tonbandgeraet_ex_3_st_3;Quelqu'un a donc joué un enregistrement mais ne l'a pas remonté et a simplement emporté la bobine de rembobinage avec lui.
+texts_a07_kabine_baronin_tonbandspule_mo_ex_1;Examiner la bobine audio
+texts_a07_kabine_baronin_tonbandspule_mo_inventar_1;Bobine audio
+texts_a07_kabine_baronin_tonbandspule_mo_take_1;Prendre la bobine audio
+spokentexts_a07_kabine_baronin_tonbandspule_ex_1_st_1;"Une bobine fabriquée par ""Seibling"". Je connais cette marque."
+spokentexts_a07_kabine_baronin_tonbandspule_ex_1_st_2;On peut enregistrer de nombreuses fois sur les bandes Seibling sans nuire à la qualité.
+spokentexts_a07_kabine_baronin_tonbandspule_ex_1_st_3;Elles sont utilisées dans des bureaux pour que les dirigeants puissent enregistrer des messages pour leurs secrétaires sur les mêmes bandes encore et encore.
+spokentexts_a07_kabine_baronin_tonbandspule_ex_1_st_4;Mais elle s ne sont pas bonnes à grand chose d'autre. Elles sont solides mais n'offrent qu'une qualité de son moyenne.
+spokentexts_a07_kabine_baronin_tonbandspule_ex_2_st_1;La bobine Seibling de la cabine de la baronne.
+spokentexts_a07_kabine_baronin_tonbandspule_ex_2_st_2;La bande et la bobine livrées avec l'appareil ont disparu.
 sequences_a07_kabine_baronin_tonbandspule_take_1#1;[Ohi takes the spool and pockets it.]
-texts_a07_kabine_baronin_tuer_mo_leave_1;Leave the cabin
+texts_a07_kabine_baronin_tuer_mo_leave_1;Quitter la cabine
 sequences_a07_kabine_baronin_tuer_leave_1#1;[Ohi leaves the cabin.]
-texts_a07_kabine_baronin_tuer_schloss_mo_ex_1-3;Examine the lock and the chain
-spokentexts_a07_kabine_baronin_tuer_schloss_ex_1_st_1;The doorframe was damaged when Dr. Gebhardt kicked it in.
-spokentexts_a07_kabine_baronin_tuer_schloss_ex_1_st_2;The real question is: why was the door locked in the first place?
-spokentexts_a07_kabine_baronin_tuer_schloss_ex_3_st_2;Assuming the murderer isn't a magician and the baroness locked the door herself before she went to bed...
-spokentexts_a07_kabine_baronin_tuer_schloss_ex_3_st_3;The murderer couldn't have left the cabin through the door.
-spokentexts_a07_kabine_baronin_tuer_schloss_ex_3_st_4;So the murderer must have still been in here when Dr. Gebhardt kicked the door in - which is unlikely, because someone would have seen him...
-spokentexts_a07_kabine_baronin_tuer_schloss_ex_3_st_5;Or he found another way out of the cabin.
-texts_a07_kabine_baronin_unter_dem_bett_mo_ex_1;Take a look under the bed
+texts_a07_kabine_baronin_tuer_schloss_mo_ex_1-3;Examiner la serrure et la chaine
+spokentexts_a07_kabine_baronin_tuer_schloss_ex_1_st_1;Le tour de porte s'est abîmé quand le Dr Gebhardt l'a défoncée.
+spokentexts_a07_kabine_baronin_tuer_schloss_ex_1_st_2;La vraie question étant : pourquoi la porte était-elle fermée ?
+spokentexts_a07_kabine_baronin_tuer_schloss_ex_3_st_2;Si on part du principe que le meurtrier n'est pas un magicien et que la baronne a verrouillée la porte elle-même avant de se coucher...
+spokentexts_a07_kabine_baronin_tuer_schloss_ex_3_st_3;Le meurtrier n'a pas pu quitter la cabine par la porte.
+spokentexts_a07_kabine_baronin_tuer_schloss_ex_3_st_4;Donc le meurtrier devait toujours être dans la pièce quand le Dr Gebhardt a défoncé la porte, ce qui est improbable car quelqu'un l'aurait remarqué...
+spokentexts_a07_kabine_baronin_tuer_schloss_ex_3_st_5;Ou alors il a trouvé une autre sortie.
+texts_a07_kabine_baronin_unter_dem_bett_mo_ex_1;Regarder sous le lit
 sequences_a07_kabine_baronin_unter_dem_bett_ex_1#1;[Ohi kneels down, looks under the bed.]
-spokentexts_a07_kabine_baronin_unter_dem_bett_ex_1_st_1;Something's under there!
+spokentexts_a07_kabine_baronin_unter_dem_bett_ex_1_st_1;Il y a quelque chose là dessous !
 sequences_a07_kabine_baronin_unter_dem_bett_ex_1#3;[Ohi reaches with his arms under the bed and takes out two feathers. He holds them in front of his face (Idle).]
-spokentexts_a07_kabine_baronin_unter_dem_bett_ex_1_st_2;Hmm. Down feathers. Maybe from a quilt or a pillow.
+spokentexts_a07_kabine_baronin_unter_dem_bett_ex_1_st_2;Hmm. Des plumes de duvet. Peut être d'une couette ou d'un oreiller.
 spokentexts_a07_kabine_baronin_unter_dem_bett_ex_1_st_3_direction;slightly disappointed
-spokentexts_a07_kabine_baronin_unter_dem_bett_ex_1_st_3;Nothing special.
+spokentexts_a07_kabine_baronin_unter_dem_bett_ex_1_st_3;Rien d'intéressant.
 spokentexts_a07_kabine_baronin_unter_dem_bett_ex_1_st_4_direction;hesitates
-spokentexts_a07_kabine_baronin_unter_dem_bett_ex_1_st_4;Although...
+spokentexts_a07_kabine_baronin_unter_dem_bett_ex_1_st_4;Encore que...
 sequences_a07_kabine_baronin_unter_dem_bett_ex_1#9;[Ohi takes a closer look, holds the feathers close to his eyes (Idle).]
-spokentexts_a07_kabine_baronin_unter_dem_bett_ex_1_st_6;Hmm. I'll take it with me.
+spokentexts_a07_kabine_baronin_unter_dem_bett_ex_1_st_6;Hmm. Je vais les prendre avec moi.
 sequences_a07_kabine_baronin_unter_dem_bett_ex_1#12;[Ohi stands up with the feather in his hand, grabs the jacket and takes one of the paper sachets and puts the feather inside.]
 sequences_a07_kabine_baronin_unter_dem_bett_ex_1#15;[Ohi takes a closer look, holds the feathers close to his eyes (Idle).]
-spokentexts_a07_kabine_baronin_unter_dem_bett_ex_1_st_9;I'll put them with the others.
+spokentexts_a07_kabine_baronin_unter_dem_bett_ex_1_st_9;Je vais les mettre avec les autres.
 sequences_a07_kabine_baronin_unter_dem_bett_ex_1#18;[Ohi stands up with the feather in his hand, grabs the jacket and takes one of the paper sachets and puts the feather inside.]
-texts_a07_kabine_baronin_vase_mo_ex_1-3;Examine the vase
-texts_a07_kabine_baronin_vase_mo_take_1;Examine the vase
-texts_a07_kabine_baronin_vase_mo_used_mit_zange_1;Use the pliers with the vase
-spokentexts_a07_kabine_baronin_vase_ex_1_st_1;A big, ugly and impractical vase.
-spokentexts_a07_kabine_baronin_vase_ex_1_st_2;If it had a wider opening, one could at least use it as an umbrella stand!
+texts_a07_kabine_baronin_vase_mo_ex_1-3;Examiner le vase
+texts_a07_kabine_baronin_vase_mo_take_1;Examiner le vase
+texts_a07_kabine_baronin_vase_mo_used_mit_zange_1;Utiliser les pinces avec le vase
+spokentexts_a07_kabine_baronin_vase_ex_1_st_1;Un vase énorme, moche et pas pratique du tout.
+spokentexts_a07_kabine_baronin_vase_ex_1_st_2;Si l'ouverture était plus large, on pourrait au moins l'utiliser pour ranger des parapluies, one could at least use it as an umbrella stand!
 sequences_a07_kabine_baronin_vase_ex_2#2;[Ohi tries to look into the vase but can't see anything there.]
-spokentexts_a07_kabine_baronin_vase_ex_2_st_2;Can't see anything.
+spokentexts_a07_kabine_baronin_vase_ex_2_st_2;Je ne vois rien.
 sequences_a07_kabine_baronin_vase_ex_2#4;[Ohi grabs the vase, lifts it.]
-spokentexts_a07_kabine_baronin_vase_ex_2_st_3;Wow! Heavier than it looks.
+spokentexts_a07_kabine_baronin_vase_ex_2_st_3;Wow ! Il est plus lourd qu'on ne le pense.
 sequences_a07_kabine_baronin_vase_ex_2#6;[Ohi tries to turn the hole of the vase into the light to see better. Finally he turns it upside down. Some down feathers fall to the floor.]
 spokentexts_a07_kabine_baronin_vase_ex_2_st_4_direction;interested, asking
-spokentexts_a07_kabine_baronin_vase_ex_2_st_4;Aha!
+spokentexts_a07_kabine_baronin_vase_ex_2_st_4;Aha !
 sequences_a07_kabine_baronin_vase_ex_2#8;[Ohi puts the vase back.]
-spokentexts_a07_kabine_baronin_vase_ex_3_st_1;Why were the down feathers tossed in the vase?
-spokentexts_a07_kabine_baronin_vase_ex_3_st_2;Or... is there anything else in there?
-spokentexts_a07_kabine_baronin_vase_take_1_st_2;There may be something else in the vase, but the neck is too narrow to reach in with my hand.
-spokentexts_a07_kabine_baronin_vase_used_mit_eiswuerfelzange_st_1;Could work...
+spokentexts_a07_kabine_baronin_vase_ex_3_st_1;Pourquoi les plumes étaient-elles dans le vase ?
+spokentexts_a07_kabine_baronin_vase_ex_3_st_2;Ou... y a-t-il autre chose là dedans ?
+spokentexts_a07_kabine_baronin_vase_take_1_st_2;Il y a peut être autre chose dans le vase, mais l'ouverture est trop étroite pour ma main.
+spokentexts_a07_kabine_baronin_vase_used_mit_eiswuerfelzange_st_1;Ca pourrait marcher...
 sequences_a07_kabine_baronin_vase_used_mit_eiswuerfelzange#2;[Ohi takes tongs out of his trouser pocket, holds the vase in one hand and tries to find out the best way to go on.]
 sequences_a07_kabine_baronin_vase_used_mit_eiswuerfelzange#3;[Ohi sticks the tongs into the vase, tries to catch something.]
-spokentexts_a07_kabine_baronin_vase_used_mit_eiswuerfelzange_st_2;There's something in there!
+spokentexts_a07_kabine_baronin_vase_used_mit_eiswuerfelzange_st_2;Il y a quelque chose au fond !
 sequences_a07_kabine_baronin_vase_used_mit_eiswuerfelzange#5;[Ohi keeps on digging, finally pulls out a piece of material, he has to pull on it several times.]
 spokentexts_a07_kabine_baronin_vase_used_mit_eiswuerfelzange_st_3_direction;concentrated, frustrated
-spokentexts_a07_kabine_baronin_vase_used_mit_eiswuerfelzange_st_3;Ha!
+spokentexts_a07_kabine_baronin_vase_used_mit_eiswuerfelzange_st_3;Ha !
 spokentexts_a07_kabine_baronin_vase_used_mit_eiswuerfelzange_st_4_direction;concentrated, frustrated
-spokentexts_a07_kabine_baronin_vase_used_mit_eiswuerfelzange_st_4;Right... now...
+spokentexts_a07_kabine_baronin_vase_used_mit_eiswuerfelzange_st_4;Très bien... maintenant...
 sequences_a07_kabine_baronin_vase_used_mit_eiswuerfelzange#8;[Ohi puts away the tongs, grabs the piece of material with his hands and pulls it out. He puts the vase back and holds the scorched pillow in his hand (Idle).]
-spokentexts_a07_kabine_baronin_vase_used_mit_eiswuerfelzange_st_5;Someone stuffed this in the vase...
+spokentexts_a07_kabine_baronin_vase_used_mit_eiswuerfelzange_st_5;Quelqu'un a fourré ça dans le vase...
 sequences_a07_kabine_baronin_vase_used_mit_eiswuerfelzange#10;[The pillow measures only about 30x30cm and is not very thick. It was twisted. Ohi smoothes it out, holds it in front of himself. Burn marks and traces of powder can be seen.]
 spokentexts_a07_kabine_baronin_vase_used_mit_eiswuerfelzange_st_6_direction;whistling
-spokentexts_a07_kabine_baronin_vase_used_mit_eiswuerfelzange_st_6;*whistle*
-spokentexts_a07_kabine_baronin_vase_used_mit_eiswuerfelzange_st_7;Looks like it's been used to muffle a gun shot.
-spokentexts_a07_kabine_baronin_vase_used_mit_eiswuerfelzange_st_8;If this isn't an important discovery, I don't know what is!
+spokentexts_a07_kabine_baronin_vase_used_mit_eiswuerfelzange_st_6;*siffle*
+spokentexts_a07_kabine_baronin_vase_used_mit_eiswuerfelzange_st_7;J'ai l'impression qu'on l'a utilisé pour atténuer un coup de feu.
+spokentexts_a07_kabine_baronin_vase_used_mit_eiswuerfelzange_st_8;Si ce n'est pas une découverte importante, je veux bien manger ma moustache !
 sequences_a07_kabine_baronin_vase_used_mit_eiswuerfelzange#14;[Ohi pockets the pillowcase.]
 sequences_a07_kabine_baronin_seq_a07_kabine_baronin_nachricht_sichtbar#0;[Ohi puts the pencil aside, rips of the paper from the pad and holds it in front of his eyes so he can read it (Idle).]
-spokentexts_a07_kabine_baronin_seq_a07_kabine_baronin_nachricht_sichtbar_st_2;"It says: ""Inspector, be in the saloon at 10 PM. There is a murderer on board and I will expose him! B."""
+spokentexts_a07_kabine_baronin_seq_a07_kabine_baronin_nachricht_sichtbar_st_2;"Le message est : ""Inspecteur, soyez au salon à 22h. Il y a un meurtrier à bord et je vais le démasquer ! B."""
 spokentexts_a07_kabine_baronin_seq_a07_kabine_baronin_nachricht_sichtbar_st_3_direction;surprised breathing out, whistling
-spokentexts_a07_kabine_baronin_seq_a07_kabine_baronin_nachricht_sichtbar_st_3;*whistle*
-spokentexts_a07_kabine_baronin_seq_a07_kabine_baronin_nachricht_sichtbar_st_4;The baroness seems to have known the murderer...
-spokentexts_a07_kabine_baronin_seq_a07_kabine_baronin_nachricht_sichtbar_st_5;And that means that the Raven can't be the murderer. He never killed anybody!
-spokentexts_a07_kabine_baronin_seq_a07_kabine_baronin_nachricht_sichtbar_st_6;Legrand probably never got the message, otherwise he'd have said something.
-texts_a07_kabine_baronin_schreibblock_ausgang_mo_leave;Finish the investigation
+spokentexts_a07_kabine_baronin_seq_a07_kabine_baronin_nachricht_sichtbar_st_3;*siffle*
+spokentexts_a07_kabine_baronin_seq_a07_kabine_baronin_nachricht_sichtbar_st_4;LA baronne connaissait le meurtrier...
+spokentexts_a07_kabine_baronin_seq_a07_kabine_baronin_nachricht_sichtbar_st_5;Le Corbeau ne peut donc pas être le meurtrier. Il n' a jamais tué personne !
+spokentexts_a07_kabine_baronin_seq_a07_kabine_baronin_nachricht_sichtbar_st_6;Legrand n'a surement jamais eu le message, sinon il me l'aurait dit.
+texts_a07_kabine_baronin_schreibblock_ausgang_mo_leave;Terminer l'enquête
 sequences_a07_kabine_baronin_schreibblock_ausgang_leave_1#1;[With a click you return to the cabin view]
-texts_a07_kabine_baronin_schreibblock_bleistift_mo_use;Use the pencil
+texts_a07_kabine_baronin_schreibblock_bleistift_mo_use;Utiliser le crayon
 sequences_a07_kabine_baronin_schreibblock_bleistift_use_1#1;[With a click on the pencil, Ohi's hand (big) arrives in the picture and takes it. You can now move the hand and the pencil over the paper and visualise the text.]
-texts_a07_kabine_baronin_schreibblock_papier_mo_ex_1;Examine the notepad
-spokentexts_a07_kabine_baronin_schreibblock_papier_ex_1_st_1;I'm pretty sure that there was something written on the notepad!
-spokentexts_a07_kabine_baronin_schreibblock_papier_ex_1_st_2;There's an imprint on the paper and I can make out letters...
+texts_a07_kabine_baronin_schreibblock_papier_mo_ex_1;Examiner le bloc-notes
+spokentexts_a07_kabine_baronin_schreibblock_papier_ex_1_st_1;Je suis sûr qu'on a écrit quelque chose sur le bloc-notes !
+spokentexts_a07_kabine_baronin_schreibblock_papier_ex_1_st_2;Il y a des marques sur le papier et je reconnais des lettres...
 spokentexts_a07_kabine_baronin_schreibblock_papier_ex_2_st_1_direction;schaut genug hin
-spokentexts_a07_kabine_baronin_schreibblock_papier_ex_2_st_1;Hmm. No. I can't decipher the imprints.
+spokentexts_a07_kabine_baronin_schreibblock_papier_ex_2_st_1;Hmm. Non. Impossible à déchiffrer.
 sequences_a07_kabine_baronin_schreibblock_papier_used_mit_bleistift#2;"[Minigame ""notepad"" starts]"
-spokentexts__seq_minigame_notizblock_lose_st_1;No. I still can't read the message.
-spokentexts__seq_minigame_notizblock_win_st_1;That should do it.
-texts_a07_kabine_ermittler_chemikalien_mo_ex_1__2;Examine the chemicals
-spokentexts_a07_kabine_ermittler_chemikalien_ex_1_st_1;Good lord.
-spokentexts_a07_kabine_ermittler_chemikalien_ex_1_st_3;Which of these chemicals are for analyzing blood?
-spokentexts_a07_kabine_ermittler_chemikalien_ex_2_st_1;My grasp of chemistry is... a bit narrow.
-spokentexts_a07_kabine_ermittler_chemikalien_ex_2_st_2;And this is no time to just try something and hope for the best.
-texts_a07_kabine_ermittler_forensikkoffer_ausgang_mo_leave;Finish the investigation
+spokentexts__seq_minigame_notizblock_lose_st_1;Non. Je n'arrive toujours pa sà lire le message.
+spokentexts__seq_minigame_notizblock_win_st_1;Ca devrait le faire.
+texts_a07_kabine_ermittler_chemikalien_mo_ex_1__2;Examiner les produits chimiques
+spokentexts_a07_kabine_ermittler_chemikalien_ex_1_st_1;Mon dieu.
+spokentexts_a07_kabine_ermittler_chemikalien_ex_1_st_3;Lequel de produits permet d'analyser du sang ?
+spokentexts_a07_kabine_ermittler_chemikalien_ex_2_st_1;Mes connaissances en chimie sont... un peu vague.
+spokentexts_a07_kabine_ermittler_chemikalien_ex_2_st_2;Et ce n'est pas le moment d'essayer n'importe quoi et de compter sur la chance.
+texts_a07_kabine_ermittler_forensikkoffer_ausgang_mo_leave;Terminer l'enquête
 sequences_a07_kabine_ermittler_forensikkoffer_ausgang_leave_1#1;[With a click you return to the cabin view]
-texts_a07_kabine_ermittler_glasschale_mo_ex_1;Examine the glass bowl
-texts_a07_kabine_ermittler_glasschale_mo_ex_2;Examine the glass bowl with the luminol
-texts_a07_kabine_ermittler_glasschale_mo_ex_3;Examine the glass bowl with the hydrogen peroxide
-texts_a07_kabine_ermittler_glasschale_mo_ex_4;Examine the glass bowl with the solution
-texts_a07_kabine_ermittler_glasschale_mo_used_mit_pipette_1;Take the liquid.
-texts_a07_kabine_ermittler_glasschale_mo_used_mit_pipette_2;Take the liquid.
-texts_a07_kabine_ermittler_glasschale_mo_used_mit_wattestaebchen_1;Put the solution on the cotton swab
-texts_a07_kabine_ermittler_glasschale_mo_used_mit_wattestaebchen_2;Check the blood on the cotton swab
-spokentexts_a07_kabine_ermittler_glasschale_ex_1_st_1;A small glass bowl for mixing chemicals...
-spokentexts_a07_kabine_ermittler_glasschale_ex_2_st_1;"The luminol is transparent. The bottle said ""luminol dissolved in soda lye"". I hope it's the right one."
-spokentexts_a07_kabine_ermittler_glasschale_ex_3_st_1;Hydrogen peroxide... That's what women use to dye their hair blonde, isn't it?
-spokentexts_a07_kabine_ermittler_glasschale_ex_4_st_1;All right. So this is our reagent liquid!
-spokentexts_a07_kabine_ermittler_glasschale_ex_5_st_1;I have to drip or spray the solution on the blood...
-spokentexts_a07_kabine_ermittler_glasschale_used_mit_pipette_1_st_1;No. I'd better mix the solution in the bowl rather than in the pipette.
-spokentexts_a07_kabine_ermittler_glasschale_used_mit_pipette_2_st_1;Okay. I'm filling the pipette...
+texts_a07_kabine_ermittler_glasschale_mo_ex_1;Examiner le bol en verre
+texts_a07_kabine_ermittler_glasschale_mo_ex_2;Examiner le bol en verre avec le luminol
+texts_a07_kabine_ermittler_glasschale_mo_ex_3;Examiner le bol en verre avec le peroxyde d'hydrogène
+texts_a07_kabine_ermittler_glasschale_mo_ex_4;Examiner le bol en verre avec la solution
+texts_a07_kabine_ermittler_glasschale_mo_used_mit_pipette_1;Prendre le liquide.
+texts_a07_kabine_ermittler_glasschale_mo_used_mit_pipette_2;Prendre le liquide.
+texts_a07_kabine_ermittler_glasschale_mo_used_mit_wattestaebchen_1;Mettre la solution sur le coton
+texts_a07_kabine_ermittler_glasschale_mo_used_mit_wattestaebchen_2;Vérifier le sang sur le coton
+spokentexts_a07_kabine_ermittler_glasschale_ex_1_st_1;Un bol en verre pour mélanger les produits chimiques...
+spokentexts_a07_kabine_ermittler_glasschale_ex_2_st_1;"Le luminol est transparent. La bouteille lit ""luminol dissout dans la soude"". J'espère que c'est le bon."
+spokentexts_a07_kabine_ermittler_glasschale_ex_3_st_1;Peroxyde d'hydrogène... C'est ce que les femmes utilisent pour se teindre en blonde, non ?
+spokentexts_a07_kabine_ermittler_glasschale_ex_4_st_1;Très bien. Voilà donc notre réactif !
+spokentexts_a07_kabine_ermittler_glasschale_ex_5_st_1;Je dois déposer ou vaporiser la solution sur le sang...
+spokentexts_a07_kabine_ermittler_glasschale_used_mit_pipette_1_st_1;Non. Mieux vaut mélanger la solution dans le bol plutôt que dans la pipette.
+spokentexts_a07_kabine_ermittler_glasschale_used_mit_pipette_2_st_1;Très bien. Je remplis la pipette...
 sequences_a07_kabine_ermittler_glasschale_used_mit_pipette_2#1;[A lot of liquid disappears from the glass bowl. The pipette in the inventory is now filled with a clear liquid.]
-spokentexts__seq_a07_kabine_ermittler_glasschale_used_mit_pipette_2_st_2;...and putting it down... very carefully.
-spokentexts__seq_a07_kabine_ermittler_glasschale_used_mit_pipette_2_st_3;I'll bring whatever I want to analyze over here.
-spokentexts_a07_kabine_ermittler_glasschale_used_mit_wattestaebchen_1_st_1;No. It said that you have to drip or spray the test solution on the evidence.
-spokentexts_a07_kabine_ermittler_glasschale_used_mit_wattestaebchen_2_st_1;I think it's better to drip the solution on the swab, instead of dipping the swab into the solution.
-spokentexts_a07_kabine_ermittler_glasschale_used_mit_wattestaebchen_2_st_2;Maybe oxygen is an issue or it doesn't work if you use too much of the solution.
-texts_a07_kabine_ermittler_gummihandschuhe_mo_ex1;Examine the rubber glove
-spokentexts_a07_kabine_ermittler_gummihandschuhe_ex_1_st_1;Fingerprints are overrated. Smart thieves wear gloves or they make sure that there are too many fingerprints at the crime scene to check them all.
-texts_a07_kabine_ermittler_heft_mo_ex_1__2__4__5;Examine the booklet
-texts_a07_kabine_ermittler_heft_mo_ex_3;Read the manual
+spokentexts__seq_a07_kabine_ermittler_glasschale_used_mit_pipette_2_st_2;...et je la pose... doucement.
+spokentexts__seq_a07_kabine_ermittler_glasschale_used_mit_pipette_2_st_3;Je vais amener ce que je veux analyser ici.
+spokentexts_a07_kabine_ermittler_glasschale_used_mit_wattestaebchen_1_st_1;Non. Je dois déposer ou vaporiser la solution de test sur l'indice à observer.
+spokentexts_a07_kabine_ermittler_glasschale_used_mit_wattestaebchen_2_st_1;Je pense qu'il vaut mieux déposer la solution sur le tampon plutôt que le tremper dans la solution.
+spokentexts_a07_kabine_ermittler_glasschale_used_mit_wattestaebchen_2_st_2;Peut être que l'oxygène pose problème ou que ça ne fonctionne pas si on met trop de solution.
+texts_a07_kabine_ermittler_gummihandschuhe_mo_ex1;Examiner le gant en caoutchouc
+spokentexts_a07_kabine_ermittler_gummihandschuhe_ex_1_st_1;Les empreintes digitales ne sont pas si utiles. Les voleurs malins mettent des gants ou se débrouillent pour laisser tellement d'empreintes sur les lieux qu'il est impossible de tout analyser.
+texts_a07_kabine_ermittler_heft_mo_ex_1__2__4__5;Examiner le livret
+texts_a07_kabine_ermittler_heft_mo_ex_3;Lire le manuel
 sequences_a07_kabine_ermittler_heft_ex_1#1;[The book appears from the picture now. You can hear how Ohi opens it. He is reading in -off.]
 spokentexts_a07_kabine_ermittler_heft_ex_1_st_1;Aha!
 spokentexts_a07_kabine_ermittler_heft_ex_1_st_2;This is some kind of inventory list. For each chemical it lists the chemical composition and a short comment on how to use it.
