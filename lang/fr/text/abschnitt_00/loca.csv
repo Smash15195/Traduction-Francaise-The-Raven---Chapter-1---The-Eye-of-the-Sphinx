@@ -117,13 +117,13 @@ spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_7;C'est le plus grand c
 spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_8;Et Bobby Dobbs dit qu'il aurait remplacé les joyaux de la couronne par des fausses pierres !
 spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_9;Je sais qui était ce Corbeau.
 spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_10;Même si... J'adhère peu à ces histoires à propos des joyaux de la couronne.
-texts_start;Voulez-vous en apprendre plus sur les contrôles du jeu (Tutoriel)?
+texts_start;En apprendre plus sur les contrôles du jeu (Tutoriel)?
 texts_start_option_no;Non, je suis un cador.
 texts_start_option_yes;Oui, dites m'en plus.
 texts_step_01;Pour examiner un objet, cliquez-gauche dessus. Cliquez sur le papier du sandwich sur la table.
 texts_step_02;Si vous déplacez le curseur de la souris sur le papier du sandwich encore une fois, vous verrez que le curseur a changé et que le texte en bas de l'écran dit ''Prendre le papier du sandwich''. Cliquez dessus une fois de plus pour le prendre.
-texts_step_03;Très bien. Déplacez le curseur en bas de l'écran. Cela fait apparaitre votre inventaire. Vous y trouverez tout les objets que le Gendarme Constable Zellner transporte. Cliquez-gauche sur le papier du sandwich.
-texts_step_04;Maintenant vous pouvez utiliser le papier du sandwich avec un autre objets. Déplacez le sur le trognon de pomme sur la table et faites un clic-gauche.
+texts_step_03;Très bien. Déplacez le curseur en bas de l'écran. Cela fait apparaitre votre inventaire. Vous y trouverez tout les objets que le Gendarme Zellner transporte. Cliquez-gauche sur le papier du sandwich.
+texts_step_04;Maintenant vous pouvez utiliser le papier du sandwich avec un autre objet. Déplacez-le sur le trognon de pomme sur la table et faites un clic-gauche.
 texts_step_05;Ouvrez l'inventaire à nouveau et faites un clic droit sur le papier du sandwich.
 texts_step_06;Bien sûr, vous pouvez aussi utiliser les objets de l'inventaire entre eux. Cliquez-gauche sur la serviette en papier puis sur le papier du sandwich dans l'inventaire.
 texts_step_07;Débarrassons-nous de tout ça. Jetez ces détritus dans votre inventaire dans le cendrier sur la table de Zellner.
@@ -143,9 +143,9 @@ texts_tutorial_butterbrotpapier_mo_inventar;Papier de sandwich
 texts_tutorial_butterbrotpapier_mo_inventar_2;Papier de sandwich avec un trognon de pomme
 texts_tutorial_butterbrotpapier_mo_take_1;Prendre le papier du sandwich
 texts_tutorial_muell_mo_inventar;Détritus
-texts_tutorial_muelleimer_mo_ex_1;Regarder la corbeille
+texts_tutorial_muelleimer_mo_ex_1;Regarder la cendrier
 texts_tutorial_muelleimer_mo_used_mit_muell;Jeter les détritus dans le cendrier
-spokentexts_tutorial_muelleimer_ex_1_st_1;Chaque tables a sa propre corbeille, pratique. Pas besoin de se lever de son siège.
+spokentexts_tutorial_muelleimer_ex_1_st_1;Chaque tables a son propre cendrier, pratique. Pas besoin de se lever de son siège.
 texts_tutorial_serviette_mo_inventar;Serviette en papier
 texts_tutorial_serviette_mo_used_mit_apfelreste;Assembler les détritus
 spokentexts_tutorial_seq_step_8_st_1;Très bien.
@@ -238,7 +238,7 @@ sequences_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler#12;[Ohi go
 spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_9_direction;eagerly
 spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_9;J'ai observé ces gens sur le quai à Zurich !
 spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_10_direction;eagerly
-spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_10;Je sais par exemple, que cet homme la-bas est violoniste.
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_10;Je sais par exemple, que cet homme là-bas est violoniste.
 sequences_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler#15;[Scene: The investigator glances for violinists.]
 spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_11;Cela aurait été plus impressionnant si il n'avait pas eu un étui à violon à coté de lui.
 sequences_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler#17;[The investigator turns around and wants to leave.]
@@ -338,7 +338,7 @@ spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_6;Chut !
 spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_7;Calmez-vous, je suis policier. Nous sommes du même côté !
 sequences_a00_startintro_seq_a00_startintro_teil_4#19;[The guard releases the Intro_Guard. They considered the man who sees that he is in a police uniform.]
 spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_8;Un policier ? Qu'est-ce que vous faites ici ? Et où est Harold ?
-spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_9;Harold ? Eh bien, il y a un garde inconscient la-bas. C'est surement lui.
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_9;Harold ? Eh bien, il y a un garde inconscient là-bas. C'est surement lui.
 sequences_a00_startintro_seq_a00_startintro_teil_4#22;[The Intro_Guard gets big eyes, a panic is coming.]
 spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_10;"Cet ""Oeil du Sphinx""... où est-il ?"
 spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_11;Il est... là.
@@ -359,7 +359,7 @@ spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_19;Très bien. Maintenan
 sequences_a00_startintro_seq_a00_startintro_teil_4#37;[You hear footsteps running down the hallway. The guard is a few steps into the hall, pulling his baton. The Intro_Guard is behind him, pulls out his gun.]
 sequences_a00_startintro_seq_a00_startintro_teil_4#38;[A shadow passes through the transition. The guard takes him to target.]
 spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_20_direction;calls
-spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_20;ARRETEZ !
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_20;ARRÊTEZ !
 sequences_a00_startintro_seq_a00_startintro_teil_4#40;[In addition to the two guards exploded a trash can. Debris, dust and smoke takes the view. The Intro_Guard is caught in the explosion and throws through the air. The guard falls flat on his stomach.]
 sequences_a00_startintro_seq_a00_startintro_teil_4#41;[Cut to the hallway.]
 sequences_a00_startintro_seq_a00_startintro_teil_4#42;[The shadow stood still, looking toward hall. He seems to consider whether he should go back. He makes two steps. But even sirens are heard.]

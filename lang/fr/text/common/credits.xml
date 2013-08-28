@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<credits>
-	<title value="KING Art Games">
-		<function value="Traduction Française">
+<credits>		
+	<title value="Traduction Française">
+		<function value="Textes">
 			<name value="Nimo" />
 			<name value="Smash15195" />
 		</function>
+	</title>
+	<title value="KING Art Games">
 		<function value="Directeur Créatif">
 			<name value="Jan Theysen" />
 		</function>

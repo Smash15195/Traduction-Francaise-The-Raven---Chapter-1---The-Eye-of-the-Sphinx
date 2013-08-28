@@ -30,10 +30,10 @@ texts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_title;Cambrio
 spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_1;Vous étiez donc, dirons-nous, un témoin oculaire du cambriolage il y a deux jours ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_2;Si vous travaillez au British Museum, alors vous avez dû être au première loge !
 spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_3_direction;nervous
-spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_3;N-non. Je voulais pas dire ça.
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_3;N-non. Je ne dirais pas ça.
 spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_4_direction;surprised
 spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_4;Ah non ?
-spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_5;Il y avait... beaucoup de d'aller et venue. Mais je n'y ai pas vraiment fait attention.
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_5;Il y avait... beaucoup d'aller et venue. Mais je n'y ai pas vraiment fait attention.
 spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_6_direction;curious, incredulous
 spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_6;Il y a eu une effraction dans votre musée et cela ne vous concerne pas ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_7_direction;trying, nervously
@@ -48,7 +48,7 @@ spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_6;Vous le conn
 spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_7_direction;something sneaky
 spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_7;Et vous ne savez pas non plus ce qu'il fait ici ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_8_direction;nervous, lying
-spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_8;No! P-pourquoi le devrais-je ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_8;Non ! P-pourquoi le devrais-je ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_9;C'est juste que... Vous représentez le British Museum... il y a un coffre-fort dans le train...
 spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_10;Je suis désolé. Je ne comprends pas ce que vous sous-endentez.
 spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_11;Maintenant, veuillez m'excuser.
@@ -104,7 +104,7 @@ texts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_title;Ri
 spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_1;Une dernière chose...
 spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_2;Avez-vous quelque chose d'inhabituel dans le train ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_3_direction;nervously
-spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_3;Là ? Dans ce train ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_3;Ici ? Dans ce train ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_4;Non. Je pourrais pas le dire.
 spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_5;J'ai passé le plupart du temps dans mon compartiment.
 texts_a01_archaeologe_top_a01_archaeologe_verschwundene_brieftasche_tseq_title;Sac perdu
@@ -127,11 +127,11 @@ spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq
 spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_7;Ou alors, il y avait quelqu'un ici qui a fermé votre compartiment de l'intérieur.
 spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_8;Qui ? Et ou serait-il passé ?
 sequences_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq#8;[Ohi points to the window.]
-spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_9;Ils auraient grimpé là-bas.
+spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_9;Ils auraient grimpés par là.
 sequences_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq#10;[The archaeologist looks incredulously at the window.]
 spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_10;Qui serait aussi fou ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_warum_war_tuer_verschlossen_tseq_st_11;A vous de me le dire, Professeur.
-texts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_title;Destination of his trip
+texts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_title;Destination de son voyage
 spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_2;Puis-je vous demander où vous allez ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_3;Bien sûr. A Venise.
 spokentexts_a01_archaeologe_top_a01_archaeologe_wohin_faehrt_er_tseq_st_4;Je... vais voir des collègues là-bas.
@@ -156,7 +156,7 @@ spokentexts_archaeologe_ex_2_st_1;Il me cache quelque chose et je dois savoir ce
 spokentexts_archaeologe_talk_mit_03_st_1;Je n'ai pas trouvé le contrôleur mais je devrais être en mesure d'ouvrir la porte avec ces pinces.
 spokentexts_archaeologe_talk_mit_03_st_2_direction;impatient, slightly pleading
 spokentexts_archaeologe_talk_mit_03_st_2;Alors allez-y... !
-spokentexts_archaeologe_talk_mit_1_st_1;Professeur Lucien?
+spokentexts_archaeologe_talk_mit_1_st_1;Professeur Lucien ?
 sequences_archaeologe_talk_mit_1#2;[The professor looks at Ohi.]
 spokentexts_archaeologe_talk_mit_1_st_2_direction;rushed, expectantly
 spokentexts_archaeologe_talk_mit_1_st_2;Oui ?
@@ -186,7 +186,7 @@ spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_4;Y a t-il lieu 
 spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_5;Non. C'est juste la routine.
 spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_6_direction;senior teacher like
 spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_6;Gendarme Zellner.
-spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_7;S'il vous plaît ne pensez pas que je suis un naïf. J'ai repéré l'inspecteur d'Interpol.
+spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_7;S'il vous plaît ne pensez pas que je suis un benêt. J'ai repéré l'inspecteur d'Interpol.
 spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_8;Il s'appelle Legard, si je me souviens bien.
 spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_9;Legrand.
 spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_10;Si vous le dites.
@@ -194,11 +194,11 @@ spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_11;A la gare de 
 spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_12;Ne me dites pas qu'un homme de sa trempe traverserait les Alpes juste pour garder un oeil sur des cassettes d'argent.
 spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_13;Une cassette ? Comme celles qu'on trouve dans des coffres-forts ?
 spokentexts_arzt_top_a01_arzt_ist_ihm_etwas_aufgefallen_tseq_st_14;Précisément. Et je crois que nous avons tous les deux une bonne idée de ce qu'il y a dedans.
-texts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_title;Sac disparus
+texts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_title;Sac disparu
 spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_1;Je voulais vous demander...
-spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_2;La baronne a perdue son sac à main...
-spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_3;Une baronne ?
-spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_4;"Ce train est vraiment rempli de la crème de la crème. La ""Reine du Crime"" est là-bas, et maintenant une baronne !"
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_2;La Baronne a perdue son sac à main...
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_3;Une Baronne ?
+spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_4;"Ce train est vraiment rempli de la crème de la crème. La ""Reine du Crime"" est là-bas, et maintenant une Baronne !"
 spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_5;Vous avez vu ce sac ?
 spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_6;Malheureusement, non.
 spokentexts_arzt_top_a01_arzt_verschwundene_brieftasche_tseq_st_7;Vous connaissez Lady Westmacott ? Vous devriez lui parler.
@@ -222,7 +222,7 @@ spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_1_direct
 spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_1;J'ai en effet une théorie... mais... quelle est la vôtre ?
 spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_2;La cassette dans le coffre... Que pensez-vous qu'elle contient ?
 sequences_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq#4;[The doctor lifts up the newspaper (idle).]
-spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_3;Un rubis a été volé à Londres. Un des deux  ''Yeux légendaires du Sphinx''.
+spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_3;Un rubis a été volé à Londres. Un des deux  ''Oeil légendaires du Sphinx''.
 spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_4;Le deuxième bijou, une émeraude, est dans un coffre dans une banque suisse, si je me souviens bien.
 spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_5;Les deux joyaux étaient censés être exposés ensemble au Caire pour la première fois depuis 50 ans.
 spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_6;Ça ne fait qu'une merveille ...
@@ -246,7 +246,7 @@ texts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_title;Contrôleur
 spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_1;Il y a autre chose...
 spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_2;Vous savez où se trouve le contrôleur ?
 spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_3;J'aimerai bien le savoir !
-spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_4;Je luis ai demandé de rechercher ma valise à Zurich. Plus de nouvelles depuis.
+spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_4;Je lui ai demandé de rechercher ma valise à Zurich. Plus de nouvelles depuis.
 spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_7_direction;is getting more in
 spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_7;Il est probablement de connivence avec les voleurs et n'a sûrement même pas pris la peine de revenir dans le train.
 spokentexts_arzt_top_a01_arzt_wo_ist_der_schaffner_tseq_st_8_direction;is getting more in
@@ -280,14 +280,14 @@ spokentexts_arzt_talk_mit_3_st_1;Je ferais mieux de le laisser lire son journal 
 texts_baronin_top_a01_baronin_einbruch_im_museum_tseq_title;Cambriolage au musée
 spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_1;Avez-vous entendu parler du cambriolage au British Museum ?
 spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_2;Entendu parler ?!
-spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_3;Je suis directement touchées!
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_3;Je suis directement touchée !
 spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_4_direction;irritated
 spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_4;Comment cela ?
 spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_5;"Je suis responsable des ""Amis du British Museum"" et pour votre information, j'ai financée cette exposition."
 spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_6;Exposition ? Quelle exposition ?
 spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_7;L'exposition au Caire ! Où pensez-vous que nous allons ?
 spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_9;Les Yeux du Sphinx devaient être exposés ensemble pour la première fois depuis des décennies.
-spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_10;Maintenant que l'un d'eux a disparu, l'exposition sera plutôt sensationnel que nous l'avions espéré.
+spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_10;Maintenant que l'un d'eux a disparu, l'exposition sera moins sensationnel que nous l'avions espéré.
 spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_11;D'autre part, il y a une chance que tout ce tapage va générer plus d'attention et que l'exposition sera un grand succès !
 spokentexts_baronin_top_a01_baronin_einbruch_im_museum_tseq_st_12;Peut-être. Mais nous voulions leur montrer les deux ensemble. C'était le but.
 texts_baronin_top_a01_baronin_mitreisende_tseq_title;Compagnons de voyage
@@ -331,7 +331,7 @@ spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_2_direction;loud on
 spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_2;Je pensais qu'il était à la recherche pour mon sac !
 spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_3_direction;quietly, to Butler
 spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_3;James ! Dites-lui de chercher mon sac.
-spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_4;La baronne souhaiterait que vous recherchiez son sac à main.
+spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_4;La Baronne souhaiterait que vous recherchiez son sac à main.
 sequences_butler_top_a01_butler_andere_mitreisende_tseq#4;[Ohi looks past the butler, tries to talk directly with the Baroness.]
 spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_5_direction;loud
 spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_5;Mais nous pourrions peut-être...
@@ -352,8 +352,8 @@ spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_8_direction;slightly
 spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_8;Des éclats d'une bombe larguée par un Fokker ne m'aurait pas blessé à la guerre de Trente Ans, monsieur.
 spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_9_direction;apologetically
 spokentexts_butler_top_a01_butler_beruf_des_butlers_tseq_st_9;Non. Bien sûr.
-texts_butler_top_a01_butler_die_baronin_tseq_title;La baronne
-spokentexts_butler_top_a01_butler_die_baronin_tseq_st_15;Que pouvez-vous me dire sur la baronne ?
+texts_butler_top_a01_butler_die_baronin_tseq_title;La Baronne
+spokentexts_butler_top_a01_butler_die_baronin_tseq_st_15;Que pouvez-vous me dire sur la Baronne ?
 spokentexts_butler_top_a01_butler_die_baronin_tseq_st_10;Rien, monsieur.
 spokentexts_butler_top_a01_butler_die_baronin_tseq_st_11;Un majordome ne fait pas de commérages.
 texts_butler_top_a01_butler_gestohlene_brieftasche_tseq_title;Sac à main perdu
@@ -366,7 +366,7 @@ spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_4_direction;lau
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_4;Quand avez-vous...
 sequences_butler_top_a01_butler_gestohlene_brieftasche_tseq#5;[Ohi is clear that this will not work. He looks back to Butler.]
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_5_direction;quietly, to Butler
-spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_5;À quand remonte la dernière fois que la baronne a vu son sac à main ?
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_5;À quand remonte la dernière fois que la Baronne a vu son sac à main ?
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_6_direction;loud from behind, did not understand
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_6;Quoi ?!
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_7;A Zurich, sur le quai, monsieur.
@@ -377,10 +377,10 @@ spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_9_direction;lou
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_9;A Zurich, sur le quai.
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_10_direction;quietly, to Butler
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_10;James, dites-lui que je l'avais encore quand je suis sorti pour me dégourdir les jambes.
-spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_11;Laa boranne dit...
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_11;La Baronne dit...
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_12_direction;loud
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_12;Peut-être que vous avez perdu à ce moment ?
-spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_14;La baronne ne perd jamais rien, monsieur.
+spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_14;La Baronne ne perd jamais rien, monsieur.
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_15_direction;loud from behind
 spokentexts_butler_top_a01_butler_gestohlene_brieftasche_tseq_st_15;Je ne perds jamais rien.
 sequences_butler_top_a01_butler_gestohlene_brieftasche_tseq#18;[Ohi looks back to the Butler.]
@@ -391,25 +391,25 @@ spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_2;"Vous vous 
 spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_3;Ce serait une heureuse coïncidence pour votre métier.
 spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_4;Mon nom, monsieur, est Clive Alfred Pouces.
 spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_5_direction;irritated
-spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_5;"Votre deuxième prénom est ""Alfred"" et la baronne vous appelle ""James""?"
+spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_5;"Votre deuxième prénom est ""Alfred"" et la Baronne vous appelle ""James""?"
 spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_6;"Madame considère ""James"" comme le seul prénom digne d'un majordome. Monsieur."
 texts_butler_top_a01_butler_verabschieden_tseq_title;Dire au revoir
-spokentexts_butler_top_a01_butler_verabschieden_tseq_st_1;I, Euhh, je jetterai un coup d'oeil.
+spokentexts_butler_top_a01_butler_verabschieden_tseq_st_1;Je, Euhh, je jetterai un coup d'oeil.
 spokentexts_butler_top_a01_butler_verabschieden_tseq_st_2;Merci, monsieur.
 sequences_butler_top_a01_butler_verabschieden_tseq#2;[Ohi takes a step back.]
 sequences_butler_top_a01_butler_verabschieden_tseq#3;[The Butler closes the door.]
 texts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_title;Cambriolage à Londres
-spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_1;Quand vous et la baronne êtes-vous montés dans le train ?
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_1;Quand vous et la Baronne êtes-vous montés dans le train ?
 spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_2;A Paris, monsieur.
-spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_3;La baronne y était au nom d'un organisme de bienfaisance qu'elle a soutenu pendant de nombreuses années.
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_3;La Baronne y était au nom d'un organisme de bienfaisance qu'elle a soutenu pendant de nombreuses années.
 spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_4;Donc vous n'étiez pas à Londres quand ils ont fait irruption dans le British Museum ?
 spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_5_direction;considered
 spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_5;Nous y étions, en fait. Nous sommes partis pour Douvres très tôt le matin après le cambriolage.
 spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_6;Mais nous étions à Paris quand nous en avons entendu parlé la première fois. Le journal du matin à Londres n'avais pas mentionné l'événement, monsieur.
 spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_7_direction;impressed
-spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_7;Et deux jours plus tard, vous êtes sur un train en partance pour la Suisse ! La baronne est très occupée.
+spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_7;Et deux jours plus tard, vous êtes sur un train en partance pour la Suisse ! La Baronne est très occupée.
 spokentexts_butler_top_a01_butler_wo_sind_sie_eingestiegen_tseq_st_8;En effet, monsieur. nous sommes pratiquement toujours sur la brèche.
-spokentexts_butler_ex_1_st_1;Le maître d'hôtel, ce James, semble avoir échappé à la baronne.
+spokentexts_butler_ex_1_st_1;Le maître d'hôtel, ce James, semble avoir échappé à la Baronne.
 sequences_butler_ex_1#2;[The butler is the whole time at the poster and studied it (idle).]
 spokentexts_butler_talk_mit_1_st_1;Bonne journée à vous, monsieur.
 sequences_butler_talk_mit_1#2;[The butler turns around, goes into his talk-status Idle.]
@@ -457,7 +457,7 @@ spokentexts_ermittler_top_a01_ermittler_eigene_ermittlungen_tseq_st_4;Oh vraimen
 texts_ermittler_top_a01_ermittler_falle_tseq_title;Piège
 spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_1;Vous voulez tendre un piège à quelqu'un ?
 spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_2;Alors j'avais raison !
-spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_3;Vous ne voulez vraiment attirer quelqu'un dans un piège !
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_3;Vous voulez vraiment attirer quelqu'un dans un piège !
 spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_4;Ce ne sont pas vos affaires !
 sequences_ermittler_top_a01_ermittler_falle_tseq#6;[The investigator rise a hand and brings the guard so to silence.]
 spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_5;Peut-être que quelqu'un a sévi récemment à Londres?
@@ -523,10 +523,10 @@ texts_ermittler_top_a01_ermittler_verabschieden_tseq_title;Dire au revoir
 spokentexts_ermittler_top_a01_ermittler_verabschieden_tseq_st_1;Je vais me remettre au travail maintenant.
 spokentexts_ermittler_top_a01_ermittler_verabschieden_tseq_st_2;Bien.
 sequences_ermittler_top_a01_ermittler_verabschieden_tseq#2;[Ohi leaves the wagon.]
-texts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_title;Porte-monnaie
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_1;Et puis il y a la baronne. Elle a perdue son sac à main.
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_2;La baronne von Trebitz m'a dit qu'elle avait perdue son sac à main.
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_3;La baronne von Trebitz ?
+texts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_title;Portefeuille
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_1;Et puis il y a la Baronne. Elle a perdue son sac à main.
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_2;La Baronne von Trebitz m'a dit qu'elle avait perdue son sac à main.
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_3;La Baronne von Trebitz ?
 sequences_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq#3;[Investigator is looking at the guard.]
 spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_4;Intéressant...
 spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_5;En effet, Monsieur.
@@ -537,9 +537,9 @@ spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_7;Don
 spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_8;Ah, pourquoi pas ? C'est votre travail de policier.
 spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche1_tseq_st_9;Mais ne comptez pas sur moi pour être particulièrement intéressés par un sac perdu.
 texts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_title;Sac à main
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_1;Et puis il y a la baronne. Elle a perdue son sac à main.
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_2;La baronne von Trebitz m'a parlé de son sac...
-spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_3;La baronne von Trebitz ?
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_1;Et puis il y a la Baronne. Elle a perdue son sac à main.
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_2;La Baronne von Trebitz m'a parlé de son sac...
+spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_3;La Baronne von Trebitz ?
 sequences_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq#3;[Investigators looks to the guard.]
 spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_4;Elle finance tout cela, n'est-ce pas ?
 spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_5;En effet, Monsieur.
@@ -548,7 +548,7 @@ sequences_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq#7;[Investi
 spokentexts_ermittler_top_a01_ermittler_verschwundene_brieftasche2_tseq_st_7;Hmm. Ça n'a probablement rien à voir avec notre affaire... Bon travail quand même.
 texts_geiger_mo_ex_4;Observer le violoniste
 texts_geiger_mo_talk_mit_1-7;Parler au violoniste
-texts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_title;Sac de la baronne
+texts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_title;Sac de la Baronne
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_1;Une passagère a perdu son sac à main. Peut-être que l'avez-vous vu ?
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_2;Je n'ai pas quitté mon siège.
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_3;Donc, il y a des voleurs dans le train !
@@ -557,7 +557,7 @@ spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_5;Hahaha ! Les S
 sequences_geiger_top_a01_geiger_brieftasche_gesehen01_tseq#7;[Ohi looks slightly reproachfully.]
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_6;Oh, excusez-moi.
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen01_tseq_st_7;Non, je n'ai pas vu de sac à main.
-texts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_title;Sac de la baronne
+texts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_title;Sac de la Baronne
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_1;À propos de ce sac...
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_2;Oh, oui. Il a été retrouvé ?
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_3;Une passagère a perdu son sac à main. Il a peut-être été volé.
@@ -570,7 +570,7 @@ spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_7;Personne n'a d
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_8;Je voulais juste vous demander si vous aviez remarqué quoi que ce soit sur ​​le quai.
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_9;Ah... Eh bien...
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_10;Pourquoi avez-vous pensé que je vous accusais ?
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_11;Eh bien, je pensais que... Parce que vous avez parlé de mon étui à violon dans et de ce sac...
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_11;Eh bien, je pensais que... Parce que vous avez parlé de mon étui à violon et de ce sac...
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_12;A propos. Puis-je jeter un oeil sur votre violon ? Ce doit être une belle pièce !
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_13;Oh, c'est... C'est impossible. C'est un véritable Guarneri.
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_14_direction;throws in short
@@ -611,7 +611,7 @@ sequences_geiger_top_a01_geiger_wer_ist_er_tseq#3;[The Geiger smiles and remembe
 spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_4;C'est pourquoi j'ai appris à en jouer.
 spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_5;Jouez-vous dans un orchestre ?
 spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_6;Non les orchestres ne font pas vraiment partie de mon monde.
-spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_7;Un violoniste soliste ! Les meilleurs solistes voyagent beaucoup et font un tas d'argent, c'est ce qu'ils disent.
+spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_7;Un violoniste soliste ! Les meilleurs solistes voyagent beaucoup et gagnent beaucoup d'argent, c'est ce qu'ils disent.
 sequences_geiger_top_a01_geiger_wer_ist_er_tseq#9;[The face of the geiger petrifies.]
 spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_9_direction;petrified, slightly bitter
 spokentexts_geiger_top_a01_geiger_wer_ist_er_tseq_st_9;Dans ce cas, je ne suis probablement pas l'un des meilleurs.
@@ -630,7 +630,7 @@ spokentexts_geiger_ex_1_st_1;Le violoniste est un gentil garçon. Il voyage à t
 spokentexts_geiger_ex_1_st_2;Mais on peut espérer que son violon est sonne mieux que lui.
 spokentexts_geiger_ex_2_st_1;Il pourrait y avoir plusieurs raisons à propos des mains tremblantes du violoniste. Des nerfs à rude épreuve, une maladie...
 spokentexts_geiger_ex_2_st_2;Je parie sur l'alcool. Il ne serait pas le premier musicien a ruiner sa carrière de cette façon.
-spokentexts_geiger_ex_3_st_1;Matt dit que le violoniste a mis quelque chose dans son étui à violon sur le quai. Ca semble un peu suspect.
+spokentexts_geiger_ex_3_st_1;Matt dit que le violoniste a mis quelque chose dans son étui à violon sur le quai. Ça semble un peu suspect.
 spokentexts_geiger_ex_3_st_2;La question est, quelle crédibilité peut-on donner à ce garçon ?
 spokentexts_geiger_ex_4_st_1;Il n'y a aucun moyen de le dire s'il avait l'intention de voler le sac à main ou si le hasard a joué un rôle.
 spokentexts_geiger_ex_4_st_2;Des problèmes financiers, le manque de moralité... L'occasion fait le larron.
@@ -676,11 +676,11 @@ texts_junge_mo_ex_1;Examiner Matt
 texts_junge_mo_talk_mit_1-4;Parler à Matt
 texts_junge_top_a01_junge_ablenken_ja_tseq_title;Oui, distrait le.
 spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_1;Hmm. Qu'est-ce que tu proposes ?
-spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_2;Je... Je pourrais lui dire qu'il y a une valise pleine d'argent dans le wagon suivant. Si c'est un voleur, il va aura certainement envie de jeter un coup d'oeil.
+spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_2;Je... Je pourrais lui dire qu'il y a une valise pleine d'argent dans le wagon suivant. Si c'est un voleur, il aura certainement envie de jeter un coup d'oeil.
 spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_3;Je crois pas qu'il tombera dans le panneau.
 spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_4;Ou alors je peux l'insulter et courir. Il essaiera de m'attraper et cela vous laissera une chance de fouiller l'étui à violon.
 spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_5_direction;ihm wird klar, dass er einen Fehler gemacht hat
-spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_5;Maintenant que j'y pense, c'est quelque chose que je dois faire moi-même. C'était idiot de demander ça a un petit garçon.
+spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_5;Maintenant que j'y pense, c'est quelque chose que je dois faire moi-même. C'était idiot de demander ça à un petit garçon.
 spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_6_direction;indignant
 spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_6;Un petit garçon ?! Vous plaisantez !
 spokentexts_junge_top_a01_junge_ablenken_ja_tseq_st_7;Désolé, euh shérif. Mais ton idée de le distraire est plutôt bonne malgré tout.
@@ -695,8 +695,8 @@ spokentexts_junge_top_a01_junge_ablenken_nein_tseq_st_5;Désolé, euh shérif. M
 sequences_junge_top_a01_junge_ablenken_nein_tseq#5;[The conversation is over.]
 texts_junge_top_a01_junge_lady_mestmacott_tseq_title;Lady Westmacott
 spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_1;Ta mère est l'accompagnatrice de Lady Westmacott, correct ?
-spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_2;Oui, mais ce n'est pas comme tu le penses.
-spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_3;"Au début je pensais, ""Boy, tu dois vraiment être méchant si tu dois payer pour tes amis !"""
+spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_2;Oui, mais ce n'est pas comme vous le pensez.
+spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_3;"Au début je pensais, ""mon pauvre, tu dois vraiment être méchant si tu dois payer pour tes amis !"""
 spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_4;Mais la dame est OK.
 spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_5;Elle est un peu bizarre. Et vraiment vieille.
 spokentexts_junge_top_a01_junge_lady_mestmacott_tseq_st_6;Mais à part ça, elle est géniale ! Elle m'aime bien.
@@ -727,10 +727,10 @@ spokentexts_junge_top_a01_junge_steward_tseq_st_14;Hmm. Merci du conseil !
 texts_junge_top_a01_junge_unkooperativer_geiger_tseq_title;Violoniste non coopératif
 spokentexts_junge_top_a01_junge_unkooperativer_geiger_tseq_st_1;Le violoniste ne me laisse pas fouiller son étui à violon.
 spokentexts_junge_top_a01_junge_unkooperativer_geiger_tseq_st_2;Bien sûr. Il cache quelque chose !
-spokentexts_junge_top_a01_junge_unkooperativer_geiger_tseq_st_3;Dois-je distraire ? Ensuite, vous pourrez jeter un oeil dans son étui.
-texts_junge_top_a01_junge_verschwundene_brieftasche_tseq_title;Sac disparus
+spokentexts_junge_top_a01_junge_unkooperativer_geiger_tseq_st_3;Dois-je le distraire ? Ensuite, vous pourrez jeter un oeil dans son étui.
+texts_junge_top_a01_junge_verschwundene_brieftasche_tseq_title;Sac disparu
 spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_1;A propos de quelque chose de complètement différent cette fois.
-spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_2;La baronne dans le deuxième compartiment a perdue son sac à main.
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_2;La Baronne dans le deuxième compartiment a perdue son sac à main.
 spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_3;Vous avez une idée d'où il pourrait être ?
 sequences_junge_top_a01_junge_verschwundene_brieftasche_tseq#4;[The boy gets big eyes, looks over to Geiger.]
 spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_4_direction;inhales surprised
@@ -750,7 +750,7 @@ spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_13_direction;"
 spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_13;Mmm-hmm.
 spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_14;Tu aurais aussi vu ce que c'était ?
 spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_15;Non pas vraiment. 
-spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_16;Mais maintenant je crois le savoir, ça devait être le sac de la baronne !
+spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_16;Mais maintenant je crois le savoir, ça devait être le sac de la Baronne !
 sequences_junge_top_a01_junge_verschwundene_brieftasche_tseq#21;[Ohi looks around again, looks back at the boy.]
 spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_17;Je devrais regarder dedans alors, non ?
 spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_18;Je crois bien.
@@ -844,7 +844,7 @@ spokentexts_junge_talk_mit_2_st_2;Tu penses vraiment pouvoir m'ignorer aussi lon
 spokentexts_junge_talk_mit_2_st_3;Je suis Suisse ! C'est pratiquement un sport national !
 sequences_junge_talk_mit_2#5;[The boy is not responding.]
 sequences_junge_talk_mit_2#6;[Ohi shrugs.]
-spokentexts_junge_talk_mit_3_st_1;Très bien, Matt. Dites-moi maintenant...
+spokentexts_junge_talk_mit_3_st_1;Très bien, Matt. Dit moi maintenant...
 spokentexts_junge_talk_mit_4_st_1;Salut, Matt. Je voulais te demander...
 sequences_junge_talk_mit_4#2;[Dialogue between Ohi and the boy starts.]
 spokentexts_junge_talk_mit_5_st_1;Je n'ai aucune idée de quoi dire à Matt.
@@ -873,7 +873,7 @@ spokentexts_junge_used_mit_karamellbonbons_st_12;D'acc.
 texts_pflegerin_mo_ex_1;Regarder Mme Miller
 texts_pflegerin_mo_talk_mit_1__2;Parler à Mme Miller
 texts_pflegerin_mo_text_used_mit_haarnadel;Rendre l'épingles à cheveux à Mme Miller.
-texts_pflegerin_top_a01_pflegerin_brieftasche_tseq_title;Sac disparus
+texts_pflegerin_top_a01_pflegerin_brieftasche_tseq_title;Sac disparu
 spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_2;Le sac d'une passagère a disparu.
 spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_3;Je suppose que vous ne l'avez pas vu ?
 sequences_pflegerin_top_a01_pflegerin_brieftasche_tseq#2;[The nurse shakes her head.]
@@ -887,7 +887,7 @@ spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_2;Oh, je crain
 spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_3;Ma Marie a toujours eu beaucoup de choses à faire.
 sequences_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq#3;[Nurse looks forward to the table.]
 spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_4_direction;upset
-spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_4;Vous devez me dire si quelque chose ne va pas.
+spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_4;Vous devez me le dire si quelque chose ne va pas.
 spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_5;Seigneur, mon enfant ! Tricotez autant que vous voulez !
 spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_6;Donc, rien qui sorte de l'ordinaire ?
 spokentexts_pflegerin_top_a01_pflegerin_etwas_aufgefallen_tseq_st_7;Non, officier. 
@@ -931,7 +931,7 @@ spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_6_direction;re
 spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_6;"On l'appel toujours ""professeur"" parce qu'il est précoce."
 spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_7_direction;moody
 spokentexts_pflegerin_top_a01_pflegerin_ist_das_ihr_junge_tseq_st_7;Si seulement quelqu'un pouvait juste conduire ce mal hors de lui !
-spokentexts_pflegerin_ex_1_st_1;Mme Miller m'a fait une bonne impression. Elle voulait protéger Lady Westmacott, un admirateur insistant. Très diligente.
+spokentexts_pflegerin_ex_1_st_1;Mme Miller m'a fait une bonne impression. Elle voulait protéger Lady Westmacott, d'un admirateur insistant. Très diligente.
 spokentexts_pflegerin_ex_1_st_2;Mais elle ne semble un peu nerveuse et tendue.
 spokentexts_pflegerin_ex_1_st_3;J'imagine qu'elle est préoccupée par son travail et par Matt. Et un patron difficile, apparemment...
 spokentexts_pflegerin_talk_mit_1_st_1;Mme Miller ?
@@ -943,7 +943,7 @@ spokentexts_pflegerin_talk_mit_2_st_2;Elle n'arrête pas de tricoter. Un métier
 texts_schriftstellerin_mo_ex_1;Observer Lady Clarissa Westmacott
 texts_schriftstellerin_mo_talk_mit_1__2;Parler à Lady Clarissa Westmacott
 texts_schriftstellerin_mo_used_mit_krimi;Donnez le livre à Lady Westmacott
-texts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_title;Sac disparus
+texts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_title;Sac disparu
 spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_1;Il y a autre chose.
 spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_4;Je suis désolé, Officier Zellner. Comme vous le savez, je ne fait que dans l'assassinat, pas dans le cambriolage.
 sequences_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq#5;[The nurse knits on, but looks to Ohi.]
@@ -985,7 +985,7 @@ spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_archaeologe_ts
 spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_archaeologe_tseq_st_14;Par courtoisie, bien sûr.
 spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_archaeologe_tseq_st_15_direction;friendly
 spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_archaeologe_tseq_st_15;Bien sûr.
-texts_schriftstellerin_top_a01_schriftstellerin_mitreisende_geiger_tseq_title;The violinist
+texts_schriftstellerin_top_a01_schriftstellerin_mitreisende_geiger_tseq_title;Le violoniste
 spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_geiger_tseq_st_2;Avez-vous vu le jeune homme blond avec l'étui à violon ?
 spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_geiger_tseq_st_3_direction;derogatory snort
 spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_geiger_tseq_st_3;Pfff.
@@ -1000,7 +1000,7 @@ texts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_title;
 spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_1;Pour en revenir aux autres passagers...
 spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_2;Avez-vous vu quelqu'un d'autre ?
 spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_3;Le docteur ?
-spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_4;Ou la baronne ?
+spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_4;Ou la Baronne ?
 spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_5;Je remarque que vous m'avez questionné sur tout le monde à l'exception de l'inspecteur qui est allé en direction de du wagon fret, il y a quelques minutes.
 spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_6;N'est-ce pas ce français ? Qui s'est fait un nom quand il a attrapé le Corbeau ?
 spokentexts_schriftstellerin_top_a01_schriftstellerin_mitreisende_sonstige_tseq_st_7;"Je devrais pas dire ""attrapé""..."
@@ -1045,12 +1045,12 @@ spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_
 texts_schriftstellerin_top_a01_schriftstellerin_woran_arbeitet_sie_gerade_tseq_title;Vers où voyage t-elle ?
 spokentexts_schriftstellerin_top_a01_schriftstellerin_woran_arbeitet_sie_gerade_tseq_st_2;Vous voyagez à Istanbul directement ?
 spokentexts_schriftstellerin_top_a01_schriftstellerin_woran_arbeitet_sie_gerade_tseq_st_3;Vous voyagez à Istanbul, Lady Westmacott ?
-spokentexts_schriftstellerin_top_a01_schriftstellerin_woran_arbeitet_sie_gerade_tseq_st_4;Non, nous sommes en chemin pour Venise. De là, nous prendrons un bateau au Caire.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_woran_arbeitet_sie_gerade_tseq_st_4;Non, nous sommes en chemin pour Venise. De là, nous prendrons un bateau pour le Caire.
 spokentexts_schriftstellerin_top_a01_schriftstellerin_woran_arbeitet_sie_gerade_tseq_st_5;Comme vous le savez, j'ai un penchant pour l'archéologie. J'ai financer quelques fouilles en Égypte.
 spokentexts_schriftstellerin_top_a01_schriftstellerin_woran_arbeitet_sie_gerade_tseq_st_7;Je me suis rendu en Égypte par bateau, jeune femme... Et maintenant je le fais à nouveau comme vieille dame.
 spokentexts_schriftstellerin_top_a01_schriftstellerin_woran_arbeitet_sie_gerade_tseq_st_10;je vois.
 spokentexts_schriftstellerin_ex_1_st_1;Une femme extraordinaire. Talentueuse, intellectuelle, extrêmement riche et l'écrivaine la plus couronné de succès de tous les temps.
-spokentexts_schriftstellerin_ex_1_st_2;Pourtant, ils disent qu'elle peut être en difficulté et qu'elle est plutôt malheureuse.
+spokentexts_schriftstellerin_ex_1_st_2;Pourtant, ils disent qu'elle peut être difficile et qu'elle est plutôt malheureuse.
 spokentexts_schriftstellerin_talk_mit_1_st_1;Excusez-moi, Lady Westmacott ?
 spokentexts_schriftstellerin_talk_mit_1_st_2;Officer Zellner ! Comment puis-je vous aider ?
 spokentexts_schriftstellerin_talk_mit_2_st_1;Il y a des milliers de choses que je voudrais lui demander.
@@ -1077,7 +1077,7 @@ sequences_transportwagon_seq_a01_transportwagon_bombenfund_und_explosion#0;[The 
 spokentexts_transportwagon_seq_a01_transportwagon_bombenfund_und_explosion_st_1_direction;scared
 spokentexts_transportwagon_seq_a01_transportwagon_bombenfund_und_explosion_st_1;C'est une...
 sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#0;[Cut to the investigator.]
-spokentexts_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor_st_1;Lâche-moi !
+spokentexts_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor_st_1;Ôtez-vous !
 sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#2;[The investigators fights himself free, searches for his flashlight, and turns is on. He radiates the security guard in the face.]
 sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#3;[Cut to a long shot.]
 sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#4;[While Ohi and the security guard stands up again. the investigator illuminated with a flashlight toward the vault.]
@@ -1091,7 +1091,7 @@ sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#11;[The inv
 spokentexts_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor_st_4_direction;reads
 spokentexts_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor_st_4;Mon cher Nico. Vous devriez jeter un oeil à cette boîte. R.
 spokentexts_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor_st_5_direction;softly, shaken
-spokentexts_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor_st_5;Que diable ?
+spokentexts_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor_st_5;Qu'est-ce que ça veut dire ?
 sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#17;[The investigator stares stunned at the letter.]
 sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#14;[The investigator presses the guard the torch and the letter in his hand and makes a hasty working to open the safe (twist lock). He opens the heavy door, pulls out a metal box and return it to the vault.]
 sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#15;[The investigator reaches into his pocket, pulls out a key and opens the drawer. He does it all very quickly / hastily. Rather rashly. He is under pressure.]
@@ -1117,12 +1117,12 @@ spokentexts_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_er
 sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig#10;[Ohi stares surprised at the investigator Then he looks back on the guard.]
 sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig#11;[Cut to the guard.]
 sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig#12;[The guard is initially uncertain, but then he put the gun away and is now available as normal.]
-spokentexts_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig_st_5;Si je peux me présenter...
+spokentexts_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig_st_5;Si je peux vous présenter...
 sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig#14;[Cut to a long shot.]
 sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig#15;[The investigator point to the the security guard.]
 spokentexts_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig_st_6;Officier Robert Oliver du Yard.
 sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig#17;[The investigator points to Ohi.]
-spokentexts_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig_st_7;Et voici le gendarme Zellner de la police Suisse, qui apparemment ne peut pas contrôler sa curiosité.
+spokentexts_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig_st_7;Et voici le Gendarme Zellner de la police Suisse, qui apparemment ne peut pas contrôler sa curiosité.
 sequences_transportwagon_seq_a01_transportwagon_oehi_betritt_transportwagen_erstmalig#19;[The investigator stands up normally.]
 sequences_transportwagon_seq_a01_transportwagon_stromausfall_und_vollbremsung#0;[The train goes through a tunnel, no light from outside is in the train anymore.]
 spokentexts_transportwagon_seq_a01_transportwagon_stromausfall_und_vollbremsung_st_1_direction;light goes out, he is surprised
@@ -1151,7 +1151,7 @@ sequences_a01_brieftasche_briefe_ex_1#2;[Ohi opens to the first letter.]
 spokentexts_a01_brieftasche_briefe_ex_1_st_2;Hmm. Confidentiel.
 sequences_a01_brieftasche_briefe_ex_1#4;[Ohi closes the letter, puts the letters on the other side.]
 spokentexts_a01_brieftasche_briefe_ex_2_st_1;C'est une chose de donner un coup d'oeil à dans le sac afin de s'assurer que rien ne manque.
-spokentexts_a01_brieftasche_briefe_ex_2_st_2;Mais je ne peux pas lire la correspondance privée de la baronne sans une bonne raison !
+spokentexts_a01_brieftasche_briefe_ex_2_st_2;Mais je ne peux pas lire la correspondance privée de la Baronne sans une bonne raison !
 texts_a01_brieftasche_foto_mo_ex_1;Regarder l'image
 texts_a01_brieftasche_foto_mo_ex_2;Lire le texte
 texts_a01_brieftasche_foto_mo_use_1;Retourner l'image
@@ -1161,36 +1161,36 @@ spokentexts_a01_brieftasche_foto_ex_1_st_3;Des vêtements léger et les ombres m
 spokentexts_a01_brieftasche_foto_ex_2_st_1;Difficile à lire... C'est de l'ancien allemand.
 spokentexts_a01_brieftasche_foto_ex_2_st_2;Je l'ai appris à l'école, mais je suis un peu rouillé. J'écrit avec l'alphabet latin depuis maintenant dix ans, comme tout le monde.
 spokentexts_a01_brieftasche_foto_ex_2_st_3;"Hmm. On dirait que ça dit: ""Pour ma chère petite soeur Meta, Mazurie - Été 1926"". "
-spokentexts_a01_brieftasche_foto_ex_2_st_4;La baronne devait être une jeune femme en 1926. Elle a probablement passé les vacances d'été avec sa famille là-bas.
+spokentexts_a01_brieftasche_foto_ex_2_st_4;La Baronne devait être une jeune femme en 1926. Elle a probablement passé les vacances d'été avec sa famille là-bas.
 sequences_a01_brieftasche_foto_ex_2#5;[Ohi rotates the photo back.]
 spokentexts_a01_brieftasche_foto_ex_2_st_5;Des souvenirs agréables figés dans une image.
-spokentexts_a01_brieftasche_foto_ex_2_st_6;Mais ce n'est pas mes affaires. Je dois redonner à la baronne ce qui lui appartient.
+spokentexts_a01_brieftasche_foto_ex_2_st_6;Mais ce n'est pas mes affaires. Je dois redonner à la Baronne ce qui lui appartient.
 sequences_a01_brieftasche_foto_ex_2#8;[It switches back the normal scene. There lies the wallet of Ohi again.]
 sequences_a01_brieftasche_foto_use_1#1;[Ohi picks the photo and turns it. On the back is a text.]
 texts_a01_brieftasche_geldscheine_mo_ex_1;Examiner les billets de banque
 spokentexts_a01_brieftasche_geldscheine_ex_1_st_1;Hmm. Des billets de banque. En livres sterling, en francs français et lire italienne.
 sequences_a01_brieftasche_geldscheine_ex_1#2;[Ohi put the the banknotes from the right places to the left side of the wallet.]
-spokentexts_a01_brieftasche_geldscheine_ex_1_st_2;Beaucoup plus que la plupart des gens n'auraient sur eux. Mais sans doute approprié pour une dame riche comme la baronne.
+spokentexts_a01_brieftasche_geldscheine_ex_1_st_2;Beaucoup plus que la plupart des gens n'auraient sur eux. Mais sans doute approprié pour une dame riche comme la Baronne.
 texts_a01_grossraumwagon_aushang_mo_ex_1__2;Examiner la carte
-spokentexts_a01_grossraumwagon_aushang_ex_1_st_2;Cette grande carte montre les différentes routes de l'Orient Express. Ce train a part à Paris et finit à Istanbul, comme d'habitude.
+spokentexts_a01_grossraumwagon_aushang_ex_1_st_2;Cette grande carte montre les différentes routes de l'Orient Express. Ce train part de Paris et finit à Istanbul, comme d'habitude.
 spokentexts_a01_grossraumwagon_aushang_ex_1_st_3;Malheureusement, il fera l'essentiel de son voyage sans moi.
 spokentexts_a01_grossraumwagon_aushang_ex_2_st_1;Le train parcourt une distance de plus de 3000 kilomètres et s'arrête dans une douzaine d'endroits.
 spokentexts_a01_grossraumwagon_aushang_ex_2_st_2;Dans de nombreuses villes, ils divertissent les voyageurs avec des spécialités locales. Toute une aventure, en particulier en Europe du Sud !
 texts_a01_grossraumwagon_brieftasche_mo_ex_1;Fouiller dans le sac à main
 texts_a01_grossraumwagon_brieftasche_mo_ex_3;Fouiller dans le sac à main
-texts_a01_grossraumwagon_brieftasche_mo_inventar;Le sac de la baronne
+texts_a01_grossraumwagon_brieftasche_mo_inventar;Le sac de la Baronne
 texts_a01_grossraumwagon_brieftasche_mo_use_1__2;Ouvrir le sac à main
 texts_choice_02;Ne pas fouiller le sac à main
 texts_choise_01;Fouiller dans le sac à main
 spokentexts_a01_grossraumwagon_brieftasche_ex_1_st_1;Devrais-je jeter un coup d'oeil à l'intérieur ? Ce ne serait pas correct.
-spokentexts_a01_grossraumwagon_brieftasche_ex_1_st_2;D'autre part, il pourrait y avoir des indices importants pour être trouvé !
-spokentexts_a01_grossraumwagon_brieftasche_ex_2_st_1;Il y a rien d'intéressant pour moi ou pour l'inspecteur Legrand dans ce sac. Je dois le rendre à la baronne.
+spokentexts_a01_grossraumwagon_brieftasche_ex_1_st_2;D'autre part, il pourrait y avoir des indices importants dedans !
+spokentexts_a01_grossraumwagon_brieftasche_ex_2_st_1;Il y a rien d'intéressant pour moi ou pour l'inspecteur Legrand dans ce sac. Je dois le rendre à la Baronne.
 sequences_a01_grossraumwagon_brieftasche_ex_3#1;[Cut back to the shot.]
 sequences_a01_grossraumwagon_brieftasche_ex_3#2;[Ohi takes the wallet in his hand. The Geiger closes the window, turns into Öhis direction and freezes.]
 sequences_a01_grossraumwagon_brieftasche_ex_3#3;[He noted that Ohi has tampered with the suitcase. He makes a few angry steps towards Ohi. Then he sees what Ohi has in his hand and stops abruptly.]
 spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_1;Hé ! Que faites-vous là ?
 sequences_a01_grossraumwagon_brieftasche_ex_3#5;[Ohi stands there with the wallet in his hand (idle).]
-spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_2;Je prenais votre étui pour le mettre en sécurité, il était laissé sans surveillance. Quand je l'ai ramassé, le rabattant était ouvert...
+spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_2;Je prenais votre étui pour le mettre en sécurité, il était laissé sans surveillance. Quand je l'ai pris, le rabattant s'est ouvert...
 spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_3_direction;angry
 spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_3;Je ne laisse jamais mon violon sans surveillance !
 spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_4;Ah ! Alors personne d'autre n'aurait pu mettre ce sac dans votre étui ?
@@ -1199,14 +1199,14 @@ spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_5;Euhh... quelqu'un doit doit
 spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_6;Ah ah, bien sûr. Et vous avez un pistolet dans votre étui parce que...
 spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_7_direction;angry
 spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_7;Je ne vous dois une explication ! C'est à moi... J'ai un permis de port d'arme !
-spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_8;Maintenant, prenez ce satané sac de cette baronne et me laissez-moi tranquille.
+spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_8;Maintenant, prenez ce satané sac de cette Baronne et me laissez-moi tranquille.
 spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_9;Ça ne sera pas si facile. Je vais signaler l'incident aux autorités italiennes de Venise.
 spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_10_direction;hissing angrily
 spokentexts_a01_grossraumwagon_brieftasche_ex_3_st_10;Fichez-moi la paix !
 spokentexts_a01_grossraumwagon_brieftasche_ex_4_st_1;Non. C'est une mauvaises manières de passer des documents privés entres personnes.
 sequences_a01_grossraumwagon_brieftasche_use_03#1;[Ohi is the transition in the lounge wagon and searched there the wallet]
 sequences_a01_grossraumwagon_brieftasche_use_03#5;[Ohi pulls out the wallet and looks inside.]
-spokentexts_a01_grossraumwagon_brieftasche_use_1_st_1;Ce n'est pas vraiment ce qu'un gentleman ferait, et si la baronne le découvre, elle aurait une bonne raison de m'accuser de malhonnêteté.
+spokentexts_a01_grossraumwagon_brieftasche_use_1_st_1;Ce n'est pas vraiment ce qu'un gentleman ferait, et si la Baronne le découvre, elle aurait une bonne raison de m'accuser de malhonnêteté.
 spokentexts_a01_grossraumwagon_brieftasche_use_1_st_2;Mais il y a plus en jeu qu'un sac à main volé et il peut contenir des informations importantes.
 sequences_a01_grossraumwagon_brieftasche_use_1#3;[Ohi pulls out the wallet, and opens it.]
 sequences_a01_grossraumwagon_brieftasche_use_1#4;"[It is switched to the Closeup Scene ""wallet"".]"
@@ -1218,7 +1218,7 @@ texts_a01_grossraumwagon_fenster_mo_use_1__4;Ouvrir la fenêtre
 texts_a01_grossraumwagon_fenster_mo_use_2__3;Fermer la fenêtre
 texts_a01_grossraumwagon_fenster_mo_used_mit_zahnstocher;Mettre cure-dent dans la glissière
 texts_a01_grossraumwagon_fenster_seq_choice_fenster_offen_lassen_title;La fenêtre reste ouverte !
-spokentexts_a01_grossraumwagon_fenster_seq_choice_fenster_offen_lassen_st_1;Vous n'êtes pas le seul dans ce train. Je veux que ouvrir la fenêtre.
+spokentexts_a01_grossraumwagon_fenster_seq_choice_fenster_offen_lassen_st_1;Vous n'êtes pas le seul dans ce train. Je veux ouvrir la fenêtre.
 sequences_a01_grossraumwagon_fenster_seq_choice_fenster_offen_lassen#1;[The Geiger gets up, walks to the window.]
 spokentexts_a01_grossraumwagon_fenster_seq_choice_fenster_offen_lassen_st_2;La politesse suisse ne semble plus être ce qu'elle était !
 sequences_a01_grossraumwagon_fenster_seq_choice_fenster_offen_lassen#3;[The Geiger slams the window demonstratively.]
@@ -1243,7 +1243,7 @@ spokentexts_a01_grossraumwagon_fenster_use_3_st_3;Mais moi, non. Je ne veux pas 
 spokentexts_a01_grossraumwagon_fenster_use_3_st_4;Que faites-vous ? N'ai-je pas été assez clair ? CETTE FENÊTRE RESTE FERMÉE !
 spokentexts_a01_grossraumwagon_fenster_use_4_st_1;Cela n'a aucun sens. Le violoniste irait fermer la fenêtre et je n'aurais pas assez de temps pour fouiller son étui à violon.
 sequences_a01_grossraumwagon_fenster_used_mit_zahnstocher_1#1;[Ohi opens the window, puts the toothpick in the scroll bar.]
-spokentexts_a01_grossraumwagon_fenster_used_mit_zahnstocher_1_st_1;La pointe du cure-dent est coincé entre la fenêtre et la glissière !
+spokentexts_a01_grossraumwagon_fenster_used_mit_zahnstocher_1_st_1;La pointe du cure-dent est coincée entre la fenêtre et la glissière !
 spokentexts_a01_grossraumwagon_fenster_used_mit_zahnstocher_1_st_6;Quel toupet ! Je vais me plaindre à vos supérieurs !
 sequences_a01_grossraumwagon_fenster_used_mit_zahnstocher_1#12;[The Geiger gets up, walks to the window, wants to close it. It's stuck. He fights around with the window, but he can not close.]
 sequences_a01_grossraumwagon_fenster_used_mit_zahnstocher_1#13;[The player takes control.]
@@ -1301,8 +1301,8 @@ spokentexts_a01_grossraumwagon_pistole_ex_1_st_1_direction;whistles
 spokentexts_a01_grossraumwagon_pistole_ex_1_st_1;Eh bien.
 spokentexts_a01_grossraumwagon_pistole_ex_1_st_2;Ce n'est pas ce qu'on s'attend à trouver dans un étui à violon...
 spokentexts_a01_grossraumwagon_pistole_ex_1_st_3;Vieux mais probablement encore totalement fonctionnel.
-texts_a01_grossraumwagon_portemonnaie_mo_inventar;Porte-monnaie
-spokentexts_a01_grossraumwagon_portemonnaie_ex_1_st_1;Je l'ai acheté la semaine dernière dans un marché aux puces. Je l'aime parce qu'il raconte une histoire.
+texts_a01_grossraumwagon_portemonnaie_mo_inventar;Portefeuille
+spokentexts_a01_grossraumwagon_portemonnaie_ex_1_st_1;Je l'ai acheté la semaine dernière dans un marché aux puces. Je l'aime parce qu'il a une histoire.
 spokentexts_a01_grossraumwagon_portemonnaie_ex_1_st_2;Je suppose que le propriétaire précédent s'en est acheté un nouveau. Celui-ci fonctionne encore très bien !
 texts_a01_grossraumwagon_schloss_kabine_archaeologe_mo_ex_1;Examiner la serrure
 texts_a01_grossraumwagon_schloss_kabine_archaeologe_mo_use_1;Ouvrir la serrure avec l'épingle à cheveux
@@ -1345,7 +1345,7 @@ spokentexts_a01_grossraumwagon_tuer_zum_salonwagen_leave_2_st_2;Nous avions beso
 sequences_a01_grossraumwagon_tuer_zum_salonwagen_leave_2#6;[Ohi is shaking his head and goes out of the wagon.]
 sequences_a01_grossraumwagon_tuer_zum_salonwagen_leave_3#1;[Ohi enters the saloon wagon.]
 texts_a01_grossraumwagon_tuer_zum_tender_mo_ex_1;Regarder la porte
-spokentexts_a01_grossraumwagon_tuer_zum_tender_ex_1_st_1;Il s'agit de la voiture de tête. La réserve de charbon doit être juste derrière cette porte et en face de celui-ci, la locomotive.
+spokentexts_a01_grossraumwagon_tuer_zum_tender_ex_1_st_1;Il s'agit de la voiture de tête. La réserve de charbon doit être juste derrière cette porte et juste en face, la locomotive.
 texts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_mo_ex_1a__1b;Examiner la porte verrouillée
 texts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_mo_ex_2;Regarder la porte de la cabine du professeur
 texts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_mo_use_1-3;Frapper à la porte de la cabine du professeur
@@ -1369,7 +1369,7 @@ spokentexts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_use_2_st_2;Je veux sa
 spokentexts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_use_3_st_1;Je crois que je vais le laisser tranquille.
 spokentexts_a01_grossraumwagon_tuer_zur_kabine_archaeologe_use_3_st_2;Si quelque chose me revient à l'esprit, je sais où le trouver.
 texts_a01_grossraumwagon_tuer_zur_kabine_baronin_mo_ex_1__2;Examiner la porte du compartiment.
-texts_a01_grossraumwagon_tuer_zur_kabine_baronin_mo_use_1-6;Frapper à la porte de la baronne
+texts_a01_grossraumwagon_tuer_zur_kabine_baronin_mo_use_1-6;Frapper à la porte de la Baronne
 spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_ex_1_st_1_direction;sarcastically
 spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_ex_1_st_1;"La petite étiquette sur la porte dit ""Baronne von Trebitz"". Du sang bleu dans l'Orient Express."
 spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_ex_2_st_1;"Hmm. Un ""Ne pas déranger"" est accroché sur la porte."
@@ -1379,14 +1379,14 @@ spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_1_st_1;Oui, qu'est-ce
 spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_1_st_2_direction;loud from behind
 spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_1_st_2;Peu importe qui c'est James, demandez-leur s'ils ont trouvé mon sac et fermez la porte. Le bruit sur ​​ce train me rend folle !
 sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_2#1;[Ohi is knocking the door. A short time later the door opened a little, the butler stands behind the gap (idle). In the background sits the Baroness, drinks and reads letters.]
-spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_2_st_1;Oh, Officier, avez-vous trouvé le sac à main de la baronne ?
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_2_st_1;Oh, Officier, avez-vous trouvé le sac à main de la Baronne ?
 spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_2_st_2_direction;loud from behind
-spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_2_st_2;At-il trouvé mon sac à main ?
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_2_st_2;A t-il trouvé mon sac à main ?
 spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_2_st_3;Pas encore, je le crains !
-spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_3_st_1;La baronne semble avoir une... personnalité originale.
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_3_st_1;La Baronne semble avoir une... personnalité originale.
 spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_3_st_2;Je ferais mieux de ne pas la déranger jusqu'à ce que je trouve son sac.
 sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4#1;[Ohi is knocking the door. A short time later the door opened a little, the butler stands behind the gap (idle). In the background sits the Baroness, drinks and reads letters.]
-spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4_st_1;Oh, inspecteur. Avez-vous trouvé le sac à main de la baronne ?
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4_st_1;Oh, inspecteur. Avez-vous trouvé le sac à main de la Baronne ?
 spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4_st_2;Tout à fait .
 sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4#4;[The Baroness looks at Ohi (idle).]
 spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4_st_3_direction;laut aus dem Hintergrund
@@ -1398,17 +1398,17 @@ sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4#8;[Cut to the cabin. 
 sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4#9;[Ohi pulls out the wallet, briefly shows it to the baroness, and gives it then to the butler. The butler turns around and puts the wallet on the suitcases. He turns around so that he can see his mistress and Ohi easily and then he stops (idle).]
 spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4_st_5;Oh wunderbar !
 spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4_st_6;Quel travail remarquable, Inspecteur !
-spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4_st_7;Officier, madame la baronne. Officier Anton Jakob Zellner à votre service.
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_4_st_7;Officier, madame la Baronne. Officier Anton Jakob Zellner à votre service.
 sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_5#1;[Ohi is knocking on the door. A short time later the door opened a little, the butler stands behind the gap (idle). In the background sits the Baroness and looks at the door (idle).]
 spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_5_st_1;Officier Zellner. Puis-je vous aider ?
 spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_5_st_2;James, ôtez-vous !
 spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_5_st_3;Je veux parler à l'inspecteur !
 sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_5#5;[The butler rolls his eyes.]
-spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_5_st_4;Officier, madame la baronne.
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_5_st_4;Officier, madame la Baronne.
 sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_5#7;[The butler goes to its position (idle).]
 sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_5#8;[Cut to the cabin.]
 sequences_a01_grossraumwagon_tuer_zur_kabine_baronin_use_5#9;[Dialogue between Ohi and Baroness starts.]
-spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_6_st_1;Je ne crois pas que la baronne ait plus d'informations.
+spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_6_st_1;Je ne crois pas que la Baronne ait plus d'informations.
 spokentexts_a01_grossraumwagon_tuer_zur_kabine_baronin_use_6_st_2;Et ça conversation n'est pas des plus agréable qu'il soit.
 sequences_grossraumwagon_seq_a01_grossraumwagon_butler_verschwindet#0;[Scene: Ohi enters the saloon wagon. In the foreground you can see just how the butler in the other direction goes away (in rond tender).]
 sequences_grossraumwagon_seq_a01_grossraumwagon_butler_verschwindet#1;[From now on, the butler is at the end of the car at the tender door.]
@@ -1460,13 +1460,13 @@ spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_archaeologen_kennen_st_
 spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_archaeologen_kennen_st_9_direction;surprised / excited
 spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_archaeologen_kennen_st_9;N'en dites pas plus !
 spokentexts_grossraumwagon_seq_kabine_der_baronin_leave_2_st_1_direction;whistles
-spokentexts_grossraumwagon_seq_kabine_der_baronin_leave_2_st_1;Ouf ! Le majordome doit avoir la patience d'un saint. Je pourrais à peine tenir dix minutes confinés avec la baronne.
+spokentexts_grossraumwagon_seq_kabine_der_baronin_leave_2_st_1;Ouf ! Le majordome doit avoir la patience d'un saint. Je pourrais à peine tenir dix minutes confinés avec la Baronne.
 spokentexts_grossraumwagon_seq_kabine_der_baronin_leave_2_st_2;Mais ce qu'elle avait à dire au sujet du professeur Lucien était intéressant.
 spokentexts_grossraumwagon_seq_kabine_der_baronin_leave_2_st_3;Lui et Legrand sont de mèche. Espérons que le professeur peut me dire ce qui se passe réellement ici, parce que Legrand ne le fera pas.
 texts_a01_kabine_archaeologe_fenster_mo_ex_1__4;Examiner la fenêtre
 texts_a01_kabine_archaeologe_fenster_mo_ex_2__3;Examiner la fenêtre
 texts_a01_kabine_archaeologe_fenster_mo_used_mit_graphitpulver;Souffler poudre de graphite sur la fenêtre
-spokentexts_a01_kabine_archaeologe_fenster_ex_1_st_1;Hmm. En supposant qu'il y avait vraiment quelqu'un dans le compartiment et il a grimpé par la fenêtre... Où est-il allé ?
+spokentexts_a01_kabine_archaeologe_fenster_ex_1_st_1;Hmm. En supposant qu'il y avait vraiment quelqu'un dans le compartiment et qu'il ait grimpé par la fenêtre... Où est-il allé ?
 spokentexts_a01_kabine_archaeologe_fenster_ex_2_st_1;Le voleur a t-il laissé des indices ?
 sequences_a01_kabine_archaeologe_fenster_ex_2#2;[Ohi is getting close to the window, looking exactly the glass. Idle.]
 spokentexts_a01_kabine_archaeologe_fenster_ex_2_st_2;il y a quelque chose ! Ça pourrait être une empreintes digitales !
@@ -1517,7 +1517,7 @@ spokentexts_a01_kabine_archaeologe_schreibzeug_ex_1_st_1_direction;appreciative 
 spokentexts_a01_kabine_archaeologe_schreibzeug_ex_1_st_1;Ouah !
 spokentexts_a01_kabine_archaeologe_schreibzeug_ex_1_st_2;Vous avez un très beau stylo à plume. Très coûteux...
 spokentexts_a01_kabine_archaeologe_schreibzeug_ex_1_st_3_direction;snapped slightly
-spokentexts_a01_kabine_archaeologe_schreibzeug_ex_1_st_3;Si vous aviez réussi à décoder les hiéroglyphes qui bloqués les meilleurs esprits des trois derniers millénaires, vous auriez reçu un cadeau comme ça aussi.
+spokentexts_a01_kabine_archaeologe_schreibzeug_ex_1_st_3;Si vous aviez réussi à décoder les hiéroglyphes qui bloquaient les meilleurs esprits des trois derniers millénaires, vous auriez reçu un cadeau comme ça aussi.
 texts_a01_kabine_archaeologe_tasche_mo_ex_1;Examiner le sac
 spokentexts_a01_kabine_archaeologe_tasche_ex_1_st_1;Je me demande vraiment ce que le professeur me cache...
 spokentexts_a01_kabine_archaeologe_tasche_ex_1_st_2;Mais je ne peux pas fouiller dans les bagages d'innocents citoyens. Ça c'était les années soixante !
@@ -1540,7 +1540,7 @@ texts_a01_salonwagen_bleistift_mo_ex_1;Examiner le bloc-notes
 texts_a01_salonwagen_bleistift_mo_inventar;Crayon
 texts_a01_salonwagen_bleistift_mo_take_1;Prendre le bloc-notes
 spokentexts_a01_salonwagen_bleistift_ex_1_st_1;Le bloc sur lequel le stewart écrit les commandes...
-spokentexts_a01_salonwagen_bleistift_ex_1_st_2;Vide. Peut-être qu'il ne l'a pas utilisé car il n'y a pas grand chose à faire aujourd'hui.
+spokentexts_a01_salonwagen_bleistift_ex_1_st_2;Blanc. Peut-être qu'il ne l'a pas utilisé car il n'y a pas grand chose à faire aujourd'hui.
 spokentexts_a01_salonwagen_bleistift_ex_2_st_1;Le crayon du stewart. Probablement l'un des crayons qui a le plus voyagé dans le monde entier.
 spokentexts_a01_salonwagen_bleistift_take_1_st_1;Je n'ai pas besoin de ce bloc, mais le crayon pourrait être utile.
 sequences_a01_salonwagen_bleistift_take_1#2;[Öhi takes the pencil.]
@@ -1606,7 +1606,7 @@ sequences_a01_salonwagen_schublade_use_1#2;[Ohi tried to open the drawer, but it
 spokentexts_a01_salonwagen_schublade_use_1_st_2;Verrouillé.
 sequences_a01_salonwagen_schublade_use_1#6;[Ohi turns away.]
 spokentexts_a01_salonwagen_schublade_use_1_st_3_direction;frustrated
-spokentexts_a01_salonwagen_schublade_use_1_st_3;Hmm. Où pouvait-elle être ?
+spokentexts_a01_salonwagen_schublade_use_1_st_3;Hmm. Où peut-il être ?
 spokentexts_a01_salonwagen_schublade_use_1_st_4;Si je veux impressionner Legrand, je devrais le faire. Il est célèbre pour ses méthodes non conventionnelles.
 spokentexts_a01_salonwagen_schublade_use_1_st_5;La serrure est tellement simple que je pourrais facilement la crocheter.
 spokentexts_a01_salonwagen_schublade_used_mit_haarnadel_st_1_direction;amused
@@ -1622,7 +1622,7 @@ sequences_a01_salonwagen_tuer_zum_uebergang_leave_1#1;[Ohi goes.]
 texts_a01_salonwagen_zahnstocher_mo_inventar_1;Cure-dents
 spokentexts_a01_salonwagen_zahnstocher_ex_1_st_1;Ces cure-dents en bois sont conditionnés dans de petits emballages de papier.
 spokentexts_a01_salonwagen_zahnstocher_ex_1_st_2;Rien d'anormal.
-texts_a01_salonwagen_zahnstocherglas_mo_ex_1;Examiner le pot des cure-dents
+texts_a01_salonwagen_zahnstocherglas_mo_ex_1;Examiner le pot à cure-dents
 texts_a01_salonwagen_zahnstocherglas_mo_take_1__2;Prendre un cure-dent
 spokentexts_a01_salonwagen_zahnstocherglas_ex_1_st_1;Le stewart doit avoir oublié ces cure-dents.
 spokentexts_a01_salonwagen_zahnstocherglas_ex_1_st_2;Normalement, il devrait les offrir discrètement après le dîner.
@@ -1647,7 +1647,7 @@ spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_8;
 spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_9;C'est gentil, Officier...
 spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_10;Zellner ! Anton Jakob Zellner.
 sequences_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen#13;[The writer friendly nods, points to the nurse.]
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_11;Ma accompagnatrice, Mme Miller.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_11;Mon accompagnatrice, Mme Miller.
 sequences_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen#15;[Ohi touches his hat, the nurse nods slightly, then begins to knit.]
 spokentexts_salonwagen_seq_a01_salonwagen_oehi_lernt_schriftstellin_kennen_st_12;C'est un plaisir.
 sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#0;[The nurse looks quick up from their knits, sees Ohi. She stops to knit and lowers her knitting. Then she beckons Ohi and enters the idle-talk.]
@@ -1668,7 +1668,7 @@ spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_
 spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_11;Ah... je comprends.
 sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#18;[The nurse looks up again.]
 spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_12;Pourriez-vous... Euhh, peut-être laisser le pistolet de Matty ici ? Vous n'auriez plus besoin de vous soucier de cela.
-spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_13;Bien sûr. Je lui ai dit qu'il ne pourrait récupérer qu'à Venise.
+spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_13;Bien sûr. Je lui ai dit qu'il ne pourrait le récupérer qu'à Venise.
 sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#21;[The nurse nods while Ohi gives her the gun and puts it on the table.]
 spokentexts_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen_st_14;Très bien, et encore merci, Officier.
 sequences_salonwagen_seq_a01_salonwagen_oehi_wird_von_pflegerin_abgefangen#23;[Ohi bows slightly, taps his hat.]
@@ -1683,14 +1683,14 @@ spokentexts_a01_uebergang_leiter_ex_1_st_3;Le vent, les tunnels... Non, je vais 
 texts_a01_uebergang_tuer_zum_salonwagen_mo_leave_1;Allez au wagon-salon.
 sequences_a01_uebergang_tuer_zum_salonwagen_leave_1#1;[Ohi enters the saloon wagon.]
 texts_a01_uebergang_tuer_zum_transportwagon_mo_leave_1-3;Entrer dans la voiture de fret
-spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_1_st_1;I strongly suspect that the door is locked.
+spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_1_st_1;Je soupçonne fortement que cette porte est verrouillée.
 sequences_a01_uebergang_tuer_zum_transportwagon_leave_1#2;[Ohi grabs the wheel to his surprise he can turn it.]
 spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_1_st_2_direction;surprised
 spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_1_st_2;Non ! C'est ouvert !
 sequences_a01_uebergang_tuer_zum_transportwagon_leave_1#4;[Ohi opens the heavy door, enters.]
 spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_2_st_1;L'inspecteur Legrand a été très clair.
 spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_2_st_2;Je peut uniquement entrer dans le wagon si il y a des nouvelles à signaler.
-spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_2_st_3;Et l'affaire du sac disparus ne sera résolu qu'une fois que je l'aurai rendu à sa propriétaire.
+spokentexts_a01_uebergang_tuer_zum_transportwagon_leave_2_st_3;Et l'affaire du sac disparu ne sera résolu qu'une fois que je l'aurai rendu à sa propriétaire.
 sequences_a01_uebergang_tuer_zum_transportwagon_leave_3#1;[Ohi knocks twice the door. He opens it and enters.]
 texts_a01_uebergang_werkzeugkasten_mo_ex_1__2;Examiner la boîte
 texts_a01_uebergang_werkzeugkasten_mo_ex_1-3;Examiner la boîte
@@ -1722,7 +1722,7 @@ spokentexts_a01_uebergang_werkzeugkasten_use_1_st_8_direction;still hard at brea
 spokentexts_a01_uebergang_werkzeugkasten_use_1_st_8;Tu le récupéras à Venise.
 spokentexts_a01_uebergang_werkzeugkasten_use_1_st_9_direction;outraged, angry
 spokentexts_a01_uebergang_werkzeugkasten_use_1_st_9;J'aurai pu tomber sous les roues !
-spokentexts_a01_uebergang_werkzeugkasten_use_1_st_10;J'aurais pu croire que tu étais un fantôme !
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_10;J'aurais pu croire que vous étiez un fantôme !
 spokentexts_a01_uebergang_werkzeugkasten_use_1_st_11_direction;calms down slowly
 spokentexts_a01_uebergang_werkzeugkasten_use_1_st_11;Les fantômes n'existent pas.
 spokentexts_a01_uebergang_werkzeugkasten_use_1_st_12;Que si ! Il y en a un qui vient juste voler devant la fenêtre !
@@ -1778,7 +1778,7 @@ spokentexts_a01_zeitung_artikel_cleopatra_ex_1_st_3;Un exploit incroyable. Ils o
 spokentexts_a01_zeitung_artikel_cleopatra_ex_1_st_4;Et à cause des nombreuses maladies de l'actrice principale, des plusieurs changements de réalisateur et des mois de retards, les coûts ont explosé à plus de 40 millions de dollars.
 spokentexts_a01_zeitung_artikel_cleopatra_ex_1_st_5;Le film le plus cher jamais réalisé ! Un record qui ne sera jamais cassé.
 spokentexts_a01_zeitung_artikel_formel1_ex_1_st_1;John Surtees a remporté le championnat du monde de Formule 1 pour la première fois samedi. Il a également remporté le championnat du monde de course de moto de 1956 à 1960.
-spokentexts_a01_zeitung_artikel_formel1_ex_1_st_2;Fait d lui le seul homme dans le sport automobile à remporter des championnats mondiaux à la fois moto et en Formule 1.
+spokentexts_a01_zeitung_artikel_formel1_ex_1_st_2;Fait de lui le seul homme dans le sport automobile à remporter des championnats mondiaux à la fois moto et en Formule 1.
 spokentexts_a01_zeitung_artikel_formel1_ex_1_st_3;Hmm. C'est pas vraiment ma tasse de thé.
 spokentexts_a01_zeitung_artikel_formel1_ex_1_st_4;Trop bruyant, trop rapide, trop de gaz d'échappement.
 texts_verlassediebar_mo_leave_1;Revenir
