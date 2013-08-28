@@ -44,7 +44,7 @@ spokentexts_arzt_ex_2_st_1;Le Dr Gebhardt a insisté pour venir.
 spokentexts_arzt_ex_2_st_2;Mais maintenant, il ne semble plus être tellement sûr que c'était une bonne idée.
 spokentexts_arzt_talk_mit_1_st_1;Allez, Dr Gebhardt. Allons-y !
 spokentexts_arzt_talk_mit_1_st_2;Je suis juste derrière vous !
-spokentexts_arzt_talk_mit_2_st_1;Ça va, Doctor ?
+spokentexts_arzt_talk_mit_2_st_1;Ça va, Docteur ?
 spokentexts_arzt_talk_mit_2_st_2;Bi-bien entendu. Pourquoi ça n'irait pas ?
 spokentexts_arzt_talk_mit_2_st_3;C'est juste que... Eh bien...
 spokentexts_arzt_talk_mit_2_st_4;Je préfère venir avec vous !
@@ -261,7 +261,7 @@ sequences_a06_frachtraum_versteck_seq_a06_frachtraum_versteck_schuss#2;[Cut back
 sequences_a06_frachtraum_versteck_seq_a06_frachtraum_versteck_schuss#3;[Ohi sits bound and gagged on a chair. He looks around, then hears something and then listens intently (upper body forward, trying to see something). (Idle).]
 sequences_a06_frachtraum_versteck_seq_a06_frachtraum_versteck_schuss#4;[We hear steps and a man that takes something from of a box (the tape recorder). Then the steps begins to go up the stairs.]
 texts_a06_nebendeck_ausgang_oberdeck_mo_leave_1;Aller sur le pont supérieur
-spokentexts_a06_nebendeck_ausgang_oberdeck_leave_1_st_1;Je pense qu'il est venu de là-haut.
+spokentexts_a06_nebendeck_ausgang_oberdeck_leave_1_st_1;Je crois que ça venait de là-haut.
 sequences_a06_nebendeck_ausgang_oberdeck_leave_1#2;[Ohi and the doctor begin to climb the stairs.]
 texts_a06_nebendeck_ausgang_treppensaal_mo_leave_1;Retour
 spokentexts_a06_nebendeck_ausgang_treppensaal_leave_1_st_1;Il sera toujours temps de se reposer plus tard !
@@ -292,7 +292,7 @@ sequences_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig#0;[Ohi goes the ra
 sequences_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig#1;[The doctor comes in, goes to Ohi.]
 spokentexts_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig_st_1_direction;bewildered
 spokentexts_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig_st_1;Vous allez bien ?
-spokentexts_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig_st_2;Maybe you'd better take a rest, in case the blow was more severe...
+spokentexts_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig_st_2;Peut-être que vous feriez mieux de prendre un repos, dans le cas où le coup serait plus sévère...
 spokentexts_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig_st_4_direction;far away
 spokentexts_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig_st_4;ZELLNER ! Ici !
 sequences_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig#6;"[Ohi makes a powerless ""Leave me alone / Is already"" gesture and gets up right again.]"
