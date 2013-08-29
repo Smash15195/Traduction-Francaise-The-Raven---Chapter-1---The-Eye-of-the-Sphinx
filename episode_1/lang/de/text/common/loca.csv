@@ -1,0 +1,225 @@
+loca_key_foo;Value is Bar
+loading;Lade
+menu_continue;Spiel fortsetzen
+menu_new;Neues Spiel
+menu_new_game_na;Nicht Verfügbar
+menu_new_episode_1;Kapitel 1
+menu_new_episode_2;Kapitel 2
+menu_new_episode_3;Kapitel 3
+episode_1_tooltip;Wähle das Kapitel 1
+episode_2_tooltip;Wähle das Kapitel 2
+episode_3_tooltip;Wähle das Kapitel 3
+episode_end_episode_1;Das war Kapitel 1!
+episode_end_episode_2;Das war Kapitel 2!
+episode_end_episode_3;Das war Kapitel 3!
+menu_load;Spielstand laden
+menu_bonus;Extras
+menu_bonus_title;Bonus Material
+menu_bonus_points;Bonus Punkte:
+menu_bonus_item_credits;Mitwirkende
+menu_bonus_item_concept;Concept-Art,Galerie
+menu_bonus_item_artwork;Artwork,Galerie
+menu_bonus_item_model;3D-Modelle,Galerie
+menu_bonus_item_inconcert;The Raven, in Concert
+menu_bonus_item_soundtrack;Soundtrack
+menu_bonus_item_credits_tooltip;Mitwirkende
+menu_bonus_item_concept_tooltip;Concept-Art Galerie
+menu_bonus_item_artwork_tooltip;Artwork Galerie
+menu_bonus_item_model_tooltip;3D-Modelle Galerie
+menu_bonus_item_inconcert_tooltip;The Raven in Concert
+menu_bonus_item_soundtrack_tooltip;Die Musik des Spiels
+menu_bonus_gallery_concept_art_gallery;Concept-Art
+menu_bonus_gallery_artworks;Artwork Galerie
+menu_bonus_gallery_3d_model_gallery;3D-Modelle
+menu_bonus_gallery_next;Nächste Seite >
+menu_bonus_gallery_previous;< Vorherige Site
+bonus_audio_main_theme;The Raven Main Theme
+bonus_audio_zellner_im_zug;Adventure in the Alps
+bonus_audio_ueberfall_im_museum;Burglary in the Museum
+bonus_audio_zellner_schiff_aussen;Sunny Day on the Open Sea
+bonus_audio_oehi_action;Constable in Action
+bonus_audio_fahrender_zug;Runaway Train
+bonus_audio_humpelnde_leiber;Limp Bodies
+bonus_audio_salonmusik_tag;Saloon Tune
+bonus_audio_er_ist_zurueck;He’s back
+bonus_audio_oehi_schiff_innen;Hunting for Clues
+bonus_audio_bei_voller_fahrt;At full Speed
+bonus_audio_lauernde_bedrohung;Lurking Menace
+bonus_audio_the_raven_overture;The Raven Overture
+menu_settings;Einstellungen
+menu_settings_input;Eingabegerät :
+input_tooltip;Wähle ein Eingabegerät
+input_next_tooltip;Wechsel zum nächsten Eingabegerät
+input_previous_tooltip;Wechsel zum vorherigen Eingabegerät
+menu_settings_resolution;Bildschirm-Auflösung :
+resolution_tooltip;Wähle eine Bildschirm-Auflösung
+resolution_next_tooltip;Wechsel zur nächsten Auflösung
+resolution_previous_tooltip;Wechsel zur vorherigen Auflösung
+menu_settings_quality;Grafik-Qualität :
+quality_tooltip;Wähle eine Grafik-Qualität
+quality_next_tooltip;Wechsel zur nächsten Qualitätsstufe
+quality_previous_tooltip;Wechsel zur vorherigen Qualitätsstufe
+menu_settings_speach;Sprache Lautstärke :
+speach_tooltip;Wähle die Lautstärke für die Sprache
+speach_next_tooltip;Erhöhe die Lautstärke der Sprache
+speach_previous_tooltip;Verringere die Lautstärke der Sprache
+menu_settings_sound;Soundeffekte Lautstärke :
+sound_tooltip;Wähle die Lautstärke für die Soundeffekte
+sound_next_tooltip;Erhöhe die Lautstärke der Soundeffekte
+sound_previous_tooltip;Verringere die Lautstärke der Effekte
+menu_settings_music;Musik Lautstärke :
+music_tooltip;Wähle die Lautstärke für die Musik
+music_next_tooltip;Erhöhe die Lautstärke der Musik
+music_previous_tooltip;Verringere die Lautstärke der Musik
+menu_settings_subtitles;Untertitel-Sprache:
+subtitles_tooltip;Wähle eine Sprache für die Untertitel
+subtitles_next_tooltip;Wechsel zur nächsten Sprache
+subtitles_previous_tooltip;Wechsel zur vorherigen Sprache
+menu_settings_spoken;Audio-Sprache :
+spoken_tooltip;Wähle eine Sprache für die Sprachausgabe
+spoken_next_tooltip;Wechsel zur nächsten Sprache
+spoken_previous_tooltip;Wechsel zur vorherigen Sprache
+menu_settings_input_classic; Klassisch
+menu_settings_input_controller; Gamepad
+menu_settings_lang_de;Deutsch
+menu_settings_lang_en;Englisch
+menu_settings_lang_fr;French
+menu_settings_lang_off;Aus
+menu_settings_volume_off;Aus
+menu_settings_quality_low;Niedrig
+menu_settings_quality_medium;Mittel
+menu_settings_quality_high;Hoch
+menu_settings_save;Einstellungen speichern
+menu_resume;Spiel fortsetzen
+menu_save;Spiel speichern
+menu_mainmenu;Zurück zum Hauptmenü
+menu_quit;Spiel verlassen
+menu_dialog_yes;Ja
+menu_dialog_no;Nein
+menu_dialog_yes_tooltip;Zustimmen
+menu_dialog_no_tooltip;Ablehnen
+menu_dialog_overwrite;Möchtest du den Speicherstand wirklich überschreiben?
+menu_dialog_load;Möchtest du wirklich einen gespeicherten Spielstand laden?\nDer aktuelle Spielfortschritt geht dabei verloren.
+menu_dialog_mainmenu;Möchtest du das Spiel wirklich verlassen?\nUngespeicherter Fortschritt geht dadurch verloren.
+menu_dialog_start_new_game;Beim Starten eines neuen Spiels wird die\nAutosave Datei überschrieben. Fortfahren?
+menu_dialog_quit;Möchtest du das Spiel wirklich beenden?
+menu_back;Zurück
+ButtonBack_tooltip;Zurück
+ButtonPrev_tooltip;Voriges Bild
+ButtonNext_tooltip;Nächstes Bild
+menu_start;Spiel starten
+menu_continue_tooltip;Das Spiel wird an der Stelle fortgesetzt, an der du es verlassen hast.
+menu_new_tooltip;Startet ein neues Spiel.
+menu_load_tooltip;Lädt einen zuvor gespeicherten Spielstand.
+menu_settings_tooltip;Hier kannst du die Spieleinstellungen anpassen.
+menu_quit_tooltip;Beendet das Spiel. Nicht gespeicherter Spielfortschritt geht verloren.
+menu_bonus_tooltip;Hier kannst du dir Zusatzmaterial zum Spiel freischalten.
+menu_back_tooltip;Zurück zum Menü
+menu_settings_save_tooltip;Speichere Spieleinstellungen
+menu_start_tooltip;Starte eine neue Kapitel
+menu_resume_tooltip; Schließt das Menü, führt zurück zum Spiel.
+menu_save_tooltip; Hier kannst du deinen Spielfortschritt speichern.
+menu_savegame_newgame;Neuer Spielstand
+menu_savegame_autosave;Autosave
+menu_savegame_abschnitt_00;Ein Zug in den Alpen
+menu_savegame_abschnitt_01;Ein Zug in den Alpen
+menu_savegame_abschnitt_02;In Stein gefangen
+menu_savegame_abschnitt_03;Feuer, Dampf und Stahl
+menu_savegame_abschnitt_05;Ah, Venedig!
+menu_savegame_abschnitt_06;Eine verdächtige Truhe
+menu_savegame_abschnitt_07;Mord auf hoher See
+menu_savegame_abschnitt_08;Wahnsinn
+menu_savegame_abschnitt_09;Das Geständnis des Raben
+menu_savegame_abschnitt_10;Das Auge der Sphinx
+menu_savegame_abschnitt_11;In die Dunkelheit
+menu_savegame_abschnitt_12;Zürich, Hauptbahnhof
+menu_savegame_abschnitt_13;Der Eisenbahnraub
+menu_savegame_abschnitt_14;Der blinde Passagier
+menu_savegame_abschnitt_15;Der blinde Passagier
+menu_savegame_abschnitt_16;Eine Diebin und ein Mord
+menu_savegame_abschnitt_17;Die Zeit drängt
+menu_savegame_abschnitt_18;Geister der Vergangenheit
+menu_savegame_abschnitt_19;Ein einfacher Plan
+menu_savegame_abschnitt_20;Eine böse Überraschung
+menu_savegame_abschnitt_21;Ein Plan funktioniert
+menu_savegame_abschnitt_22;Die Rückkehr des Raben
+menu_savegame_abschnitt_23;Die Rückkehr des Raben
+menu_savegame_abschnitt_25;Die Rückkehr des Raben
+menu_mainmenu_tooltip; Beende die laufende Partie und öffne das Hauptmenü.
+menu_episode_end_continue;Weiter
+menu_episode_end_continue_tooltip;Setze das Spiel fort.
+edgemenu_menu_tooltip;Öffne das Ingame-Menü.
+edgemenu_notebook_tooltip;Öffne das Notizbuch.
+edgemenu_hotspot_tooltip;Lasse dir alle aktuellen Hotspots anzeigen. Du bezahlst dafür Adventurepunkte.
+notebook_page;Seite
+notebook_category;Kategorie
+notebook_hint;Hinweis
+notebook_next_page;vorblättern
+notebook_prev_page;zurückblättern
+unlock_photo;Neue Bilder freigeschaltet
+unlock_music;Neue Musik freigeschaltet
+unlock_movie;Neues Video freigeschaltet
+messagebox_ok;OK
+message_resolution_changed;Möchtest du die gewählte Auflösung beibehalten?
+episode_end_stats_secrets;Geheimnisse gelöst:
+episode_end_stats_achievements;Erfolge errungen:
+episode_end_stats_help;Rätselhilfe genutzt:
+episode_end_stats_hotspot;Hotspot-Hilfe genutzt:
+episode_end_stats_sum;Adventure-Punkte
+todo_get_award_key;"Meisterleistung"
+episode_end_achievement_label;Erfolge:
+loading_tip;Tipp:
+loading_tip_1;Du solltest dir immer alle Gegenstände ansehen.
+loading_tip_2;Einige Gegenstände musst du mehrfach betrachten um alle ihre Geheimnisse zu erfahren.
+loading_tip_3;Klicke einen Gegenstand im Inventar mit rechts an um ihn zu betrachten.
+loading_tip_4;Drücke die Leertaste um dir alle Gegenstände in der Szene anzeigen zu lassen.
+loading_tip_5;Sprich mit allen Charakteren, wenn du mal nicht weiter kommst.
+loading_tip_6;Im Tagebuch kannst du dir Tipps geben lassen, wenn du feststeckst.
+loading_tip_7;Mach mal eine Pause, wenn du einfach nicht mehr vorankommst!
+loading_tip_3_controller;Um einen Gegenstand im Inventar zu betrachten, selektieren Sie ihn und drücken sie $secondary.
+loading_tip_4_controller;Drücken Sie $space um sich alle Gegenstände in der Szene anzeigen zu lassen.
+infoscreen_start_1;Du bist Anton Jakob Zellner, ein Schweizer Polizist, der in eine Sache hineingezogen wurde,\ndie eigentlich zu groß für ihn ist. Vor drei Tagen wurde ein Edelstein, eines der beiden\nlegendären „Augen der Sphinx“, in London gestohlen. Das zweite Auge befindet sich auf dem\nWeg von Zürich nach Kairo.
+infoscreen_start_2;Im Zug in den Schweizer Alpen kam es zu einem Zwischenfall. Der Rabe, ein international\ngesuchter Meisterdieb, legte eine Bombe und nur durch beherztes Eingreifen von\nWachtmeister Zellner konnte Schlimmeres verhindert werden. Nun befindet sich das\nAuge auf einem Schiff im Mittelmeer.
+infoscreen_start_3;Zellner, durch seine Heldentat im Zug motiviert, will den Edelstein nach Kairo begleiten.\nDoch Nicolas Legrand, ein französischer Ermittler, der die Jagd nach dem Raben anführt,\nwill Zellner nicht dabei haben. Zellner sieht sich im Schiff um und wird von einem\nSchatten niedergeschlagen...
+infoscreen_end_1;Das war die PR-Demo zu "The Raven - Das Vermächtnis des Meisterdiebs"!
+infoscreen_end_2;Die Demo umfasst ca. 20% des gesamten Spiels. Wir hoffen, sie hat dir Spaß gemacht!
+menu_saving;Speichern ...
+error_savegame_save_memory;Das Spiel konnte nicht gespeichert werden. Es ist nicht genug freier Speicher vorhanden.
+error_savegame_save_other;Das Spiel konnte nicht gespeichert werden.
+error_config_save_memory;Deine Spieleinstellungen konnten nicht gespeichert werden. Es ist nicht genug freier Speicher vorhanden.
+error_config_save_other;Deine Spieleinstellungen konnten nicht gespeichert werden.
+error_savegame_load_corrupted;Das Savegame ist beschädigt und kann nicht geladen werden.
+error_savegame_load_other;Das Savegame kann nicht geladen werden.
+error_config_load_corrupted;Deine Spieleinstellungen sind beschädigt und konnten nicht geladen werden. Deine Einstellungen und Freischaltungen wurden zurückgesetzt.
+error_config_load_other;Deine Spieleinstellungen konnten nicht geladen werden. Deine Einstellungen und Freischaltungen wurden zurückgesetzt.
+achievements;Erfolge
+achievements_tooltip;Hier kannst du deine Erfolge betrachten.
+menu_unlock;Vollständiges Spiel freischalten
+menu_unlock_tooltip;Hier kannst du das vollständige Spiel freischalten.
+menu_download;Inhalt herunterladen
+menu_download_tooltip;Hier kannst du weitere Kapitel herunterladen.
+info_live;Du musst bei Xbox LIVE angemeldet sein um dieses Feature verwenden zu können.
+info_login;Es ist kein Profil angemeldet. Um 'The Raven' spielen zu können, musst du mit einem Profil angemeldet sein.
+action_login;Jetzt einloggen
+action_quit;Spiel verlassen
+info_storage;Es ist kein Speichermedium ausgewählt oder das ausgewählte Speichermedium wurde entfernt. Bitte wähle ein Speichermedium aus, um deinen Spielfortschritt zu speichern.
+action_select;Jetzt auswählen
+action_continue;Ohne fortfahren
+info_storage_2;Es ist nicht möglich, deinen Spielfortschritt zu speichern, wenn du ohne ein Speichermedium fortfährst. Bist du sicher?
+action_continue_2;Ja, Fortfahren
+info_episode_lost;Das Speichermedium mit den Spielinhalten wurde entfernt.
+action_ok;Okay
+startscreen_message;Drücke START
+episode_end_award_1;Einfach perfekt!
+episode_end_award_2;Meisterhaft!
+episode_end_award_3;Hervorragend!
+episode_end_award_4;Sehr gut!
+episode_end_award_5;Gute Leistung!
+episode_end_award_6;In Ordnung!
+config_title;Spieleinstellungen & Freischaltungen
+info_episode_removed;Es wurde ein Speichermedium mit Spielinhalten entfernt.
+info_episode_damaged;Das von dir gewählte Kapitel ist defekt. Bitte lade sie erneut herunter.
+steam_init_error;Die Verbindung zu Steam konnte nicht hergestellt werden. Achievments und Cloud Storage von Speicherständen stehen deshalb nicht zur Verfügung. Trotzdem fortfahren?
+steam_choice_continue;Fortfahren
+steam_choice_quit;Spiel verlassen
+mg_junge_direction_controller;Drücke den $primary, um das Spiel zu starten.

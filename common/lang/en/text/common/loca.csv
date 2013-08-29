@@ -1,0 +1,225 @@
+loca_key_foo;Value is Bar
+loading;Loading
+menu_continue;Resume Game
+menu_new;New Game
+menu_new_game_na;Not Available
+menu_new_episode_1;Chapter 1
+menu_new_episode_2;Chapter 2
+menu_new_episode_3;Chapter 3
+episode_1_tooltip;Choose chapter 1
+episode_2_tooltip;Choose chapter 2
+episode_3_tooltip;Choose chapter 3
+episode_end_episode_1;That was chapter 1!
+episode_end_episode_2;That was chapter 2!
+episode_end_episode_3;That was chapter 3!
+menu_load;Load Game
+menu_bonus;Extras
+menu_bonus_title;Bonus Material
+menu_bonus_points;Bonus Points:
+menu_bonus_item_credits;Credits
+menu_bonus_item_concept;Concept Art,gallery
+menu_bonus_item_artwork;Artwork,gallery
+menu_bonus_item_model;3D models,gallery
+menu_bonus_item_inconcert;The Raven, in Concert
+menu_bonus_item_soundtrack;Soundtrack
+menu_bonus_item_credits_tooltip;Credits
+menu_bonus_item_concept_tooltip;Concept art gallery
+menu_bonus_item_artwork_tooltip;Artwork gallery
+menu_bonus_item_model_tooltip;3D models gallery
+menu_bonus_item_inconcert_tooltip;The Raven in Concert
+menu_bonus_item_soundtrack_tooltip;Soundtrack
+menu_bonus_gallery_concept_art_gallery;Concept art
+menu_bonus_gallery_artworks;Artwork gallery
+menu_bonus_gallery_3d_model_gallery;3D models
+menu_bonus_gallery_next;Next page >
+menu_bonus_gallery_previous;< Previous page
+bonus_audio_main_theme;The Raven Main Theme
+bonus_audio_zellner_im_zug;Adventure in the Alps
+bonus_audio_ueberfall_im_museum;Burglary in the Museum
+bonus_audio_zellner_schiff_aussen;Sunny Day on the Open Sea
+bonus_audio_oehi_action;Constable in Action
+bonus_audio_fahrender_zug;Runaway Train
+bonus_audio_humpelnde_leiber;Limp Bodies
+bonus_audio_salonmusik_tag;Saloon Tune
+bonus_audio_er_ist_zurueck;He’s back
+bonus_audio_oehi_schiff_innen;Hunting for Clues
+bonus_audio_araber_action;At full Speed
+bonus_audio_bedrohung_butler;Lurking Menace
+bonus_audio_the_raven_overture;The Raven Overture
+menu_settings;Settings
+menu_settings_input;Controls :
+input_tooltip;Choose an input device
+input_next_tooltip;Change to the next input device
+input_previous_tooltip;Change to the previous input device
+menu_settings_resolution;Screen resolution :
+resolution_tooltip;Adjust the screen resolution
+resolution_next_tooltip;Change to the next resolution
+resolution_previous_tooltip;Change to the previous resolution
+menu_settings_quality;Graphics quality :
+quality_tooltip;Adjust the graphics quality
+quality_next_tooltip;Change to the next quality level
+quality_previous_tooltip;Change to the previous quality level
+menu_settings_speach;Speech volume :
+speach_tooltip;Adjust the speech volume
+speach_next_tooltip;Raise the volume of speech
+speach_previous_tooltip;Lower the volume of speech
+menu_settings_sound;Sound effects volume :
+sound_tooltip;Adjust the sound effects volume
+sound_next_tooltip;Raise the volume of sound effects
+sound_previous_tooltip;Lower the volume of sound effects
+menu_settings_music;Music volume :
+music_tooltip;Adjust the music volume
+music_next_tooltip;Raise the volume of music
+music_previous_tooltip;Lower the volume of music
+menu_settings_subtitles;Subtitles language:
+subtitles_tooltip;Choose a language for the subtitles
+subtitles_next_tooltip;Change to the next language
+subtitles_previous_tooltip;Change to the previous language
+menu_settings_spoken;Audio language :
+spoken_tooltip;Choose a language for the spoken text
+spoken_next_tooltip;Change to the next language
+spoken_previous_tooltip;Change to the previous language
+menu_settings_input_classic; Classic
+menu_settings_input_controller; Gamepad
+menu_settings_lang_de;German
+menu_settings_lang_en;English
+menu_settings_lang_fr;French
+menu_settings_lang_off;Off
+menu_settings_volume_off;Off
+menu_settings_quality_low;Low
+menu_settings_quality_medium;Medium
+menu_settings_quality_high;High
+menu_settings_save;Save settings
+menu_resume;Resume Game
+menu_save;Save Game
+menu_mainmenu;Main Menu
+menu_quit;Exit Game
+menu_dialog_yes;Yes
+menu_dialog_no;No
+menu_dialog_yes_tooltip;Accept
+menu_dialog_no_tooltip;Reject
+menu_dialog_overwrite;Do you really want to overwrite this savegame?
+menu_dialog_load;Do you really want to load a saved game?\nThe current game state will be lost.
+menu_dialog_mainmenu;Do you really want to exit the game?\nUnsaved progress will be lost in the process.
+menu_dialog_start_new_game;Starting a new game will result in the\nautosave file being overwritten. Continue?
+menu_dialog_quit;Do you really want to exit the game?
+menu_back;Back
+ButtonBack_tooltip;Back
+ButtonPrev_tooltip;Previous picture
+ButtonNext_tooltip;Next picture
+menu_start;Start game
+menu_continue_tooltip;The game will be continued from the point where you left it last time.
+menu_new_tooltip;Start a new game.
+menu_load_tooltip;Load a previous savegame.
+menu_settings_tooltip;Change the game's settings here.
+menu_quit_tooltip;Exits the game. Unsaved progress will be lost.
+menu_bonus_tooltip;Here you can unlock bonus material.
+menu_back_tooltip;Back to the menu
+menu_settings_save_tooltip;Save game settings
+menu_start_tooltip;Start a new chapter
+menu_resume_tooltip; Closes the menu and brings you back to the game.
+menu_save_tooltip; Save your progress in the game here.
+menu_savegame_newgame;New savegame
+menu_savegame_autosave;Autosave
+menu_savegame_abschnitt_00;A train in the Alps
+menu_savegame_abschnitt_01;A train in the Alps
+menu_savegame_abschnitt_02;Trapped in stone
+menu_savegame_abschnitt_03;Fire, steel and steam
+menu_savegame_abschnitt_05;Ah, Venice!
+menu_savegame_abschnitt_06;A suspicious trunk
+menu_savegame_abschnitt_07;Murder on the Mediterranean
+menu_savegame_abschnitt_08;Madness
+menu_savegame_abschnitt_09;The Raven’s confession
+menu_savegame_abschnitt_10;The eye of the Sphinx
+menu_savegame_abschnitt_11;Into the dark
+menu_savegame_abschnitt_12;Zurich, main station
+menu_savegame_abschnitt_13;The train robbery
+menu_savegame_abschnitt_14;The stowaway
+menu_savegame_abschnitt_15;The stowaway
+menu_savegame_abschnitt_16;A thief and a murder
+menu_savegame_abschnitt_17;Under pressure
+menu_savegame_abschnitt_18;Ghost of the past
+menu_savegame_abschnitt_19;A simple plan
+menu_savegame_abschnitt_20;A nasty surprise
+menu_savegame_abschnitt_21;A plan comes together
+menu_savegame_abschnitt_22;The return of the Raven
+menu_savegame_abschnitt_23;The return of the Raven
+menu_savegame_abschnitt_25;The return of the Raven
+menu_mainmenu_tooltip; End the current game and open the main menu.
+menu_episode_end_continue;Continue
+menu_episode_end_continue_tooltip;Continue the game.
+edgemenu_menu_tooltip;Open the ingame-menu.
+edgemenu_notebook_tooltip;Open the notebook.
+edgemenu_hotspot_tooltip;Highlight all current hot spots. You have to pay adventure points to do so.
+notebook_page;Page
+notebook_category;Category
+notebook_hint;Hint
+notebook_next_page;Next page
+notebook_prev_page;Previous page
+unlock_photo;New pictures unlocked
+unlock_music;New music unlocked
+unlock_movie;New Video unlocked
+messagebox_ok; OK
+message_resolution_changed;Do you want to maintain the selected resolution?
+episode_end_stats_secrets;Secrets solved:
+episode_end_stats_achievements;Achievements unlocked:
+episode_end_stats_help;Hint function used:
+episode_end_stats_hotspot;Hot spot highlight used:
+episode_end_stats_sum;Adventure Points
+todo_get_award_key;"Master Stroke"
+episode_end_achievement_label;Achievements:
+loading_tip;Hint:
+loading_tip_1;Always take a look at every available object.
+loading_tip_2;There are some objects you have to look at more than once to learn all their secrets.
+loading_tip_3;To examine an item in your inventory, right-click it.
+loading_tip_4;Press the spacebar to highlight all objects in the current scene.
+loading_tip_5;If you're stuck, try talking to all characters.
+loading_tip_6;When you're stuck, you can get some hints in the notebook.
+loading_tip_7;If you're not making any progress, take a break and relax.
+loading_tip_3_controller;To examine an item in the inventory, select it and press $secondary.
+loading_tip_4_controller;Press $space to highlight all the objects in a scene.
+infoscreen_start_1;You are Anton Jakob Zellner, a Swiss policeman, that gets involved in an affair that\nessentially is to big for him. Three days ago a jewel, one of the two legendary\n"Eyes of the Sphinx" was stolen in London. The second Eye is on its way from Zurich to Cairo.
+infoscreen_start_2;Aboard the train in the Swiss Alps a critical incident occured. The Raven, a master thief\nwanted by the police all around the globe, planted a bomb and it was Constable Zellner's\nvaliant intervention that prevented the worst. Now the Eye is on a ship on the Mediterranean.
+infoscreen_start_3;Zellner, encouraged by his feat in the train, wants to supervise the jewels passage to Cairo.\nHowever, Nicholas Legrand, a French inspector leading the hunt for the Raven, doesn't\nwant Zellner to interfere. Zellner has a look around the ship and is knocked unconscious by\na shadowy figure...
+infoscreen_end_1;This was the PR-Demo of "The Raven - Legacy of a Master Thief".
+infoscreen_end_2;The Demo contains about 20% of the full game. We hope you enjoyed playing it!
+menu_saving;Saving...
+error_savegame_save_memory;The savegame could not be saved. There is not enough free memory.
+error_savegame_save_other;The savegame could not be saved.
+error_config_save_memory;Your game settings could not be saved. There is not enough free memory left.
+error_config_save_other;Your game settings could not be saved.
+error_savegame_load_corrupted;The savegame is damaged and could not be loaded.
+error_savegame_load_other;The savegame could not be loaded.
+error_config_load_corrupted;Your game settings are corrupted and could not be loaded. Your settings and unlocked extras were reset.
+error_config_load_other;Your game settings could not be loaded. Your settings and unlocked extras were reset.
+achievements;Achievements
+achievements_tooltip;Here you can take a look at your Achievements.
+menu_unlock;Unlock Full Game
+menu_unlock_tooltip;Here you can unlock the full game.
+menu_download;Download Content
+menu_download_tooltip;Here you can download additional chapters.
+info_live;You need to be signed into Xbox LIVE to access this feature.
+info_login;There is no profile logged in. To play ‘The Raven’ you have to be logged in.
+action_login;Log in now
+action_quit;Leave game
+info_storage;No storage device has been selected or the selected storage device has been removed. Please select a storage device in order to save your progress.
+action_select;Select device
+action_continue;Continue without
+info_storage_2;If you continue without a storage device, you won’t be able to save any progress. Do you want to continue?
+action_continue_2;Yes, continue
+info_episode_lost;A storage device containing downloadable content was removed.
+action_ok;Okay
+startscreen_message;Press START
+episode_end_award_1;Simply perfect!
+episode_end_award_2;Masterly!
+episode_end_award_3;Brilliant!
+episode_end_award_4;Very good!
+episode_end_award_5;Good job!
+episode_end_award_6;Not bad!
+config_title;game settings & unlocked extras
+info_episode_removed;A storage device containing downloadable content was removed.
+info_episode_damaged;The chapter you selected is corrupted. Please download it again.
+steam_init_error;Connection to Steam failed. Achievements and cloud storage of savegames won’t be available. Do you still want to continue?
+steam_choice_continue;Continue
+steam_choice_quit;Exit game
+mg_junge_direction_controller;Press the $primary button to start the game.

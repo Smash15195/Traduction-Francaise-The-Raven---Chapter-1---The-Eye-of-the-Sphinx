@@ -1,0 +1,741 @@
+characters_arzt;Arzt
+characters_baronin;Baronin
+characters_butler;Butler
+characters_ermittler;Ermittler
+characters_junge_frau;Junge Frau
+characters_kapitaen;Kapitaen
+characters_ohi;Ohi
+characters_wachmann;Wachmann
+texts_a01_autoermittler_portemonnaie_mo_inventar;Portefeuille
+spokentexts_a01_autoermittler_portemonnaie_ex_1_st_1;Je l'ai acheté la semaine dernière, en occasion. Je l'aime parce qu'il a une histoire.
+spokentexts_a01_autoermittler_portemonnaie_ex_1_st_2;J'imagine que son précédent propriétaire l'a remplacé par un autre.
+sequences_a05_auto_seq_a05_auto_intro#0;[The screen is still black, you only hear the sound.]
+spokentexts_a05_auto_seq_a05_auto_intro_st_1_direction;certainly
+spokentexts_a05_auto_seq_a05_auto_intro_st_1;C'est une preuve.
+spokentexts_a05_auto_seq_a05_auto_intro_st_2;...et ma chance de partir avec vous.
+sequences_a05_auto_seq_a05_auto_intro#3;[Shot of the investigator in the car.]
+sequences_a05_auto_seq_a05_auto_intro#4;[Ohi and the investigators are sitting back in the car (idle).]
+spokentexts_a05_auto_seq_a05_auto_intro_st_3_direction;unyielding
+spokentexts_a05_auto_seq_a05_auto_intro_st_3;Le billet et tout le reste de l'enveloppe font partie de MON enquête.
+spokentexts_a05_auto_seq_a05_auto_intro_st_4;Et vous n'avez aucun rôle à jouer au Caire.
+sequences_a05_auto_seq_a05_auto_intro#7;[Shot onOhi.]
+sequences_a05_auto_seq_a05_auto_intro#8;[Ohi turns over to investigators, leans forward (idle).]
+spokentexts_a05_auto_seq_a05_auto_intro_st_5;Si je ne vous avais pas donné l'enveloppe, vous n'auriez pas la preuve que l'héritier du Corbeau serait sur ​​le navire.
+sequences_a05_auto_seq_a05_auto_intro#10;[Cut to the investigator.]
+spokentexts_a05_auto_seq_a05_auto_intro_st_6_direction;wipes the argument  aside
+spokentexts_a05_auto_seq_a05_auto_intro_st_6;Bah ! Le navire est sa prochaine chance de voler l'oeil.
+spokentexts_a05_auto_seq_a05_auto_intro_st_7;Et il n'abandonnera pas tant qu'il ne l'aura pas.
+sequences_a05_auto_seq_a05_auto_intro#13;[Cut to Ohi.]
+spokentexts_a05_auto_seq_a05_auto_intro_st_8;Et c'est précisément pourquoi vous devriez me laisser venir avec nous !
+spokentexts_a05_auto_seq_a05_auto_intro_st_9;Non.
+sequences_a05_auto_seq_a05_auto_intro#16;[Ohi is frustrated and falls back into the seat, looks out the window.]
+texts_a05_frachtraum_ausgang_mo_leave_1a__1b;Quitter la soute
+spokentexts_a05_frachtraum_ausgang_leave_1a_st_1;Si je pars maintenant, c'est fini pour moi.
+spokentexts_a05_frachtraum_ausgang_leave_1a_st_2;Legrand aurait insisté pour que je quitte le navire.
+spokentexts_a05_frachtraum_ausgang_leave_1a_st_3;Je ne peux pas le laisser !
+spokentexts_a05_frachtraum_ausgang_leave_1b_st_1_direction;certainly
+spokentexts_a05_frachtraum_ausgang_leave_1b_st_1;Non.
+spokentexts_a05_frachtraum_ausgang_leave_1b_st_2;Je ne vais pas abandonner !
+texts_a05_frachtraum_auto_mo_ex_1;Examiner le cabriolet
+spokentexts_a05_frachtraum_auto_ex_1_st_1;C'est le cabriolet de la jeune femme.
+spokentexts_a05_frachtraum_auto_ex_1_st_2;Apparemment, ils devaient absolument la PRENDRE en Égypte.
+spokentexts_a05_frachtraum_auto_ex_1_st_3;Aux frais de papa, bien sûr.
+texts_a05_frachtraum_scherben_mo_ex;Examiner les éclats
+sequences_a05_frachtraum_scherben_ex_1#1;[Cut. The shards in the foreground, Ohi is shown from bottom to top.]
+sequences_a05_frachtraum_scherben_ex_1#4;[Ohi lights on the shards, goes into a crouch.]
+spokentexts_a05_frachtraum_scherben_ex_1_st_1;Ces éclats sont...
+sequences_a05_frachtraum_scherben_ex_1#3;[Suddenly the sound of a rat that squeaks and knocks something.]
+sequences_a05_frachtraum_scherben_ex_1#6;[Ohi jumps up, lights in the direction of the sound. Slowly, he calms down, annoyed at his own nervousness.]
+spokentexts_a05_frachtraum_scherben_ex_1_st_2_direction;air escapes through the lips
+spokentexts_a05_frachtraum_scherben_ex_1_st_2;Pff.
+spokentexts_a05_frachtraum_scherben_ex_1_st_3;Je sursaute trop facilement.
+sequences_a05_frachtraum_scherben_ex_1#11;[Ohi kneels down again to examine the pieces. Behind him a man become visible, his movement is like he raised an arm to strike. He is not to recognize, you see only a silhouette. Then the arm strikes, hits Ohi. Everything is black.]
+sequences_a05_frachtraum_scherben_ex_1#12;[A horn sounds twice]
+sequences_a05_frachtraum_scherben_ex_1#13;[End of section.]
+texts_a05_frachtraum_taschenlampe_mo_ex_1;Examiner l'objet cylindrique
+texts_a05_frachtraum_taschenlampe_mo_inventar;Lampe de poche
+spokentexts_a05_frachtraum_taschenlampe_ex_1_st_1;Qu'est-ce que c'est ?
+sequences_a05_frachtraum_taschenlampe_ex_1#2;[Ohi grabs the flashlight, takes them into the hand and fumbles it, until he suddenly switch on the light.]
+spokentexts_a05_frachtraum_taschenlampe_ex_1_st_2;Aha !
+sequences_a05_frachtraum_taschenlampe_ex_1#4;[From now on, Ohi has the flashlight in his hand, with which he can illuminate the environment.]
+spokentexts_a05_frachtraum_taschenlampe_ex_2_st_1;Je ne serais pas incapable de voir quoi que ce soit dans la cale sans une lampe de poche.
+spokentexts_a05_frachtraum_taschenlampe_ex_2_st_2;Mais même avec une lampe de poche, c'est plutôt flippant ici.
+texts_a05_frachtraum_truhe_mo_ex_1__2;Examiner le coffre
+texts_a05_frachtraum_truhe_mo_use_1;Ouvrir le coffre
+spokentexts_a05_frachtraum_truhe_ex_1_st_2_direction;makes up his courage
+spokentexts_a05_frachtraum_truhe_ex_1_st_2;Ahem.
+spokentexts_a05_frachtraum_truhe_ex_1_st_3_direction;loud
+spokentexts_a05_frachtraum_truhe_ex_1_st_3;Il y a quelqu'un ?!
+spokentexts_a05_frachtraum_truhe_ex_1_st_4_direction;loud
+spokentexts_a05_frachtraum_truhe_ex_1_st_4;Sortez !
+sequences_a05_frachtraum_truhe_ex_1#6;[No reaction.]
+spokentexts_a05_frachtraum_truhe_ex_2_st_1;Je suis sûr que quelqu'un était dans le camion. Mais où sont-ils maintenant ?
+spokentexts_a05_frachtraum_truhe_use_1_st_3_direction;loud
+spokentexts_a05_frachtraum_truhe_use_1_st_3;C'est terminé ! J'... J'ouvre le coffre.
+sequences_a05_frachtraum_truhe_use_1#6;[Ohi is anxious (funny), tried to open the chest. Finally he opens the lid, lit inside. The chest is empty.]
+sequences_a05_frachtraum_truhe_use_1#12;[Somewhere in the cargo room is a glass bottle and will break.]
+sequences_a05_frachtraum_truhe_use_1#13;[Ohi goes around fast and pulls the torch high (idle).]
+spokentexts_a05_frachtraum_truhe_use_1_st_8_direction;anxious
+spokentexts_a05_frachtraum_truhe_use_1_st_8;Y'a- Y'a quelqu'un ?
+sequences_a05_frachtraum_truhe_use_1#15;[Ohi let the flashlight slowly sink.]
+texts_a05_spint_rechts_mo_ex_1;Fouiller dans le casier.
+spokentexts_a05_spint_rechts_ex_1_st_1;La porte de ce casier est entrouverte...
+sequences_a05_spint_rechts_ex_1#2;[Ohi imagines the locker, gathers his courage and pulls the door. The locker is empty and Ohi calms down. He will then return back to normal.]
+spokentexts_a05_spint_rechts_ex_1_st_2;Vide.
+texts_a05_spinte_links_mo_ex_1;Fouiller dans le casier.
+sequences_a05_spinte_links_ex_1#1;[Ohi is trying to open one of the lockers. But Locked.]
+spokentexts_a05_spinte_links_ex_1_st_1;Hmm. Les trois autres casiers sont verrouillés.
+sequences_a05_frachtraum_seq_a05_frachtraum_betreten#0;[The door of the cargo space opens hard and squeaky. Ohi enters the room and closes the door again.]
+sequences_a05_frachtraum_seq_a05_frachtraum_betreten#1;[Ohi enters the railing and looks down into the big cargo space.]
+sequences_a05_frachtraum_seq_a05_frachtraum_betreten#3;[Ohi walks down the stairs.]
+sequences_a05_frachtraum_seq_a05_frachtraum_betreten#4;[The large dormer windows of the room are closed.]
+spokentexts_a05_frachtraum_seq_a05_frachtraum_betreten_st_1_direction;slightly worried
+spokentexts_a05_frachtraum_seq_a05_frachtraum_betreten_st_1;Oh non.
+sequences_a05_frachtraum_seq_a05_frachtraum_betreten#5;[As Ohi has reached the end of the stairs, the hatches are shut and it is very dark.]
+sequences_a05_frachtraum_seq_a05_frachtraum_dunkle_ecke_betreten#0;[Ohi stops.]
+spokentexts_a05_frachtraum_seq_a05_frachtraum_dunkle_ecke_betreten_st_1;Il fait trop sombre là-dedans !
+spokentexts_a05_frachtraum_seq_a05_frachtraum_dunkle_ecke_betreten_st_2;J'arrive même pas a voir ma main devant mon visage, alors chercher des indices !
+texts_a05_pier_ausgang_shot_baronin_mo_leave_1;Se diriger vers le navire
+sequences_a05_pier_ausgang_shot_baronin_leave_1#1;[Ohis glance happens to fall on the opera glasses, lying on the floor.]
+spokentexts_a05_pier_ausgang_shot_baronin_leave_1_st_1;Qu'est-ce que c'est ? Ahh !
+sequences_a05_pier_ausgang_shot_baronin_leave_1#3;"[Now the ""Ohi taking the opera glasses on"" sequence.]"
+texts_a05_pier_auto_der_jungen_frau_mo_ex_1;Regarder le cabriolet
+texts_a05_pier_auto_der_jungen_frau_mo_ex_2;Regarder la conductrice
+spokentexts_a05_pier_auto_der_jungen_frau_ex_1_st_1_direction;appreciative whistles
+spokentexts_a05_pier_auto_der_jungen_frau_ex_1_st_1;*sifflement*
+spokentexts_a05_pier_auto_der_jungen_frau_ex_1_st_2;Belle voiture.
+spokentexts_a05_pier_auto_der_jungen_frau_ex_1_st_3;Mais rien comparé à la jeune femme à qui elle appartient.
+spokentexts_a05_pier_auto_der_jungen_frau_ex_2_st_1;Qui pourrait-elle être ?
+spokentexts_a05_pier_auto_der_jungen_frau_ex_2_st_2;Une actrice ?
+spokentexts_a05_pier_auto_der_jungen_frau_ex_2_st_3;La fille d'un millionnaire ?
+spokentexts_a05_pier_auto_der_jungen_frau_ex_2_st_4;Elle est certainement le centre de beaucoup d'attention.
+texts_a05_pier_koffer_der_jungen_frau_mo_ex_1;Examiner les bagages
+texts_a05_pier_koffer_der_jungen_frau_mo_ex_2;Fouiller les bagages
+spokentexts_a05_pier_koffer_der_jungen_frau_ex_1_st_1;Étonnant de voir autant de bagages pour si peu de passagers.
+spokentexts_a05_pier_koffer_der_jungen_frau_ex_1_st_2;Et je pense que les trois quarts  appartiennent à cette femme.
+spokentexts_a05_pier_koffer_der_jungen_frau_ex_2_st_1;Je vais jeter un coup d'oeil discret de plus près...
+sequences_a05_pier_koffer_der_jungen_frau_ex_2#2;[Ohi goes quitly to the suitcases, he's doing so, as if his shoe is open and squats beside the door of the car.]
+sequences_a05_pier_koffer_der_jungen_frau_ex_2#3;[Cut to Ohi next to the door.]
+sequences_a05_pier_koffer_der_jungen_frau_ex_2#4;[Ohi examined the suitcase. Suddenly the door of the car opens and hit him on the head.]
+sequences_a05_pier_koffer_der_jungen_frau_ex_2#5;[Cut to the driver.]
+sequences_a05_pier_koffer_der_jungen_frau_ex_2#6;[The driver wants to exit, smiles. Obviously she saw Ohi.]
+sequences_a05_pier_koffer_der_jungen_frau_ex_2#7;[Cut to the car.]
+spokentexts_a05_pier_koffer_der_jungen_frau_ex_2_st_2;Ohh !
+spokentexts_a05_pier_koffer_der_jungen_frau_ex_2_st_3;Je suis désolée !
+spokentexts_a05_pier_koffer_der_jungen_frau_ex_2_st_4;Je ne m'attendais pas à ce qu'il y ai quelqu'un rampant sur le sol devant ma porte.
+sequences_a05_pier_koffer_der_jungen_frau_ex_2#11;[Ohi has not really hurt. He's scared and is rather embarrassed. He stands up, looks around to make sure no one saw anything. He cleans his clothes.]
+spokentexts_a05_pier_koffer_der_jungen_frau_ex_2_st_5;Ne vous en faites pas, mademoiselle.
+spokentexts_a05_pier_koffer_der_jungen_frau_ex_2_st_6;Il n'y a pas de mal.
+spokentexts_a05_pier_koffer_der_jungen_frau_ex_2_st_7;Heureuse de l'entendre, Mr...
+sequences_a05_pier_koffer_der_jungen_frau_ex_2#15;[The young woman stretches out her hand to Ohi, he helps her to climb out of the car.]
+spokentexts_a05_pier_koffer_der_jungen_frau_ex_2_st_8;Zellner. Anton Jakob Zellner.
+sequences_a05_pier_koffer_der_jungen_frau_ex_2#17;[The young woman gets her hands on the suitcases on the backsears, as she talks with Ohi (idle).]
+texts_a05_pier_kran_mo_ex_1;Regarder la grue
+spokentexts_a05_pier_kran_ex_1_st_1;Dans mes jeunes années, j'aurais peut-être envisagé de descendre en rappel par la grue sur le navire.
+spokentexts_a05_pier_kran_ex_1_st_2;Mais ces années sont passé depuis bien longtemps.
+texts_a05_pier_meer_mo_ex_1__2;Profiter de la vue
+spokentexts_a05_pier_meer_ex_1_st_1;La mer est calme aujourd'hui. Des conditions idéales pour une croisière.
+spokentexts_a05_pier_meer_ex_2_st_1;Malheureusement, je n'ai pas eu le temps de visiter les sites touristiques de Venise. La paperasse donnée par mes collègues italiens a pris presque toute la journée.
+texts_a05_pier_opernglas_mo_ex_1;Examiner les jumelles
+texts_a05_pier_opernglas_mo_inventar;Jumelles
+texts_a05_pier_opernglas_mo_take_1;Regarder à travers les jumelles
+spokentexts_a05_pier_opernglas_ex_1_st_1;Lunettes d'opéra de la baronne.
+spokentexts_a05_pier_opernglas_ex_1_st_2;"Elle doit les avoir abandonné alors qu'elle a eu son... ""moment""."
+spokentexts_a05_pier_opernglas_ex_2_st_1;Je vais rendre ces lunettes d'opéra à la baronne ou son majordome James dès que j'en aurai l'occasion.
+sequences_a05_pier_opernglas_take_1#3;[Cut. We see now through the opera glasses. Ohi moves the opera glasses independently, ie, the subject automatically scrolls here and there.]
+sequences_a05_pier_opernglas_take_1#4;[Cool would be if the image was blurred in between and especially at the beginning and Ohi it focuses.]
+sequences_a05_pier_opernglas_take_1#5;[Ohi focus the image sharp, clooks at the ship. His look remained on the captain.]
+sequences_a05_pier_opernglas_take_1#6;[The butler and the Baroness have just arrived to the captain. He is worried, helps the Baroness, pointing toward her cabin. She don't want to let help her, but goes away with the butler.]
+sequences_a05_pier_opernglas_take_1#7;[The scene moves to the side.]
+sequences_a05_pier_opernglas_take_1#8;[The investigator and the doctor talk.]
+spokentexts_a05_pier_opernglas_take_1_st_2;Aucun d'eux ne semble avoir remarqué ce qui s'est passé ici.
+sequences_a05_pier_opernglas_take_1#10;[The scene moves somewhere else.]
+sequences_a05_pier_opernglas_take_1#11;[The violinist obviously trying to make the young woman. She is not interested and leaves him.]
+spokentexts_a05_pier_opernglas_take_1_st_3;Hé.
+spokentexts_a05_pier_opernglas_take_1_st_4;Vous allez avoir du fil à retordre avec elle.
+sequences_a05_pier_opernglas_take_1#14;[A palette that is transported by a crane into the cargoroom, pushes itself into the picture. Ohi focus. We see that a piece of clothing caught under the tap and is half hanging out.]
+spokentexts_a05_pier_opernglas_take_1_st_6_direction;Whistles (Interested!)
+spokentexts_a05_pier_opernglas_take_1_st_6;*sifflement*
+sequences_a05_pier_opernglas_take_1#18;[Cut back to Ohi.]
+sequences_a05_pier_opernglas_take_1#19;[Ohi takes down the opera glass, takes it.]
+spokentexts_a05_pier_opernglas_take_1_st_9;Comment monter à bord sans billet... Hmm. Pas génial mais c'est une possibilité.
+texts_a05_pier_wagen_der_baronin_mo_ex_1;Regarder la voiture
+spokentexts_a05_pier_wagen_der_baronin_ex_1_st_1;C'est une belle automobile !
+spokentexts_a05_pier_wagen_der_baronin_ex_1_st_2;Mais même une berline imposante comme ça pourrait transporter tous les bagages de la baronne.
+spokentexts_a05_pier_wagen_der_baronin_ex_1_st_3;Elle a eu la chance que les deuxième et troisième wagons de marchandises n'ont pas été enterrés dans le tunnel.
+spokentexts_a05_pier_wagen_der_baronin_ex_1_st_4;La plupart des ses affaires sont resté indemne.
+texts_a05_pier_zugang_zum_schiff_mo_betrchten_1;Regarder la passerelle
+texts_a05_pier_zugang_zum_schiff_mo_leave_1__2;Monter à bord
+spokentexts_a05_pier_zugang_zum_schiff_ex_1_st_1_direction;convinced
+spokentexts_a05_pier_zugang_zum_schiff_ex_1_st_1;Je vais traverser cette passerelle, quoi qu'il arrive.
+spokentexts_a05_pier_zugang_zum_schiff_ex_1_st_3;Quelqu'un doit arrêter ce foutu kamikaze avant qu'il ne mette en danger plus de personnes.
+spokentexts_a05_pier_zugang_zum_schiff_leave_1_st_1;Je ne veux pas courir voir Legrand avant d'avoir quelque chose de nouveau à signaler, sinon, il va me renvoyer à terre !
+spokentexts_a05_pier_zugang_zum_schiff_leave_2_st_1;Le comportement de la baronne semble assez suspect.
+spokentexts_a05_pier_zugang_zum_schiff_leave_2_st_2;Mais je doute que ce serait l'intérêt de Legrand.
+sequences_a05_pier_zugang_zum_schiff_leave_3#1;[Ohi starts to go up the gangway.]
+spokentexts_a05_pier_zugang_zum_schiff_leave_4_st_1;Legrand a pris sa décision. Je ne peux pas rien changer à ça avec des mots, mais avec des résultats.
+sequences_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft#0;[We see a shot of the car and Venice in the background.]
+sequences_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft#1;[The car with the investigators and Ohi drives  to the pier.]
+sequences_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft#2;[Shot on the pier. You can see the ship, people who load goods, passengers, etc.]
+sequences_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft#3;[The car stops. The security guard noticed the arrival of the car and walks up to the car. The investigator gets out.]
+sequences_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft#4;[Cut back to the car.]
+sequences_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft#5;[Ohi and the investigator gets out. The guard comes to the investigator, he has a note in his hand and gives it to the investigator.]
+spokentexts_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft_st_1;Inspecteur Legrand !
+spokentexts_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft_st_2;Un télégramme urgent de Paris !
+sequences_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft#8;[The inspector takes the paper, folded to him and reads (idle).]
+sequences_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft#9;[Ohi goes around the car. The face expression of the investigator darkens.]
+spokentexts_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft_st_3;De mauvaises nouvelles ?
+sequences_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft#11;[The investigator lets the letter down, goes with the letter in his hand and takes a few steps to the harbor along. Ohi and the security guard are going with him.]
+spokentexts_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft_st_4;C'est au sujet des... des événements malheureux... dans le train. Je dois retourner à Paris et m'expliquer.
+spokentexts_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft_st_5_direction;indignantly
+spokentexts_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft_st_5;Mais monsieur ! Et pour l'Oeil ?
+sequences_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft#14;[Cut to the vault that is being hoisted onto the ship.]
+spokentexts_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft_st_6;Ils veulent informer les autorités égyptiennes qu'il pourrait y avoir une tentative de cambriolage.
+spokentexts_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft_st_7_direction;stunned
+spokentexts_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft_st_7;Pourrait ?!
+spokentexts_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft_st_8;Les autorités égyptiennes ? Et si le bijou est volé en mer ?
+sequences_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft#18;[Cut back to the three.]
+sequences_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft#19;[The investigator stands still as the other two.]
+spokentexts_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft_st_9;Je sais, je sais.
+sequences_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft#21;[The investigator crumples the telegram and threw the paper into the water.]
+spokentexts_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft_st_10_direction;to the guard
+spokentexts_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft_st_10;Je n'ai jamais rien reçu.
+spokentexts_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft_st_11;Gardez un oeil sur le chargement de l'Oeil, Robert.
+sequences_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft#24;[Cut to the guard.]
+spokentexts_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft_st_12_direction;pleased
+spokentexts_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft_st_12;Oui, monsieur.
+sequences_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft#26;[The guard saluted slighlty then throws a derogatory view to Ohi, smile faked.]
+spokentexts_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft_st_13;C'était un plaisir de vous rencontrer, Officier Zellner.
+sequences_a05_pier_kleidungsstuecke_seq_a05_pier_ankunft#28;[Cut back to the investigator and Ohi. The guard goes out of the picture.]
+spokentexts_a05_pier_seq_a05_pier_arzt_geht_an_board_st_1;Oh, je viens de me souvenir...
+sequences_a05_pier_seq_a05_pier_arzt_geht_an_board#1;[The doctor reaches into his pocket, pulls out Ohis pill box and gives it out to Ohi (idle).]
+spokentexts_a05_pier_seq_a05_pier_arzt_geht_an_board_st_2;Nous avons trouvé ça dans le tunnel. Ce sont les vôtres ?
+sequences_a05_pier_seq_a05_pier_arzt_geht_an_board#3;[Ohi takes the can, looks at it in his hand (idle).]
+spokentexts_a05_pier_seq_a05_pier_arzt_geht_an_board_st_3;J'en ai bien peur.
+spokentexts_a05_pier_seq_a05_pier_arzt_geht_an_board_st_4;De la strophantine... Avez-vous des problèmes cardiaques ?
+sequences_a05_pier_seq_a05_pier_arzt_geht_an_board#6;[Ohi nods. It is hard for him.]
+spokentexts_a05_pier_seq_a05_pier_arzt_geht_an_board_st_5;Hmm.
+spokentexts_a05_pier_seq_a05_pier_arzt_geht_an_board_st_6;C'est peut-être mieux que vous ne veniez pas. Trop d'excitation pourrait être mauvais pour votre santé.
+spokentexts_a05_pier_seq_a05_pier_arzt_geht_an_board_st_7_direction;sarcastic
+spokentexts_a05_pier_seq_a05_pier_arzt_geht_an_board_st_7;Vous voulez dire que si je restais tranquille, j'aurai probablement encore quelques belles années à vivre ?
+spokentexts_a05_pier_seq_a05_pier_arzt_geht_an_board_st_8_direction;did not understand him
+spokentexts_a05_pier_seq_a05_pier_arzt_geht_an_board_st_8;Tou à fait ! Gardez ça en tête !
+sequences_a05_pier_seq_a05_pier_arzt_geht_an_board#11;[The doctor holds Ohi friendly on his shoulder, then turns and walks up the ramp.]
+sequences_a05_pier_seq_a05_pier_arzt_geht_an_board#12;[Ohi stops, still considering the pills. Then he made a decision. He throws it into the sea.]
+sequences_a05_pier_seq_a05_pier_arzt_geht_an_board#13;[Cut back to the shot.]
+sequences_a05_pier_seq_a05_pier_ermittler_geht_an_bord#0;[The investigator goes on board, while Ohi lags and ponders.]
+spokentexts_a05_pier_seq_ohi_nimmt_opernglas_auf_st_1;Qui ou qu'est-ce qu'elle regardait ?
+sequences_a05_pier_seq_ohi_nimmt_opernglas_auf#1;[Ohi takes the opera glasses, the Baroness has dropped and holds it in front of his eyes.]
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_a_st_1;James ? James ! Où diable êtes-vous ?
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_a_st_2;Bonjour, Baronne !
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_a_st_3;Ah ! Inspecteur !
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_a_st_4;Officier.
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_a_st_5;Balivernes ! Vous ne serez plus officier bien longtemps !
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_a_st_6;Quand ils découvriront comment vous avez sauvé ce petit garçon, ils vous promouvront Inspecteur !
+sequences_a05_pier_seq_a05_pier_ohnmacht_baronin_a#6;[Ohi bowing slightly.]
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_a_st_7;C'est très aimable à vous de le dire, Baronne.
+sequences_a05_pier_seq_a05_pier_ohnmacht_baronin_b#0;[The butler appears behind the Baroness. The Baroness turns to him.]
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_1;James ! Vous êtes là !
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_2;Est-ce à l'inspecteur de porter mes bagages sur le bateau tout seul ?
+sequences_a05_pier_seq_a05_pier_ohnmacht_baronin_b#3;[The Baroness turns with sweeping gesture to the ship, with an opera glass she looked for the first time at the ship.]
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_3;Euhh... Eh bien en fait...
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_4_direction;stifled cry
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_4;AHHH !
+sequences_a05_pier_seq_a05_pier_ohnmacht_baronin_b#6;[The Baroness collapses into itself. The butler tries to keep her, but he can not with just one arm. When she is falling down her opera glasses falls from her hand.]
+sequences_a05_pier_seq_a05_pier_ohnmacht_baronin_b#7;[Ohi jumps on her, kneels beside her and helps her.]
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_5;Baronne !
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_6;Baronne ? Pouvez-vous m'entendre ?
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_7;Elle s'est évanouie!
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_8_direction;stammers fainting
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_8;Non... Non !
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_9;Baronne ?
+sequences_a05_pier_seq_a05_pier_ohnmacht_baronin_b#13;[Ohi gives her a soft slap. Even more than you would do normally.]
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_10;Une autre. Plus forte !
+sequences_a05_pier_seq_a05_pier_ohnmacht_baronin_b#15;[Ohi wants to slap, but as the baroness regains consciousness. Ohi lowers the arm.]
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_11;Hé ho ? Vous m'entendez ?
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_12_direction;confused
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_12;Je...
+sequences_a05_pier_seq_a05_pier_ohnmacht_baronin_b#18;[The Baronessis  looking around uncertainly. Only now she seems to recognize where she is.]
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_13;Aidez-moi à me relever !
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_14;Nous devrions peut-être...
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_15;Tout de suite !
+sequences_a05_pier_seq_a05_pier_ohnmacht_baronin_b#22;[The Butler and Ohi join forces to straighten the Baroness again.]
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_16;Je vais chercher le Dr Gebhardt...
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_17_direction;weak
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_17;Non, non.
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_18_direction;weak
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_18;Pas de docteur.
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_19;C'est juste un petit moment de faiblesse.
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_20;Votre bras, James. Emmenez-moi sur le navire.
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_21;Mais bien sûr, madame.
+sequences_a05_pier_seq_a05_pier_ohnmacht_baronin_b#29;[The Butler supports the Baroness, and together they go to the ship.]
+sequences_a05_pier_seq_a05_pier_ohnmacht_baronin_b#30;[Cut to Ohi. He looks around.]
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_22;"Ce n'était pas ""un petit moment de faiblesse"". Elle a vu quelque chose qui l'a choquée. Ou quelqu'un."
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_23;Très intéressant.
+spokentexts_a05_pier_seq_a05_pier_ohnmacht_baronin_b_st_24;Surtout qu'elle ne veut pas l'admettre.
+sequences_a05_pier_seq_a05_pier_ohnmacht_baronin_b#34;[Cut back. The Baroness and the Butler are now up at the captain.]
+sequences_a05_nebendeck_seq_a05_nebendeck_oehi_kommt_an_bord#0;[Ohi has reached the end of the gangway, enters the ship.]
+sequences_a05_nebendeck_seq_a05_nebendeck_oehi_kommt_an_bord#1;[The captain meets Ohi, holds out his hand. Ohi takes the hand (idle).]
+spokentexts_a05_nebendeck_seq_a05_nebendeck_oehi_kommt_an_bord_st_1;Qui avons-nous ici ?
+spokentexts_a05_nebendeck_seq_a05_nebendeck_oehi_kommt_an_bord_st_2;Signore...
+sequences_a05_nebendeck_seq_a05_nebendeck_oehi_kommt_an_bord#4;[Cut to the investigator.]
+spokentexts_a05_nebendeck_seq_a05_nebendeck_oehi_kommt_an_bord_st_3;Voici l'Officier Anton Zellner.
+sequences_a05_nebendeck_seq_a05_nebendeck_oehi_kommt_an_bord#6;[Cut to the captain over Ohis shoulder. The captain gets big eyes looking forward.]
+spokentexts_a05_nebendeck_seq_a05_nebendeck_oehi_kommt_an_bord_st_4;Signore Zellner !
+spokentexts_a05_nebendeck_seq_a05_nebendeck_oehi_kommt_an_bord_st_5;J'ai entendu parler de vos exploits dans les montagnes !
+spokentexts_a05_nebendeck_seq_a05_nebendeck_oehi_kommt_an_bord_st_6;Bienvenue à bord du MS Lydia !
+sequences_a05_nebendeck_seq_a05_nebendeck_oehi_kommt_an_bord#10;[Cut to all three.]
+spokentexts_a05_nebendeck_seq_a05_nebendeck_oehi_kommt_an_bord_st_7;Merci capitaine.
+sequences_a05_nebendeck_seq_a05_nebendeck_oehi_kommt_an_bord#12;[The two let go of each other.]
+spokentexts_a05_nebendeck_seq_a05_nebendeck_oehi_kommt_an_bord_st_8;Je ne savais pas que vous étiez du voyage. Mais je suis heureux de vous avoir parmi nous !
+spokentexts_a05_nebendeck_seq_a05_nebendeck_oehi_kommt_an_bord_st_9;Je vais faire préparer une cabine pour vous immédiatement !
+spokentexts_a05_nebendeck_seq_a05_nebendeck_oehi_kommt_an_bord_st_10;L'Officier ne se joindra pas à nous. Il a d'autres devoirs.
+spokentexts_a05_nebendeck_seq_a05_nebendeck_oehi_kommt_an_bord_st_11_direction;regretful
+spokentexts_a05_nebendeck_seq_a05_nebendeck_oehi_kommt_an_bord_st_11;Oh !
+spokentexts_a05_nebendeck_seq_a05_nebendeck_oehi_kommt_an_bord_st_12;C'est dommage !
+spokentexts_a05_nebendeck_seq_a05_nebendeck_oehi_kommt_an_bord_st_13;J'aurais aimé entendre parler de ses aventures par l'intéressé lui-même !
+texts_a05_ermittler_top_a05_ermittler_auto_verdient_mitzukommen_tseq_title;Mérite de venir
+spokentexts_a05_ermittler_top_a05_ermittler_auto_verdient_mitzukommen_tseq_st_1_direction;annoyed
+spokentexts_a05_ermittler_top_a05_ermittler_auto_verdient_mitzukommen_tseq_st_1;Et pour le navire ? J'ai gagné le droit de me joindre à vous.
+spokentexts_a05_ermittler_top_a05_ermittler_auto_verdient_mitzukommen_tseq_st_2;Je MÉRITE de venir !
+spokentexts_a05_ermittler_top_a05_ermittler_auto_verdient_mitzukommen_tseq_st_3_direction;exhales frustrated
+spokentexts_a05_ermittler_top_a05_ermittler_auto_verdient_mitzukommen_tseq_st_3;*soupir*
+sequences_a05_ermittler_top_a05_ermittler_auto_verdient_mitzukommen_tseq#5;[Investigator turns to Ohi. (Idle).]
+spokentexts_a05_ermittler_top_a05_ermittler_auto_verdient_mitzukommen_tseq_st_4_direction;understandingly, wants keep talking, but is interrupted
+spokentexts_a05_ermittler_top_a05_ermittler_auto_verdient_mitzukommen_tseq_st_4;Ce que vous avez fait est extraordinaire. C'est bien plus que n'importe qui aurait pu en attendre de vous.
+spokentexts_a05_ermittler_top_a05_ermittler_auto_verdient_mitzukommen_tseq_st_5;Et vous voulez quand même me laisser ?
+sequences_a05_ermittler_top_a05_ermittler_auto_verdient_mitzukommen_tseq#8;[Cut to the investigator.]
+spokentexts_a05_ermittler_top_a05_ermittler_auto_verdient_mitzukommen_tseq_st_8;Vous avez rencontré notre ennemi et a vous avez sauvé de justesse votre vie. Vous ne serez pas aussi chanceux la prochaine fois.
+spokentexts_a05_ermittler_top_a05_ermittler_auto_verdient_mitzukommen_tseq_st_9_direction;protests
+spokentexts_a05_ermittler_top_a05_ermittler_auto_verdient_mitzukommen_tseq_st_9;"Ce n'était pas ""de la chance""!"
+spokentexts_a05_ermittler_top_a05_ermittler_auto_verdient_mitzukommen_tseq_st_10;Vous pouvez retourner en Suisse la tête haute. Profitez de votre triomphe !
+spokentexts_a05_ermittler_top_a05_ermittler_auto_verdient_mitzukommen_tseq_st_11;Je n'ai pas encore fait quoi que ce soit ! Cet enragé a essayé de nous tuer et il est toujours en fuite!
+sequences_a05_ermittler_top_a05_ermittler_auto_verdient_mitzukommen_tseq#16;[Investigator gives him a quick glance, smiling. He knows how Ohi feels.]
+spokentexts_ermittler_top_a05_ermittler_auto_ich_komme_mit_tseq_st_6;Nous sommes là.
+texts_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq_title;Événements dans le tunnel
+sequences_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq#0;[Cut to Ohi.]
+spokentexts_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq_st_1;Qu'avez-vous découvert d'autre dans le tunnel ?
+sequences_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq#2;[Cut to the investigator.]
+spokentexts_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq_st_2;Pas grand-chose. Après que nous soyons sortis du tunnel, Robert et moi avons interrogé les passagers.
+spokentexts_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq_st_3;Il en est ressorti quelque chose de nouveau.
+spokentexts_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq_st_4_direction;affirmative 'no'
+spokentexts_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq_st_4;Non. L'ingénieur et le chauffeur avaient disparu. Ils ont été retrouvés à quelques kilomètres sur la voie.
+spokentexts_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq_st_5_direction;dubiously
+spokentexts_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq_st_5;Tous deux affirment avoir été engloutie par une ombre et jeté hors du train.
+sequences_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq#7;[Cut to Ohi.]
+spokentexts_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq_st_6_direction;surprised
+spokentexts_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq_st_6;Mais vous n'y croyez pas ?
+spokentexts_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq_st_7;Je vérifie leurs histoires. L'un d'eux peut avoir été payée pour éliminer l'autre.
+spokentexts_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq_st_8;Comment l'héritier du Corbeau aurait découvert le piège ? Comment a t-il pu mettre de la dynamite dans la boîte et placer la lettre ?
+sequences_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq#11;[Cut to the investigator.]
+spokentexts_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq_st_9;La dynamite était probablement déjà dans la boîte quand je l'ai mis dans le coffre. Je ne l'ai pas vérifié.
+spokentexts_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq_st_11;Vous n'aviez aucune raison de le faire.
+spokentexts_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq_st_12_direction;frustrated
+spokentexts_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq_st_12;Ce n'était pas ma seule erreur. Je SAVAIS que quelqu'un était sur le toit du wagon. Mais je me suis laisser distraire par cette damné lettre.
+spokentexts_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq_st_13_direction;irritated
+spokentexts_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq_st_13;Comment saviez-vous...
+sequences_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq#17;[The investigator shakes his head briefly.]
+spokentexts_a05_ermittler_top_a05_ermittler_auto_vorkommnisse_im_tunnel_tseq_st_14;Trop tard. J'aurais réagi instantanément.
+texts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_title;Offrir son aide
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_1;Faisons le point.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_2;L'un des deux joyaux les plus précieux du monde a été volé.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_3;De toute évidence, le second sera le prochain.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_4;Et vous soupçonnez un cambrioleur légendaire qui est mort depuis cinq ans...
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_6_direction;interested
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_6;Continuez...
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_7;Le deuxième bijou est sur ​​le point d'être chargé bord par là. Dans un coffre-fort qui nécessite trois clés.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_8;Notre voleur a peut-être déjà la première clé, celle de l'archéologue dans le train.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_9;Nous ne savons rien sur la deuxième clé, qui était censé être affrété par les airs jusqu'au Caire.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_10;Nous devons supposer qu'il l'a déjà.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_11;Par conséquent, il ne reste qu'une clé: celle de la baronne.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_12;Exact.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_13;Donc, vous aurez besoin de mes yeux à bord !
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_14;Écoutez, vous pouvez garder vos yeux ouverts pour moi ici, sur le quai. J'en serais très reconnaissant.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_15;Mais lorsque ce navire lève l'ancre, vous ne serez pas - je le répète - pas à bord.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_16_direction;protests, is interrupted
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_16;mais inspecteur...
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_17;Nous avons affaire à un homme dangereux et je vais le poursuivre peu importe les conséquences.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_18;Je ne vous laisserez pas vous mêler de cette affaire.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_20_direction;interrupts
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_20;C'est encore mon choix.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_21;Non. C'est le mien et je l'ai déjà fait.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_hilfe_anbieten_tseq_st_22;Bonne journée, Officier Zellner.
+texts_a05_ermittler_top_a05_ermittler_pier_rabe_ist_tot_tseq_title;Le Corbeau
+spokentexts_a05_ermittler_top_a05_ermittler_pier_rabe_ist_tot_tseq_st_1_direction;scared
+spokentexts_a05_ermittler_top_a05_ermittler_pier_rabe_ist_tot_tseq_st_1;Mais... Que voulez-vous dire par là ?
+spokentexts_a05_ermittler_top_a05_ermittler_pier_rabe_ist_tot_tseq_st_2;Vous croyez que c'est vraiment possible que le Corbeau revienne ?
+spokentexts_a05_ermittler_top_a05_ermittler_pier_rabe_ist_tot_tseq_st_4;Supposons, juste pour un moment, que la personne sur laquelle j'ai tiré et qui est tombé du toit n'était pas le Corbeau.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_rabe_ist_tot_tseq_st_5;Qui aurait prit la peine de découvrir la vérité ?
+spokentexts_a05_ermittler_top_a05_ermittler_pier_rabe_ist_tot_tseq_st_6;Le chef de la police ? Les politiciens ? Non, ils voulaient se complaire dans une chasse à l'homme réussi.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_rabe_ist_tot_tseq_st_7;Et c'était la meilleure chose qui pouvait arriver au Corbeau ! Sa traque était terminée.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_rabe_ist_tot_tseq_st_8;Il n'avait plus aucune raison de me craindre non plus - j'ai eu tant de médailles par la suite qu'il pouvait entendre leurs cliquetis kilomètres.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_rabe_ist_tot_tseq_st_9_direction;dubiously
+spokentexts_a05_ermittler_top_a05_ermittler_pier_rabe_ist_tot_tseq_st_9;Et maintenant... il est de retour ? Et vous êtes la seule personne qui puisse l'arrêter ?
+spokentexts_a05_ermittler_top_a05_ermittler_pier_rabe_ist_tot_tseq_st_10;Est-ce que cela vous parez possible ?
+spokentexts_a05_ermittler_top_a05_ermittler_pier_rabe_ist_tot_tseq_st_11;"Les plumes, les lettres. ""Nico"". Personne en dehors de la police savait que le Corbeau avait habitude de m'appeler comme ça dans ses lettres."
+spokentexts_a05_ermittler_top_a05_ermittler_pier_rabe_ist_tot_tseq_st_16;Avec les fuites policière et les faussaires. Vous ne pouvez pas avoir sérieusement l'intention de miser votre réputation sur de telle preuve !
+spokentexts_a05_ermittler_top_a05_ermittler_pier_rabe_ist_tot_tseq_st_13_direction;thoughtful, quietly
+spokentexts_a05_ermittler_top_a05_ermittler_pier_rabe_ist_tot_tseq_st_13;Ma réputation repose sur quelque chose que je n'ai probablement pas fait.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_rabe_ist_tot_tseq_st_17_direction;convinced loud
+spokentexts_a05_ermittler_top_a05_ermittler_pier_rabe_ist_tot_tseq_st_17;Je dois savoir qui est derrière tout cela.
+texts_a05_ermittler_top_a05_ermittler_pier_telegramm_tseq_title;Télégramme
+sequences_a05_ermittler_top_a05_ermittler_pier_telegramm_tseq#0;[Ohi points to the water in the harbor.]
+spokentexts_a05_ermittler_top_a05_ermittler_pier_telegramm_tseq_st_1;J'espère que vous êtes conscient que vous risquez votre carrière ?
+spokentexts_a05_ermittler_top_a05_ermittler_pier_telegramm_tseq_st_2_direction;gloomy
+spokentexts_a05_ermittler_top_a05_ermittler_pier_telegramm_tseq_st_2;Je le suis, en effet.
+sequences_a05_ermittler_top_a05_ermittler_pier_telegramm_tseq#3;[The investigator looks past Ohi to the lagoon.]
+spokentexts_a05_ermittler_top_a05_ermittler_pier_telegramm_tseq_st_3;Pourquoi vous souciez-vous autant de cette affaire ?
+spokentexts_a05_ermittler_top_a05_ermittler_pier_telegramm_tseq_st_4;Quelqu'un prétend être le Corbeau et vous risquez votre carrière ?
+spokentexts_a05_ermittler_top_a05_ermittler_pier_telegramm_tseq_st_5_direction;gloomy
+spokentexts_a05_ermittler_top_a05_ermittler_pier_telegramm_tseq_st_5;Et si il ne s'agit pas seulement d'un faussaire ?
+spokentexts_a05_ermittler_top_a05_ermittler_pier_telegramm_tseq_st_6_direction;irritated
+spokentexts_a05_ermittler_top_a05_ermittler_pier_telegramm_tseq_st_6;Que voulez-vous dire par là ?
+spokentexts_a05_ermittler_top_a05_ermittler_pier_telegramm_tseq_st_7;"C'est sa signature ! Et il n'y a qu'une seule personne qui m'appelle ""Nico""."
+sequences_a05_ermittler_top_a05_ermittler_pier_telegramm_tseq#12;[As he speaks, he turns his head back in the direction Ohis.]
+spokentexts_a05_ermittler_top_a05_ermittler_pier_telegramm_tseq_st_11;Avez-vous déjà envisagé la possibilité que j'ai pu tirer sur la mauvaise personne ?
+texts_a05_ermittler_top_a05_ermittler_pier_tresor_tseq_title;En sécurité
+spokentexts_a05_ermittler_top_a05_ermittler_pier_tresor_tseq_st_1;Et le deuxième oeil est dans ce coffre ?
+sequences_a05_ermittler_top_a05_ermittler_pier_tresor_tseq#1;[Cut to the vault that is being loaded.]
+spokentexts_a05_ermittler_top_a05_ermittler_pier_tresor_tseq_st_2;Oui. Une émeraude.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_tresor_tseq_st_3;Il a été conservé dans une banque à Zurich depuis le début de la guerre.
+sequences_a05_ermittler_top_a05_ermittler_pier_tresor_tseq#4;[Cut back to Ohi and the investigator.]
+spokentexts_a05_ermittler_top_a05_ermittler_pier_tresor_tseq_st_4;Je l'ai personnellement sorti du coffre de la banque et le professeur Lucien a certifié son authenticité.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_tresor_tseq_st_5;Et un bijou factice a été envoyé par le train...
+spokentexts_a05_ermittler_top_a05_ermittler_pier_tresor_tseq_st_6;...le vrai a été amené ici dans un véhicule blindé.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_tresor_tseq_st_7;Comment est-il protégé ?
+spokentexts_a05_ermittler_top_a05_ermittler_pier_tresor_tseq_st_8;Vous ne pouvez ouvrir le coffre que si vous avez trois clés spéciales.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_tresor_tseq_st_9;Le professeur Lucien en a une et la baronne von Trebitz, qui a payée pour tout cela, a la seconde. La troisième a été envoyé par courrier aérien à M. Abbas Mokhtar, le directeur du Musée égyptien au Caire.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_tresor_tseq_st_10;Donc, même vous ne pourriez ouvrir le coffre avant son arrivée en Egypte ?
+spokentexts_a05_ermittler_top_a05_ermittler_pier_tresor_tseq_st_11;C'est exact. Nous ne voulons pas faciliter la tâche à de potentiels voleurs.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_tresor_tseq_st_12;C'est louable.
+texts_a05_ermittler_top_a05_ermittler_pier_wachmann_tseq_title;Agent
+spokentexts_a05_ermittler_top_a05_ermittler_pier_wachmann_tseq_st_1;Quel est le problème de l'agent envers moi ?
+spokentexts_a05_ermittler_top_a05_ermittler_pier_wachmann_tseq_st_2;Pourquoi l'agent Oliver a un problème avec moi ?
+spokentexts_a05_ermittler_top_a05_ermittler_pier_wachmann_tseq_st_3_direction;silent laughter
+spokentexts_a05_ermittler_top_a05_ermittler_pier_wachmann_tseq_st_3;Hmm! Je pense qu'il est jaloux.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_wachmann_tseq_st_4;Scotland Yard l'a affecté pour m'assister, tout comme vous par les autorités suisses.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_wachmann_tseq_st_5_direction;embittered
+spokentexts_a05_ermittler_top_a05_ermittler_pier_wachmann_tseq_st_5;Avec la distinction qu'IL pourrait se rendre en Egypte.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_wachmann_tseq_st_6;Robert m'accompagne pour tout le voyage. Votre mission était limitée à la Suisse.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_wachmann_tseq_st_8;En ce moment, je veux être renvoyé en Suisse, comme vous, vous voulez être renvoyé à Paris.
+spokentexts_a05_ermittler_top_a05_ermittler_pier_wachmann_tseq_st_9_direction;seriously
+spokentexts_a05_ermittler_top_a05_ermittler_pier_wachmann_tseq_st_9;Je sais. Mais je marche sur le fil du rasoir - et je ne peux pas vous emmener, aussi !
+texts_ermittler_top_a03_ermittler_pier_abfahrt_tseq_title;Prêt à partir
+spokentexts_ermittler_top_a03_ermittler_pier_abfahrt_tseq_st_1;Mettons les voiles !
+spokentexts_ermittler_top_a03_ermittler_pier_abfahrt_tseq_st_2;Je vais mettre les voiles. Vous non.
+texts_ermittler_top_a05_ermittler_auto_ich_komme_mit_tseq_title;Je vais venir
+spokentexts_ermittler_top_a05_ermittler_auto_ich_komme_mit_tseq_st_1;Je viens avec vous, un point c'est tout !
+spokentexts_ermittler_top_a05_ermittler_auto_ich_komme_mit_tseq_st_2;Le voleur a réussi à placer dix bâtons de dynamite dans une caisse juste sous mon nez.
+spokentexts_ermittler_top_a05_ermittler_auto_ich_komme_mit_tseq_st_3;Pour autant que nous sachions, vous pourriez déjà être assis sur la prochaine bombe.
+sequences_ermittler_top_a05_ermittler_auto_ich_komme_mit_tseq#3;[Ohi surprised looks down, he slides back and fourth a little nervous.]
+spokentexts_ermittler_top_a05_ermittler_auto_ich_komme_mit_tseq_st_4;Vous ne pouvez pas venir.
+spokentexts_ermittler_top_a05_ermittler_auto_ich_komme_mit_tseq_st_5_direction;to protest
+spokentexts_ermittler_top_a05_ermittler_auto_ich_komme_mit_tseq_st_5;mais inspecteur...
+sequences_ermittler_top_a05_ermittler_auto_ich_komme_mit_tseq#7;[Continue with the arrival at the pier.]
+texts_wachmann_mo_ex_1;Regarder l'Officier Oliver
+texts_wachmann_mo_talk_1;Parler a l'Officier
+texts_a05_wachmann_top_a05_wachmann_der_rabe_tseq_title;Le Corbeau
+spokentexts_a05_wachmann_top_a05_wachmann_der_rabe_tseq_st_1;Legrand vous a t-il parlé de sa théorie ? Que cela pourrait être le vrai Corbeau ?
+spokentexts_a05_wachmann_top_a05_wachmann_der_rabe_tseq_st_2_direction;conceited
+spokentexts_a05_wachmann_top_a05_wachmann_der_rabe_tseq_st_2;Bien sûr ! Nous sommes partenaires.
+spokentexts_a05_wachmann_top_a05_wachmann_der_rabe_tseq_st_3;Mais le modus operandi ne correspond pas du tout ! Le Corbeau n'était pas un terroriste !
+spokentexts_a05_wachmann_top_a05_wachmann_der_rabe_tseq_st_5;Nous avons la lettre. Et la plume. C'est sa signature.
+spokentexts_a05_wachmann_top_a05_wachmann_der_rabe_tseq_st_6;N'importe qui peut mettre une plume dans une enveloppe !
+spokentexts_a05_wachmann_top_a05_wachmann_der_rabe_tseq_st_7;Vous le savez bien.
+spokentexts_a05_wachmann_top_a05_wachmann_der_rabe_tseq_st_8_direction;irritated, angry
+spokentexts_a05_wachmann_top_a05_wachmann_der_rabe_tseq_st_8;Qu'est-ce que ça veut dire ?
+sequences_a05_wachmann_top_a05_wachmann_der_rabe_tseq#8;[The guard turns around.]
+spokentexts_a05_wachmann_top_a05_wachmann_der_rabe_tseq_st_10;C'était VOUS.
+spokentexts_a05_wachmann_top_a05_wachmann_der_rabe_tseq_st_11_direction;irritated
+spokentexts_a05_wachmann_top_a05_wachmann_der_rabe_tseq_st_11;C'était moi ?
+spokentexts_a05_wachmann_top_a05_wachmann_der_rabe_tseq_st_12;VOUS avez mis l'enveloppe dans le coffre !
+spokentexts_a05_wachmann_top_a05_wachmann_der_rabe_tseq_st_13_direction;doubting
+spokentexts_a05_wachmann_top_a05_wachmann_der_rabe_tseq_st_13;Pour me faire exploser ?!
+spokentexts_a05_wachmann_top_a05_wachmann_der_rabe_tseq_st_14;Vous avez jeté la bombe et vous êtes maintenant un grand héros, non ? Et le Corbeau a dû bien vous soudoyer...
+spokentexts_a05_wachmann_top_a05_wachmann_der_rabe_tseq_st_15;C'est ridicule !
+spokentexts_a05_wachmann_top_a05_wachmann_der_rabe_tseq_st_16;Vraiment ?
+spokentexts_a05_wachmann_top_a05_wachmann_verabschieden_tseq_st_11;Uniquement vous, moi et Legrand étaient dans la voiture de fret.
+spokentexts_a05_wachmann_top_a05_wachmann_verabschieden_tseq_st_12;L'un de nous a mis l'enveloppe dans le coffre-fort.
+spokentexts_a05_wachmann_top_a05_wachmann_der_rabe_tseq_st_19;Ce n'est pas Legrand. Et ce n'est pas moi.
+spokentexts_a05_wachmann_top_a05_wachmann_verabschieden_tseq_st_13;Pensez-y.
+sequences_a05_wachmann_top_a05_wachmann_der_rabe_tseq#21;[The guard is passing Ohi to go on the ship.]
+texts_a05_wachmann_top_a05_wachmann_tunnel_tseq_title;jolie travail dans le tunnel
+spokentexts_a05_wachmann_top_a05_wachmann_tunnel_tseq_st_1;Je voulais juste vous dire que vous avez fait un excellent travail dans le tunnel.
+spokentexts_a05_wachmann_top_a05_wachmann_tunnel_tseq_st_2;Hmm. Merci.
+spokentexts_a05_wachmann_top_a05_wachmann_tunnel_tseq_st_3_direction;sneaky
+spokentexts_a05_wachmann_top_a05_wachmann_tunnel_tseq_st_3;Comment avez-vous su comment remettre le train en marche ?
+spokentexts_a05_wachmann_top_a05_wachmann_tunnel_tseq_st_4;Je viens d'une famille de mineurs. Et mon oncle est conducteur de locomotive dans une mine.
+spokentexts_a05_wachmann_top_a05_wachmann_tunnel_tseq_st_5;Je vois. Et vous avez regardé par-dessus son épaule ?
+spokentexts_a05_wachmann_top_a05_wachmann_tunnel_tseq_st_6;Oui. Le meilleur moyen d'apprendre.
+texts_a05_wachmann_top_a05_wachmann_verabschieden_tseq_title;Dire au revoir
+spokentexts_a05_wachmann_top_a05_wachmann_verabschieden_tseq_st_1;"J'imagine que c'est ""au revoir""."
+spokentexts_a05_wachmann_top_a05_wachmann_verabschieden_tseq_st_2;Sauf si vous trouvez un moyen de monter à bord.
+spokentexts_a05_wachmann_top_a05_wachmann_verabschieden_tseq_st_3;Que voulez-vous dire ?
+sequences_a05_wachmann_top_a05_wachmann_verabschieden_tseq#3;[The guard turns around.]
+spokentexts_a05_wachmann_top_a05_wachmann_verabschieden_tseq_st_4;Eh bien, vous semblez être vraiment très chanceux.
+spokentexts_a05_wachmann_top_a05_wachmann_verabschieden_tseq_st_5_direction;irritated
+spokentexts_a05_wachmann_top_a05_wachmann_verabschieden_tseq_st_5;J'ai été presque réduits en miettes !
+spokentexts_a05_wachmann_top_a05_wachmann_verabschieden_tseq_st_6;Exact, presque. Au lieu de cela, vous avez jeté la bombe et vous êtes devenu un célèbre héros, n'est-ce pas ?
+spokentexts_a05_wachmann_top_a05_wachmann_verabschieden_tseq_st_7_direction;doubting
+spokentexts_a05_wachmann_top_a05_wachmann_verabschieden_tseq_st_7;Vous dites que je suis mêlé à cette farce ?
+sequences_a05_wachmann_top_a05_wachmann_verabschieden_tseq#14;[The guard is passing Ohi to go on the ship.]
+spokentexts_wachmann_ex_1_st_1;L'Officier Oliver semble être un peu réducteur. Mais je ne pense pas qu'il soit un mauvais policier.
+spokentexts_wachmann_ex_1_st_2;La façon dont il a réagi dans le tunnel - et a remis le train en marche... Chapeau bas !
+spokentexts_wachmann_talk_mit_1_st_1;Bonjour, Officier Olivier !
+sequences_wachmann_talk_mit_1#2;[The guard is looking over his shoulder, looks back towards safe (does not turn around).]
+spokentexts_wachmann_talk_mit_1_st_2;"C'est ""Oliver""."
+texts_arzt_mo_berachten_1;Regarder le Dr. Gebhardt
+texts_arzt_mo_talk_mit_1;Parler au Dr. Gebhardt
+texts_arzt_top_a05_arzt_baronin_tseq_title;La baronne
+spokentexts_arzt_top_a05_arzt_baronin_tseq_st_1;Que savez-vous sur la baronne ?
+spokentexts_arzt_top_a05_arzt_baronin_tseq_st_2;Rien.
+spokentexts_arzt_top_a05_arzt_baronin_tseq_st_3;Lui avez-vous parlé dans le tunnel ?
+spokentexts_arzt_top_a05_arzt_baronin_tseq_st_4;Non. Son majordome s'occupait d'elle et j'ai été occupé avec Mme Miller.
+spokentexts_arzt_top_a05_arzt_baronin_tseq_st_5;Comme vous pouvez l'imaginer, ce fut un choc pour elle de voir son fils partir dans un train en feu.
+spokentexts_arzt_top_a05_arzt_baronin_tseq_st_6;C'est compréhensible.
+spokentexts_arzt_top_a05_arzt_baronin_tseq_st_7;Nous étions tous heureux lorsque nous avons entendu parler de votre acte de bravoure !
+texts_arzt_top_a05_arzt_held_der_stunde_tseq_title;Héros du jour
+spokentexts_arzt_top_a05_arzt_held_der_stunde_tseq_st_1;Héros du jour, mais bientôt sans travail.
+spokentexts_arzt_top_a05_arzt_held_der_stunde_tseq_st_2;Vous n'allez plus être policier ?!
+spokentexts_arzt_top_a05_arzt_held_der_stunde_tseq_st_3;Oui. J'ai fais mon temps.
+spokentexts_arzt_top_a05_arzt_held_der_stunde_tseq_st_4;C'est presque aussi bon que d'être au chômage.
+spokentexts_arzt_top_a05_arzt_held_der_stunde_tseq_st_5_direction;giggles
+spokentexts_arzt_top_a05_arzt_held_der_stunde_tseq_st_5;Mmm-hmm. Je comprends.
+texts_arzt_top_a05_arzt_kapitaen_tseq_title;Le capitaine du navire
+spokentexts_arzt_top_a05_arzt_kapitaen_tseq_st_1;Avez-vous rencontré le capitaine ?
+spokentexts_arzt_top_a05_arzt_kapitaen_tseq_st_2_direction;solemnly
+spokentexts_arzt_top_a05_arzt_kapitaen_tseq_st_2;Mario di Conti !
+spokentexts_arzt_top_a05_arzt_kapitaen_tseq_st_3;Entendu parler de lui ?
+spokentexts_arzt_top_a05_arzt_kapitaen_tseq_st_4;Je devrais ?
+spokentexts_arzt_top_a05_arzt_kapitaen_tseq_st_5;Il y est comme une star en Italie. C'est un héros de guerre !
+spokentexts_arzt_top_a05_arzt_kapitaen_tseq_st_6;Lors de la Première Guerre mondiale, quand il était un jeune homme, il a coulé plus de navires ennemis que quiconque.
+spokentexts_arzt_top_a05_arzt_kapitaen_tseq_st_7;Pendant la Seconde Guerre mondiale, et bien...
+spokentexts_arzt_top_a05_arzt_kapitaen_tseq_st_8;Il avait... des problèmes... personnel.
+spokentexts_arzt_top_a05_arzt_kapitaen_tseq_st_9;Vous voulez dire comme ceux que vous achetez en bouteille et en comprimés ?
+spokentexts_arzt_top_a05_arzt_kapitaen_tseq_st_10_direction;embarrassed
+spokentexts_arzt_top_a05_arzt_kapitaen_tseq_st_10;Mmm. On pourrait dire ça.
+spokentexts_arzt_top_a05_arzt_kapitaen_tseq_st_11;Quoi qu'il en soit, l'envoyer au combat était hors de question. Ils lui ont donné un navire de ravitaillement. Et il est redevenu un héros.
+spokentexts_arzt_top_a05_arzt_kapitaen_tseq_st_13;Son navire, faisait partie d'un convoi de Palerme à l'Afrique du Nord, c'était le seul à l'avoir fait, avec un supplément de 100 marins qu'il avait sauvé d'autres navires.
+spokentexts_arzt_top_a05_arzt_kapitaen_tseq_st_14;Impressionnant !
+spokentexts_arzt_top_a05_arzt_kapitaen_tseq_st_15;Dire que son état de santé est plutôt chancelant de nos jours, serait un euphémisme.
+spokentexts_arzt_top_a05_arzt_kapitaen_tseq_st_16;Je pense que la plupart de mon temps à bord sera de faire face à ses nombreuses maladies.
+texts_arzt_top_a05_arzt_neuer_arbeitsplatz_tseq_title;Le navire
+spokentexts_arzt_top_a05_arzt_neuer_arbeitsplatz_tseq_st_1;Est-ce votre nouveau travail vous ennuie ?
+spokentexts_arzt_top_a05_arzt_neuer_arbeitsplatz_tseq_st_2;Bien au contraire !
+spokentexts_arzt_top_a05_arzt_neuer_arbeitsplatz_tseq_st_3;Je n'étais pas sûr d'avoir pris la bonne décision jusqu'à maintenant.
+spokentexts_arzt_top_a05_arzt_neuer_arbeitsplatz_tseq_st_4;Je viens de la Forêt-Noire, vous savez. Il n'y a que des montagnes là-bas, pas de bateaux !
+spokentexts_arzt_top_a05_arzt_neuer_arbeitsplatz_tseq_st_6_direction;takes a deep breath
+spokentexts_arzt_top_a05_arzt_neuer_arbeitsplatz_tseq_st_6;Mais maintenant... Mmmm !
+spokentexts_arzt_top_a05_arzt_neuer_arbeitsplatz_tseq_st_8;Le vent salé, l'atmosphère... Je crois que je veux rester en mer pour toujours !
+sequences_arzt_top_a05_arzt_neuer_arbeitsplatz_tseq#8;[The car of the baroness comes. A dock worker has to jump for cover.]
+sequences_arzt_top_a05_arzt_neuer_arbeitsplatz_tseq#9;[Ohi and the doctor are looking to the car.]
+spokentexts_arzt_top_a05_arzt_neuer_arbeitsplatz_tseq_st_9;La mer est une chose. Les passagers en sont une autre.
+spokentexts_arzt_top_a05_arzt_neuer_arbeitsplatz_tseq_st_10_direction;laughs
+spokentexts_arzt_top_a05_arzt_neuer_arbeitsplatz_tseq_st_10;Ha ha ha.
+spokentexts_arzt_top_a05_arzt_neuer_arbeitsplatz_tseq_st_11;Ca va aller.
+sequences_arzt_top_a05_arzt_neuer_arbeitsplatz_tseq#13;[The doctor puts on his hat, which he had held in his hands until now.]
+sequences_arzt_top_a05_arzt_neuer_arbeitsplatz_tseq#14;[The two men look at each other again.]
+texts_arzt_top_a05_arzt_verabschieden_tseq_title;Dire au revoir
+spokentexts_arzt_top_a05_arzt_verabschieden_tseq_st_1;Eh bien. Il ne me reste rien d'autre a faire que de vous souhaiter un bon voyage.
+spokentexts_arzt_top_a05_arzt_verabschieden_tseq_st_2_direction;surprised
+spokentexts_arzt_top_a05_arzt_verabschieden_tseq_st_2;Vous ne venez pas avec nous ?
+spokentexts_arzt_top_a05_arzt_verabschieden_tseq_st_3;Malheureusement, non. Je retourne à Zurich.
+spokentexts_arzt_top_a05_arzt_verabschieden_tseq_st_4_direction;surprised
+spokentexts_arzt_top_a05_arzt_verabschieden_tseq_st_4;Quel dommage !
+sequences_arzt_top_a05_arzt_verabschieden_tseq#6;[The violinist comes into the picture.]
+spokentexts_arzt_top_a05_arzt_verabschieden_tseq_st_8;Faites attention à vous, Dr. Gebhardt.
+sequences_arzt_top_a05_arzt_verabschieden_tseq#9;[Ohi looks toward Geiger.]
+spokentexts_arzt_top_a05_arzt_verabschieden_tseq_st_9;Gardez un oeil sur les autres passagers !
+sequences_arzt_top_a05_arzt_verabschieden_tseq#20;[The violinist gives Ohi an evil look, goes to the ramp back at the ship. The doctor hesitates, turns back to Ohi.]
+spokentexts_arzt_top_a05_arzt_verabschieden_tseq_st_10;Au moins il y aura de la musique.
+sequences_arzt_top_a05_arzt_verabschieden_tseq#5;[The violinist goes to the ship. The doctor hesitates, turns back to Ohi.]
+sequences_arzt_ex_1#1;[The doctor is ain front of the ship and looks at it. He has his hat in his hands. As idle variation he could go through his hair, as a second look, he could turn left and right to see the ship in its entire length.]
+spokentexts_arzt_ex_1_st_1;Hmm ? Le docteur a peur de monter à bord du navire ?
+spokentexts_arzt_talk_mit_1_st_1;Bonjour, Dr. Gebhardt !
+sequences_arzt_talk_mit_1#2;[The doctor turns around.]
+spokentexts_arzt_talk_mit_1_st_2;Ah !
+spokentexts_arzt_talk_mit_1_st_3;Le héros du jour !
+texts_baronin_top_a05_baronin_abenteuer_ueberstanden_tseq_title;Aventure dans le tunnel
+spokentexts_baronin_top_a05_baronin_abenteuer_ueberstanden_tseq_st_1;J'espère que vous êtes sorti de cette aventure dans le tunnel sains et saufs ?
+spokentexts_baronin_top_a05_baronin_abenteuer_ueberstanden_tseq_st_2_direction;indignantly
+spokentexts_baronin_top_a05_baronin_abenteuer_ueberstanden_tseq_st_2;C'est scandaleux ! Vous réservez une cabine de première classe et vous vous retrouvez a marcher sur les rails.
+spokentexts_baronin_top_a05_baronin_abenteuer_ueberstanden_tseq_st_3_direction;indignantly
+spokentexts_baronin_top_a05_baronin_abenteuer_ueberstanden_tseq_st_3;Ils voulaient m'embarquer dans un bus, sans mes bagages !
+spokentexts_baronin_top_a05_baronin_abenteuer_ueberstanden_tseq_st_4_direction;placatory
+spokentexts_baronin_top_a05_baronin_abenteuer_ueberstanden_tseq_st_4;Les circonstances, madame...
+spokentexts_baronin_top_a05_baronin_abenteuer_ueberstanden_tseq_st_5_direction;indignantly
+spokentexts_baronin_top_a05_baronin_abenteuer_ueberstanden_tseq_st_5;J'ai insisté dans la limousine et je ne suis pas partie jusqu'à ce que tous mes bagages soit récupérés !
+texts_baronin_top_a05_baronin_fahrt_nach_kairo_tseq_title;Voyage au Caire
+spokentexts_baronin_top_a05_baronin_fahrt_nach_kairo_tseq_st_1;J'espère que le reste de votre voyage au Caire sera moins stressant.
+spokentexts_baronin_top_a05_baronin_fahrt_nach_kairo_tseq_st_2;Vous ne venez pas avec nous !
+spokentexts_baronin_top_a05_baronin_fahrt_nach_kairo_tseq_st_3;Je crains que l'inspecteur Legrand ne veuille pas de ma compagnie.
+spokentexts_baronin_top_a05_baronin_fahrt_nach_kairo_tseq_st_4;Saperlipopette ! 
+spokentexts_baronin_top_a05_baronin_fahrt_nach_kairo_tseq_st_5;Vous avez trouvé mon sac alors qu'il était caché dans une boîte alors qu'il surveillait la bombe qui a faillit tous nous tuer.
+spokentexts_baronin_top_a05_baronin_fahrt_nach_kairo_tseq_st_6;Je veux que vous veniez avec nous.
+spokentexts_baronin_top_a05_baronin_fahrt_nach_kairo_tseq_st_7_direction;uncomprehendingly
+spokentexts_baronin_top_a05_baronin_fahrt_nach_kairo_tseq_st_7;J'aimerais aussi, mais...
+spokentexts_baronin_top_a05_baronin_fahrt_nach_kairo_tseq_st_8;Je vais parler au capitaine et prendre en charge les coûts.
+spokentexts_baronin_top_a05_baronin_fahrt_nach_kairo_tseq_st_9;Baronne ! Je ne sais pas...
+spokentexts_baronin_top_a05_baronin_fahrt_nach_kairo_tseq_st_10;Non, pas de problème. Je m'en occupe.
+spokentexts_baronin_top_a05_baronin_fahrt_nach_kairo_tseq_st_11;C'est dommage. À mon avis, qu'un autre policier garde l'oeil ne serait certainement pas plus mal.
+spokentexts_baronin_top_a05_baronin_fahrt_nach_kairo_tseq_st_12;D'un autre côté... Vous n'avez pas réussi à retrouver mon sac.
+spokentexts_baronin_top_a05_baronin_fahrt_nach_kairo_tseq_st_13;Sans vouloir vous offenser.
+spokentexts_baronin_top_a05_baronin_fahrt_nach_kairo_tseq_st_14;Bon, où est mon satané majordome ?
+texts_baronin_top_a05_baronin_tresor_tseq_title;Sécurité
+spokentexts_baronin_top_a05_baronin_tresor_tseq_st_1;Saviez-vous que le vraie Oeil du Sphinx n'était même pas dans le train ?
+spokentexts_baronin_top_a05_baronin_tresor_tseq_st_2;J'en avais aucune idée !
+spokentexts_baronin_top_a05_baronin_tresor_tseq_st_3_direction;slightly angry
+spokentexts_baronin_top_a05_baronin_tresor_tseq_st_3;L'Inspecteur Legrand semble préférer me garder dans l'ignorance.
+spokentexts_baronin_top_a05_baronin_tresor_tseq_st_4;Même si je suis le seul à payer pour tout cela.
+spokentexts_baronin_top_a05_baronin_tresor_tseq_st_5;L'inspecteur assure la sécurité de l'oeil.
+spokentexts_baronin_top_a05_baronin_tresor_tseq_st_6;Eh bien, évidemment. Mais tout de même, c'est vous qui avez fait le travail dans le train !
+texts_junge_frau_mo_ex_1__2;Regarder Mlle Mayers
+texts_frau_top_a05_frau_aegypten_tseq_title;Destination du voyage
+spokentexts_frau_top_a05_frau_aegypten_tseq_st_1;Vous êtes en route pour l'Égypte ?
+spokentexts_frau_top_a05_frau_aegypten_tseq_st_2;Oui.
+spokentexts_frau_top_a05_frau_aegypten_tseq_st_3;Êtes-vous en vacances ?
+spokentexts_frau_top_a05_frau_aegypten_tseq_st_4;Mon père travaille pour une compagnie de chemin de fer là-bas.
+spokentexts_frau_top_a05_frau_aegypten_tseq_st_5_direction;impressed, thrilled
+spokentexts_frau_top_a05_frau_aegypten_tseq_st_5;Et la reconstruction du pays après la guerre. Magnifique !
+spokentexts_frau_top_a05_frau_aegypten_tseq_st_6_direction;sober busy
+spokentexts_frau_top_a05_frau_aegypten_tseq_st_6;Oui, magnifique.
+sequences_frau_top_a05_frau_aegypten_tseq#6;[The young woman is taking a suitcase from the back seat and gives it backward.]
+spokentexts_frau_top_a05_frau_name_tseq_st_5;Pourriez-vous m'aider, je vous prie ?
+spokentexts_frau_top_a05_frau_name_tseq_st_6;Euhh. Certainement.
+sequences_frau_top_a05_frau_aegypten_tseq#10;[Ohi takes the suitcase,  is a bit confused. He looks around, do not know exactly what to do with it.]
+sequences_frau_top_a05_frau_aegypten_tseq#11;[A dock worker takes his suitcase so that Ohi can focus on the next question.]
+spokentexts_frau_top_a05_frau_name_tseq_st_7;Un de plus.
+sequences_frau_top_a05_frau_aegypten_tseq#14;[Ohi takes the suitcase, passes it on without looking.]
+texts_frau_top_a05_frau_glueck_tseq_title;Beaucoup de chance !
+spokentexts_frau_top_a05_frau_glueck_tseq_st_1;Vous avez de la chance d'avoir un père qui vous emmène dans tellement d'endroits intéressants !
+spokentexts_frau_top_a05_frau_glueck_tseq_st_2_direction;sarcastic
+spokentexts_frau_top_a05_frau_glueck_tseq_st_2;Oh, oui. quelle chance.
+spokentexts_frau_top_a05_frau_glueck_tseq_st_3_direction;irritated
+spokentexts_frau_top_a05_frau_glueck_tseq_st_3;Vous n'êtes pas intéressé par l'Egypte ? Les pyramides ? L'histoire ?
+spokentexts_frau_top_a05_frau_glueck_tseq_st_4;J'aurais été plus intéressé par un père qui ne voyage pas 300 jours par an.
+spokentexts_frau_top_a05_frau_glueck_tseq_st_5_direction;convinced
+spokentexts_frau_top_a05_frau_glueck_tseq_st_5;Je suis sûr que votre père regrette de ne pouvoir être plus souvent avec vous !
+spokentexts_frau_top_a05_frau_glueck_tseq_st_6_direction;sarcastic
+spokentexts_frau_top_a05_frau_glueck_tseq_st_6;Sans doute.
+sequences_frau_top_a05_frau_glueck_tseq#6;[Woman gets up, has a suitcase in her hands, which she keeps in front of stomach / chest.]
+spokentexts_frau_top_a05_frau_glueck_tseq_st_7;Et je suis sûr qu'il a toujours voulu le meilleur pour moi. Mais cela ne l'empêche pas de ne penser qu'à lui-même trop souvent.
+sequences_frau_top_a05_frau_glueck_tseq#8;[The woman gives Ohi the suitcase, obviously he is surprised.]
+sequences_frau_top_a05_frau_glueck_tseq#9;[Cut further away.]
+sequences_frau_top_a05_frau_glueck_tseq#10;[The woman goes to a dock worker.]
+spokentexts_frau_top_a05_frau_glueck_tseq_st_8;Portez mes bagages à bord, s'il vous plaît.
+sequences_frau_top_a05_frau_glueck_tseq#12;[The dockworker nods and goes away.]
+spokentexts_frau_top_a05_frau_glueck_tseq_st_9_direction;Hello? What is this?
+spokentexts_frau_top_a05_frau_glueck_tseq_st_9;Excusez-moi ?
+sequences_frau_top_a05_frau_glueck_tseq#14;[The woman looks back over her shoulder.]
+spokentexts_frau_top_a05_frau_glueck_tseq_st_10;C'était un plaisir de vous rencontrer, Officier Zellner.
+sequences_frau_top_a05_frau_glueck_tseq#16;[Ohi lowers the suitcase and puts him down.]
+spokentexts_frau_top_a05_frau_glueck_tseq_st_11;Insolente.
+sequences_frau_top_a05_frau_glueck_tseq#18;[Cut back to the shot.]
+texts_frau_top_a05_frau_name_tseq_title;Nom de cette femme ?
+spokentexts_frau_top_a05_frau_name_tseq_st_1;Puis-je vous demander votre nom ?
+spokentexts_frau_top_a05_frau_name_tseq_st_2_direction;busy
+spokentexts_frau_top_a05_frau_name_tseq_st_2;Patricia Mayers.
+spokentexts_frau_top_a05_frau_name_tseq_st_3;Vous êtes américaine ?
+spokentexts_frau_top_a05_frau_name_tseq_st_4_direction;busy
+spokentexts_frau_top_a05_frau_name_tseq_st_4;Je le suis.
+sequences_frau_top_a05_frau_name_tseq#4;[The young woman is taking a suitcase from the back seat and gives it backward.]
+sequences_frau_top_a05_frau_name_tseq#8;[Ohi accepts the case, is a bit confused. He looks around, do not know exactly what to do with it.]
+sequences_frau_top_a05_frau_name_tseq#9;[A dock worker takes his suitcase so that Ohi can focus on the next question.]
+sequences_frau_top_a05_frau_name_tseq#12;[Ohi takes the suitcase, passes it on without looking.]
+spokentexts_junge_frau_ex_1_st_1;Mlle Mayers est si délicieuse qu'on est heureux de lui pardonner son insolence.
+spokentexts_junge_frau_ex_1_st_2;Jusqu'au jour où elle arrête de sembler si délicieuse. Alors, ne reste que l'insolente.
+spokentexts_junge_frau_ex_2_st_1;Elle n'était pas dans le train.
+spokentexts_junge_frau_ex_2_st_2;Donc, je ne pense pas qu'elle sera d'une grande aide pour résoudre cette affaire.
+texts_kapitaen_mo_ex_1__2;Regarder le capitaine
+texts_kapitaen_top_a05_kapitaen_einladung_der_baronin_tseq_title;Invitation de la baronne
+sequences_kapitaen_top_a05_kapitaen_einladung_der_baronin_tseq#0;[Ohi looks at the investigator.]
+spokentexts_kapitaen_top_a05_kapitaen_einladung_der_baronin_tseq_st_1;Bonnes nouvelles ! La baronne m'a invité à venir.
+spokentexts_kapitaen_top_a05_kapitaen_einladung_der_baronin_tseq_st_2;Et en tant que CITOYEN, je suis heureux d'accepter. Un séjour en haute mer... Magnifique !
+spokentexts_kapitaen_top_a05_kapitaen_einladung_der_baronin_tseq_st_3;En effet ! Il y a rien de plus beau...
+spokentexts_kapitaen_top_a05_kapitaen_einladung_der_baronin_tseq_st_4;Malheureusement, l'officier est demandé en Suisse.
+spokentexts_kapitaen_top_a05_kapitaen_einladung_der_baronin_tseq_st_5_direction;protesting
+spokentexts_kapitaen_top_a05_kapitaen_einladung_der_baronin_tseq_st_5;Mais inspecteur...
+spokentexts_kapitaen_top_a05_kapitaen_einladung_der_baronin_tseq_st_6_direction;threateningly
+spokentexts_kapitaen_top_a05_kapitaen_einladung_der_baronin_tseq_st_6;C'est une enquête sur son obstruction des opérations d'Interpol.
+spokentexts_kapitaen_top_a05_kapitaen_einladung_der_baronin_tseq_st_7;J'ai un billet et je...
+spokentexts_kapitaen_top_a05_kapitaen_einladung_der_baronin_tseq_st_8;...ne viendrai pas aussi longtemps que je suis à bord. Fin de la discussion.
+spokentexts_kapitaen_top_a05_kapitaen_einladung_der_baronin_tseq_st_9_direction;angry noise
+spokentexts_kapitaen_top_a05_kapitaen_einladung_der_baronin_tseq_st_9;Hmrgm.
+texts_kapitaen_top_a05_kapitaen_frachtraum_tseq_title;Où se trouve la soute ?
+spokentexts_kapitaen_top_a05_kapitaen_frachtraum_tseq_st_1_direction;defiant
+spokentexts_kapitaen_top_a05_kapitaen_frachtraum_tseq_st_1;Peu importe ce que vous dites, je voudrais tout de même examiner la soute !
+spokentexts_kapitaen_top_a05_kapitaen_frachtraum_tseq_st_2_direction;gives up
+spokentexts_kapitaen_top_a05_kapitaen_frachtraum_tseq_st_2;Très bien alors. Comme vous voulez.
+spokentexts_kapitaen_top_a05_kapitaen_frachtraum_tseq_st_3;Mais nous retrouverons ici dans dix minutes !
+sequences_kapitaen_top_a05_kapitaen_frachtraum_tseq#3;[Investigator turns to the captain.]
+spokentexts_kapitaen_top_a05_kapitaen_frachtraum_tseq_st_4;Capitaine di Conti - avant que nous partions, je voudrais envoyer deux télégrammes.
+spokentexts_kapitaen_top_a05_kapitaen_frachtraum_tseq_st_5;Certainement, inspecteur.
+sequences_kapitaen_top_a05_kapitaen_frachtraum_tseq#6;[The captain turns to Ohi.]
+spokentexts_kapitaen_top_a05_kapitaen_frachtraum_tseq_st_6;La soute est par ici. Vous pouvez entrer par une porte sur le gaillard avant.
+spokentexts_kapitaen_top_a05_kapitaen_frachtraum_tseq_st_7;La corne sonnera deux fois cinq minutes avant que nous partions. C'est le signal pour tous les dockers de quitter le navire.
+spokentexts_kapitaen_top_a05_kapitaen_frachtraum_tseq_st_8;Compris, capitaine.
+sequences_kapitaen_top_a05_kapitaen_frachtraum_tseq#10;[The captain nods friendly, then turns to the investigators.]
+spokentexts_kapitaen_top_a05_kapitaen_frachtraum_tseq_st_9;Suivez-moi sur le pont. Vous pourrez envoyer vos télégrammes de là-bas.
+sequences_kapitaen_top_a05_kapitaen_frachtraum_tseq#12;[The captain and the investigators go away. Ohi remains.]
+spokentexts_kapitaen_top_a05_kapitaen_frachtraum_tseq_st_10;Mon temps est compté.
+spokentexts_kapitaen_top_a05_kapitaen_frachtraum_tseq_st_11;Si je ne trouve rien dans la soute, ma croisière sera terminée avant même qu'elle ne commence.
+sequences_kapitaen_top_a05_kapitaen_frachtraum_tseq#16;[Ohi goes towards the cargo room out of the picture.]
+texts_kapitaen_top_a05_kapitaen_reise_nach_aegypten_tseq_title;Voyage en Egypte
+spokentexts_kapitaen_top_a05_kapitaen_reise_nach_aegypten_tseq_st_1;J'aimerais accepter votre offre.
+sequences_kapitaen_top_a05_kapitaen_reise_nach_aegypten_tseq#1;[Ohi looks at the investigator.]
+spokentexts_kapitaen_top_a05_kapitaen_reise_nach_aegypten_tseq_st_2;Mais malheureusement, des puissances supérieures m'en empêche.
+spokentexts_kapitaen_top_a05_kapitaen_reise_nach_aegypten_tseq_st_3;Je suis navrée d'entendre cela.
+sequences_kapitaen_top_a05_kapitaen_reise_nach_aegypten_tseq#4;[Ohi looks back at the captain.]
+spokentexts_kapitaen_top_a05_kapitaen_reise_nach_aegypten_tseq_st_4;Nous sommes loin d'être complet et il y a beaucoup de place pour un passager de plus !
+spokentexts_kapitaen_top_a05_kapitaen_reise_nach_aegypten_tseq_st_5;Le policier veut juste jeter un rapide coup d'oeil et partir avant nous mettions les voiles.
+sequences_kapitaen_top_a05_kapitaen_reise_nach_aegypten_tseq#7;[The investigators looked at the captain.]
+spokentexts_kapitaen_top_a05_kapitaen_reise_nach_aegypten_tseq_st_6;Quand serait-ce possible ?
+sequences_kapitaen_top_a05_kapitaen_reise_nach_aegypten_tseq#9;[The captain pulls out a pocket watch.]
+spokentexts_kapitaen_top_a05_kapitaen_reise_nach_aegypten_tseq_st_7;Oh, dans une quinzaine de minutes.
+sequences_kapitaen_top_a05_kapitaen_reise_nach_aegypten_tseq#11;[The investigator looks at Ohi.]
+spokentexts_kapitaen_top_a05_kapitaen_reise_nach_aegypten_tseq_st_8;Voilà, Officier.
+texts_kapitaen_top_a05_kapitaen_tickets_tseq_title;Embarquement sans billet ?
+spokentexts_kapitaen_top_a05_kapitaen_tickets_tseq_st_1;Que voulez-vous dire ?
+spokentexts_kapitaen_top_a05_kapitaen_tickets_tseq_st_2;Vous ne pouvez pas acheter un billet pour le Lydia au comptoir.
+spokentexts_kapitaen_top_a05_kapitaen_tickets_tseq_st_3;Vous devez réserver votre voyage à l'avance. Nous connaissons les noms de tous les passagers.
+spokentexts_kapitaen_top_a05_kapitaen_tickets_tseq_st_4;Tant qu'un passager se trouve sur la liste des invités, nous les laissons à bord du navire. Peu importe s'ils ont un billet ou non.
+spokentexts_kapitaen_top_a05_kapitaen_tickets_tseq_st_5;Et est-ce qu'un des passagers a embarqué sans billet ?
+sequences_kapitaen_top_a05_kapitaen_tickets_tseq#5;[The captain looks at the investigator.]
+spokentexts_kapitaen_top_a05_kapitaen_tickets_tseq_st_6;Je ne saurais le dire.
+spokentexts_kapitaen_top_a05_kapitaen_tickets_tseq_st_7;Nous demandons un nom et le vérifions sur la liste. Les billets ne sont rien de plus que des souvenirs pour les passagers.
+sequences_kapitaen_top_a05_kapitaen_tickets_tseq#9;[The captain looks at Ohi.]
+spokentexts_kapitaen_top_a05_kapitaen_tickets_tseq_st_9;Voilà pour la théorie sur les malles !
+texts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_title;Malle suspecte
+spokentexts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_st_1;Puis-je vous demander comment se rendre dans la soute ?
+spokentexts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_st_2;Oh, Signore, il y a des endroits bien mieux à bord !
+spokentexts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_st_3_direction;friendly
+spokentexts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_st_3;Mais je m'intéresse à la soute.
+spokentexts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_st_4;Pourquoi donc ?
+sequences_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq#4;[Ohi looks at the investigator.]
+spokentexts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_st_5;Une des malles me semble suspecte. Quelqu'un pourrait s'être caché dans l'une d'elle.
+spokentexts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_st_9;Vous...
+spokentexts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_st_10_direction;mocking
+spokentexts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_st_10;Vous voulez dire que le plus brillant et probablement riche voleur de toute l'Europe aurait embarqué clandestinement dans une malle ?
+spokentexts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_st_11;Ce n'est pas son style.
+spokentexts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_st_12_direction;angry
+spokentexts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_st_12;Ce qui fait qu'il est plus probable que ce ne soit pas LUI mais un imitateur derrière tout ça !
+sequences_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq#15;[The investigators stirs with a brief gesture.]
+sequences_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq#17;[The captain looks back.]
+spokentexts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_st_14_direction;angry
+spokentexts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_st_14;"Et le ""style"" d'un imitateur pourrait inclure plein de chose !"
+spokentexts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_st_15_direction;angry
+spokentexts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_st_15;Comme se cacher dans une malle si ils ont perdu leur ticket !
+spokentexts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_st_16_direction;does not think so
+spokentexts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_st_16;Oh, voyons !
+spokentexts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_st_17;A vrai dire...
+sequences_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq#22;[Ohi and the investigator looking at the captain.]
+spokentexts_kapitaen_top_a05_kapitaen_verdaechtige_truhe_tseq_st_18;Il est possible pour un passager enregistré de monter à bord sans billet.
+spokentexts_kapitaen_ex_1_st_1;Le capitaine salue chacun des passagers...
+spokentexts_kapitaen_ex_1_st_2;...comme s'ils étaient de vieux amis.
+spokentexts_kapitaen_ex_2_st_1;Qu'est-ce que Legrand a pu lui dire ?
+spokentexts_kapitaen_ex_2_st_2;Il doit être au courant de ce que son navire transporte à travers la Méditerranée.
+spokentexts_kapitaen_ex_2_st_3;Mais est-il aussi au courant pour le cambriolage dans le train - et l'explosion ?
+texts_a05_shotchange_autofrau_mo_gehe_zum_auto_der_jungen_frau;Aller à la voiture de la jeune femme
+texts_a05_ausgang_autofrau_mo_gehe_zurueck;Retour
+texts_items_trigger_dunkle_ecke_mouseover01;Aller dans l'obscurité
+texts_items_trigger_baronin_ohnmacht_mo_leave_1;Aller à la voiture de la Baronne

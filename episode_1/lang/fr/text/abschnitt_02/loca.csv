@@ -1,0 +1,496 @@
+characters_araber;Araber
+characters_arzt;Arzt
+characters_ermittler;Ermittler
+characters_junge;Junge
+characters_ohi;Ohi
+characters_pflegerin;Pflegerin
+characters_wachmann;Wachmann
+texts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_1_tseq_title;C'était une bombe.
+spokentexts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_1_tseq_st_1;Il ne voulait pas vous faire peur. La réalité, c'est que c'était une bombe destinée pour le tuer avec le policier.
+spokentexts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_1_tseq_st_2_direction;gets interrupted
+spokentexts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_1_tseq_st_2;Mon dieu ! Une attaque ? Mais qui pourrait ...
+spokentexts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_1_tseq_st_3_direction;interrupts
+spokentexts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_1_tseq_st_3;Les investigations sont en cours. Nous devons d'abord faire sortir ce train en flamme du tunnel.
+spokentexts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_1_tseq_st_4;Oh, bien sûr !
+texts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_2_tseq_title;C'était bien des bonbonnes de gaz.
+spokentexts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_2_tseq_st_1_direction;slightly arrogant
+spokentexts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_2_tseq_st_1;Si l'inspecteur Legrand le dit, ce doit en être le cas, non ?
+spokentexts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_2_tseq_st_2_direction;cold
+spokentexts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_2_tseq_st_2;J'ai fait la guerre et ce n'était pas une petite explosion...
+spokentexts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_2_tseq_st_3;Je doute que le wagon était plein à craquer de bonbonnes de gaz.
+spokentexts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_2_tseq_st_5;Bien sûr !
+texts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_3_tseq_title;Fuir.
+texts_02_arzt_top_a02_arzt_andere_passagiere_tseq_title;Et pour les passagers ?
+spokentexts_02_arzt_top_a02_arzt_andere_passagiere_tseq_st_1;Et pour les passagers ?
+spokentexts_02_arzt_top_a02_arzt_andere_passagiere_tseq_st_2;Ils sont en état de choc, bien sûr.
+spokentexts_02_arzt_top_a02_arzt_andere_passagiere_tseq_st_3;La panne d'électricité et l'arrêt brutal ont été effrayant. Mais l'explosion et la poussière...
+spokentexts_02_arzt_top_a02_arzt_andere_passagiere_tseq_st_4;Tout le monde s'est précipité vers la sortie. J'ai aidé l'américaine Lady Westmacott a se mettre à l'abri.
+spokentexts_02_arzt_top_a02_arzt_andere_passagiere_tseq_st_6;Ils attendent à l'extérieur du tunnel. Une entrée est bloquée par un incendie et l'autre semble s'être effondré.
+texts_02_arzt_top_a02_arzt_gespraech_ende_tseq_title;Terminer la conversation
+spokentexts_02_arzt_top_a02_arzt_gespraech_ende_tseq_st_1;Continuez à chercher dans le train. Je vais découpler le wagon.
+spokentexts_02_arzt_top_a02_arzt_gespraech_ende_tseq_st_2;D'accord. Je vais découpler le wagon.
+spokentexts_02_arzt_top_a02_arzt_gespraech_ende_tseq_st_3;Très bien.
+sequences_02_arzt_top_a02_arzt_gespraech_ende_tseq#5;[The doctor nods to Ohi, then turns with the match in hand to leave.]
+spokentexts_02_arzt_top_a02_arzt_gespraech_ende_tseq_st_4;Docteur ?
+sequences_02_arzt_top_a02_arzt_gespraech_ende_tseq#7;[The doctor stays. Turns half to Ohi.]
+spokentexts_02_arzt_top_a02_arzt_gespraech_ende_tseq_st_5;Pouvez-vous me donner quelques allumettes ?
+spokentexts_02_arzt_top_a02_arzt_gespraech_ende_tseq_st_6;Oh, tout à fait.
+sequences_02_arzt_top_a02_arzt_gespraech_ende_tseq#10;[The doctor turns around completely, gives Ohi some matches and tear through the box so that Ohi can fire up the matches.]
+spokentexts_02_arzt_top_a02_arzt_gespraech_ende_tseq_st_7;Merci. Je vous retrouverai à l'extérieur.
+spokentexts_02_arzt_top_a02_arzt_gespraech_ende_tseq_st_8;Faites vite !
+sequences_02_arzt_top_a02_arzt_gespraech_ende_tseq#13;[The doctor turns around and leaves the Wagon.]
+texts_02_arzt_top_a02_arzt_hat_er_was_gesehen_tseq_title;A t-il vu quelque chose ?
+spokentexts_02_arzt_top_a02_arzt_hat_er_was_gesehen_tseq_st_1;Quelqu'un a t-il agit étrangement avant l'explosion ? Est-ce que quelqu'un a quitté son siège, par exemple ?
+spokentexts_02_arzt_top_a02_arzt_hat_er_was_gesehen_tseq_st_2;J'étais le seul dans le train qui n'était pas assis lorsque le wagon a explosé. Dieu merci ! Sinon, j'aurais été pris dans l'explosion.
+spokentexts_02_arzt_top_a02_arzt_hat_er_was_gesehen_tseq_st_3_direction;slightly challenging
+spokentexts_02_arzt_top_a02_arzt_hat_er_was_gesehen_tseq_st_3;Vous avez certainement eu de la chance.
+spokentexts_02_arzt_top_a02_arzt_hat_er_was_gesehen_tseq_st_4_direction;cold
+spokentexts_02_arzt_top_a02_arzt_hat_er_was_gesehen_tseq_st_4;Oui peut-être.
+spokentexts_02_arzt_top_a02_arzt_hat_er_was_gesehen_tseq_st_5;Que s'est-il passé ? L'inspecteur a dit quelque chose à propos de bonbonnes de gaz qui auraient explosé ?
+texts_02_arzt_top_a02_arzt_was_tut_er_hier_tseq_title;Qu'est-ce qu'il fait ici ?
+spokentexts_02_arzt_top_a02_arzt_was_tut_er_hier_tseq_st_1_direction;slightly suspicious
+spokentexts_02_arzt_top_a02_arzt_was_tut_er_hier_tseq_st_1;Que faites-vous ici, docteur ?
+spokentexts_02_arzt_top_a02_arzt_was_tut_er_hier_tseq_st_2;Qu'est-ce que faites vous ici exactement ?
+spokentexts_02_arzt_top_a02_arzt_was_tut_er_hier_tseq_st_3;Pourquoi n'êtes-vous en train d'attendre à l'extérieur avec les autres passagers ?
+spokentexts_02_arzt_top_a02_arzt_was_tut_er_hier_tseq_st_4;Legrand m'a demandé de vérifier s'il y avait encore des passagers dans le train.
+spokentexts_02_arzt_top_a02_arzt_was_tut_er_hier_tseq_st_5_direction;little suspicious
+spokentexts_02_arzt_top_a02_arzt_was_tut_er_hier_tseq_st_5;Vraiment ?
+spokentexts_02_arzt_top_a02_arzt_was_tut_er_hier_tseq_st_6;Il y a personne, sauf moi... et vous.
+spokentexts_02_arzt_top_a02_arzt_was_tut_er_hier_tseq_st_7;Excellent. Alors... Je vais continuer à chercher vers l'avant.
+sequences_02_arzt_top_a02_arzt_was_tut_er_hier_tseq#10;[The doctor nods toward the high-capacity wagon .]
+texts_a01_grossraumwagon_herztabletten_mo_inventar_1;Comprimés
+texts_a01_grossraumwagon_herztabletten_mo_inventar;Comprimés
+spokentexts_a01_grossraumwagon_herztabletten_ex_1_st_1;Des comprimés, pour mon coeur.
+spokentexts_a01_grossraumwagon_herztabletten_ex_1_st_2;Je suis censé en prendre une si j'ai des douleurs. J'en ai pas encore eu besoin.
+texts_a01_grossraumwagon_portemonnaie_mo_inventar_1;Porte-monnaie
+spokentexts_a01_grossraumwagon_portemonnaie_ex_1_st_1;Je l'ai acheté la semaine dernière, d'occasion. Je l'aime parce qu'il semble avoir une histoire.
+spokentexts_a01_grossraumwagon_portemonnaie_ex_1_st_2;Il a été mis de côté pour un modèle plus récent, même si il est encore tout à fait correct.
+texts_a02_uebergang_leiter_hinunter_mo_leave_1__2;Descendre du train
+spokentexts_a02_uebergang_leiter_hinunter_ex_1_st_1;Le mécanisme de couplage est là. Mais je peux à peine le voir. J'ai besoin de lumière !
+spokentexts_a02_uebergang_leiter_hinunter_ex_2_st_1;Je ne peux découpler le wagon du reste du train d'ici !
+sequences_a02_uebergang_leiter_hinunter_leave_1#1;[Ohi erases the matchstick, throws it away.]
+sequences_a02_uebergang_leiter_hinunter_leave_1#2;[Ohi begins to climb the ladder down, max. 2 seconds.]
+sequences_a02_uebergang_leiter_hinunter_leave_2#1;[Ohi begins to climb the ladder with the torch in his hand down, max. 2 seconds.]
+texts_a02_uebergang_leiter_zum_dach_mo_use_1-5;Monter à l'échelle
+spokentexts_a02_uebergang_leiter_zum_dach_ex_1_st_1;Je pense que le bruit pouvait provenir du toit du wagon-salon...
+sequences_a02_uebergang_leiter_zum_dach_use_1#1;[Ohi takes the ladder and ascends very slowly, carefully and quietly as possible.]
+sequences_a02_uebergang_leiter_zum_dach_use_1#2;[Cut to the roof edge. Ohis head slowly rises over the edge.]
+sequences_a02_uebergang_leiter_zum_dach_use_1#3;[Ohi looks over the edge, his eyes wander around searching.]
+spokentexts_a02_uebergang_leiter_zum_dach_use_1_st_1;Il y a quelqu'un ?
+sequences_a02_uebergang_leiter_zum_dach_use_1#5;[Cut. You can see Ohi in the foreground as he stands on the steps and looks into the dark. Neither he nor the players can recognize something. Ohi waits about two seconds.]
+sequences_a02_uebergang_leiter_zum_dach_use_1#6;[Back onto the edge and to the face of Ohi. Since there is no response, his head disappears. Cut to the back transition.
+sequences_a02_uebergang_leiter_zum_dach_use_1#7;[You can just see how Ohi takes the second leg of the ladder.]
+spokentexts_a02_uebergang_leiter_zum_dach_use_2_st_1;Je suis sûr que le bruit provenait du toit. Mais on peut même pas voir sa main devant son visage là-haut.
+sequences_a02_uebergang_leiter_zum_dach_use_3#1;[Ohi lights a matchstick.]
+sequences_a02_uebergang_leiter_zum_dach_use_3#2;[Ohi captured the ladder ascends very slowly, carefully and quietly as possible. He can only use one hand, in the other he has the lighted match.]
+sequences_a02_uebergang_leiter_zum_dach_use_3#3;[Cut to the roof edge. Ohis head slowly rises over the edge, then comes the hand with the matchstick.]
+sequences_a02_uebergang_leiter_zum_dach_use_3#4;[Ohi looks over the edge, his eyes wander around searching.]
+sequences_a02_uebergang_leiter_zum_dach_use_3#6;[Cut. You can see Ohi in the foreground as he stands on the steps and looks into the dark. Despite the match you can see only a few meters wide and sees nothing but the dust-covered roof and dust in the air. Ohi waits about two seconds.]
+sequences_a02_uebergang_leiter_zum_dach_use_3#7;[Cut. You can see Ohi in the foreground as he stands on the steps and looks into the dark. Despite the match you can see only a few meters wide and sees nothing but the dust-covered roof and dust in the air. This shot is only short.]
+spokentexts_a02_uebergang_leiter_zum_dach_use_3_st_2;Hmm. Rien.
+sequences_a02_uebergang_leiter_zum_dach_use_3#9;[Back onto the edge and to the face of Ohi. Since there is no response, his head disappears. Cut to the back transition.
+sequences_a02_uebergang_leiter_zum_dach_use_3#10;[You can just see how Ohi takes the second leg of the ladder. The matchstick is still in his hand]
+spokentexts_a02_uebergang_leiter_zum_dach_use_4_st_1;Impossible de voir quelque chose là-haut. Trop de poussière et de fumée dans l'air.
+spokentexts_a02_uebergang_leiter_zum_dach_use_5_st_1;Le tunnel est bouché. Nous devons faire sortir le train. C'est la première des priorités !
+texts_a02_uebergang_raeder_mo_ex_1;Examiner les roues
+spokentexts_a02_uebergang_raeder_ex_1_st_1;Les roues sont sortie des rails lors de l'explosion.
+spokentexts_a02_uebergang_raeder_ex_1_st_2;Même s'il était possible de sortir la voiture des décombres, on n'irait pas loin.
+texts_a02_uebergang_transportwagen_mo_betrachte_1-4;Examiner les dégâts
+sequences_a02_uebergang_transportwagen_ex_1#1;[Ohi leans over the railing, looking along the transpaortwaggon (idle).]
+spokentexts_a02_uebergang_transportwagen_ex_1_st_1;Le tunnel peut très bien s'être effondré. Il est difficile d'en voir une grande partie à cause de l'obscurité et de la poussière.
+spokentexts_a02_uebergang_transportwagen_ex_1_st_2;Mais quelque chose a certainement écrasé l'arrière de la voiture de fret.
+sequences_a02_uebergang_transportwagen_ex_1#4;[Ohi goes back to the normal pose.]
+sequences_a02_uebergang_transportwagen_ex_2#1;[Ohi leans over the railing, looking along the transpaortwaggon (idle).]
+spokentexts_a02_uebergang_transportwagen_ex_2_st_1;Il est possible que les autres wagons soient intacts et que le seul abimé soit celui dans lequel la dynamite a explosé.
+spokentexts_a02_uebergang_transportwagen_ex_2_st_2;Mais je vais devoir découpler le train si on veut le faire sortir du tunnel.
+sequences_a02_uebergang_transportwagen_ex_2#4;[Ohi goes back to the normal pose.]
+spokentexts_a02_salonwagen_streichhoelzer_use_3_st_1;Il y a un courant d'air incroyable. Peut-être est-ce à cause de l'incendie ou peut-être qu'il y a un autre trou à travers lequel l'air s'engouffre.
+spokentexts_a02_uebergang_transportwagen_ex_3_st_2;De l'air frais serait bienvenu mais je ne sais pas combien de temps nous disposons avant que l'oxygène soit consommé par le feu.
+spokentexts_a02_uebergang_transportwagen_ex_4_st_1;Les flammes n'ont pas beaucoup d'incidence sur le courant d'air.
+texts_a02_uebergang_transportwagentuer_mo_ex_1__2;Examiner la porte
+texts_a02_uebergang_transportwagentuer_mo_use_1;Ouvrir la porte
+sequences_a02_uebergang_transportwagentuer_ex_1#1;[Ohi goes to the door and looks at it.]
+spokentexts_a02_uebergang_transportwagentuer_ex_1_st_1;Le piège de l'inspecteur a échoué. Le voleur doit avoir eu vent de tout cela.
+spokentexts_a02_uebergang_transportwagentuer_ex_1_st_2_direction;thoughtfully
+spokentexts_a02_uebergang_transportwagentuer_ex_1_st_2;Hmm, pire que ça...
+spokentexts_a02_uebergang_transportwagentuer_ex_1_st_3;Il a renversé les rôles.
+spokentexts_a02_uebergang_transportwagentuer_ex_1_st_4;Pour gagner au jeu du chat et de la souris, vous devez savoir qui est le chat et qui est la souris.
+sequences_a02_uebergang_transportwagentuer_ex_2#1;[Ohi goes to the door and looks at it.]
+spokentexts_a02_uebergang_transportwagentuer_ex_2_st_1;Cette porte a sauvé nos vies.
+spokentexts_a02_uebergang_transportwagentuer_ex_2_st_2;Elle a réduit l'impact de l'explosion et nous a protégés des éclats.
+sequences_a02_uebergang_transportwagentuer_use_1#1;[Ohi lays his right hand on the door. The animation will also work with a match or torch.]
+spokentexts_a02_uebergang_transportwagentuer_use_1_st_1;Elle est encore toute chaude et bien trop déformée pour l'ouvrir.
+sequences_a02_uebergang_transportwagentuer_use_1#3;[Suddenly Ohi hears a faint sound behind. It could come from the roof of the saloon waggon.]
+spokentexts_a02_uebergang_transportwagentuer_use_1_st_2_direction;weak cough
+spokentexts_a02_uebergang_transportwagentuer_use_1_st_2;*tousse tousse*
+sequences_a02_uebergang_transportwagentuer_use_1#5;[Ohi lets the door, turns and is listening attentively.]
+texts_a02_uebergang_tuer_zum_salonwagen_mo_leave_1;Aller dans le wagon-salon.
+sequences_a02_uebergang_tuer_zum_salonwagen_leave_1#1;[Ohi walks to the door, the scene is changed.]
+sequences_a02_uebergang_seq_a02_ubergang_vom_boden_mit_fackel#0;[Ohi climbs quickly with the torch in his hand to the transition.]
+sequences_a02_uebergang_seq_a02_ubergang_vom_boden_ohne_fackel#0;[Ohi climbs back quickly to the transition.]
+sequences_a02_uebergang_seq_a02_uebergang_der_plan#0;[All three men lying on the floor in the lounge car. Slowly they rattle up.]
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_1_direction;cough
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_1;*tousse tousse*
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_2_direction;getting back, groans
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_2;Ohhrgh.
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_3;Tout le monde va bien ?
+sequences_a02_uebergang_seq_a02_uebergang_der_plan#4;[The investigator crawls to Ohi, which seems even more struck and takes him on the shoulder.]
+sequences_a02_uebergang_seq_a02_uebergang_der_plan#5;[Shot of Ohis view. The blurred face of the investigator. All sounds are heard muffled, distant and distorted to.]
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_4;Vous êtes blessé ?
+sequences_a02_uebergang_seq_a02_uebergang_der_plan#7;[Cut back.]
+sequences_a02_uebergang_seq_a02_uebergang_der_plan#8;[Ohi shakes his head, trying to hold somewhere to get up. He pulls himself up so far that he can sit with his back against a wall (idle).]
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_5;Bonne réaction ! Bien joué, Zellner.
+sequences_a02_uebergang_seq_a02_uebergang_der_plan#10;[The guard is now back on his feet. He opens the window and leans out. He looks in the direction of transport wagon (idle). Investigators leaves of Ohi, stands, holds himself with one hand on the wall, with the other he holds his head (idle).]
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_6_direction;strenuous coughing
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_6;Uff-uff.
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_7;Je crois que le tunnel s'est effondré.
+sequences_a02_uebergang_seq_a02_uebergang_der_plan#13;[The investigator stops, turns to the guard. He is now back in the normal pose.]
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_8;Il est pris au piège ! Dépêchez-vous ! Nous devons verrouiller la deuxième sortie !
+sequences_a02_uebergang_seq_a02_uebergang_der_plan#16;"[From further away from the tunnel you can hear cries of ""Fire"", screams of pain and fear.]"
+sequences_a02_uebergang_seq_a02_uebergang_der_plan#17;[The guard looks down the tunnel towards locomotive  (idle).]
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_10;Monsieur ! Il y a le feu droit devant ! Le moteur brûle !
+sequences_a02_uebergang_seq_a02_uebergang_der_plan#19;[The investigator shakes his head vigorously, then points towards the tunnel exit.]
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_11;C'est une diversion ! Dépêchez-vous ! Bloquez la sortie !
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_12;Mais monsieur !
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_13_direction;tattered
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_13;Le feu consomme tout l'oxygène !
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_14;Il a raison, inspecteur. Un incendie dans un tunnel est extrêmement dangereux !
+sequences_a02_uebergang_seq_a02_uebergang_der_plan#24;[The investigator goes to the window and looks also forward (idle). He hits frustrated with one hand against the wall.]
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_15_direction;frustrated
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_15;Merde !
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_16_direction;angry, frustrated
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_16;Allez à l'avant du train, trouvez l'ingénieur et dites-lui de sortir le train du tunnel.
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_17;Bien monsieur !
+sequences_a02_uebergang_seq_a02_uebergang_der_plan#28;[The guard climbs off the train in the tunnel and disappears. The investigator turns to Ohi.]
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_18;Vous êtes prêt ?
+sequences_a02_uebergang_seq_a02_uebergang_der_plan#30;[Ohi nods. The investigator holds his hand out. Ohi is pulled to his feet. He is, however, first standing bent, draws with both hands on his knees (idle).]
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_19;Vous devez découpler le wagon, vous comprenez ?
+sequences_a02_uebergang_seq_a02_uebergang_der_plan#32;[Ohi nods, coughs in his right fist.]
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_20_direction;cough
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_20;Erk! Je comprends.
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_21;Je vais voir les passagers. Ils doivent tous attendre dans le tunnel. Nous allons vérifier qu'il sont tous sorti.
+sequences_a02_uebergang_seq_a02_uebergang_der_plan#35;"[Ohi makes an ""all clear, go away"" movement, pulls together and then is back to normal. The investigators nods approvingly.]"
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_22;Au boulot.
+sequences_a02_uebergang_seq_a02_uebergang_der_plan#37;[The investigator takes the flashlight that is still on, from the ground and disappears from the train.]
+sequences_a02_uebergang_seq_streichholz_erlischt#1;[The match flickers briefly and then goes out. ]
+spokentexts_a02_uebergang_seq_streichholz_erlischt_st_1;Il y a un courant d'air assez fort ici. Le feu aspire l'oxygène !
+texts_a02_boden_koppelungsmechanismus_mo_use_1__2;Découpler le wagon.
+texts_a02_boden_koppelungsmechanismus_mo_used_mit_fackel;Frotter sur l'huile et la graisse du mécanisme
+texts_a02_boden_koppelungsmechanismus_mo_used_mit_vorhang;Frotter sur l'huile et la graisse du mécanisme
+spokentexts_a02_boden_koppelungsmechanismus_ex_1_st_1;Je suis sûr de pouvoir découpler la voiture... Si seulement j'avais assez de lumière pour voir ce que je fais !
+sequences_a02_boden_koppelungsmechanismus_use_1#1;[Ohi touches the mechanism.]
+spokentexts_a02_boden_koppelungsmechanismus_use_1_st_1;Je suis sûr de pouvoir découpler la voiture... Si seulement j'avais assez de lumière pour voir ce que je fais !
+sequences_a02_boden_koppelungsmechanismus_use_2#1;[Ohi touches the mechanism.]
+spokentexts_a02_boden_koppelungsmechanismus_use_2_st_1;Je peux sentir du métal froid, un pas de vis... et beaucoup de graisse.
+spokentexts_a02_boden_koppelungsmechanismus_use_2_st_2;Mais je ne peux pas en faire plus sans lumière.
+sequences_a02_boden_koppelungsmechanismus_used_mit_fackel#1;[Ohi takes the torch and wrapped it in the curtain. Then he lays back the torch.]
+sequences_a02_boden_koppelungsmechanismus_used_mit_fackel#2;[Ohi rubs with the curtain the mechanism.]
+spokentexts_a02_boden_koppelungsmechanismus_used_mit_fackel_st_1;D'accord. Je vais répandre un peu de graisse et d'huile sur le rideau...
+sequences_a02_boden_koppelungsmechanismus_used_mit_fackel#4;[Ohi takes the torch, wrapped the smeared curtain around and puts the torch away.]
+sequences_a02_boden_koppelungsmechanismus_used_mit_vorhang#1;[Ohi rubs with the curtain the mechanism.]
+spokentexts_a02_boden_koppelungsmechanismus_used_mit_vorhang_st_1;D'accord. Je vais répandre un peu de graisse sur le rideau...
+sequences_a02_boden_koppelungsmechanismus_used_mit_vorhang#3;[Ohi puts the curtain back on.]
+texts_a02_boden_kopplung_mo_ex_2;Examiner l'attelage
+texts_a02_boden_kopplung_mo_use_1-3;Découpler le wagon
+spokentexts_a02_boden_kopplung_ex_1_st_1;Un mécanisme incroyablement basique... Du genre qui dure éternellement.
+sequences_a02_boden_kopplung_use_1#1;[Ohi tries to decouple the waggon by pulling the hook. Nothing happens.]
+spokentexts_a02_boden_kopplung_use_1_st_1;Ça ne bougera pas. Trop de tension sur l'attelage.
+spokentexts_a02_boden_kopplung_use_2_st_1;Je ne pense pas que cela fonctionne. Tant que il y a autant de tension, le couplage ne ​​bougera pas.
+sequences_a02_boden_kopplung_use_3#1;[With some effort Ohi succeeds, to decouple the two waggons. He let the coupling (which depends on the transportwaggon), fall to the floor.]
+spokentexts_a02_boden_kopplung_use_3_st_1_direction;effort
+spokentexts_a02_boden_kopplung_use_3_st_1;Argh !
+spokentexts_a02_boden_kopplung_use_3_st_2_direction;satisfied
+spokentexts_a02_boden_kopplung_use_3_st_2;Ça y est !
+spokentexts_a02_boden_kopplung_use_3_st_3;Il est temps de sortir d'ici !
+texts_a02_boden_schwengel_mo_ex_2;Examiner le levier
+texts_a02_boden_schwengel_mo_use_1;Tourner le levier
+spokentexts_a02_boden_schwengel_ex_1_st_1;Un levier qui fait pression sur un manchon le long d'un filetage ......
+spokentexts_a02_boden_schwengel_ex_2_st_1;Bien. L'attelage n'est plus sous tension. Je devrais être capable de découpler maintenant !
+spokentexts_a02_boden_schwengel_use_1_st_1;Aha ! Je peux découpler avec ce levier.
+sequences_a02_boden_schwengel_use_1#2;[Ohi turns the stick several times, until the coupling depends limply.]
+spokentexts_a02_boden_schwengel_use_1_st_2;D'accord...
+texts_a02_boden_zurueck_nach_oben_mo_leave_1_2;Remonter en haut
+sequences_a02_boden_zurueck_nach_oben_leave_1#1;[Ohi gets up.]
+sequences_a02_boden_zurueck_nach_oben_leave_2#1;[Ohi takes the torch, then gets up.]
+sequences_a02_boden_leave_1#1;[Ohi takes the torch in his hand again and climb up the stairs]
+sequences_a02_boden_leave_2_mit_stuhlbein#1;[Ohi takes the chair leg in his hand again and climb up the ladder.]
+sequences_a02_boden_seq_a02_boden_betreten_mit_fackel#0;[Ohi sits with the torch back in hand, stucks the torch somewhere behind, so he has plenty of light.]
+sequences_a02_boden_seq_a02_boden_betreten_mit_fackel_erstmalig#0;[Ohi sits with the torch back in hand, stucks the torch somewhere behind, so he has plenty of light.]
+spokentexts_a02_boden_seq_a02_boden_betreten_mit_fackel_erstmalig_st_1;C'est mieux !
+sequences_a02_boden_seq_a02_boden_betreten_mit_streichholz#0;[Ohi sits with a match in hand, to get a better view. It flickers and goes out.]
+spokentexts_a02_boden_seq_a02_boden_betreten_mit_streichholz_st_1;Bon sang.
+sequences_a02_boden_seq_a02_boden_betreten_ohne_licht#0;[Ohi sits down, goes into idle.]
+sequences_a02_boden_seq_betreten_mit_fackel_nicht_brennend#0;[Ohi climbs down with the torch in his hand and puts it somewhere to have hands free ]
+sequences_a02_boden_seq_betreten_mit_stuhlbein#0;[Ohi enters the scene with the chair leg in his hand, he fix the chair leg firmly to have free hands]
+texts_a02_salonwagen_alkohol_mo_ex_1;Examiner les bouteilles d'alcool
+texts_a02_salonwagen_alkohol_mo_take_1;Prendre une bouteille d'alcool
+spokentexts_a02_salonwagen_alkohol_ex_1_st_1;Whisky, scotch, rhum, liqueurs bien assez pour enivrer tout le monde dans le train tout le chemin de Paris à Istanbul.
+sequences_a02_salonwagen_alkohol_take_1#1;[Ohi takes one of the bottles from the shelf, looks at them.]
+spokentexts_a02_salonwagen_alkohol_take_1_st_1;Hmm. Du rhum fort... Ça pourrait être utile.
+sequences_a02_salonwagen_alkohol_take_1#3;[Ohi puts the bottle behind him on the counter so that it is also easy to reach from the other side.]
+sequences_a02_salonwagen_alkohol_take_1#4;[The alcohol is now off the shelf, the bottle of rum on the counter is turned on for it.]
+sequences_a02_salonwagen_alkohol_take_2#1;[Ohi takes one of the bottles from the shelf, while the torch keeps in its hand, looks at the bottle.]
+sequences_a02_salonwagen_alkohol_take_2#3;[Ohi puts the bottle behind him on the counter so that it is also easy to reach from the other side. while the torch keeps in its hand]
+sequences_a02_salonwagen_alkohol_take_2#4;[The alcohol is now off the shelf, the bottle of rum on the counter is turned on for it.]
+texts_a02_salonwagen_bar_bier_mo_ex_1;Petite bouteille sombre
+texts_a02_salonwagen_bar_bier_mo_use_1;Prendre la bière
+spokentexts_a02_salonwagen_bar_bier_ex_1_st_1;Carling Black Label, une bière britannique.
+spokentexts_a02_salonwagen_bar_bier_use_1_st_1;Non. La teneur en alcool est insuffisante.
+spokentexts_a02_salonwagen_bar_bier_use_1_st_2_direction;defensive
+spokentexts_a02_salonwagen_bar_bier_use_1_st_2;Pour des raisons pratiques, je veux dire, pas pour boire.
+texts_a02_salonwagen_bar_champagner_mo_ex_1;Magnum
+spokentexts_a02_salonwagen_bar_champagner_ex_1_st_1;Du Champagne - Et le meilleur !
+spokentexts_a02_salonwagen_bar_champagner_ex_1_st_2;Nous ouvrirons peut-être une bouteille si nous sortons du tunnel en vie. Jusque-là, cependant, elle ne me sera pas utile.
+texts_a02_salonwagen_bonbonschale_mo_ex_1__2;Examiner le bol de bonbons
+texts_a02_salonwagen_bonbonschale_mo_ex_3;Examiner le bol rempli de rhum
+texts_a02_salonwagen_bonbonschale_mo_ex_4;Examiner la flamme
+texts_a02_salonwagen_bonbonschale_mo_used_mit_fackel_1-3;Allumer la torche
+texts_a02_salonwagen_bonbonschale_mo_used_mit_rum;Verser le rhum dans le bol
+texts_a02_salonwagen_bonbonschale_mo_used_mit_streichhoelzer;Mettre le feu au rhum
+texts_a02_salonwagen_bonbonschale_mo_used_mit_stuhlbein;Mettre le feu au pied de chaise
+texts_a02_salonwagen_bonbonschale_mo_used_mit_vorhang_1-3;Mettre le feu au  rideau
+sequences_a02_salonwagen_bonbonschale_ex_1#1;[Ohi kneels down, picks up the bowl and looks at it, kneeling in his hand.]
+spokentexts_a02_salonwagen_bonbonschale_ex_1_st_1;Beaucoup de chose ont été endommagé par l'arrêt soudain.
+spokentexts_a02_salonwagen_bonbonschale_ex_1_st_2;Mais le bol était assez résistant pour survivre à la chute.
+sequences_a02_salonwagen_bonbonschale_ex_1#4;[Ohi gets up and place the dish back casually on the counter.]
+spokentexts_a02_salonwagen_bonbonschale_ex_2_st_1;Les derniers bonbons ont disparu. Comparer à un wagon explosé, je pense que les chemins de fer arriveront à se faire à cette perte.
+spokentexts_a02_salonwagen_bonbonschale_ex_3_st_1;J'ai rempli le bol environ un tiers de rhum.
+spokentexts_a02_salonwagen_bonbonschale_ex_3_st_2_direction;sniffs
+spokentexts_a02_salonwagen_bonbonschale_ex_3_st_2;*sniff*
+spokentexts_a02_salonwagen_bonbonschale_ex_3_st_3;Ouahou ! Il est fort.
+spokentexts_a02_salonwagen_bonbonschale_ex_4_st_1;La flamme est chaude, mais elle ne peut pas être utilisé comme source de lumière.
+spokentexts_a02_salonwagen_bonbonschale_ex_4_st_2;Je dois y ajouter quelque chose d'autre.
+spokentexts_a02_salonwagen_bonbonschale_used_mit_fackel_1_st_1;Je doute que cela fonctionne...
+sequences_a02_salonwagen_bonbonschale_used_mit_fackel_1#2;[Ohi keeps the tip of the torch to the flame.]
+spokentexts_a02_salonwagen_bonbonschale_used_mit_fackel_1_st_2;Le tissu de rideau ne brûle pas aussi facilement.
+sequences_a02_salonwagen_bonbonschale_used_mit_fackel_1#4;[Ohi takes the torch out again. And builds off the cloth from the chair leg.]
+spokentexts_a02_salonwagen_bonbonschale_used_mit_fackel_2_st_1;L'alcool sur le rideau brûle aussi foncée que dans le bol. Ça ne m'aide pas plus.
+sequences_a02_salonwagen_bonbonschale_used_mit_fackel_2#4;[Ohi takes the torch back out and moved it back and forth. The dark flame goes out and he removed the cloth from the leg of the chair.]
+sequences_a02_salonwagen_bonbonschale_used_mit_fackel_3#1;[Ohi holds the torch to the flame. A large, bright flame develops and envelops the torch.]
+spokentexts_a02_salonwagen_bonbonschale_used_mit_fackel_3_st_1;Je suis le dieu du feu !
+sequences_a02_salonwagen_bonbonschale_used_mit_fackel_3#3;[From now on, Ohi has a burning torch in his hand, which, with enough light.]
+sequences_a02_salonwagen_bonbonschale_used_mit_rum#1;[Ohi takes the bottle, pours about a glass of rum in the bowl and puts the bottle back.]
+sequences_a02_salonwagen_bonbonschale_used_mit_streichhoelzer#3;[Ohi pulls out a book of matches and lit one.]
+sequences_a02_salonwagen_bonbonschale_used_mit_streichhoelzer#4;[Ohi holds the match over the bowl. Immediately the rum ignites like lighters.]
+sequences_a02_salonwagen_bonbonschale_used_mit_streichhoelzer#5;[Ohi blows out the match and throws it next to the bowl on the counter.]
+spokentexts_a02_salonwagen_bonbonschale_used_mit_streichhoelzer_st_1;Hmm... Comme je m'y attendais. L'alcool brûle avec une flamme presque invisible.
+spokentexts_a02_salonwagen_bonbonschale_used_mit_stuhlbein_01__st_1;Ça prend trop de temps ! Et le temps est compté !
+spokentexts_a02_salonwagen_bonbonschale_used_mit_vorhang_1_st_1;La flamme est certainement plus grande et plus chaude qu'une allumette, mais même ainsi, le rideau brûlerait probablement lentement.
+spokentexts_a02_salonwagen_bonbonschale_used_mit_vorhang_2_st_1;L'alcool sur les rideaux brûlerait tout aussi faiblement que dans le bol. Ça ne sert à rien.
+spokentexts_a02_salonwagen_bonbonschale_used_mit_vorhang_3_st_1;La température à la pointe des flammes doivent être suffisamment élevé pour mettre le feu à l'huile et à la graisse sur le rideau.
+spokentexts_a02_salonwagen_bonbonschale_used_mit_vorhang_3_st_2;Mais si ça fonctionne, je ferais mieux de ne pas le tenir dans mes mains !
+texts_a02_salonwagen_fackel_mo_ex_1-3;Torche
+texts_a02_salonwagen_fackel_mo_inv_brennende;Torche allumée
+texts_a02_salonwagen_fackel_mo_steichhoelzer_1__2;Allumer la torche
+texts_a02_salonwagen_fackel_mo_used_mit_rum_1-2;Verser l'alcool sur la torche
+texts_a02_salonwagen_fackel_mo_inv_mit_oel;Torche barbouillée d'huile
+texts_a02_salonwagen_fackel_mo_inv_mit_rum;Torche imbibée de rhum
+texts_a02_salonwagen_fackel_mo_inventory_01;Torche
+texts_a02_salonwagen_fackel_mo_inventory_02;Torche allumée
+spokentexts_a02_salonwagen_fackel_ex_1_st_1;C'est la première torche que je fais. Pas mal, si je puis me permettre !
+spokentexts_a02_salonwagen_fackel_ex_2_st_1;Le rideau est enroulé autour du pied en bois et aspergé d'alcool. Je devrais être capable d'allumer la torche.
+spokentexts_a02_salonwagen_fackel_ex_3_st_1;La torche fournit assez de lumière pour travailler sur l'attelage. Je dois me dépêcher. Je peux sentir l'air devenir de plus en plus rare.
+spokentexts_a02_salonwagen_fackel_ex_4_st_1;Le tissu gras est serrée autour du pied de chaise. Ça semble prometteur !
+sequences_a02_salonwagen_fackel_used_mit_rum_1#1;[Ohi goes to the bar, drops the torch. Then he takes the bottle of rum, turns it and pours rum on the torch. He turns and pours forth. Then he turns to the bottle, and la it away and take the torch again in his hand.]
+spokentexts_a02_salonwagen_vorhang_used_mit_rum_1_st_1;Ça devrait le faire.
+spokentexts_a02_salonwagen_fackel_used_mit_rum_2_st_1;La matière ne sera pas en mesure d'absorber plus d'alcool.
+spokentexts_a02_salonwagen_fackel_used_mit_rum_3_st_1;C'est inutile. L'alcool brûle trop faiblement. J'ai besoin d'une flamme brillante.
+sequences_a02_salonwagen_fackel_used_mit_streichhoelzer_2_vorhang_mit_alkohl#1;[Ohi clamped the torch under one arm. Then he gets out one match and lit it. He takes the torch in one hand, the match into the other and keeps it under the cloth.]
+sequences_a02_salonwagen_fackel_used_mit_streichhoelzer_2_vorhang_mit_alkohl#2;[Now the cloth begins to burn, but only with a very dark, blue flame. Ohi takes the matches again.]
+spokentexts_a02_salonwagen_fackel_used_mit_streichhoelzer_2_vorhang_mit_alkohl_st_1_direction;enttäuscht
+spokentexts_a02_salonwagen_fackel_used_mit_streichhoelzer_2_vorhang_mit_alkohl_st_1;Hmm. L'alcool brûle avec une flamme bleue sombre, elle ne fait pas assez de lumière et va probablement s'éteindre en quelques secondes.
+sequences_a02_salonwagen_fackel_used_mit_streichhoelzer_2_vorhang_mit_alkohl#4;[Ohi moves the torch back and forth a few times and the torch goes out]
+spokentexts_a02_salonwagen_fackel_used_mit_streichhoelzer_2_vorhang_mit_alkohl_st_2;Ça ne résoudra pas mon manque de lumière. Je vais devoir essayer autre chose.
+sequences_a02_salonwagen_fackel_used_mit_streichhoelzer_2_vorhang_mit_alkohl#6;[Ohi solves the cloth from the chair leg]
+spokentexts_a02_salonwagen_fackel_used_mit_streichhoelzer_4_st_1;L'huile et la graisse brûlent brillamment et chaudement... Mais elles exigent aussi une flamme chaude pour brûler. Un allumette normale ne fera pas l'affaire.
+sequences_a02_salonwagen_fackel_used_mit_streichhoelzer_vorhang_ohne_alk_und_oel#1;[Ohi clamped the torch under one arm. Then he gets out one match and lit it. He takes the torch in one hand, the match into the other and keeps it under the cloth.]
+sequences_a02_salonwagen_fackel_used_mit_streichhoelzer_vorhang_ohne_alk_und_oel#2;[Ohi waits and briefly looks.]
+spokentexts_a02_salonwagen_fackel_used_mit_streichhoelzer_vorhang_ohne_alk_und_oel_st_1;Hmm. Ça fume et le rideau noiçit, il ne prend réellement prendre feu.
+sequences_a02_salonwagen_fackel_used_mit_streichhoelzer_vorhang_ohne_alk_und_oel#4;[Ohi put the matches away again, and lays the torch back on the counter.]
+spokentexts_a02_salonwagen_fackel_used_mit_streichhoelzer_vorhang_ohne_alk_und_oel_st_2;Je ne sais pas quel genre de matériau il est fait. Mais en quelque chose qui n'est pas facile de mettre le feu, en tout cas.
+spokentexts_a02_salonwagen_fackel_used_mit_streichhoelzer_vorhang_ohne_alk_und_oel_st_3;Je vais devoir essayer autre chose.
+sequences_a02_salonwagen_fackel_used_mit_streichhoelzer_vorhang_ohne_alk_und_oel#7;[Öhi removed the curtain from the chair and put it back]
+texts_a02_salonwagen_fenster_mo_use_1;Briser la fenêtre avec l'extincteur
+spokentexts_a02_salonwagen_fenster_use_mit_feuerloescher_1_st_1;Pourquoi ? L'air extérieur est à peine meilleur que l'air ici.
+spokentexts_a02_salonwagen_fenster_use_mit_feuerloescher_1_st_2;En fait, le tunnel est remplit de fumée.
+texts_a02_salonwagen_feuerloescher_mo_ex_1;Examiner l'extincteur
+texts_a02_salonwagen_feuerloescher_mo_use_1__2;Utiliser l'extincteur
+spokentexts_a02_salonwagen_feuerloescher_ex_1_st_1;J'avais remarqué cet extincteur. Il fait tâche dans le décor.
+spokentexts_a02_salonwagen_feuerloescher_ex_1_st_2;Je suppose que les chemins de fer devait se conformer aux normes de sécurité au détriment de l'esthétique.
+spokentexts_a02_salonwagen_feuerloescher_use_1_st_1;Il serait inutile contre ce feu et il est trop encombrant à transporter.
+spokentexts_a02_salonwagen_feuerloescher_use_1_st_2;Au mieux, je peux l'utiliser ici.
+sequences_a02_salonwagen_feuerloescher_use_1#3;"[The fire extinguisher sticks to the cursor. There are several ""Use with"" spots nearby. If you click on one of the spot, the corresponding sequence is (as if you had used the fire extinguisher from the inventory). If you click somewhere else, it will be removed from the cursor.]"
+spokentexts_a02_salonwagen_feuerloescher_use_2_st_1;Il doit être bon à quelque chose !
+sequences_a02_salonwagen_feuerloescher_use_2#2;"[The fire extinguisher sticks to the cursor. There are several ""Use with"" spots nearby. If you click on one of the spot, the corresponding sequence is (as if you had used the fire extinguisher from the inventory). If you click somewhere else, it will be removed from the cursor.]"
+texts_a02_salonwagen_hinterer_eingang_mo_ex_1;Chercher
+texts_a02_salonwagen_hinterer_eingang_mo_leave_1__2;Regarder par la fenêtre
+sequences_a02_salonwagen_hinterer_eingang_ex_1#1;[Ohi goes to the window, looked out and holds on (idle).]
+spokentexts_a02_salonwagen_hinterer_eingang_ex_1_st_2;Mon dieu. Quel feu !
+spokentexts_a02_salonwagen_hinterer_eingang_ex_1_st_3;J'espère que l'agent Oliver peut au moins atteindre la locomotive.
+sequences_a02_salonwagen_hinterer_eingang_ex_1#5;[Ohi leaves the door off again, stands up to normal.]
+sequences_a02_salonwagen_hinterer_eingang_leave_1#1;[Ohi goes to the window, looked out and holds on (idle).]
+spokentexts_a02_salonwagen_hinterer_eingang_leave_1_st_1;Les autres passagers sont sortis du train. Je peux voir leurs silhouettes à la lumière du feu.
+spokentexts_a02_salonwagen_hinterer_eingang_leave_1_st_3;Si je ne me dépêche pas de dégager la voiture de fret, ils vont étouffe !
+sequences_a02_salonwagen_hinterer_eingang_leave_1#5;[Ohi goes to the window, looked out and holds on (idle).]
+spokentexts_a02_salonwagen_hinterer_eingang_leave_2_st_1;Je vais rejoindre les autres. Espérons que l'agent Oliver a trouvé l'ingénieur.
+sequences_a02_salonwagen_hinterer_eingang_leave_2#2;[Ohi climbs into the wagon.]
+sequences_a02_salonwagen_hinterer_eingang_leave_2#3;"[Continue with the scene ""tunnel - Stowaway"".]"
+texts_a02_salonwagen_rum_mo_ex_1;Examiner la bouteille de rhum fort
+texts_a02_salonwagen_rum_mo_use_1;Utiliser le rhum fort avec...
+texts_a02_salonwagen_rum_mo_used_mit_streichhoelzer;Faire flamber le rhum
+spokentexts_a02_salonwagen_rum_ex_1_st_1;Du rhum d'Autriche, croyez-le ou non, c'est 80% d'alcool par volume ! Il n'y a aucun moyen que quelqu'un puisse le boire directement.
+sequences_a02_salonwagen_rum_use_1#1;[The Rum is attached to the cursor and can now be used.]
+spokentexts_a02_salonwagen_rum_used_mit_streichhoelzer_1_st_1;Je m'attends à ce que le rhum brûle comme du méthanol, mais je ferais mieux de ne pas tester cette théorie dans la bouteille.
+texts_a02_salonwagen_streichhoelzer_mo_ex_2;Allumettes
+texts_a02_salonwagen_streichhoelzer_mo_inventar_1__3-5;Allumer une allumette
+texts_a02_salonwagen_streichhoelzer_mo_inventar_2;Allumer la torche
+spokentexts_a02_salonwagen_streichhoelzer_ex_1_st_1;Des allumette et la moitié du livre pour obtenir une flamme.
+spokentexts_a02_salonwagen_streichhoelzer_ex_2_st_1;"""Allumettes Sterntaler"". Probablement allemande. Je les rendrais au Dr Gebhardt dès que nous sortirons d'ici."
+sequences_a02_salonwagen_streichhoelzer_use_1#1;[Ohi takes out a match, lights it and keeps it to himself.]
+sequences_a02_salonwagen_streichhoelzer_use_2#1;"[Acts as a ""used with torch"", see below.]"
+sequences_a02_salonwagen_streichhoelzer_use_3#1;[Ohi takes out a match, lights it and keeps it to himself. It immediately begins to flicker and go out.]
+spokentexts_a02_salonwagen_streichhoelzer_use_3_st_2;Cette dernière est tout à fait bienvenue. Elle nous fera gagner un peu plus de temps.
+sequences_a02_salonwagen_streichhoelzer_use_4#1;[Ohi takes out a match, lights it and keeps it to himself. It immediately begins to flicker and go out.]
+spokentexts_a02_salonwagen_streichhoelzer_use_5_st_1;Ce serait soufflé immédiatement. Je ferais mieux de garder des allumettes.
+spokentexts_a02_salonwagen_streichhoelzer_use_6_st_1;Une allumette devrait suffire.
+spokentexts_a02_salonwagen_streichhoelzer_use_7_st_1;Je ne devrais pas les gaspiller. Une allumette devrait suffire.
+sequences_a02_salonwagen_streichhoelzer_use_8_uebergang#1;hi lights a match, and it goes directly out.]
+spokentexts_a02_salonwagen_streichhoelzer_use_8_uebergang_st_1_direction;unhappy
+spokentexts_a02_salonwagen_streichhoelzer_use_8_uebergang_st_1;Hmm.
+texts_a02_salonwagen_streichholz_mo_ex_1;Allumette enflammée
+spokentexts_a02_salonwagen_streichholz_ex_1_st_1;Un allumette enflammée.
+texts_a02_salonwagen_stuhl_mo_ex_1a__1b;Regarder la chaise
+texts_a02_salonwagen_stuhl_mo_used_mit_feuerloescher;Casser un pied de chaise avec l'extincteur
+spokentexts_a02_salonwagen_stuhl_ex_1a_st_1;La chaise a dû tombée lors de l'arrêt brusque ou alors un passager l'a renversé.
+spokentexts_a02_salonwagen_stuhl_ex_1a_st_2;Voulant descendre du train le plus rapidement possible après un arrêt brusque et un énorme tremblement. C'est compréhensible.
+spokentexts_a02_salonwagen_stuhl_ex_1b_st_1;Ça ne m'embête pas. Je vais la laisser là.
+sequences_a02_salonwagen_stuhl_used_mit_feuerloescher#1;[Ohi erases the match, throws it away.]
+sequences_a02_salonwagen_stuhl_used_mit_feuerloescher#2;[Ohi takes the fire extinguisher and hits to one of the chair legs. At the first hit it crooked, in the second it is released completely from the chair. Ohi lays the fire extinguisher aside.]
+spokentexts_a02_salonwagen_stuhl_used_mit_feuerloescher_st_1_direction;effort
+spokentexts_a02_salonwagen_stuhl_used_mit_feuerloescher_st_1;Huagh ! Ehh !
+texts_a02_salonwagen_stuhlbein_mo_bar;Utiliser le pied de chaise avec ...
+texts_a02_salonwagen_stuhlbein_mo_inventar;Pied de chaise
+texts_a02_salonwagen_stuhlbein_mo_take_1;Prendre le pied de chaise
+texts_a02_salonwagen_stuhlbein_mo_used_mit_streichhoelzer_1;Mettre le feu au pied de chaise
+spokentexts_a02_salonwagen_stuhlbein_ex_1_st_1;J'ai cassé un pied de cette magnifique chaise. Connaîssant les Chemins de Fer Fédéraux Suisses, ils vont essayer de me la facturer.
+sequences_a02_salonwagen_stuhlbein_take_1#1;[Ohi takes the chair leg and carries it to the bar and places it there. ]
+spokentexts_a02_salonwagen_stuhlbein_take_1_st_1;Très bien... Allons-y !
+spokentexts_a02_salonwagen_stuhlbein_used_mit_streichhoelzer_1_st_1;Je ne mettrais jamais le feu au pied de la chaise en utilisant des allumettes. J'ai besoin d'un meilleur plan.
+spokentexts_a02_salonwagen_stuhlbein_used_mit_vorhang_2_st_1;Cela ne fait aucun sens.
+texts_a02_salonwagen_tuer_zum_grossraumwagon_mo_leave_1a__1b;Aller dans la voiture suivante
+spokentexts_a02_salonwagen_tuer_zum_grossraumwagon_leave_1a_st_1;Je dois me concentrer sur le désaccouplement du wagon. Je suis sûre que Legrand a tout le reste sous contrôle.
+spokentexts_a02_salonwagen_tuer_zum_grossraumwagon_leave_1b_st_1;My job is back at the freight car.
+spokentexts_a02_salonwagen_tuer_zum_grossraumwagon_leave_1b_st_2;La vie des gens là-bas dépendra de la rapidité que je met !
+texts_a02_salonwagen_tuer_zum_uebergang_mo_leave_1;Aller à l'extérieur
+sequences_a02_salonwagen_tuer_zum_uebergang_leave_1#1;[Ohi walks through the door in the direction of the transition.]
+texts_a02_salonwagen_vorderer_eingang_mo_ex_1;Chercher
+texts_a02_salonwagen_vorderer_eingang_mo_leave_1__2;Regarder par la fenêtre
+texts_a02_salonwagen_vorderer_eingang_mo_use_1;Briser la fenêtre avec l'extincteur
+spokentexts_a02_salonwagen_vorderer_eingang_use_mit_feuerloescher_1_st_1;Pourquoi ? L'air extérieur est à peine meilleur que l'air ici.
+spokentexts_a02_salonwagen_vorderer_eingang_use_mit_feuerloescher_1_st_2;En fait, le tunnel est remplit de fumée.
+sequences_a02_salonwagen_vorderer_eingang_ex_1#1;[Ohi goes to the window, holds on and looks out (idle).]
+spokentexts_a02_salonwagen_vorderer_eingang_ex_1_st_1;Je ne vois pas Legrand ou l'agent de police, mais je ne peux distinguer les silhouettes de certains des passagers. Ils semblent être indemnes.
+spokentexts_a02_salonwagen_vorderer_eingang_ex_1_st_2;Malgré tout, le feu prend de l'ampleur et je n'ai pas beaucoup de temps.
+sequences_a02_salonwagen_vorderer_eingang_ex_1#4;[Ohi leaves the window again, back to normal position.]
+sequences_a02_salonwagen_vorderer_eingang_leave_1#1;[Ohi goes to the window, holds on and looks out (idle).]
+spokentexts_a02_salonwagen_vorderer_eingang_leave_1_st_1;Le feu aspire tout l'oxygène hors du tunnel et le remplit avec du monoxyde de carbone toxique.
+spokentexts_a02_salonwagen_vorderer_eingang_leave_1_st_2;Ici, dans les Alpes, il y a eu des dizaines de catastrophes dans les tunnels qui ont abouti à la mort par asphyxie. Mais jamais durant mon service !
+sequences_a02_salonwagen_vorderer_eingang_leave_1#4;[Ohi leaves the window again, back to normal position.]
+spokentexts_a02_salonwagen_vorderer_eingang_leave_2_st_1;Espérons que l'ingénieur remettra le train en marche bientôt.
+sequences_a02_salonwagen_vorderer_eingang_leave_2#2;[Ohi gets out of the wagon.]
+texts_a02_salonwagen_vorhang_mo_inventar;Rideau
+texts_a02_salonwagen_vorhang_mo_inventar_2;Rideau huileux
+texts_a02_salonwagen_vorhang_mo_mit_rum;Rideau imbibé d'alcool
+texts_a02_salonwagen_vorhang_mo_take_1;Prendre le rideau
+texts_a02_salonwagen_vorhang_mo_used_mit_alkohol_1;Tremper avec du Rhum
+texts_a02_salonwagen_vorhang_mo_used_mit_alkohol_2;Mettre dans la bouteille
+texts_a02_salonwagen_vorhang_mo_used_mit_streichhoelzer;Régler le rideau grasse sur feu
+texts_a02_salonwagen_vorhang_mo_used_mit_streichhoelzer_1;Mettre le feu au rideau
+texts_a02_salonwagen_vorhang_mo_used_mit_stuhlbein_1;Enrouler le rideau autour du pied de chaise
+spokentexts_a02_salonwagen_vorhang_ex_2_st_1;Un beau rideau mais assez lourd. La surface est brillante et douce.
+spokentexts_a02_salonwagen_vorhang_ex_2_st_2;Il ne brûlera probablement pas facilement, comme les nappes. Les règles de sécurité l'exigent... Étant donné la situation actuelle, est en fait une bonne chose.
+spokentexts_a02_salonwagen_vorhang_ex_3_st_1;La graisse de l'attelage recouvre le rideau. Il ne sera plus jamais propre.
+sequences_a02_salonwagen_vorhang_take_1#1;[Ohi goes to the curtain, tears it down and throws it over his shoulder.]
+sequences_a02_salonwagen_vorhang_used_mit_rum_1#1;[Ohi erases the match, throws it away.]
+sequences_a02_salonwagen_vorhang_used_mit_rum_1#2;[Ohi takes the liquor bottle from the bar and turns it. Then he takes the cloth from the shoulder, keeping it in front of the opening, turn the bottle and moves it to a couple of times now and then.]
+sequences_a02_salonwagen_vorhang_used_mit_rum_1#4;[Ohi lies down the curtain back on the shoulder and puts the bottle back on the counter.]
+spokentexts_a02_salonwagen_vorhang_used_mit_rum_1_st_2;On peut pas dire que le tissu était fait pour être imbibé du rhum.
+spokentexts_a02_salonwagen_vorhang_used_mit_rum_1_st_3;D'autre part, j'en ai tellement sur les mains que je sens comme un poivrot.
+spokentexts_a02_salonwagen_vorhang_used_mit_rum_2_st_1;Hmm. Ça va me faire un truc comme un cocktail Molotov.
+spokentexts_a02_salonwagen_vorhang_used_mit_rum_2_st_2;Je veux de la lumière, mais je ne veux pas qu'elle vienne d'un mur de flammes !
+spokentexts_a02_salonwagen_vorhang_used_mit_streichhoelzer_1_st_1;Même si je pouvais allumér le tissu, comment faire pour porter le feu ?
+spokentexts_a02_salonwagen_vorhang_used_mit_streichhoelzer_2_st_1;L'huile et le graisse brûlent brillamment et chaudement... Mais elles exigent aussi une flamme chaude pour brûler. Une allumette normale ne fera pas l'affaire.
+sequences_a02_salonwagen_vorhang_used_mit_stuhlbein_1#2;[Ohi pulls out the chair leg and takes the curtain from the shoulder. He then wraps the curtain tightly around the leg of the chair.]
+sequences_a02_salonwagen_vorhang_used_mit_stuhlbein_1#4;[Ohi's done and looks at his work.]
+spokentexts_a02_salonwagen_vorhang_used_mit_vorhang_2__st_1;Faire une torche est une bonne idée. Mais le tissu ne semble pas être particulièrement inflammable.
+sequences_a02_salonwagen_seq_a02_salonwagen_streichholz_abgebrannt#0;[Ohi blows out the match and throws it away.]
+spokentexts_a02_salonwagen_seq_a02_salonwagen_streichholz_abgebrannt_st_2_direction;Blows the match off
+spokentexts_a02_salonwagen_seq_a02_salonwagen_streichholz_abgebrannt_st_2;Pfff !
+sequences_a02_salonwagen_seq_a02_salonwagen_zusammenstoss_mit_arzt#0;[Ohi enters the saloon wagon, he don't look forward, but is busy touching his aching elbow.]
+sequences_a02_salonwagen_seq_a02_salonwagen_zusammenstoss_mit_arzt#1;[Camera close to Ohi. We see how he touches his elbow and is careless.]
+sequences_a02_salonwagen_seq_a02_salonwagen_zusammenstoss_mit_arzt#2;[Suddenly, just in front of Ohi a match is lit. Ohi startled to recognize the doctor and then relax a bit.]
+sequences_a02_salonwagen_seq_a02_salonwagen_zusammenstoss_mit_arzt#3;[Doctor ignited matchstick, frightened himself a little and then stands with the match in his hand (idle).]
+sequences_a02_salonwagen_seq_a02_salonwagen_zusammenstoss_mit_arzt#4;[If the match is lit cut on the doctor who is illuminated by the light.]
+spokentexts_a02_salonwagen_seq_a02_salonwagen_zusammenstoss_mit_arzt_st_1_direction;frightened inhalation
+spokentexts_a02_salonwagen_seq_a02_salonwagen_zusammenstoss_mit_arzt_st_1;Hhh !
+spokentexts_a02_salonwagen_seq_a02_salonwagen_zusammenstoss_mit_arzt_st_2;Oh, excusez-moi.
+spokentexts_a02_salonwagen_seq_a02_salonwagen_zusammenstoss_mit_arzt_st_4;Je ne voulais pas vous faire peur.
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#0;[Ohi goes to the waiting passengers, the camera moves with him. The investigator is at the doctor, changed a few words with him. As you get closer its conversations gets louder, is to be understood more clearly.]
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#1;[Cut to the archaeologists.]
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#2;[The archaeologist stands there scared, looking around anxiously and presses his leather bag to his chest (idle).]
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#3;[Closeup nurse.]
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#4;[The nurse bent down to the writer and talked to her. (Idle). Now she reappears and looks towards train because of the slowly starts to move.]
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#5;[Back to Ohi / investigator-Scene.]
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_8_direction;with loud voice
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_8;Écoutez, tout le monde !
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_9_direction;with loud voice
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_9;Écoutez !
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#8;[The guard comes coughing and staggering from the Ohi opposite direction.]
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_3_direction;coughs from the smoke
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_3;Erk-Erk !
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#10;[The investigator whirls around, raises the flashlight and shines the guard into sooty face. He Is blinded, so he quickly lowers the lamp. The guard stands on the wall, the investigators is standing there with the lamp (idle).]
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_4;Robert ! Quelle est la situation ?
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_5_direction;out of breath, coughing
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_5;Erk... Je ne trouvais pas l'ingénieur, donc je suis entré dans la cabine du chauffeur et j'ai moi-même enlevé le frein.
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_6_direction;out of breath, coughing
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_6;Il fait sacrement chaud là-dedans. Tôt ou tard, la locomotive va exploser.
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#14;[Ohi has approached them.]
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_7;Bien. Bon boulot. Vous aussi.
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#16;"[He looks at the ""also"" just in Ohis direction.]"
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#17;[He turns to the people, lifts his arms to gain attention (idle).]
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_10_direction;with loud voice
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_10;Écoutez, s'il vous plaît !
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_14_direction;interrupts panicly the investigator
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_14;Matty !
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#27;[Cut to the nurse.]
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#28;[The nurse looks around, searching frantically.]
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_15_direction;panic
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_15;Où est Matt ? Où est mon fils ?
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#30;[The investigator goes up to her, calming stretches out his hand and looks around.]
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_16_direction;gets interrupted
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_16;Calmez-vous, madame. Je suis sûr que...
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_17_direction;interrupts the investigator
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_17;Là !
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#33;[The guard points to a window in the faster passing train. Behind this is the timid boy who cries, slams his fist against the window and alternately staring outside and towards the Wagon.]
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_18_direction;muffled screams
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_18;AU SECOURS !
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#35;[The nurse looks up, the investigators spins around.]
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_19_direction;panic, despair
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_19;MATTY !
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#37;[Cut to Ohi. He is closest to the train, which gets faster.]
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#38;[Ohi saw the boy, looks at the accelerating train. He has grasped the situation, makes two or three quick steps and grabs the railing / steps of the transition.]
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#39;[Cut to the audience.]
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#40;[The guard makes a few awkward steps behind, the train has already left. The investigator has his hand still on the shoulder of the nurse, which curves screaming with fear He just stares to Ohi.]
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_20_direction;Fear, despair
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_20;NOOOOON !
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#42;[Cut back to Ohi. The camera facing forward along the train and moves with the train.]
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#43;[Ohis feet are cut across the floor. The tube with his heart pills falls out of his pocket and shatters on the floor. The pills flying in all directions, the camera goes right through it.]
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#44;[He pulls painfully on the railing, hanging there like a wet sack. The end of the tunnel is approaching. But we also see a rock in the vicinity of the exit, which extends a long way into the tunnel, and would hit him, if he stays like this]
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#45;[Cut to Ohis face.]
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#46;[He looks forward, sees the rock. Despite pain, he again mobilized all forces and pushes himself up.]
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#47;[Cut back to the previous camera.]
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_21_direction;big effort
+spokentexts_a02_tunnel_seq_a02_tunnel_blinder_passagier_st_21;Hupmmm !
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#49;[Ohi presses himself at the last minute over the railing and falls headlong rattling on the metal plates at the end of the saloon wagon. The rock misses to the camera, the end of the tunnel is reached.]
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#50;[The train and the camera are enveloped by brilliant light, everything is white (a white panel at the end of the section).]
+sequences_a02_tunnel_seq_a02_tunnel_blinder_passagier#6;[*** END OF SECTION*** PLEASE START SECTION 03 *** END OF SECTION ***]

@@ -1,0 +1,391 @@
+characters_ermittler;Ermittler
+characters_frauenstimme1;Frauenstimme1
+characters_frauenstimme2;Frauenstimme2
+characters_intro_wache;Intro_Wache
+characters_intro_wache1;Intro_Wache1
+characters_junge;Junge
+characters_maennerstimme_1;Maennerstimme 1
+characters_maennerstimme2;Maennerstimme2
+characters_maennerstimme3;Maennerstimme3
+characters_ohi;Ohi
+characters_wachmann;Wachmann
+texts_ermittler_top_a00_ermittler_fragespiel_runde1_bewacht_etwas_tseq_title;Il garde quelque chose.
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde1_bewacht_etwas_tseq_st_1;Je pense que vous gardez quelque chose.
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde1_bewacht_etwas_tseq_st_2;Oh vraiment ? Et que serait-ce donc ?
+texts_ermittler_top_a00_ermittler_fragespiel_runde1_sucht_jemanden_tseq_title;Il cherche quelqu'un.
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde1_sucht_jemanden_tseq_st_1;Je pense que vous êtes à la recherche de quelqu'un.
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde1_sucht_jemanden_tseq_st_2_direction;disappointed
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde1_sucht_jemanden_tseq_st_2;Vous ne faites que deviner.
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde1_sucht_jemanden_tseq_st_3;Si je cherchais quelqu'un, je ne passerais pas le voyage enfermé dans un wagon de marchandises, vous ne croyez pas ?
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde1_sucht_jemanden_tseq_st_4_direction;slightly ashamed
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde1_sucht_jemanden_tseq_st_4;Eh bien, cela semblerait indiquer que vous gardez quelque chose.
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde1_sucht_jemanden_tseq_st_5;Et que serait-ce donc ?
+texts_ermittler_top_a00_ermittler_fragespiel_runde1_urlaub_tseq_title;Il est en vacances.
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde1_urlaub_tseq_st_1_direction;slightly sarcastic
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde1_urlaub_tseq_st_1;Je pense que nous pouvons exclure que vous êtes en vacances.
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde1_urlaub_tseq_st_2_direction;strictly, upset
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde1_urlaub_tseq_st_2;Je n'ai pas de temps pour jouer et m'amuser !
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde1_urlaub_tseq_st_3;Alors ?
+texts_ermittler_top_a00_ermittler_fragespiel_runde2_edelstein_tseq_title;Un bijou
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_edelstein_tseq_st_1_direction;played innocent
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_edelstein_tseq_st_1;Serait-il possible que ce soit... un bijou qui a fait un long et périlleux voyage?
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_edelstein_tseq_st_2;Vous ne faites que deviner. Vous ne pouvez pas savoir ce qu'il y a dans ce coffre-fort.
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_edelstein_tseq_st_3;Mais si c'était le cas ?
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_edelstein_tseq_st_4;Alors je vous demanderez pourquoi le train ne grouille pas de policiers...
+texts_ermittler_top_a00_ermittler_fragespiel_runde2_etwas_wichtiges_tseq_title;Peu importe ce qui est à l'intérieur du coffre-fort
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_etwas_wichtiges_tseq_st_1;Je ne pourrais pas vraiment pas le dire. Mais ça doit être très important.
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_etwas_wichtiges_tseq_st_2;Pourquoi ça ?
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_etwas_wichtiges_tseq_st_3;Parce que VOUS êtes important. Ils ne vous auraient pas attribué l'affaire si c'était juste une bagatelle.
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_etwas_wichtiges_tseq_st_4;"Supposons que nous transportons vraiment quelque chose de ""très important"" dans ce train. Et supposons que c'est vraiment mon travail qu'il arrive à bon port."
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_etwas_wichtiges_tseq_st_5;Alors pourquoi pas le train ne croule t-il pas sous les policiers ?
+texts_ermittler_top_a00_ermittler_fragespiel_runde2_geldtransport_tseq_title;Des fonds
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_geldtransport_tseq_st_1;Hmm. Nous sommes en Suisse, un coffre-fort a été chargé à bord... C'est peut-être des fonds ?
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_geldtransport_tseq_st_2_direction;piqued played
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_geldtransport_tseq_st_2;Oh, voyons.
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_geldtransport_tseq_st_3;Vous pensez vraiment que moi - moi et toutes ces personnes - serait là pour s'occuper d'un tas d'argent ? Et en Suisse de plus ?
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_geldtransport_tseq_st_4;Non... Alors qu'est-ce que je garde ?
+texts_ermittler_top_a00_ermittler_fragespiel_runde3_falle_tseq_title;C'est un piège
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_falle_tseq_st_1_direction;surprised
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_falle_tseq_st_1;C'est... C'est un piège !
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_falle_tseq_st_2_direction;smiling
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_falle_tseq_st_2;Ha ! Vous avez une imagination débordante, je vous l'accorde !
+texts_ermittler_top_a00_ermittler_fragespiel_runde3_keine_aufmerksamkeit_tseq_title;Pas éveiller l'attention
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_keine_aufmerksamkeit_tseq_st_1;Vous ne voulez pas éveiller l'attention.
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_keine_aufmerksamkeit_tseq_st_2_direction;little impatient
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_keine_aufmerksamkeit_tseq_st_2;Evident. Mais pourquoi pas ?
+texts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_title;Plus les hommes serait inutile
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_st_1;Il y a assez de policiers dans ce train comme ça. S'il y avait plus ils ne feraient que se gêner les uns les autres.
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_st_2_direction;seriously
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_st_2;Je peux vous assurer que je bouclerais chaque siège dans toutes les voitures de ce train avec des policiers s'il s'agissait d'une question de dissuasion.
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_st_3_direction;uncomprehendingly
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_st_3;Vous dites que vous ne voulez PAS faire fuir les voleurs potentiels ?
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_st_4_direction;surprising, got the clue
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_st_4;Vous tendez un piège !
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_st_5_direction;flirts
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_st_5;Cela expliquerait pourquoi il n'y a que moi et pas l'armée, N'est-ce pas ?
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_st_6;De toute manière, je ne peux pas commenter vos spéculations.
+texts_ermittler_top_a00_ermittler_kennenlernen_wer_ist_los_tseq_title;Qu'est-ce qui se passe ici ?
+spokentexts_ermittler_top_a00_ermittler_kennenlernen_wer_ist_los_tseq_st_1;Mais Monsieur! Votre voyage dans ce train est très inhabituel.
+spokentexts_ermittler_top_a00_ermittler_kennenlernen_wer_ist_los_tseq_st_2;Est-il lié à l'effraction au British Museum ?
+spokentexts_ermittler_top_a00_ermittler_kennenlernen_wer_ist_los_tseq_st_3_direction;wiegelt ab
+spokentexts_ermittler_top_a00_ermittler_kennenlernen_wer_ist_los_tseq_st_3;Pas le moins du monde.
+spokentexts_ermittler_top_a00_ermittler_kennenlernen_wer_ist_los_tseq_st_4;Et ce coffre ? C'est pour quoi ?
+spokentexts_ermittler_top_a00_ermittler_kennenlernen_wer_ist_los_tseq_st_5;Je vous ferai savoir si nous avons besoin de votre aide, gendarme ?
+texts_ermittler_top_a00_ermittler_kennenlernen_will_helfen_tseq_title;Je tiens à vous aider !
+spokentexts_ermittler_top_a00_ermittler_kennenlernen_will_helfen_tseq_st_1_direction;irritated, outraged easily
+spokentexts_ermittler_top_a00_ermittler_kennenlernen_will_helfen_tseq_st_1;Mais Monsieur !
+spokentexts_ermittler_top_a00_ermittler_kennenlernen_will_helfen_tseq_st_2;Je peux sûrement vous être utile à quelque chose ! J'ai vu un coffre-fort d'être chargés...
+spokentexts_ermittler_top_a00_ermittler_kennenlernen_will_helfen_tseq_st_3;Nous avons tout sous contrôle.
+texts_junge_top_a00_junge_einbruch_london_tseq_title;Cambriolage à Londres
+spokentexts_junge_top_a00_junge_einbruch_london_tseq_st_1;Tu sais de nos jours il y a des voleurs bien plus dangereux que votre vieux Corbeau ?
+sequences_junge_top_a00_junge_einbruch_london_tseq#1;[Ohi calls the boy during he's looking around. The boy took a step to Ohi to (listen-on idle boys, whisper-idle from Ohi).]
+sequences_junge_top_a00_junge_einbruch_london_tseq#2;[The camera cuts closer.]
+spokentexts_junge_top_a00_junge_einbruch_london_tseq_st_2_direction;tells vivid and exciting
+spokentexts_junge_top_a00_junge_einbruch_london_tseq_st_2;Il y a deux jours un précieux rubis a été volé au British Museum.
+spokentexts_junge_top_a00_junge_einbruch_london_tseq_st_3_direction;tells vivid and exciting
+spokentexts_junge_top_a00_junge_einbruch_london_tseq_st_3;Il y a eu une explosion ! Un garde a été gravement blessé.
+spokentexts_junge_top_a00_junge_einbruch_london_tseq_st_4_direction;tense, breathless
+spokentexts_junge_top_a00_junge_einbruch_london_tseq_st_4;Vraiment ?
+spokentexts_junge_top_a00_junge_einbruch_london_tseq_st_5_direction;tells vivid and exciting
+spokentexts_junge_top_a00_junge_einbruch_london_tseq_st_5;Ja. Et sais-tu ce que disent les journaux ?
+texts_junge_top_a00_junge_geh_weg_tseq_title;Il devrait partir
+spokentexts_junge_top_a00_junge_geh_weg_tseq_st_1;Déranger un officier suisse pendant qu'il lit un roman policier est une infraction très grave !
+spokentexts_junge_top_a00_junge_geh_weg_tseq_st_2;Je pourrais t'arrêter.
+spokentexts_junge_top_a00_junge_geh_weg_tseq_st_3;Mais j'ai un pistolet et pas vous !
+texts_junge_top_a00_junge_wer_bist_du_tseq_title;Qui est-ce ?
+spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_1;Le monde est-il si dangereux que j'ai besoin d'un pistolet ? Et qui pourrait l'être, toi ?
+spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_2;Quel est ton nom, mon garçon ?
+spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_3;Mon nom est Matthew Miller !
+spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_4;Et d'où viens-tu, Matthew Miller ?
+spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_5;De Dillsburg en Pennsylvanie.
+spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_6;Mais ma mère et moi vivons en Angleterre maintenant. Elle prend soin d'une riche vieille dame.
+spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_7;Nous sommes sur le chemin de Venise pour le moment. Nous allons faire une croisière sur un grand bateau !
+spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_8;Impressionnant ! Tu as déjà vu la moitié du monde.
+spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_9;J'ai passé toute ma vie en Suisse.
+spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_10;Ça doit être vraiment ennuyeux.
+spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_11_direction;affirmative
+spokentexts_junge_top_a00_junge_wer_bist_du_tseq_st_11;Oui.
+texts_junge_top_a00_junge_wozu_die_pistole_tseq_title;Faux pistolet
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_1;Et pourquoi as-tu besoin d'une arme ?
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_2;Et pourquoi cette arme ? Pour quoi en as-tu besoin ?
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_3;Pourquoi tu as besoin d'une arme ?
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_4;C'est à cause du Corbeau ! Il a été abattu. Alors j'ai besoin d'un pistolet !
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_5;Les oiseaux morts n'ont pas besoin d'arme... Pas même ceux vivant.
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_6_direction;outraged
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_6;Vous ne savez pas qui est le Corbeau ?
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_7;C'est le plus grand cambrioleur du monde ! Il a volé des peintures au Louvre. Des oeufs en or et diamant et plein d'autres trucs.
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_8;Et Bobby Dobbs dit qu'il aurait remplacé les joyaux de la couronne par des fausses pierres !
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_9;Je sais qui était ce Corbeau.
+spokentexts_junge_top_a00_junge_wozu_die_pistole_tseq_st_10;Même si... J'adhère peu à ces histoires à propos des joyaux de la couronne.
+texts_start;En apprendre plus sur les contrôles du jeu (Tutoriel)?
+texts_start_option_no;Non, je suis un cador.
+texts_start_option_yes;Oui, dites m'en plus.
+texts_step_01;Pour examiner un objet, cliquez-gauche dessus. Cliquez sur le papier du sandwich sur la table.
+texts_step_02;Si vous déplacez le curseur de la souris sur le papier du sandwich encore une fois, vous verrez que le curseur a changé et que le texte en bas de l'écran dit ''Prendre le papier du sandwich''. Cliquez dessus une fois de plus pour le prendre.
+texts_step_03;Très bien. Déplacez le curseur en bas de l'écran. Cela fait apparaitre votre inventaire. Vous y trouverez tout les objets que le Gendarme Zellner transporte. Cliquez-gauche sur le papier du sandwich.
+texts_step_04;Maintenant vous pouvez utiliser le papier du sandwich avec un autre objet. Déplacez-le sur le trognon de pomme sur la table et faites un clic-gauche.
+texts_step_05;Ouvrez l'inventaire à nouveau et faites un clic droit sur le papier du sandwich.
+texts_step_06;Bien sûr, vous pouvez aussi utiliser les objets de l'inventaire entre eux. Cliquez-gauche sur la serviette en papier puis sur le papier du sandwich dans l'inventaire.
+texts_step_07;Débarrassons-nous de tout ça. Jetez ces détritus dans votre inventaire dans le cendrier sur la table de Zellner.
+texts_step_08;Ce n'était pas trop dur, n'est-ce pas ? Maintenant vous savez tout ce que vous devez savoir sur les contrôles. Bon jeu !
+texts_step_01_controller;Pour examiner un objet déplacez-vous à côté de lui avec le stick gauche, utilisez le stick droit pour le sélectionner et appuyez sur $primary. Sélectionnez le papier du sandwich sur la table.
+texts_step_02_controller;Si vous sélectionnez le papier du sandwich encore une fois, vous verrez que le symbole affiché a changé et le texte en bas de l'écran indique ''Prendre le papier du sandwich''. Appuyez sur $primary pour le prendre.
+texts_step_03_controller;Très bien. Maintenant cliquez sur $inventory. Cela fait apparaitre l'inventaire, dans lequel se trouve tout vos objets. Utilisez le stick gauche pour sélectionner le papier du sandwich et appuyez sur $primary, de sorte qu'il s'affiche dans le coin supérieur gauche de l'écran.
+texts_step_04_controller;Maintenant, vous pouvez utiliser le papier du sandwich avec d'autres éléments. Sélectionnez le trognon de pomme sur la table et appuyez sur $primary.
+texts_step_05_controller;Ouvrez à nouveau l'inventaire, sélectionnez le papier du sandwich et appuyez sur $secondary pour l'examiner.
+texts_step_06_controller;Bien sûr, vous pouvez également utiliser les éléments à l'intérieur de l'inventaire entre eux. Sélectionnez la serviette en papier avec $primary , et sélectionnez le papier du sandwich dans l'inventaire avec $primary.
+texts_tutorial_apfelreste_mo_beteachten_1;Examiner le trognon de pomme
+texts_tutorial_apfelreste_mo_used_mit_apfelreste;Enroulez le trognon de pomme dans le papier du sandwich
+spokentexts_tutorial_apfelreste_ex_1_st_1;J'étais tellement excité ce matin que je ne pouvais pas manger quoi que ce soit. Inutile de dire qu'à la seconde où je suis monté dans le train, je mourais de faim.
+spokentexts_tutorial_apfelreste_ex_1_st_2;Heureusement, j'avais apporté une pomme.
+texts_tutorial_butterbrotpapier_mo_ex_1;Examiner le papier du sandwich
+texts_tutorial_butterbrotpapier_mo_inventar;Papier de sandwich
+texts_tutorial_butterbrotpapier_mo_inventar_2;Papier de sandwich avec un trognon de pomme
+texts_tutorial_butterbrotpapier_mo_take_1;Prendre le papier du sandwich
+texts_tutorial_muell_mo_inventar;Détritus
+texts_tutorial_muelleimer_mo_ex_1;Regarder la cendrier
+texts_tutorial_muelleimer_mo_used_mit_muell;Jeter les détritus dans le cendrier
+spokentexts_tutorial_muelleimer_ex_1_st_1;Chaque tables a son propre cendrier, pratique. Pas besoin de se lever de son siège.
+texts_tutorial_serviette_mo_inventar;Serviette en papier
+texts_tutorial_serviette_mo_used_mit_apfelreste;Assembler les détritus
+spokentexts_tutorial_seq_step_8_st_1;Très bien.
+spokentexts_tutorial_seq_step_1_st_1;Ce matin, je pensais pas que j'aurais faim à cause de toute cette excitation. Heureusement, j'avais apporté un sandwich avec moi au cas où.
+sequences_tutorial_seq_step_2#0;[Ohi takes the sandwich paper, crumpled it and put it in his pocket.]
+sequences_tutorial_seq_step_4#0;[Ohi pulls out the paper, fold it in an easy and puts the apple in the paper. Then he crumples it up and puts it back]
+spokentexts_tutorial_seq_step_5_st_1;J'ai enveloppé le trognon de pomme dans le papier du sandwich. De cette façon, je peux le porter sans ravager ma poche de pantalon.
+spokentexts_tutorial_seq_step_5_st_2;Je préférerais ne pas avoir à les transporter toute la journée.
+spokentexts_tutorial_seq_step_6_st_1;La serviette était avec un croissant que j'ai acheté à la gare. Un plaisir coupable. J'en ai plus besoin.
+sequences_tutorial_seq_step_6#1;"[Ohi takes out the napkin and the greaseproof paper and crumples the two together. He stops with the garbage in his hand. In the inventory the greaseproof paper with the apple and the rest napkin combined into a new object called ""garbage"".]"
+sequences_tutorial_seq_step_7#0;[Ohi throws the garbage in the garbage can.]
+sequences_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler#0;[Öhi is interrupted at the most exciting point.]
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_1_direction;throat
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_1;*hum*
+sequences_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler#2;[Scene: cut out, you can now see all three.]
+sequences_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler#3;[The boy is scared and goes a quick step to the side, stands beside Ohi (idle). Ohi looks up, startled, then turns back as soon as possible and assumes position during talks investigators (idle).]
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_2;Vous parlez trop, officier...
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_3_direction;eagerly
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_3;Zellner, Monsieur. Anton Jakob Zellner.
+sequences_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler#6;[The inspector looks at the boy.]
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_4;Ou... Vous a-t-il pointé un arme sur vous ?
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_5_direction;embarrassed
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_5;Non, Monsieur.
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_6_direction;at the Boy
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_6;Retourne à ta place.
+sequences_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler#11;[Boy goes offended towards Lok, climb one of the chairs. Idle: boy sits on the chair and looking out the window].
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_7_direction;as learned by heart
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_7;Inspecteur Legrand ! C'est un grand honneur de travailler avec une célébrité comme vous !
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_10_direction;formal
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_10;Nous apprécions le soutien de la police Suisse.
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_11_direction;Je ne sais pas quoi faire de lui
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_11;Mais... Ce serait mieux si vous pouviez... rester assis et... garder un oeil ouvert.
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_1;Votre sens de la déduction laisse a désirer. Je pense que ça ira très bien sans votre aide.
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_2;Et bien... C'est impressionnant, j'avoue. Mais moins il y a de personnes impliqués, mieux c'est. Ça ira très bien sans votre aide.
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_3_direction;determined
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_3;Vous ne pouvez pas !
+sequences_grossraumwagon_seq_grossraumwagon_fragespiel_beendet#5;[The investigators have started to turn away, then looks back confused.]
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_4;Je ne peux pas ? Pardonnez-moi ?
+sequences_grossraumwagon_seq_grossraumwagon_fragespiel_beendet#7;[Öhi takes courage all together.]
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_5_direction;trying to sound brave and determined
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_5;Je peux aider et je veux aider !
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_6_direction;trying to sound brave and determined:
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_6;Vous êtes dans mon pays et j'ai ordre de vous aider.
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_7_direction;trying to sound brave and determined
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_7;Et c'est exactement ce que je vais faire peut importe que cela vous plaise ou non !
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_10;Pas brillant, mais tenace.
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_16;Hmm. Intelligent et tenace.
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_11;Votre engagement en dit long, Zellner.
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_12;Mais c'est mon affaire et je n'ai pas besoin de vous. Bon voyage ! 
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_13_direction;wants to protest
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_13;Mais... Comment pouvez-vous le savoir ?
+sequences_grossraumwagon_seq_grossraumwagon_fragespiel_beendet#21;[The investigators nods to Ohi, then walks away. Ohi has stood the whole time, holding his breath, and now he lets the air out and relax.]
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_15_direction;exhales disappointed
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_15;Fffff.
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#0;"[Scene: We see a paperback that Ohi holds relatively close to his face (because it's so exciting), in close-up. This is the book ""The vicarage in the mirror"" from ""Clarissa Westmacott"".]"
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#1;[Idle as Ohi tightly with the book in his face sits and reads.]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen_st_1;Haut les mains !
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#3;[Ohi irritated takes the book down a bit and look at the boy. He lowers not only up to the chest and remains seated otherwise. He wants to not really be bothered and would rather read on. Idle as he sits there.]
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#4;[Scene: The camera is initially on Ohis face in close-up. Then a cut and you can see that Ohi is in a police uniform and a little boy in front of him with a wooden gun stands]
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#5;[Idle from boy as he aims his gun at Ohi.]
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#6;"[Ohi breathes lightly annoyed and, while he looks further at the boy. When he is thinking, ""Is that really necessary?"" Then he looks to the left and right, whether guardians are seen, which can take the boy. Nobody there. Back in the idle.]"
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen_st_2;Je n'est pas le temps pour jouer. Je suis en service.
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#8;[Ohi his book raises again and continues reading. Back in the Read-Idle. The boy lowers the gun disappointed.]
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#9;[The boy puts Ohi tongue out.]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen_st_3_direction;Sticking tongue out
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen_st_3;Bmmmm.
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#11;[Scene: Cut to a close-up Ohi (Book).]
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#12;[Ohi has heard that lowers the book a little bit and look at the boy sharply over the edge of book.]
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#13;[Scene: Cut to the boy in close-up.]
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#14;[The boy quickly pulls the tongue and does not guilty.]
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#15;[Director: Cut back on Ohi.]
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#16;[Ohi still looks strictly over the book edge. Then he lets the book fall fast forward a little, so you can see his mouth. He sticks his tongue out to the boy and makes a grimace. He quickly hides again behind his book.]
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#17;[Scene: Cut back. both can be seen.]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen_st_4_direction;Surprised, Pleased laugh
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen_st_4;Ha ha !
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen_st_5;Vous êtes marrant !
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen_st_6_direction;slightly reproachfully
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen_st_6;Mais... Vous ne ressemblez pas à un vrai policier. Vous n'avez même pas de revolver !
+sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#21;"[Ohi lowers the book, puts it on his desk and goes into the ""talk with the boy"" Idle.]"
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_1;Si vous voulez bien m'excuser, je serai dans le premier wagon de marchandises à l'arrière du train pour le reste du voyage.
+sequences_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler#1;[The investigator turns around and takes a few steps.]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_3;Je ne suis pas ici pour profiter de la beauté des paysages !
+sequences_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler#3;[The investigator stops, turns around but not yet.]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_7_direction;tries to quickly think of something
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_7;Je... Je suis un bon observateur ! Et j'ai un sens aiguisé de la déduction !
+sequences_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler#6;[The investigator turns slightly annoyed, points to the Crime Book of Ohi on table.]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_8_direction;mocking
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_8;Faut-il remercier ça ?
+sequences_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler#12;[Ohi goes a few steps towards the investigators, so they returned to normal conversational distance to each other.]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_9_direction;eagerly
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_9;J'ai observé ces gens sur le quai à Zurich !
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_10_direction;eagerly
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_10;Je sais par exemple, que cet homme là-bas est violoniste.
+sequences_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler#15;[Scene: The investigator glances for violinists.]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_11;Cela aurait été plus impressionnant si il n'avait pas eu un étui à violon à coté de lui.
+sequences_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler#17;[The investigator turns around and wants to leave.]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_12;Et je pense que le gentleman dans le wagon suivant est un médecin allemand en route pour l'Italie pour occuper un nouveau poste.
+sequences_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler#19;[Scene: The investigators thinks for a moment. Then he turns around.]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_13_direction;curieux
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_13;Et qu'est-ce qui vous fait penser cela ?
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_15_direction;Il est impatient et plein d'espoir
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_15;Il a le caducée d'Asclépios gravé sur son bouton de manchette. Et il porte un dictionnaire allemand-italien.
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_21;Peut-être qu'il prend simplement des vacances en Italie ? Suivant les traces de Goethe ?
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_22;Trop de bagages.
+sequences_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler#30;[Scene: The investigator wants to interject something, but Ohi interrupts him]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_24;Et non, il ne prend pas sa retraite en Italie non plus.
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_25;Ses valises sont trop minable pour moi pour croire qu'il peut se permettre de prendre sa retraite avant la cinquantaine.
+sequences_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler#34;[Scene: The investigator thinks for a moment.]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_26;Bon, et alors, gendarme...
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_27;Zellner.
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_28;Gendarme Zellner.
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_29_direction;challenging
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_29;Si vous êtes un homme si intelligent... Qu'est-ce que je fais dans ce train ?
+sequences_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt#0;[Ohi turns disappointet ... and solidifies. Then he goes into the normal idle. Before him stands the smiling boy with his hands on his hips.]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_1_direction;embarrassed
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_1;Oh... Bonjour !
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_2_direction;reproachful
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_2;Vous avez triché.
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_3_direction;uncomprehendingly
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_3;J'ai fait quoi ?
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_4_direction;reproachful
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_4;Je vous ai vu parler à ce docteur allemand sur le quai.
+sequences_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt#5;[Ohi feels uncomfortable in his own skin, looking around maybe if he is observed.]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_5_direction;reproachfully
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_5;Il vous a dit tout ce que vous venez de dire et vous avez fait semblant de le deviner.
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_6_direction;caught
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_6;Et alors !
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_7;Tu sais qui c'est ? C'est l'inspecteur Nicolas Legrand ! Tu dois l'impressionner si tu veux travailler avec lui !
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_8;Je vais aller lui rapporter !
+sequences_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt#10;[Scene: Ohi thinks.]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_9;Tu veux vraiment le rapporter ? Au policier qui a abattu ton cher Corbeau ?
+sequences_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt#12;[Scene: The boy is shocked.]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_10_direction;surprised breath
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_10;Ouah !
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_11;C'était lui ?
+sequences_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt#15;[Ohi nods.]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_12_direction;According Sound
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_12;Mm-hmm. En traquant et tuant le plus célèbre cambrioleur d'Europe. Voilà comment il a fait ses débuts.
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_13_direction;indignantly
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_13;Je ne lui dirais rien du tout !
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_14_direction;amused
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_14;Je ne le voudrais pas non plus.
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_15;Quel est ton nom déjà ?
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_16;Matthew Miller de Dillsburg en Pennsylvanie.
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_17;Très bien, Matthew Miller de Dillsburg en Pennsylvanie. Je dois retourner travailler maintenant !
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_18;Très bien, Matthew. Je dois retourner travailler maintenant !
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_19;Tout le monde m'appelle Matt.
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_20_direction;slightly disgusted
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_20;"Sauf ma mère. Elle m'appelle ""Matty""."
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_21_direction;indignantly
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_21;Comme si j'étais un gamin !
+sequences_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt#26;[Scene: The boy goes away towards saloon car. Ohi stays and looks around.]
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_22_direction;to himself
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_22;Que Legrand veuille mon aide ou pas, je vais garder les yeux ouverts.
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_23_direction;to himself
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt_st_23;Peut-être que je pourrais le faire changer d'avis.
+sequences_grossraumwagon_seq_grossraumwagon_oehi_wird_ertappt#29;"[Note: At this point, a question is (possibly as a dialogue option?) Appears if you want to play the tutorial or not. If you want, we continue with ""grossraumwagon_tutorial"". If not, I'll keep moving here and it's as if it has the properties ""handkerchief"", ""sandwich wrap"" and ""apple rest"" never existed.]"
+sequences_a00_startintro_seq_a00_startintro_teil_1#0;[Fade-in. Tu vois un diamant précieux.]
+sequences_a00_startintro_seq_a00_startintro_teil_1#1;[The camera moves back, you realize that the diamond is part of a necklace. Other jewelery come into the picture. There is a display case in a store.]
+spokentexts_a00_startintro_seq_a00_startintro_teil_1_st_1_direction;Frauenstimme1 [from the off]:
+spokentexts_a00_startintro_seq_a00_startintro_teil_1_st_1;J'en ai le souffle coupé d'avance !
+spokentexts_a00_startintro_seq_a00_startintro_teil_1_st_2_direction;Maennerstimme 1 [from the off]:
+spokentexts_a00_startintro_seq_a00_startintro_teil_1_st_2;Vous serez ravis, Mademoiselle Pengry !
+sequences_a00_startintro_seq_a00_startintro_teil_1#4;[The camera passes through the cover glass of the display case, moving further and further behind. A large hole in the glass shows up. Including missing jewelry.]
+sequences_a00_startintro_seq_a00_startintro_teil_1#5;[The camera moves ever further. On the display case is a spectacle cloth head for necklaces / tiaras. In it is a raven feather. Shadows come into the picture, people have brought to the cabinet.]
+spokentexts_a00_startintro_seq_a00_startintro_teil_1_st_3_direction;Frauenstimme1 [from the off, scared]:
+spokentexts_a00_startintro_seq_a00_startintro_teil_1_st_3;Ohh !
+sequences_a00_startintro_seq_a00_startintro_teil_1#7;[A flash like a camera, including the corresponding sound. Screen is white, slow fade-in of the image.]
+sequences_a00_startintro_seq_a00_startintro_teil_4#0;[Slow fade-in. A newspaper. The last shot of the head then the photo is in the newspaper article.]
+sequences_a00_startintro_seq_a00_startintro_teil_4#1;[The camera zooms back slowly. One can see hands holding the newspaper.]
+sequences_a00_startintro_seq_a00_startintro_teil_4#2;"[This is an English newspaper. The translation of the headline appears: ""The legacy of the Raven's incredible!""]"
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_1_direction;mocking
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_1;"hein, ""L'héritier du Corbeau !"""
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_2_direction;indignantly
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_2;Dès que l'un d'eux est pris, un autre prend sa place !
+sequences_a00_startintro_seq_a00_startintro_teil_4#5;"[Cut back. You see a Museumswae behind a ""security bar"" in a dark museum.]"
+sequences_a00_startintro_seq_a00_startintro_teil_4#6;[The guard folds the newspaper, puts it away, and turns into the dark half Museum.]
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_3;Hé, Harold ! T'as lu ça ?
+sequences_a00_startintro_seq_a00_startintro_teil_4#8;[The guard gets no answer. Irritated, he turns around completely.]
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_4;Harold ?
+sequences_a00_startintro_seq_a00_startintro_teil_4#10;[Because still is no reaction, stands guard on the cautious and turns on a flashlight. With the other hand on the gun he goes into a dark corridor.]
+sequences_a00_startintro_seq_a00_startintro_teil_4#11;[Cut. Deeper in the corridor (the guard has been a fair bit away from his table). Big Ben in the background is heard. Two clock in the morning.]
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_5_direction;chuchotement, un peu anxieux
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_5;Harold ! Tu m'écoutes ? C'-c'est pas le moment pour jouer a faire des blagues !
+sequences_a00_startintro_seq_a00_startintro_teil_4#13;[The guard goes to a larger showroom. In the middle is a display case with the eye of the Sphinx. The guard scans the room, stands close to a wall.]
+sequences_a00_startintro_seq_a00_startintro_teil_4#14;[Blurred in the background you can see how is passing a figure.]
+sequences_a00_startintro_seq_a00_startintro_teil_4#15;[The Intro_Guard turns, lights in the hallway, but the figure is gone.]
+sequences_a00_startintro_seq_a00_startintro_teil_4#16;[The Intro_Guard turns back, light up the guard's face. The Intro_Guard wants to scream, but the security guard keeps his mouth shut. He pulls him into a dark corner.]
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_6;Chut !
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_7;Calmez-vous, je suis policier. Nous sommes du même côté !
+sequences_a00_startintro_seq_a00_startintro_teil_4#19;[The guard releases the Intro_Guard. They considered the man who sees that he is in a police uniform.]
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_8;Un policier ? Qu'est-ce que vous faites ici ? Et où est Harold ?
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_9;Harold ? Eh bien, il y a un garde inconscient là-bas. C'est surement lui.
+sequences_a00_startintro_seq_a00_startintro_teil_4#22;[The Intro_Guard gets big eyes, a panic is coming.]
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_10;"Cet ""Oeil du Sphinx""... où est-il ?"
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_11;Il est... là.
+sequences_a00_startintro_seq_a00_startintro_teil_4#25;[The guard lights on the display case in the middle of the room, The eye glistens.]
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_12_direction;relieved
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_12;Ah, très bien. Il ne l'a pas encore pris donc.
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_13_direction;Growing Panic
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_13;"Vous voulez dire... ""L'héritier du Corbeau""?!"
+sequences_a00_startintro_seq_a00_startintro_teil_4#28;[The guard pushes the intro-guard in a dark corner. He pushes him against the wall, wants to prevent the man paniced.]
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_14;Chut ! Éteignez ça.
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_15;Il va voler l'oeil.
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_17;Oui, mais...
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_18;Est-ce que vous comprenez ? Vous et moi, mon ami ! Nous serons des héros !
+sequences_a00_startintro_seq_a00_startintro_teil_4#34;[The guard seems happy. He has been waiting for this chance, he finds exciting. The intro guard nods, takes his courage.]
+sequences_a00_startintro_seq_a00_startintro_teil_4#35;[The guard nods encouragingly at him, then turns back to the hall. The eye of the Sphinx has disappeared from the display case, instead there is a raven feather.]
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_19_direction;stunned
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_19;Très bien. Maintenant, nous avons juste à...
+sequences_a00_startintro_seq_a00_startintro_teil_4#37;[You hear footsteps running down the hallway. The guard is a few steps into the hall, pulling his baton. The Intro_Guard is behind him, pulls out his gun.]
+sequences_a00_startintro_seq_a00_startintro_teil_4#38;[A shadow passes through the transition. The guard takes him to target.]
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_20_direction;calls
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_20;ARRÊTEZ !
+sequences_a00_startintro_seq_a00_startintro_teil_4#40;[In addition to the two guards exploded a trash can. Debris, dust and smoke takes the view. The Intro_Guard is caught in the explosion and throws through the air. The guard falls flat on his stomach.]
+sequences_a00_startintro_seq_a00_startintro_teil_4#41;[Cut to the hallway.]
+sequences_a00_startintro_seq_a00_startintro_teil_4#42;[The shadow stood still, looking toward hall. He seems to consider whether he should go back. He makes two steps. But even sirens are heard.]
+sequences_a00_startintro_seq_a00_startintro_teil_4#43;[The shadows stand still again looking towards the entrance, which is already illuminated by blue light. He has made ​​a decision and go walking quickly out of sight.]
+sequences_a00_startintro_seq_a00_startintro_teil_4#44;[End of intro start.]
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_21;STOP ! VOUS ÊTES EN ÉTAT D'ARRESTATION !
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_22;Mais... Comment le savez-vous ?
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_23;Ça n'a pas d'importance. Tout ce qui importe, c'est que nous l'attrapions. Vous comprenez ?
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_24;Quoi...?
+sequences_intro_seq_intro_teil_1#0;"[On-screen text. ""Deux jours plus tard ...""]"
+sequences_intro_seq_intro_teil_1#2;[Scene: fade-in. You see a beautiful valley in the Alps, all is quiet. Slowly you can hear muffled pounding of a train. The train with steam locomotive travels relatively far away from a tunnel and can be heard clearly now. He goes on a long bridge.]
+sequences_intro_seq_intro_teil_1#3;[Scene: The title of the game appears when the train is with five cars on the bridge.]
+sequences_intro_seq_intro_teil_1#4;[Scene: The train disappears from sight (behind a rock or a rock wall in the foreground).]
+sequences_intro_seq_intro_teil_1#5;[Scene: The first credits appear while the train is not visible.]
+sequences_intro_seq_intro_teil_1#6;[Scene: The train has become quiet again. But suddenly he rushes out from behind the rocks past the camera. The train is so out of sight down a loop and the camera was all the time close to the tracks. If the locomotive of the camera pass by whistles and it evaporated.]
+sequences_intro_seq_intro_teil_2#0;[Scene: The pumping pistons are shown, plus a few credits.]
+sequences_intro_seq_intro_teil_2#1;[Scene: Spinning wheels are shown, plus a few credits.]
+sequences_intro_seq_intro_teil_2#2;[Scene: A rocking back and forth at a coupling chain is shown, with a few credits.]
+sequences_intro_seq_intro_teil_2#3;[Scene: A whistle is shown that moments later whistles. A couple of credits.]
+sequences_intro_seq_intro_teil_2#4;[Scene: A window is shown, which reflects the landscape. Then the train goes into a tunnel and suddenly you can look inside the train. A couple of credits.]
+sequences_intro_seq_intro_teil_3#0;[Scene: Shot on the nurse and writer.]
+sequences_intro_seq_intro_teil_3#1;[The nurse handed a cup of tea to the writer. The writer, accepts, and thanks her for. She takes a spoon and begins to turn in the tea.]
+sequences_intro_seq_intro_teil_3#2;[Scene: Some credits appear.]
+sequences_intro_seq_intro_teil_3#3;[Scene: Shot on the doctor.]
+sequences_intro_seq_intro_teil_3#4;[The doctor reads in the newspaper, leafs through it and keep it so that you can read the headline (idle).]
+sequences_intro_seq_intro_teil_3#5;[Scene: The newspaper reports on a jewel heist in London. Some credits appear.]
+sequences_intro_seq_intro_teil_3#6;[Scene: Shot in the storage room, the vault. The camera zooms in on it slowly.]
+sequences_intro_seq_intro_teil_3#7;[The guard like James Bond moderately rolls onto the screen, trying to pull his gun quickly, but that does not quite succeed. As he did it, he puts it away and tried it all over again.]
+sequences_intro_seq_intro_teil_3#8;[Scene: Some credits appear.]
