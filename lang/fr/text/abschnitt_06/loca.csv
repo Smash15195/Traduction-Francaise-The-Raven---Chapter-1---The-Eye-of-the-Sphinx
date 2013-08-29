@@ -12,7 +12,7 @@ spokentexts__top_a06_kapitaen_niedergeschlagen_tseq_st_2;C'est intolérable ! L'
 spokentexts__top_a06_kapitaen_niedergeschlagen_tseq_st_3;Et bien sûr, M. Zellner, vous êtes cordialement invité à voyager comme notre invité spécial !
 spokentexts__top_a06_kapitaen_niedergeschlagen_tseq_st_4_direction;Confirming played grateful
 spokentexts__top_a06_kapitaen_niedergeschlagen_tseq_st_4;Content de savoir qu'au moins un homme ne veut pas me jeter par-dessus bord.
-texts__top_a06_kapitaen_warum_wurde_ich_nicht_gesucht_tseq_title;Pourquoi personne ne me recherche ?
+texts__top_a06_kapitaen_warum_wurde_ich_nicht_gesucht_tseq_title;Pourquoi personne ne m'a recherché ?
 spokentexts__top_a06_kapitaen_warum_wurde_ich_nicht_gesucht_tseq_st_1;Pourquoi personne n'est venu à ma recherche ?
 spokentexts__top_a06_kapitaen_warum_wurde_ich_nicht_gesucht_tseq_st_2;Personne n'a pas remarqué que je ne suis pas revenu de la soute ?
 spokentexts__top_a06_kapitaen_warum_wurde_ich_nicht_gesucht_tseq_st_5;Nous vous avons recherché, mais nous ne vous trouvions pas.
@@ -21,9 +21,9 @@ spokentexts__top_a06_kapitaen_warum_wurde_ich_nicht_gesucht_tseq_st_7;L'Officier
 spokentexts__top_a06_kapitaen_warum_wurde_ich_nicht_gesucht_tseq_st_8;Je l'espère bien.
 texts__top_a06_kapitaen_wo_sind_wir_tseq_title;Où sommes-nous ?
 spokentexts__top_a06_kapitaen_wo_sind_wir_tseq_st_1;Où sommes-nous et quelle heure est-il ? J'ai dû rester là-dedans des siècles.
-spokentexts__top_a06_kapitaen_wo_sind_wir_tseq_st_6;il est 20 heures passé.
+spokentexts__top_a06_kapitaen_wo_sind_wir_tseq_st_6;Il est vingt heures passé.
 spokentexts__top_a06_kapitaen_wo_sind_wir_tseq_st_7;Vous venez de rater le dîner.
-spokentexts__top_a06_kapitaen_wo_sind_wir_tseq_st_8;Mais nous allons tous rassembler dans la salle à 22 heures pour prendre un verre ensemble.
+spokentexts__top_a06_kapitaen_wo_sind_wir_tseq_st_8;Mais nous allons tous nous rassembler dans la salle à vingt-deux heures pour prendre un verre tous ensemble.
 spokentexts__top_a06_kapitaen_wo_sind_wir_tseq_st_9;Saluer les passagers personnellement est une tradition que je ne vais pas casser, même sur ce voyage étrange !
 texts_arzt_mo_betachten_1;Regarder le Dr Gebhardt
 texts_arzt_mo_talk_mit_1;Parler au Dr Gebhardt
@@ -44,14 +44,14 @@ spokentexts_arzt_ex_2_st_1;Le Dr Gebhardt a insisté pour venir.
 spokentexts_arzt_ex_2_st_2;Mais maintenant, il ne semble plus être tellement sûr que c'était une bonne idée.
 spokentexts_arzt_talk_mit_1_st_1;Allez, Dr Gebhardt. Allons-y !
 spokentexts_arzt_talk_mit_1_st_2;Je suis juste derrière vous !
-spokentexts_arzt_talk_mit_2_st_1;Ça va, Doctor ?
+spokentexts_arzt_talk_mit_2_st_1;Ça va, Docteur ?
 spokentexts_arzt_talk_mit_2_st_2;Bi-bien entendu. Pourquoi ça n'irait pas ?
 spokentexts_arzt_talk_mit_2_st_3;C'est juste que... Eh bien...
 spokentexts_arzt_talk_mit_2_st_4;Je préfère venir avec vous !
 spokentexts_arzt_talk_mit_2_st_5_direction;apologetic
 spokentexts_arzt_talk_mit_2_st_5;Vous avez entendu l'inspecteur.
 texts_ermittler_top_a06_ermittler_geruch_der_waffe_tseq_title;Odeur de poudre
-spokentexts_ermittler_top_a06_ermittler_geruch_der_waffe_tseq_st_1;Je voulais savoir si le fusil avait été tiré récemment, Inspecteur.
+spokentexts_ermittler_top_a06_ermittler_geruch_der_waffe_tseq_st_1;Je voulais savoir si l'arme avait tirée récemment, Inspecteur.
 spokentexts_ermittler_top_a06_ermittler_geruch_der_waffe_tseq_st_2_direction;annoyed
 spokentexts_ermittler_top_a06_ermittler_geruch_der_waffe_tseq_st_2;Je veux dire, qu'est-ce que vous faites sur le bateau !
 texts_ermittler_top_a06_ermittler_niedergeschlagen_tseq_title;J'ai été attaqué !
@@ -62,7 +62,7 @@ spokentexts_ermittler_top_a06_ermittler_niedergeschlagen_tseq_st_2;Là ! Regarde
 sequences_ermittler_top_a06_ermittler_niedergeschlagen_tseq#1;[Ohi opens the door, and lets the door open, imagines the investigator and holds him the pipe. ]
 sequences_ermittler_top_a06_ermittler_niedergeschlagen_tseq#5;[The investigator puts his gun back, takes the bar.]
 spokentexts_ermittler_top_a06_ermittler_niedergeschlagen_tseq_st_4_direction;Emphasis - on the side, not on the other
-spokentexts_ermittler_top_a06_ermittler_niedergeschlagen_tseq_st_4;Attention a comment vous le tenez ! Il pourrait y avoir des empreintes digitales dessus !
+spokentexts_ermittler_top_a06_ermittler_niedergeschlagen_tseq_st_4;Attention à la manière dont vous le tenez ! Il pourrait y avoir des empreintes digitales dessus !
 spokentexts_ermittler_top_a06_ermittler_niedergeschlagen_tseq_st_5;Vous ne pensez pas que je vous croie ?
 texts_ermittler_top_a06_ermittler_warum_bedrohen_sie_mich_tseq_title;Pourquoi me menace t-il ?
 spokentexts_ermittler_top_a06_ermittler_warum_bedrohen_sie_mich_tseq_st_1;La vraie question est: pourquoi VOUS me menacez avec une arme ?
@@ -71,7 +71,7 @@ spokentexts_ermittler_top_a06_ermittler_warum_bedrohen_sie_mich_tseq_st_2;Ne pou
 spokentexts_ermittler_top_a06_ermittler_warum_bedrohen_sie_mich_tseq_st_3_direction;loud, insistent
 spokentexts_ermittler_top_a06_ermittler_warum_bedrohen_sie_mich_tseq_st_3;Pourquoi n'avez-vous pas quitté le navire comme nous l'avions convenu ?
 texts_ermittler_top_a06_ermittler_was_ist_passiert_schlag_tseq_title;Coup à la tête
-spokentexts_ermittler_top_a06_ermittler_was_ist_passiert_schlag_tseq_st_1;J'inspectais le camion. Je l'ai trouvé dans la soute et il était clair que quelqu'un l'avait caché dedans à bord du navire !
+spokentexts_ermittler_top_a06_ermittler_was_ist_passiert_schlag_tseq_st_1;J'inspectais la malle. Je l'ai trouvé dans la soute et il était clair que quelqu'un l'avait caché dedans à bord du navire !
 spokentexts_ermittler_top_a06_ermittler_was_ist_passiert_schlag_tseq_st_2_direction;sarcastic, but also a bit cautious
 spokentexts_ermittler_top_a06_ermittler_was_ist_passiert_schlag_tseq_st_2;Certaines personnes sont prêtes à aller très loin pour faire partie de ce voyage.
 spokentexts_ermittler_top_a06_ermittler_was_ist_passiert_schlag_tseq_st_3_direction;irritated
@@ -135,7 +135,7 @@ spokentexts_a06_frachtraum_metallrohr_ex_3_st_1;La surface du tuyau est un peu i
 sequences_a06_frachtraum_metallrohr_seq_ohi_steht_auf#1;[Ohi stands up again.]
 sequences_a06_frachtraum_metallrohr_take_2#1;[If Ohi is not yet in a crouch, he goes into a crouch.]
 spokentexts_a06_frachtraum_metallrohr_take_2_st_1;Hmm. Je pourrais peut-être utiliser sur la porte là-haut... Je n'ai pas vraiment d'autre option.
-spokentexts_a06_frachtraum_metallrohr_take_2_st_2;Je vais le tenir par le bout ensanglanté. Après tout ce que nous savons déjà qui est la victime.
+spokentexts_a06_frachtraum_metallrohr_take_2_st_2;Je vais le tenir par le bout ensanglanté. Après tout nous savons déjà qui est la victime.
 sequences_a06_frachtraum_metallrohr_take_2#4;[Ohi takes the tube on the bloody side and stands up.]
 sequences_a06_frachtraum_metallrohr_take_2#5;[Ohi has from on now the tube in his hand]
 texts_a06_frachtraum_spinte_mo_betachten_1__2;Examiner les casiers
@@ -152,7 +152,7 @@ texts_a06_frachtraum_treppe_runter_mo_leave_1;Descendre les escaliers.
 sequences_a06_frachtraum_treppe_runter_leave_1#1;[Ohi goes down stairs.]
 texts_a06_frachtraum_tuer_mo_ex_1__2;Examiner la cloison étanche
 texts_a06_frachtraum_tuer_mo_use_1;Ouvrir la cloison étanche
-texts_a06_frachtraum_tuer_mo_used_mit_metallrohr;Ouvrir la cloison étanche avec le tuyay métallique
+texts_a06_frachtraum_tuer_mo_used_mit_metallrohr;Ouvrir la cloison étanche avec le tuyau métallique
 sequences_a06_frachtraum_tuer_ex_1#1;[Ohi puts his hands at the glass, trying to see something on the other side. Idle.]
 spokentexts_a06_frachtraum_tuer_ex_1_st_1;Je peux voir un corridor, mais rien d'autre. Le verre est trop sale et il n'y a aucune lumière.
 sequences_a06_frachtraum_tuer_ex_1#3;[Ohi is back down to normal.]
@@ -175,13 +175,13 @@ spokentexts_a06_frachtraum_seq_a06_frachtraum_oehi_kommt_nach_vorne_st_1;Ça ser
 texts_a06_frachtraum_schaufel_mo_ex_1;Utiliser la pelle
 spokentexts_a06_frachtraum_schaufel_ex_1_st_1_direction;Non, ça ne marchera pas
 spokentexts_a06_frachtraum_schaufel_ex_1_st_1;Mmm. Hm-hm-hmm !
-texts_a06_frachtraum_versteck_flacheisen_mo_use_1;Utiliser le fer à repasser avec...
+texts_a06_frachtraum_versteck_flacheisen_mo_use_1;Utiliser le fer plat avec...
 spokentexts_a06_frachtraum_versteck_flacheisen_ex_1_st_1_direction;"gagged, ""A flat iron. Maybe a hinge"""
 spokentexts_a06_frachtraum_versteck_flacheisen_ex_1_st_1;Hm-hmhmm. Hm-hm hm hmm ?
 sequences_a06_frachtraum_versteck_flacheisen_use_mit_1#1;[As soon as you click on the flat iron, it sticks to the cursor and can be used with another object in the scene.]
 texts_a06_frachtraum_versteck_kiste_mo_use_1;Ouvrir la caisse
 texts_a06_frachtraum_versteck_kiste_mo_use_2;Couper les chaînes à la scie
-texts_a06_frachtraum_versteck_kiste_mo_used_mit_flacheisen;Ouvrir la caisse avec fer à repasser
+texts_a06_frachtraum_versteck_kiste_mo_used_mit_flacheisen;Ouvrir la caisse avec le fer plat
 spokentexts_a06_frachtraum_versteck_kiste_ex_1_st_1_direction;gagged, 'a box'
 spokentexts_a06_frachtraum_versteck_kiste_ex_1_st_1;Hm hmm.
 sequences_a06_frachtraum_versteck_kiste_use_1#1;[Ohi tries to open the box somehow with the feet, but he can't. Box is locked.]
@@ -261,7 +261,7 @@ sequences_a06_frachtraum_versteck_seq_a06_frachtraum_versteck_schuss#2;[Cut back
 sequences_a06_frachtraum_versteck_seq_a06_frachtraum_versteck_schuss#3;[Ohi sits bound and gagged on a chair. He looks around, then hears something and then listens intently (upper body forward, trying to see something). (Idle).]
 sequences_a06_frachtraum_versteck_seq_a06_frachtraum_versteck_schuss#4;[We hear steps and a man that takes something from of a box (the tape recorder). Then the steps begins to go up the stairs.]
 texts_a06_nebendeck_ausgang_oberdeck_mo_leave_1;Aller sur le pont supérieur
-spokentexts_a06_nebendeck_ausgang_oberdeck_leave_1_st_1;Je pense qu'il est venu de là-haut.
+spokentexts_a06_nebendeck_ausgang_oberdeck_leave_1_st_1;Je crois que ça venait de là-haut.
 sequences_a06_nebendeck_ausgang_oberdeck_leave_1#2;[Ohi and the doctor begin to climb the stairs.]
 texts_a06_nebendeck_ausgang_treppensaal_mo_leave_1;Retour
 spokentexts_a06_nebendeck_ausgang_treppensaal_leave_1_st_1;Il sera toujours temps de se reposer plus tard !
@@ -292,7 +292,7 @@ sequences_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig#0;[Ohi goes the ra
 sequences_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig#1;[The doctor comes in, goes to Ohi.]
 spokentexts_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig_st_1_direction;bewildered
 spokentexts_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig_st_1;Vous allez bien ?
-spokentexts_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig_st_2;Maybe you'd better take a rest, in case the blow was more severe...
+spokentexts_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig_st_2;Peut-être que vous feriez mieux de prendre un repos, dans le cas où le coup serait plus sévère...
 spokentexts_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig_st_4_direction;far away
 spokentexts_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig_st_4;ZELLNER ! Ici !
 sequences_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig#6;"[Ohi makes a powerless ""Leave me alone / Is already"" gesture and gets up right again.]"
@@ -328,7 +328,7 @@ sequences_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitae
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_8_direction;drunk
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_8;Je contrôle la situation, je peux me débrouiller
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_9_direction;drunk
-spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_9;Tell James he absolutely must wake me at a quarter to ten.
+spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_9;Dites à James qu'il doit absolument me réveiller à vingt deux heures moins le quart.
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_10;Certainement, madame.
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_11_direction;drunk
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_11;Absolument !
@@ -378,7 +378,7 @@ sequences_a06_treppensaal_seq_a06_treppensaal_rabenjagd_erstmalig#9;[The doctor 
 sequences_a06_treppensaal_seq_wachmann_klopft_an_tuer_bg#0;[The guard knocked hard against the door of the Baroness.]
 spokentexts_a06_treppensaal_seq_wachmann_klopft_an_tuer_bg_st_1;Baronne von Trebitz ?
 sequences_a06_treppensaal_seq_wachmann_klopft_an_tuer_bg#2;[The guard slams his fist against the door of the Baroness.]
-spokentexts_a06_treppensaal_seq_wachmann_klopft_an_tuer_bg_st_2;Bonjour ? Baronne von Trebitz ! Ouvrez la porte !
+spokentexts_a06_treppensaal_seq_wachmann_klopft_an_tuer_bg_st_2;Répondez ! Baronne von Trebitz ! Ouvrez la porte !
 sequences_a06_treppensaal_seq_wachmann_klopft_an_tuer_bg#4;[The guard tries to open the door, press his shoulder against it, but the door remain closed.]
 texts_a06_vorderdeck_ausgang_nebendeck_mo_leave_1;Revenir au pont-promenade
 sequences_a06_vorderdeck_ausgang_nebendeck_leave_1#1;[Ohi and the doctor goes back to the side deck.]
@@ -392,8 +392,8 @@ spokentexts_a06_vorderdeck_seq_a06_vorderdeck_gespraech_ende_st_2_direction;angr
 spokentexts_a06_vorderdeck_seq_a06_vorderdeck_gespraech_ende_st_2;J'aurais imaginé quelque chose de moins douloureux !
 spokentexts_a06_vorderdeck_seq_a06_vorderdeck_gespraech_ende_st_6;Hmm. C'est vrai et c'est plutôt vilain.
 sequences_a06_vorderdeck_seq_a06_vorderdeck_gespraech_ende#7;[Ohi turns back.]
-spokentexts_a06_vorderdeck_seq_a06_vorderdeck_gespraech_ende_st_5;Vous voyez ? Il y a une balle coincée dans une caisse en bois là-bas, et je n'ai pas d'arme !
-spokentexts_a06_vorderdeck_seq_a06_vorderdeck_gespraech_ende_st_7;Le docteur devrait jeter un coup d'oeil dessus.
+spokentexts_a06_vorderdeck_seq_a06_vorderdeck_gespraech_ende_st_5;Vous voyez ? Il y a une balle coincée dans une caisse en bois en bas et je n'ai pas d'arme !
+spokentexts_a06_vorderdeck_seq_a06_vorderdeck_gespraech_ende_st_7;Le docteur devrait y jeter un coup d'oeil.
 spokentexts_a06_vorderdeck_seq_a06_vorderdeck_gespraech_ende_st_8;Venez avec moi.
 sequences_a06_vorderdeck_seq_a06_vorderdeck_gespraech_ende#10;[Ohi and the investigator left the foredeck toward side deck.]
 sequences_a06_vorderdeck_seq_a06_vorderdeck_oehi_wird_erwischt#0;[Shot close to the door to the cargo room.]
@@ -488,7 +488,7 @@ spokentexts_a06_salon_seq_a06_salon_oehi_ist_in_ordnung_st_4;Vous avez juste bes
 sequences_a06_salon_seq_a06_salon_oehi_ist_in_ordnung#4;[Ohi throws his feets off the couch, sits down.]
 spokentexts_a06_salon_seq_a06_salon_oehi_ist_in_ordnung_st_5;Merci.
 sequences_a06_salon_seq_a06_salon_oehi_ist_in_ordnung#6;[The captain comes to Ohi, gives him champagne.]
-spokentexts_a06_salon_seq_a06_salon_oehi_ist_in_ordnung_st_6;C'est une assez bonne nouvelle a fêter !
+spokentexts_a06_salon_seq_a06_salon_oehi_ist_in_ordnung_st_6;C'est une assez bonne nouvelle qui mérite d'être fêtée !
 spokentexts_a06_salon_seq_a06_salon_oehi_ist_in_ordnung_st_7;Assez parlé d'escrocs et de voleurs ! A partir de maintenant vous pouvez commencer à profiter de votre croisière gratuite.
 sequences_a06_salon_seq_a06_salon_oehi_ist_in_ordnung#9;[Shot on Ohi.]
 sequences_a06_salon_seq_a06_salon_oehi_ist_in_ordnung#10;[Ohi forces a smile, raises his glass to the captain and takes a sip. He almost choked when the guard comes rushing in. Then he looks at the guard with the glass in his hand(idle).]
