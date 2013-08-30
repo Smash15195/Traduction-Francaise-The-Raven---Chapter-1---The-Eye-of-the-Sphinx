@@ -37,7 +37,7 @@ spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_5;Il
 spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_6_direction;curious, incredulous
 spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_6;Il y a eu une effraction dans votre musée et cela ne vous concerne pas ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_7_direction;trying, nervously
-spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_7;Eh bien... C'est simplement que tout ce qui ne s'est pas produit il y a 2000 ne me concerne pas. Hé hé.
+spokentexts_a01_archaeologe_top_a01_archaeologe_einbruch_im_mueseum_tseq_st_7;Eh bien... C'est simplement que tout ce qui ne s'est pas produit il y a 2000 ans me concerne peu. Hé hé.
 texts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_title;Inspecteur Legrand
 spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_1;Peu importe.
 spokentexts_a01_archaeologe_top_a01_archaeologe_ermittler_tseq_st_2;Un instant, s'il vous plait.
@@ -88,7 +88,7 @@ spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilun
 spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_2;Vous êtes responsable du département égyptien du British Museum.
 spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_3;Et vous voulez me dire que le cambriolage n'avait pas d'importance pour vous ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_4_direction;gives up
-spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_4;D'accord !.
+spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_4;D'accord !
 spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_5;Le cambriolage a été bouleversant et choquant... Et je ne savais pas quoi faire, c'est bon ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_6;Et vous ne pouviez pas juste me le dire ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_leiter_der_aegyptischen_abteilung_tseq_st_7;Moins les gens en savent à ce sujet, mieux c'est.
@@ -102,7 +102,7 @@ spokentexts_a01_archaeologe_top_a01_archaeologe_reise_nach_aegypten_tseq_st_3;Je
 spokentexts_a01_archaeologe_top_a01_archaeologe_reise_nach_aegypten_tseq_st_4;Mais plus vous me mentez, plus difficile vous me rendez la tâche.
 texts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_title;Rien vu de suspect ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_1;Une dernière chose...
-spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_2;Avez-vous quelque chose d'inhabituel dans le train ?
+spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_2;Avez-vous vu quelque chose d'inhabituel dans le train ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_3_direction;nervously
 spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_3;Ici ? Dans ce train ?
 spokentexts_a01_archaeologe_top_a01_archaeologe_verdaechtiges_beobachtet_tseq_st_4;Non. Je pourrais pas le dire.
@@ -232,7 +232,7 @@ spokentexts_arzt_top_a01_arzt_was_befindet_sich_in_der_kassette_tseq_st_7;C'est 
 texts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_title;Cambriolage de Londres
 spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_1;Des nouvelles au sujet du vol à Londres ?
 sequences_arzt_top_a01_arzt_was_neues_zum_raub_tseq#1;[Ohi points at the newspaper.]
-spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_2;Pas grand chose, n'est-ce pas?
+spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_2;Pas grand chose, n'est-ce pas ?
 spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_3;Ce doit être des professionnels. La façon dont ils ont désactivés un des meilleurs systèmes de sécurité du monde... C'est impressionnant.
 spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_4_direction;slightly reproachfully
 spokentexts_arzt_top_a01_arzt_was_neues_zum_raub_tseq_st_4;Des gens ont été blessées !
@@ -328,7 +328,7 @@ texts_butler_mo_talk_mit_1-2;Parler au majordome
 texts_butler_top_a01_butler_andere_mitreisende_tseq_title;Autres passagers
 spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_1;Puis-je vous poser quelques questions au sujet de vos compagnons de voyage...
 spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_2_direction;loud on the background
-spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_2;Je pensais qu'il était à la recherche pour mon sac !
+spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_2;Je pensais qu'il était à la recherche de mon sac !
 spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_3_direction;quietly, to Butler
 spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_3;James ! Dites-lui de chercher mon sac.
 spokentexts_butler_top_a01_butler_andere_mitreisende_tseq_st_4;La Baronne souhaiterait que vous recherchiez son sac à main.
@@ -389,12 +389,12 @@ texts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_title;James est son vr
 spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_1;Pardonnerez une question plutôt étrange...
 spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_2;"Vous vous appelez vraiment ""James"" ?"
 spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_3;Ce serait une heureuse coïncidence pour votre métier.
-spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_4;Mon nom, monsieur, est Clive Alfred Pouces.
+spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_4;Mon nom, monsieur, est Clive Alfred Inch.
 spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_5_direction;irritated
 spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_5;"Votre deuxième prénom est ""Alfred"" et la Baronne vous appelle ""James""?"
 spokentexts_butler_top_a01_butler_heisst_er_wirklich_james_tseq_st_6;"Madame considère ""James"" comme le seul prénom digne d'un majordome. Monsieur."
 texts_butler_top_a01_butler_verabschieden_tseq_title;Dire au revoir
-spokentexts_butler_top_a01_butler_verabschieden_tseq_st_1;Je, Euhh, je jetterai un coup d'oeil.
+spokentexts_butler_top_a01_butler_verabschieden_tseq_st_1;Je, euhh, je jetterai un coup d'oeil.
 spokentexts_butler_top_a01_butler_verabschieden_tseq_st_2;Merci, monsieur.
 sequences_butler_top_a01_butler_verabschieden_tseq#2;[Ohi takes a step back.]
 sequences_butler_top_a01_butler_verabschieden_tseq#3;[The Butler closes the door.]
@@ -460,7 +460,7 @@ spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_2;Alors j'avais raison !
 spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_3;Vous voulez vraiment attirer quelqu'un dans un piège !
 spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_4;Ce ne sont pas vos affaires !
 sequences_ermittler_top_a01_ermittler_falle_tseq#6;[The investigator rise a hand and brings the guard so to silence.]
-spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_5;Peut-être que quelqu'un a sévi récemment à Londres?
+spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_5;Peut-être que quelqu'un a sévi récemment à Londres ?
 spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_6;Et comment pourrais-je l'appâter dans mon piège, alors ?
 spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_7;Avec un Oeil ?
 spokentexts_ermittler_top_a01_ermittler_falle_tseq_st_8;Un oeil en route de Zurich pour le Caire ?
@@ -491,7 +491,7 @@ spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_15;Et
 spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_16;Il semblait avoir trouvé ce qu'il cherchait.
 spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_17_direction;half to himself
 spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_17;Bien.
-spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_18;Jolie travail !
+spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_18;Joli travail !
 spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_geloest_tseq_st_19;Maintenant, peut-être que vous pourriez me donner quelques informations ?
 texts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_title;Compartiment de l'archéologue
 spokentexts_ermittler_top_a01_ermittler_kabine_archaeologe_tseq_st_4;Eh bien... Il semble que quelqu'un l'ai enfermé hors de son compartiment.
@@ -578,7 +578,7 @@ spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_14;Il est très 
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_15;Vraiment ! Et aussi très sensible.
 sequences_geiger_top_a01_geiger_brieftasche_gesehen02_tseq#17;[Ohi looks around.]
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_16_direction;blankly
-spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_16;Qu'est-ce qui pourrait lui nuire ici ? La lumière? L'air ?
+spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_16;Qu'est-ce qui pourrait lui nuire ici ? La lumière ? L'air ?
 sequences_geiger_top_a01_geiger_brieftasche_gesehen02_tseq#19;[The Geiger does not know what to say.]
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_17_direction;sternly
 spokentexts_geiger_top_a01_geiger_brieftasche_gesehen02_tseq_st_17;Puis-je vous demander d'ouvrir l'étui à violon ?
@@ -627,7 +627,7 @@ spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_6_direction;excited
 spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_6;Le Caire !
 spokentexts_geiger_top_a01_geiger_wohin_reist_er_tseq_st_7;Je joue pendant une réception au Musée égyptien.
 spokentexts_geiger_ex_1_st_1;Le violoniste est un gentil garçon. Il voyage à travers les plus beaux paysages de montagne du monde.
-spokentexts_geiger_ex_1_st_2;Mais on peut espérer que son violon est sonne mieux que lui.
+spokentexts_geiger_ex_1_st_2;Mais on peut espérer que son violon sonne mieux que lui.
 spokentexts_geiger_ex_2_st_1;Il pourrait y avoir plusieurs raisons à propos des mains tremblantes du violoniste. Des nerfs à rude épreuve, une maladie...
 spokentexts_geiger_ex_2_st_2;Je parie sur l'alcool. Il ne serait pas le premier musicien a ruiner sa carrière de cette façon.
 spokentexts_geiger_ex_3_st_1;Matt dit que le violoniste a mis quelque chose dans son étui à violon sur le quai. Ça semble un peu suspect.
@@ -708,7 +708,7 @@ spokentexts_junge_top_a01_junge_machs_gut_tseq_st_1;Je viens de me rappeler, qu'
 spokentexts_junge_top_a01_junge_machs_gut_tseq_st_3_direction;bold
 spokentexts_junge_top_a01_junge_machs_gut_tseq_st_3;Cela arrive à votre âge !
 spokentexts_junge_top_a01_junge_machs_gut_tseq_st_4;À bientôt !
-spokentexts_junge_top_a01_junge_machs_gut_tseq_st_5;À la revoyure !
+spokentexts_junge_top_a01_junge_machs_gut_tseq_st_5;À plus tard !
 texts_junge_top_a01_junge_steward_tseq_title;Steward
 spokentexts_junge_top_a01_junge_steward_tseq_st_1;Dites-moi, avez-vous vu l'intendant n'importe où?
 spokentexts_junge_top_a01_junge_steward_tseq_st_2;Hmm. Nan. Il se promenait un peu tout à l'heure.
@@ -719,7 +719,7 @@ spokentexts_junge_top_a01_junge_steward_tseq_st_6;Je suis à la recherche d'une 
 spokentexts_junge_top_a01_junge_steward_tseq_st_7;Vous avez vérifié les babioles derrière le comptoir ?
 spokentexts_junge_top_a01_junge_steward_tseq_st_8;Je l'ai fait. Mais le tiroir le plus prometteur a été verrouillé.
 spokentexts_junge_top_a01_junge_steward_tseq_st_9;Je suis sûr que les tiroirs seront verrouillés.
-spokentexts_junge_top_a01_junge_steward_tseq_st_10;Vous ne pouvez pas le briser pou l'ouvrir ? Ou le crocheter - comme le Corbeau !
+spokentexts_junge_top_a01_junge_steward_tseq_st_10;Vous ne pouvez pas le briser pour l'ouvrir ? Ou le crocheter - comme le Corbeau !
 spokentexts_junge_top_a01_junge_steward_tseq_st_11;Peut-être. Mais j'ai besoin d'un morceau de câble ou quelque chose du genre.
 spokentexts_junge_top_a01_junge_steward_tseq_st_12;Demandez à ma mère !
 spokentexts_junge_top_a01_junge_steward_tseq_st_13;Elle a des épingles à cheveux. Elle n'aime pas que le vent la décoiffe.
@@ -754,7 +754,7 @@ spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_16;Mais mainte
 sequences_junge_top_a01_junge_verschwundene_brieftasche_tseq#21;[Ohi looks around again, looks back at the boy.]
 spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_17;Je devrais regarder dedans alors, non ?
 spokentexts_junge_top_a01_junge_verschwundene_brieftasche_tseq_st_18;Je crois bien.
-texts_junge_top_a01_junge_was_will_er_mal_werden_tseq_title;Plans du garçon
+texts_junge_top_a01_junge_was_will_er_mal_werden_tseq_title;Fera quoi adulte
 spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_1_direction;affected
 spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_1;Oh. Et, euh, tu as quel âge ?
 spokentexts_junge_top_a01_junge_was_will_er_mal_werden_tseq_st_2;Quel âge tu as, Matt ?
@@ -836,7 +836,7 @@ spokentexts_junge_talk_mit_1_st_6;Oh, bon sang !
 spokentexts_junge_talk_mit_1_st_7;Vous pouviez pas juste me jeter dans un tas de braises ?
 spokentexts_junge_talk_mit_1_st_8;Tu en aurais retiré quelque chose ?
 spokentexts_junge_talk_mit_1_st_9_direction;defiantly
-spokentexts_junge_talk_mit_1_st_9;J'en ai rien retiré de cette manière non plus !
+spokentexts_junge_talk_mit_1_st_9;J'en retire rien maintenant non plus !
 sequences_junge_talk_mit_1#12;[The boy turns back.]
 spokentexts_junge_talk_mit_2_st_1;Allez, Matt !
 sequences_junge_talk_mit_2#2;[The boy is not responding.]
@@ -942,7 +942,7 @@ spokentexts_pflegerin_talk_mit_2_st_1;Je pense que c'est inconfortable pour elle
 spokentexts_pflegerin_talk_mit_2_st_2;Elle n'arrête pas de tricoter. Un métier typique des femmes à qui ont dit petites filles que l'oisiveté est un péché.
 texts_schriftstellerin_mo_ex_1;Observer Lady Clarissa Westmacott
 texts_schriftstellerin_mo_talk_mit_1__2;Parler à Lady Clarissa Westmacott
-texts_schriftstellerin_mo_used_mit_krimi;Donnez le livre à Lady Westmacott
+texts_schriftstellerin_mo_used_mit_krimi;Donner le livre à Lady Westmacott
 texts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_title;Sac disparu
 spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_1;Il y a autre chose.
 spokentexts_schriftstellerin_top_a01_schriftstellerin_brieftasche_tseq_st_4;Je suis désolé, Officier Zellner. Comme vous le savez, je ne fait que dans l'assassinat, pas dans le cambriolage.
@@ -954,7 +954,7 @@ texts_schriftstellerin_top_a01_schriftstellerin_buch_signieren_tseq_title;Signer
 sequences_schriftstellerin_top_a01_schriftstellerin_buch_signieren_tseq#0;[See Sequence book signing]
 texts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_title;Dire au revoir
 texts_schriftstellerin_top_a01_schriftstellerin_goodbye_tseq_title;Dire au revoir
-spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_2;Je voudrais continuer à parler, mais devoir m'appelle.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_2;Je voudrais continuer à parler, mais le devoir m'appelle.
 spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_3;Vous avez raison.
 spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_4_direction;irritated
 spokentexts_schriftstellerin_top_a01_schriftstellerin_goodbye_erstmalig_tseq_st_4;Madame ?
@@ -1033,7 +1033,7 @@ spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_
 spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_4_direction;blankly
 spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_4;Madame ?
 spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_5;J'ai écrit depuis que j'étais une petite fille. C'est devenu mon travail...
-spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_6;Et maintenant, j'ai arrêté... Donc, ce doit être des vacances.
+spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_6;Et maintenant, j'ai arrêtée... Donc, ce doit être des vacances.
 spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_7_direction;shocked
 spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_7;Vous arrêtez l'écriture ? Impossible !
 spokentexts_schriftstellerin_top_a01_schriftstellerin_was_macht_sie_im_zug_tseq_st_9;J'ai tous vos livres ! Votre inspecteur Partout est mon personnage préféré !
@@ -1049,7 +1049,7 @@ spokentexts_schriftstellerin_top_a01_schriftstellerin_woran_arbeitet_sie_gerade_
 spokentexts_schriftstellerin_top_a01_schriftstellerin_woran_arbeitet_sie_gerade_tseq_st_5;Comme vous le savez, j'ai un penchant pour l'archéologie. J'ai financer quelques fouilles en Égypte.
 spokentexts_schriftstellerin_top_a01_schriftstellerin_woran_arbeitet_sie_gerade_tseq_st_7;Je me suis rendu en Égypte par bateau, jeune femme... Et maintenant je le fais à nouveau comme vieille dame.
 spokentexts_schriftstellerin_top_a01_schriftstellerin_woran_arbeitet_sie_gerade_tseq_st_10;je vois.
-spokentexts_schriftstellerin_ex_1_st_1;Une femme extraordinaire. Talentueuse, intellectuelle, extrêmement riche et l'écrivaine la plus couronné de succès de tous les temps.
+spokentexts_schriftstellerin_ex_1_st_1;Une femme extraordinaire. Talentueuse, intellectuelle, extrêmement riche et l'écrivaine la plus couronnée de succès de tous les temps.
 spokentexts_schriftstellerin_ex_1_st_2;Pourtant, ils disent qu'elle peut être difficile et qu'elle est plutôt malheureuse.
 spokentexts_schriftstellerin_talk_mit_1_st_1;Excusez-moi, Lady Westmacott ?
 spokentexts_schriftstellerin_talk_mit_1_st_2;Officer Zellner ! Comment puis-je vous aider ?
@@ -1089,7 +1089,7 @@ sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#9;[The guar
 sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#10;[Closeup on Ohi, which gets big eyes in surprise.]
 sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#11;[The investigator sets aside the feather, takes the letter out of the envelope, opens it and reads it.]
 spokentexts_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor_st_4_direction;reads
-spokentexts_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor_st_4;Mon cher Nico. Vous devriez jeter un oeil à cette boîte. R.
+spokentexts_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor_st_4;Mon cher Nico. Vous devriez jeter un oeil à cette cassette. R.
 spokentexts_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor_st_5_direction;softly, shaken
 spokentexts_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor_st_5;Qu'est-ce que ça veut dire ?
 sequences_transportwagon_seq_a01_transportwagon_brief_auf_dem_tresor#17;[The investigator stares stunned at the letter.]
@@ -1135,7 +1135,7 @@ spokentexts_transportwagon_seq_a01_transportwagon_stromausfall_und_vollbremsung_
 sequences_transportwagon_seq_a01_transportwagon_stromausfall_und_vollbremsung#6;[Before the investigator has lifted his flashlight the train makes an emergency stop, the three men jumbled mess, boxes are moving and some things break.]
 sequences_transportwagon_seq_bombe_nicht_geklickt#0;[The screen become blindingly white, in the background you can hear a sound of explosion]
 spokentexts_transportwagon_seq_a01_transportwagon_bombenfund_und_explosion_st_2_direction;call
-spokentexts_transportwagon_seq_a01_transportwagon_bombenfund_und_explosion_st_2;Emmenez-le !
+spokentexts_transportwagon_seq_a01_transportwagon_bombenfund_und_explosion_st_2;Jetez-la !
 sequences_transportwagon_seq_explosion#1;[Ohi pushes the solidified investigator aside takes up the cash box and throws it as far as possible to the other side the transport carriage, behind the crates. Even as he does so, responded the guard and begins to fall out of the wagon.]
 spokentexts_transportwagon_seq_a01_transportwagon_bombenfund_und_explosion_st_3_direction;call
 spokentexts_transportwagon_seq_a01_transportwagon_bombenfund_und_explosion_st_3;A couvert !
@@ -1228,7 +1228,7 @@ texts_a01_grossraumwagon_fenster_seq_choice_fenster_zu_machen_title;Fermer la fe
 spokentexts_a01_grossraumwagon_fenster_seq_choice_fenster_zu_machen_st_1;Je suis désolé, mon ami.
 sequences_a01_grossraumwagon_fenster_seq_choice_fenster_zu_machen#1;[Ohi closes the window.]
 spokentexts_a01_grossraumwagon_fenster_ex_1_st_1;Les Suisses sont fous de trains !
-spokentexts_a01_grossraumwagon_fenster_ex_1_st_2;Nous n'avons pas seulement beaucoup de chemins de fer, nous avons les plus beaux du le monde !
+spokentexts_a01_grossraumwagon_fenster_ex_1_st_2;Nous n'avons pas seulement beaucoup de chemins de fer, nous avons les plus beaux du monde !
 sequences_a01_grossraumwagon_fenster_use_1#1;[Ohi opens the window.]
 sequences_a01_grossraumwagon_fenster_use_1#2;[Cut to the Geiger.]
 sequences_a01_grossraumwagon_fenster_use_1#3;[The Geiger looks dreamily out the window. Suddenly something seems to bother him a bit. He looks around, then discovers Ohi at the window.]
@@ -1423,7 +1423,7 @@ sequences_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen#8;[Ohi
 spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_6;Quel est le problème, monsieur ?
 spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_7_direction;slightly panicked
 spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_7;La porte ! Je ne peux pas l'ouvrir !
-spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_8;Ah, nous allons voir pour remédier à ce problème.
+spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_8;Oh, voyons comment remédier à ce problème.
 sequences_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen#13;[Ohi goes to the archaeologists, pushes it gently to side.]
 sequences_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen#16;[Ohi tries to open the door, he can't. He kneels down, looking at the lock.]
 spokentexts_grossraumwagon_seq_grossraumwagon_archaeologe_tuer_verschlossen_st_11;Le compartiment est verrouillé !
@@ -1712,7 +1712,7 @@ sequences_a01_uebergang_werkzeugkasten_use_1#6;[Ohi terrified vastly and almost 
 spokentexts_a01_uebergang_werkzeugkasten_use_1_st_3_direction;keuchen
 spokentexts_a01_uebergang_werkzeugkasten_use_1_st_3;Fff-fff.
 spokentexts_a01_uebergang_werkzeugkasten_use_1_st_4;Bougez pas !
-spokentexts_a01_uebergang_werkzeugkasten_use_1_st_5;Matt! Tu es devenu fou ?
+spokentexts_a01_uebergang_werkzeugkasten_use_1_st_5;Matt ! Tu es devenu fou ?
 spokentexts_a01_uebergang_werkzeugkasten_use_1_st_6_direction;cheerful, threatening
 spokentexts_a01_uebergang_werkzeugkasten_use_1_st_6;Je vais tirer !
 sequences_a01_uebergang_werkzeugkasten_use_1#11;[Ohi is angry and picks the weapon from the boy, pulls it roughly out of his hands.]
@@ -1737,7 +1737,7 @@ spokentexts_a01_uebergang_werkzeugkasten_used_mit_haarnadel_1_st_1;Crocheter un 
 sequences_a01_uebergang_werkzeugkasten_used_mit_schluessel#1;[Ohi kneels down, takes the lock in his hand, then takes the key out of his pocket. He unlocks the lock, the lock flips up and hangs the opened lock then. He draws the key and put it back in his pocket.]
 spokentexts_a01_uebergang_werkzeugkasten_used_mit_schluessel_st_1;Voilà !
 sequences_a01_uebergang_werkzeugkasten_used_mit_schluessel#3;[Ohi grabs in the tool box and pulls out a pair of tongs. He looks at each other briefly.]
-spokentexts_a01_uebergang_werkzeugkasten_used_mit_schluessel_st_2;Voilà. Cela devrait aider.
+spokentexts_a01_uebergang_werkzeugkasten_used_mit_schluessel_st_2;Bien. Cela pourrait être utile.
 sequences_a01_uebergang_werkzeugkasten_used_mit_schluessel#5;[Ohi closes the tool box and gets up with the tongs in his hand. Then he puts the tongs in his pocket.]
 texts_a01_uebergang_zange_mo_inventar_1;Pinces
 spokentexts_a01_uebergang_zange_ex_1_st_1;Mon grand-père était forgeron. Quand j'étais enfant, j'avais l'habitude de jouer avec des pinces et des marteaux dans son atelier.

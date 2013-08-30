@@ -167,7 +167,7 @@ sequences_a02_uebergang_seq_a02_uebergang_der_plan#30;[Ohi nods. The investigato
 spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_19;Vous devez découpler le wagon, vous comprenez ?
 sequences_a02_uebergang_seq_a02_uebergang_der_plan#32;[Ohi nods, coughs in his right fist.]
 spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_20_direction;cough
-spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_20;Erk! Je comprends.
+spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_20;Ahh ! Je comprends.
 spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_21;Je vais voir les passagers. Ils doivent tous attendre dans le tunnel. Nous allons vérifier qu'il sont tous sorti.
 sequences_a02_uebergang_seq_a02_uebergang_der_plan#35;"[Ohi makes an ""all clear, go away"" movement, pulls together and then is back to normal. The investigators nods approvingly.]"
 spokentexts_a02_uebergang_seq_a02_uebergang_der_plan_st_22;Au boulot.
@@ -254,7 +254,7 @@ spokentexts_a02_salonwagen_bonbonschale_ex_1_st_1;Beaucoup de chose ont été en
 spokentexts_a02_salonwagen_bonbonschale_ex_1_st_2;Mais le bol était assez résistant pour survivre à la chute.
 sequences_a02_salonwagen_bonbonschale_ex_1#4;[Ohi gets up and place the dish back casually on the counter.]
 spokentexts_a02_salonwagen_bonbonschale_ex_2_st_1;Les derniers bonbons ont disparu. Comparer à un wagon explosé, je pense que les chemins de fer arriveront à se faire à cette perte.
-spokentexts_a02_salonwagen_bonbonschale_ex_3_st_1;J'ai rempli le bol environ un tiers de rhum.
+spokentexts_a02_salonwagen_bonbonschale_ex_3_st_1;J'ai rempli le bol avec environ un tiers de rhum.
 spokentexts_a02_salonwagen_bonbonschale_ex_3_st_2_direction;sniffs
 spokentexts_a02_salonwagen_bonbonschale_ex_3_st_2;*sniff*
 spokentexts_a02_salonwagen_bonbonschale_ex_3_st_3;Ouahou ! Il est fort.
@@ -344,7 +344,7 @@ spokentexts_a02_salonwagen_rum_used_mit_streichhoelzer_1_st_1;Je m'attends à ce
 texts_a02_salonwagen_streichhoelzer_mo_ex_2;Allumettes
 texts_a02_salonwagen_streichhoelzer_mo_inventar_1__3-5;Allumer une allumette
 texts_a02_salonwagen_streichhoelzer_mo_inventar_2;Allumer la torche
-spokentexts_a02_salonwagen_streichhoelzer_ex_1_st_1;Des allumette et la moitié du livre pour obtenir une flamme.
+spokentexts_a02_salonwagen_streichhoelzer_ex_1_st_1;Une moitié de boite d'allumette parfait pour obtenir une flamme.
 spokentexts_a02_salonwagen_streichhoelzer_ex_2_st_1;"""Allumettes Sterntaler"". Probablement allemande. Je les rendrais au Dr Gebhardt dès que nous sortirons d'ici."
 sequences_a02_salonwagen_streichhoelzer_use_1#1;[Ohi takes out a match, lights it and keeps it to himself.]
 sequences_a02_salonwagen_streichhoelzer_use_2#1;"[Acts as a ""used with torch"", see below.]"

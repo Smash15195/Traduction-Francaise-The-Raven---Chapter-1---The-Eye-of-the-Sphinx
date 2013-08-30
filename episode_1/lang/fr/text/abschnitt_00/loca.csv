@@ -32,7 +32,7 @@ spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_edelstein_tseq_st_1;Se
 spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_edelstein_tseq_st_2;Vous ne faites que deviner. Vous ne pouvez pas savoir ce qu'il y a dans ce coffre-fort.
 spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_edelstein_tseq_st_3;Mais si c'était le cas ?
 spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_edelstein_tseq_st_4;Alors je vous demanderez pourquoi le train ne grouille pas de policiers...
-texts_ermittler_top_a00_ermittler_fragespiel_runde2_etwas_wichtiges_tseq_title;Peu importe ce qui est à l'intérieur du coffre-fort
+texts_ermittler_top_a00_ermittler_fragespiel_runde2_etwas_wichtiges_tseq_title;Qu'importe ce que contient le coffre-fort
 spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_etwas_wichtiges_tseq_st_1;Je ne pourrais pas vraiment pas le dire. Mais ça doit être très important.
 spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_etwas_wichtiges_tseq_st_2;Pourquoi ça ?
 spokentexts_ermittler_top_a00_ermittler_fragespiel_runde2_etwas_wichtiges_tseq_st_3;Parce que VOUS êtes important. Ils ne vous auraient pas attribué l'affaire si c'était juste une bagatelle.
@@ -54,7 +54,7 @@ spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_keine_aufmerksamkeit_t
 spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_keine_aufmerksamkeit_tseq_st_2_direction;little impatient
 spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_keine_aufmerksamkeit_tseq_st_2;Evident. Mais pourquoi pas ?
 texts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_title;Plus les hommes serait inutile
-spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_st_1;Il y a assez de policiers dans ce train comme ça. S'il y avait plus ils ne feraient que se gêner les uns les autres.
+spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_st_1;Il y a assez de policiers dans ce train comme ça. S'il y en avait plus ils ne feraient que se gêner les uns les autres.
 spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_st_2_direction;seriously
 spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_st_2;Je peux vous assurer que je bouclerais chaque siège dans toutes les voitures de ce train avec des policiers s'il s'agissait d'une question de dissuasion.
 spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_st_3_direction;uncomprehendingly
@@ -166,7 +166,7 @@ spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_2;Vous pa
 spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_3_direction;eagerly
 spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_3;Zellner, Monsieur. Anton Jakob Zellner.
 sequences_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler#6;[The inspector looks at the boy.]
-spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_4;Ou... Vous a-t-il pointé un arme sur vous ?
+spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_4;Vous a-t-il pointé un arme dessus ?
 spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_5_direction;embarrassed
 spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_5;Non, Monsieur.
 spokentexts_grossraumwagon_seq_grossraumwagon_einfuehrung_ermittler_st_6_direction;at the Boy
@@ -193,7 +193,7 @@ spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_7_direction;
 spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_7;Et c'est exactement ce que je vais faire peut importe que cela vous plaise ou non !
 spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_10;Pas brillant, mais tenace.
 spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_16;Hmm. Intelligent et tenace.
-spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_11;Votre engagement en dit long, Zellner.
+spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_11;Votre dévouement en dit long, Zellner.
 spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_12;Mais c'est mon affaire et je n'ai pas besoin de vous. Bon voyage ! 
 spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_13_direction;wants to protest
 spokentexts_grossraumwagon_seq_grossraumwagon_fragespiel_beendet_st_13;Mais... Comment pouvez-vous le savoir ?
@@ -329,7 +329,7 @@ spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_4;Harold ?
 sequences_a00_startintro_seq_a00_startintro_teil_4#10;[Because still is no reaction, stands guard on the cautious and turns on a flashlight. With the other hand on the gun he goes into a dark corridor.]
 sequences_a00_startintro_seq_a00_startintro_teil_4#11;[Cut. Deeper in the corridor (the guard has been a fair bit away from his table). Big Ben in the background is heard. Two clock in the morning.]
 spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_5_direction;chuchotement, un peu anxieux
-spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_5;Harold ! Tu m'écoutes ? C'-c'est pas le moment pour jouer a faire des blagues !
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_5;Harold ! Tu m'écoutes ? C'-c'est pas le moment pour jouer à faire des blagues !
 sequences_a00_startintro_seq_a00_startintro_teil_4#13;[The guard goes to a larger showroom. In the middle is a display case with the eye of the Sphinx. The guard scans the room, stands close to a wall.]
 sequences_a00_startintro_seq_a00_startintro_teil_4#14;[Blurred in the background you can see how is passing a figure.]
 sequences_a00_startintro_seq_a00_startintro_teil_4#15;[The Intro_Guard turns, lights in the hallway, but the figure is gone.]
