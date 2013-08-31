@@ -13,7 +13,7 @@ characters_schriftstellerin;Schriftstellerin
 characters_wachmann;Wachmann
 texts_a07__kabine_ermittler_bettzeug_mo_ex_1;Examiner la literie
 spokentexts_a07__kabine_ermittler_bettzeug_ex_1_st_1;Parfaitement pliée et inutilisée.
-spokentexts_a07__kabine_ermittler_bettzeug_ex_1_st_2;Legrand n' apas dormi depuis notre départ, ni à bord du train.
+spokentexts_a07__kabine_ermittler_bettzeug_ex_1_st_2;Legrand n'a pas dormi depuis notre départ, ni à bord du train.
 texts_a07_kabine_ermittler_alarmmelder_mo_ex_1;Examiner l'alarme
 spokentexts_a07_kabine_baronin_alarmmelder_ex_1_st_1;Voilà une des alarmes...
 spokentexts_a07_kabine_baronin_alarmmelder_ex_1_st_2;Une autre alarme...
@@ -29,10 +29,10 @@ spokentexts_a07_kabine_ermittler_badezimmer_ex_2_st_2;Pourquoi en fait-il autant
 texts_a07_kabine_ermittler_baronin_patrone_mo_ex_1;Examiner le sachet
 texts_a07_kabine_ermittler_baronin_patrone_mo_inventar_2-4;Balle de Luger
 texts_a07_kabine_ermittler_baronin_patrone_mo_take_1;Prendre la balle
-spokentexts_a07_kabine_ermittler_baronin_patrone_ex_1_st_1;Aha ! Voilà la balle que le docteur a extrait du corps de la baronne.
+spokentexts_a07_kabine_ermittler_baronin_patrone_ex_1_st_1;Aha ! Voilà la balle que le docteur a extrait du corps de la Baronne.
 sequences_a07_kabine_ermittler_baronin_patrone_ex_1#2;[Ohi picks up the sachet, pockets it.]
-spokentexts_a07_kabine_ermittler_baronin_patrone_ex_2_st_1;Le docteur a extrait cette balle du coeur de la baronne. D'après Legrand elle provient d'une cartouche de Luger 7,65 mm.
-spokentexts_a07_kabine_ermittler_baronin_patrone_ex_3_st_1;La balle que le docteur a extrait du coeur de la baronne est identique à celle de la soute.
+spokentexts_a07_kabine_ermittler_baronin_patrone_ex_2_st_1;Le docteur a extrait cette balle du coeur de la Baronne. D'après Legrand elle provient d'une cartouche de Luger 7,65 mm.
+spokentexts_a07_kabine_ermittler_baronin_patrone_ex_3_st_1;La balle que le docteur a extrait du coeur de la Baronne est identique à celle de la soute.
 spokentexts_a07_frachtraum_patrone_ex_2_st_2;Le meurtrier a donc aussi tiré dans la soute... Mais pourquoi ?
 spokentexts_a07_frachtraum_patrone_ex_3_st_1;Le meurtrier a enregistré le coup de feu dans la soute sur un bande audio.
 spokentexts_a07_frachtraum_patrone_ex_3_st_2;C'est ce coup de feu que nous avons entendu hier soir !
@@ -43,9 +43,9 @@ spokentexts_a07_kabine_ermittler_belichtungsapparat_ex_1_st_2;Il semble paré à
 texts_a07_kabine_ermittler_briefchen_mo_inventar_1;Sachet
 texts_a07_kabine_ermittler_briefchen_mo_inventar_2;Plumes de duvet
 spokentexts_a07_kabine_ermittler_briefchen_ex_1_st_1;Ces petits sachets contiennent les indices que j'ai récupéré, en tout cas ceux qui rentrent dans des petits sachets !
-spokentexts_a07_kabine_ermittler_briefchen_ex_2_st_1;L'extrémité d'une des plumes de duvet que j'ai trouvé sous le lit de la baronne est brûlée.
+spokentexts_a07_kabine_ermittler_briefchen_ex_2_st_1;L'extrémité d'une des plumes de duvet que j'ai trouvé sous le lit de la Baronne est brûlée.
 spokentexts_a07_kabine_ermittler_briefchen_ex_3_st_1;Certaines plumes de duvet que j'ai trouvé dans le vase sont brûlées.
-spokentexts_a07_kabine_ermittler_briefchen_ex_4_st_1;Il y avait des plumes brûlées sous le lit de la baronne et dans un save près de la porte. Ce n'est pas une coïncidence !
+spokentexts_a07_kabine_ermittler_briefchen_ex_4_st_1;Il y avait des plumes brûlées sous le lit de la Baronne et dans un vase près de la porte. Ce n'est pas une coïncidence !
 texts_a07_kabine_ermittler_forensikkoffer_mo_ex_1-4;Examiner la boîte d'instruments médico-légaux
 texts_a07_kabine_ermittler_forensikkoffer_mo_used_mit_serviette_wattestaebchen;Analyser l'échantillon de sang
 spokentexts_a07_kabine_ermittler_forensikkoffer_ex_1_st_1;Une oeuvre d'art !
@@ -60,7 +60,7 @@ spokentexts_a07_kabine_ermittler_forensikkoffer_ex_4_st_3;Si le sang sur le couv
 sequences_a07_kabine_ermittler_forensikkoffer_used_mit_serviette_oder_wattestaebchen#1;[It switches to the close-up view of the forensic box.]
 texts_a07_kabine_ermittler_foto_bett_mo_ex_1;Regarder l'image
 spokentexts_a07_kabine_ermittler_foto_bett_ex_1_st_1;Hmm. Oui. Le lit, la tâche de sang...
-spokentexts_a07_kabine_ermittler_foto_bett_ex_1_st_2;La tâche sur le drap est plus grosse que cella sur le matelas.
+spokentexts_a07_kabine_ermittler_foto_bett_ex_1_st_2;La tâche sur le drap est plus grosse que celle sur le matelas.
 spokentexts_a07_kabine_ermittler_foto_bett_ex_1_st_3;Il y a aussi du sang sur la couverture. Pas mal de sang même.
 spokentexts_a07_kabine_ermittler_foto_bett_ex_2_st_1;Aucune trace de la couverture et des draps. Je suppose qu'ils sont à l'infirmerie.
 texts_a07_kabine_ermittler_foto_gesicht_mo_ex_1;Regarder la photo
@@ -77,7 +77,7 @@ sequences_a07_kabine_ermittler_fotos_ausgang_leave_1#1;[With a click you return 
 texts_a07_kabine_ermittler_fotos_mo_ex_1__2;Regarder les photos
 spokentexts_a07_kabine_ermittler_fotos_ex_1_st_1;Legrand a dû les prendre hier sur la scène du crime...
 texts_a07_kabine_ermittler_grundriss_schiff_mo_ex_1;Examiner le plan du bateau
-spokentexts_a07_kabine_ermittler_grundriss_schiff_ex_1_st_1;Une esquisse du navire. Legrand a marqué la cabine de la baronne.
+spokentexts_a07_kabine_ermittler_grundriss_schiff_ex_1_st_1;Une esquisse du navire. Legrand a marqué la cabine de la Baronne.
 spokentexts_a07_kabine_ermittler_grundriss_schiff_ex_1_st_2;Apparemment il n'a rien remarqué d'autre.
 texts_a07_kabine_ermittler_mikroskop_mo_ex_1-3__5;Examiner le microscope
 texts_a07_kabine_ermittler_mikroskop_mo_ex_4;Regarder à travers le microscope
@@ -100,7 +100,7 @@ spokentexts_a07_kabine_ermittler_mikroskop_ex_2_st_2;Et du coup, rien à observe
 sequences_a07_kabine_ermittler_mikroskop_ex_2#4;[Ohi stops to look into the microscope, stands there normal again.]
 spokentexts_a07_kabine_ermittler_mikroskop_ex_3_st_1;D'abord je dois mettre quelque chose sous le microscope.
 spokentexts_a07_kabine_ermittler_mikroskop_ex_5_st_1;Les deux balles viennent de la même arme.
-spokentexts_a07_kabine_ermittler_mikroskop_ex_5_st_2;Ce qui veut dire que celui qui a tiré sur la baronne était aussi dans la soute.
+spokentexts_a07_kabine_ermittler_mikroskop_ex_5_st_2;Ce qui veut dire que celui qui a tiré sur la Baronne était aussi dans la soute.
 spokentexts_a07_kabine_ermittler_mikroskop_ex_5_st_3;Cette information sera sans doute importante plus tard.
 spokentexts_a07_kabine_ermittler_mikroskop_used_mit_baronin_patrone_st_1;Très bien.
 sequences_a07_kabine_ermittler_mikroskop_used_mit_baronin_patrone#2;[Ohi takes out the cartridge, places it under the microscope.]
@@ -112,13 +112,13 @@ spokentexts_a07_kabine_ermittler_schreibtisch_akte_ex_1_st_2;Plusieurs centimèt
 spokentexts_a07_kabine_ermittler_schreibtisch_akte_ex_1_st_3;Notre homme est sans pitié... Un poseur de bombe et sans doute un meurtrier !
 spokentexts_a07_kabine_ermittler_schreibtisch_akte_ex_2_st_1;Ce dossier devrait être dans un musée. C'est de l'histoire ancienne.
 spokentexts_a07_kabine_ermittler_schreibtisch_akte_ex_2_st_2;L'inspecteur ferait mieux de se concentrer sur le présent.
-texts_a07_kabine_ermittler_schreibtisch_aufputschmittel_mo_ex_1__2;Examiner la bouteille
-spokentexts_a07_kabine_ermittler_schreibtisch_aufputschmittel_ex_1_st_1;Hmm. Il n'y a rien d'écrit sur la bouteille.
+texts_a07_kabine_ermittler_schreibtisch_aufputschmittel_mo_ex_1__2;Examiner le flacon
+spokentexts_a07_kabine_ermittler_schreibtisch_aufputschmittel_ex_1_st_1;Hmm. Il n'y a rien d'écrit sur le flacon.
 spokentexts_a07_kabine_ermittler_schreibtisch_aufputschmittel_ex_1_st_2;J'imagine que c'est une sorte de stimulant, légal ou non.
 spokentexts_a07_kabine_ermittler_schreibtisch_aufputschmittel_ex_1_st_3;Legrand est debout depuis au moins trente heures, peut être même plus.
 spokentexts_a07_kabine_ermittler_schreibtisch_aufputschmittel_ex_2_st_1;Je n'ose pas imaginer les effets secondaires que ce truc doit provoquer.
 spokentexts_a07_kabine_ermittler_schreibtisch_aufputschmittel_ex_2_st_2;Un policier devrait être en pleine possession de ses moyens pour faire face à une enquête de meurtre.
-spokentexts_a07_kabine_ermittler_schreibtisch_aufputschmittel_ex_2_st_3;Le risque de rater des indices ou de mettre end anger sa vie et celle d'autrui est trop important.
+spokentexts_a07_kabine_ermittler_schreibtisch_aufputschmittel_ex_2_st_3;Le risque de rater des indices ou de mettre en danger sa vie et celle d'autrui est trop important.
 texts_a07_kabine_ermittler_schreibtisch_ausgang_mo_leave;Retour
 sequences_a07_kabine_ermittler_schreibtisch_ausgang_leave_1#1;[With a click you return to the cabin view]
 texts_a07_kabine_ermittler_schreibtisch_mo_betreten;Examiner le bureau
@@ -169,7 +169,7 @@ sequences_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmali
 spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_1_direction;busy
 spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_1;Ah ! Zellner.
 spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_2_direction;busy
-spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_2;Etes vous prêt ?
+spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_2;Êtes-vous prêt ?
 spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_3;Bonjour, Inspecteur Legrand !
 spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_4;J'ai encore mal au crâne, mais sinon ça va...
 spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_erstmalig_st_5;Hydrate de chloral.
@@ -200,7 +200,7 @@ spokentexts_a07_kabine_ermittler_seq_a07_kabine_ermittler_oehi_kommt_rein_kissen
 texts_a07__vorderdeck__meer_mo_ex_1;Regarder la mer
 spokentexts_a07__vorderdeck__meer_ex_1_st_1;L'air marin dans mes vieux poumons, le vent dans ce qui reste de mes cheveux...
 spokentexts_a07__vorderdeck__meer_ex_1_st_2;J'aurais pu être un marin si je n'étais pas devenu policier.
-texts_a07__vorderdeck__shuffleboard_equipment_mo_ex_10;Examiner le matériel du jeu de palets
+texts_a07__vorderdeck__shuffleboard_equipment_mo_ex_10;Examiner le terrain du jeu de palets
 spokentexts_a07__vorderdeck__shuffleboard_equipment_ex_1_st_1000;Je me demande si ce jeu est une variante de la pétanque.
 spokentexts_a07__vorderdeck__shuffleboard_equipment_ex_1_st_2;Son inventeur a peut être réalisé qu'il était impossible de jouer aux boules sur un bateau et a trouvé une alternative.
 texts_a07_vorderdeck_ausgang_nebendeck_mo_leave_1;Aller sur le pont-promenade
@@ -312,7 +312,7 @@ spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_8;Tu es sûr ?
 spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_9_direction;confidently
 spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_9;Dettes de jeu, dettes d'honneur.
 spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_10;Je te le rendrai quand je n'en aurai plus besoin, d'accord ?
-spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_11;Okay. Mais faites attention à ce que ma mère ne vous attrape avec. Elle dit que c'est dangereux.
+spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen_st_11;D'accord. Mais faites attention à ce que ma mère ne vous attrape avec. Elle dit que c'est dangereux.
 sequences_a07_vorderdeck_seq_a07_vorderdeck_spiel_gewonnen#12;[The Boy gives Ohi the slingshot, he looks at it, then he pockets it. Afterwards the boy continues with his game.]
 spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_verloren_st_1;Hmrrrr.
 spokentexts_a07_vorderdeck_seq_a07_vorderdeck_spiel_verloren_st_2;Encore une victoire !
@@ -368,7 +368,7 @@ spokentexts_a07_frachtraum_kiste_used_mit_draht_st_2;Il me faut un outil moins p
 spokentexts_a07_frachtraum_kiste_used_mit_eiswuerfelzange_st_1;Non. Le trou est trop petit pour utiliser la pince.
 sequences_a07_frachtraum_kiste_used_mit_schraubenzieher#1;[Ohi takes out the screw driver, sticks it into the hole and fiddles around with it.]
 spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_1_direction;angestrengt, konzentriert
-spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_1;Eh bein...
+spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_1;Eh bien...
 spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_2;J'ai l'impression que la balle est encore logée dans le bois.
 sequences_a07_frachtraum_kiste_used_mit_schraubenzieher#4;[Ohi could finally get out the projectile. He puts the screw driver away, stands up and while he is standing he holds the projectile in front of his eyes (Idle).]
 spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_3_direction;whistling
@@ -379,8 +379,8 @@ sequences_a07_frachtraum_kiste_used_mit_schraubenzieher#8;[Ohi puts the cartridg
 spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_6;Voulait-il simplement vérifier que leur vieux pistolet fonctionnait encore ou y avait-il une autre raison ?
 spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_7;Et la balle provient-elle vraiment de la même arme ?
 spokentexts_a07_frachtraum_kiste_used_mit_schraubenzieher_st_8;Je ne pourrai vérifier cela que dans la cabine de Legrand.
-texts_a07_frachtraum_kleidertruhe_mo_ex_1;Examiner le coffre
-spokentexts_a07_frachtraum_kleidertruhe_ex_1_st_1;Quelqu'un a remis le coffre sur l'étagère. Impossible de savoir si c'est l'oeuvre de notre jeune ami ou de quelqu'un d'autre.
+texts_a07_frachtraum_kleidertruhe_mo_ex_1;Examiner la malle
+spokentexts_a07_frachtraum_kleidertruhe_ex_1_st_1;Quelqu'un a remis la malle sous l'étagère. Impossible de savoir si c'est l'oeuvre de notre jeune ami ou de quelqu'un d'autre.
 spokentexts_a07_frachtraum_kleidertruhe_ex_2_st_1;Voyager ainsi doit être très inconfortable, même en étant aussi jeune et mince que notre invité dans sa cellule.
 texts_a07_frachtraum_offener_spint_mo_betachten_1__2;Examiner les casiers
 texts_a07_frachtraum_offener_spint_mo_use;Ouvrir le casier
@@ -392,17 +392,17 @@ sequences_a07_frachtraum_offener_spint_use_1#5;[Ohi sifts through the cupboard, 
 spokentexts_a07_frachtraum_offener_spint_use_1_st_4;Et ici...
 spokentexts_a07_frachtraum_offener_spint_use_1_st_5;Une vieille caisse à outils !
 texts_a07_frachtraum_patrone_mo_inventar_1-3;Balle de la soute
-spokentexts_a07_frachtraum_patrone_ex_1_st_1;La balle ressemble à celle que le docteur a extrait du corps de la baronne.
+spokentexts_a07_frachtraum_patrone_ex_1_st_1;La balle ressemble à celle que le docteur a extrait du corps de la Baronne.
 spokentexts_a07_frachtraum_patrone_ex_1_st_2;Mais je n'en serai certain qu'après l'avoir examiné avec le microscope dans la cabine de Legrand.
-spokentexts_a07_frachtraum_patrone_ex_2_st_1;La balle de la soute est identique à celle qui a tué la baronne.
+spokentexts_a07_frachtraum_patrone_ex_2_st_1;La balle de la soute est identique à celle qui a tué la Baronne.
 texts_a07_frachtraum_schraubenzieher_mo_inventar;Tournevis
 spokentexts_a07_unterdeck_kabine_ermittler_used_mit_schraubenzieher_st_1;La serrure est trop petite pour le tournevis.
-spokentexts_a07_unterdeck_kabine_ermittler_used_mit_schraubenzieher_st_2;Je ne veux pas casser la porte. Legrand le remarquerait immédiatement et j''aurai de la chance si il ne m'enfermait pas avec le clandestin.
+spokentexts_a07_unterdeck_kabine_ermittler_used_mit_schraubenzieher_st_2;Je ne veux pas casser la porte. Legrand le remarquerait immédiatement et j'aurai de la chance s'il ne m'enfermait pas avec le clandestin.
 texts_a07_unterdeck_kabine_ermittler_mo_used_mit_schraubenzieher;Casser la porte.
 spokentexts_a07_frachtraum_schraubenzieher_ex_1_st_1;Un tournevis ayant vécu provenant de la boîte à outils. Rien de particulier.
 texts_a07_frachtraum_werkzeugkiste_mo_betachten_1__2;Examiner la boîte à outils
 texts_a07_frachtraum_werkzeugkiste_mo_use;Fouiller la boîte à outils
-spokentexts_a07_frachtraum_werkzeugkiste_ex_1_st_1;Elle en a vu de belles. Peinture presque entièrement disparu, des bosses... et la couvercle est maintenu fermé grâce à un fil.
+spokentexts_a07_frachtraum_werkzeugkiste_ex_1_st_1;Elle en a vu de belles. Peinture presque entièrement disparu, des bosses... et le couvercle est maintenu fermé grâce à un fil.
 sequences_a07_frachtraum_werkzeugkiste_ex_1#2;[Ohi bends down, fiddles with the wire.]
 spokentexts_a07_frachtraum_werkzeugkiste_ex_1_st_2;Je vais le prendre avec moi.
 sequences_a07_frachtraum_werkzeugkiste_ex_1#4;[Ohi pockets the wire, opens the box and takes a look inside (Idle).]
@@ -416,7 +416,7 @@ sequences_a07_frachtraum_seq_a07_frachtraum_betreten#2;[The Arabian stands with 
 sequences_a07_frachtraum_seq_a07_frachtraum_betreten#3;[Ohi walks towards him.]
 sequences_a07_frachtraum_seq_a07_frachtraum_betreten#4;[The Arabian taps the fingers of his left hand on the poles several times. It looks like a nervous tic. Ohi notices it.]
 spokentexts_a07_frachtraum_seq_a07_frachtraum_betreten_st_1;Nerveux ?
-spokentexts_a07_frachtraum_seq_a07_frachtraum_betreten_st_2;Vous le seriez aussi si les rôles étaient inversés.
+spokentexts_a07_frachtraum_seq_a07_frachtraum_betreten_st_2;Je le serais aussi si les rôles étaient inversés.
 sequences_a07_frachtraum_seq_a07_frachtraum_betreten#7;[Cut to the total.]
 sequences_a07_frachtraum_seq_a07_frachtraum_gespraech_beendet#0;[Ohi takes a few steps back into the room.]
 spokentexts_a07_frachtraum_seq_a07_frachtraum_gespraech_beendet_st_1;Il ment comme il respire, mais il ne sait probablement rien à propos du meurtre.
@@ -428,14 +428,14 @@ texts_a07_hinterdeck_ausgang_salon_mo_leave_1;Entrer dans le salon
 sequences_a07_hinterdeck_ausgang_salon_leave_1#1;[Ohi geht in den Salon]
 texts_a07_hinterdeck_handtuecher_mo_ex_1;Examiner les serviettes
 spokentexts_a07_hinterdeck_handtuecher_ex_1_st_1;Des serviettes grandes et douces...
-spokentexts_a07_hinterdeck_handtuecher_ex_1_st_2;Je POURRAIS réserver un bain de soleil avec.
+spokentexts_a07_hinterdeck_handtuecher_ex_1_st_2;Je POURRAIS prendre un bain de soleil avec.
 spokentexts_a07_hinterdeck_handtuecher_ex_1_st_3_direction;gauges
 spokentexts_a07_hinterdeck_handtuecher_ex_1_st_3;Non, il ne vaut mieux pas.
 texts_a07_hinterdeck_lautsprecher_mo_ex_1;Examiner les hauts parleurs
 spokentexts_a07_hinterdeck_lautsprecher_ex_1_st_1;ces trucs ont fait un bruit monstre hier soir. Je n'arrivais même plus à réfléchir.
 texts_a07_hinterdeck_lichterkette_mo_ex_1;Examiner la chaîne de lumières
 spokentexts_a07_hinterdeck_lichterkette_ex_1_st_1;Edison avait-il la moindre idée de ce qu'adviendrait de son invention ?
-texts_a07_hinterdeck_liegestuhl_mo_ex_1;Examiner le bain de soleil
+texts_a07_hinterdeck_liegestuhl_mo_ex_1;Examiner le transat
 texts_a07_hinterdeck_liegestuhl_mo_use_1;S'allonger au soleil
 spokentexts_a07_hinterdeck_liegestuhl_ex_1_st_1;J'aimerais bien m'allonger au soleil et faire une sieste.
 spokentexts_a07_hinterdeck_liegestuhl_ex_1_st_2;Mais je n'ai pas le temps pour le moment.
@@ -479,7 +479,7 @@ spokentexts_a07_kabine_baronin_bullaugen_ex_1_st_1;Le hublot donne sur le pont-p
 spokentexts_a07_kabine_baronin_bullaugen_ex_1_st_2;Si quelqu'un était sorti de la cabine par le hublot, Legrand et moi l'aurions vu.
 spokentexts_a07_kabine_baronin_bullaugen_ex_2_st_1;Hmm. Les hublots sont verrouillés. On ne peut ni les ouvrir ni les fermer de l'extérieur.
 spokentexts_a07_kabine_baronin_bullaugen_ex_2_st_2;C'est le même souci qu'avec la porte : si quelqu'un avait quitté la cabine par le hublot, comment l'aurait-il verrouillé ?
-spokentexts_a07_kabine_baronin_bullaugen_ex_2_st_3;Et la baronne n'a pas été tué de l'extérieur de la cabine. Le docteur a bien dit qu'on lui avait tiré dessus à bout-portant.
+spokentexts_a07_kabine_baronin_bullaugen_ex_2_st_3;Et la Baronne n'a pas été tué de l'extérieur de la cabine. Le docteur a bien dit qu'on lui avait tiré dessus à bout-portant.
 texts_a07_kabine_baronin_daunenfedern_vase_mo_ex_1;Examiner les plumes de duvet
 sequences_a07_kabine_baronin_daunenfedern_vase_ex_1#1;[Ohi collects 2-3 feathers from the floor, holds them in front of his face.]
 spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_2;Rien de spécial.
@@ -487,7 +487,7 @@ spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_3;Encore que...
 sequences_a07_kabine_baronin_daunenfedern_vase_ex_1#5;[Ohi takes a closer look, holds the feathers close to his eyes (Idle).]
 spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_4;J'ai l'impression qu'une des plumes a été brûlée à son extrémité... oui complètement brûlée !
 sequences_a07_kabine_baronin_daunenfedern_vase_ex_1#8;[Ohi stands up with the feather in his hand, grabs his jacket and takes one of the paper sachets and puts the feather inside.]
-spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_5;Je ferai mieux de la prendre avec moi.
+spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_5;Je ferai mieux de les prendre avec moi.
 spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_6;Encore des plumes de duvet.
 sequences_a07_kabine_baronin_daunenfedern_vase_ex_1#10;[Ohi takes a closer look, holds the feathers close to his eyes (Idle).]
 spokentexts_a07_kabine_baronin_daunenfedern_vase_ex_1_st_7;Elles sont brûlées elles aussi...
@@ -497,25 +497,25 @@ texts_a07_kabine_baronin_fotos_mo_ex_1;Examiner le désordre
 texts_a07_kabine_baronin_fotos_mo_ex_2__3;Examiner les photos
 spokentexts_a07_kabine_baronin_fotos_ex_1_st_1;Ce désordre a attiré mon attention hier soir.
 spokentexts_a07_kabine_baronin_fotos_ex_1_st_2;On a l'air d'avoir fouillé partout L'oeuvre du meurtrier peut être ?
-spokentexts_a07_kabine_baronin_fotos_ex_1_st_3;Si j'en crois le majordome, la baronne a mis ce désordre en cherchant une photo ou un document.
+spokentexts_a07_kabine_baronin_fotos_ex_1_st_3;Si j'en crois le majordome, la Baronne a mis ce désordre en cherchant une photo ou un document.
 spokentexts_a07_kabine_baronin_fotos_ex_2_st_1;Hmm. Que des vieilles photos.
 spokentexts_a07_kabine_baronin_fotos_ex_2_st_2;Vu le style des habits, elles datent des années vingt, certaines sont mêmes plus anciennes.
 spokentexts_a07_kabine_baronin_fotos_ex_2_st_3;Des enfants, des maisons, des photos de groupe. Peut être sa famille. Certains visages reviennent fréquemment.
-spokentexts_a07_kabine_baronin_fotos_ex_2_st_4;Peut être Bubi et J., que la baronne a mentionné dans son journal, sont parmi eux ?
+spokentexts_a07_kabine_baronin_fotos_ex_2_st_4;Peut être Bubi et J., que la Baronne a mentionné dans son journal, sont parmi eux ?
 spokentexts_a07_kabine_baronin_fotos_ex_3_st_1;Pourquoi le meurtrier a-t-il fouillé dans les photos si, comme le pense Legrand, il cherchait la clé ?
 spokentexts_a07_kabine_baronin_fotos_ex_3_st_2;Où était-ce vraiment à propos d'une photo ? A moins que ce désordre n'ait rien à voir avec l'enquête ?
-spokentexts_a07_kabine_baronin_fotos_ex_3_st_4;D'après le majordome, la baronne a finalement trouvé ce qu'elle cherchait. Elle était si heureuse qu'elle en a oublié tout le reste.
+spokentexts_a07_kabine_baronin_fotos_ex_3_st_4;D'après le majordome, la Baronne a finalement trouvé ce qu'elle cherchait. Elle était si heureuse qu'elle en a oublié tout le reste.
 spokentexts_a07_kabine_baronin_fotos_ex_3_st_5;Et si elle cherchait une photographie ? Une montrant le meurtrier ?
 texts_a07_kabine_baronin_gepaeck_mo_ex_1;Examiner le bagage
 texts_a07_kabine_baronin_gepaeck_mo_ex_2;Fouiller le bagage
-spokentexts_a07_kabine_baronin_gepaeck_ex_1_st_1;La baronne n'a apparemment pas eu le temps de défaire ses bagages.
+spokentexts_a07_kabine_baronin_gepaeck_ex_1_st_1;La Baronne n'a apparemment pas eu le temps de défaire ses bagages.
 spokentexts_a07_kabine_baronin_gepaeck_ex_1_st_2;Ou plutôt elle n'a pas eu le temps de demander à son majordome de le faire.
 spokentexts_a07_kabine_baronin_gepaeck_ex_2_st_1;Hmm. Fouiller tout ça va me prendre des années.
-spokentexts_a07_kabine_baronin_gepaeck_ex_2_st_2;Mais là, la sac à main de la baronne !
+spokentexts_a07_kabine_baronin_gepaeck_ex_2_st_2;Mais là, la sac à main de la Baronne !
 sequences_a07_kabine_baronin_gepaeck_ex_2#3;[Ohi lifts the bag and places it on some suitcases or the like, so he can search in a comfortable position. He opens it and takes a look inside (Idle).]
 spokentexts_a07_kabine_baronin_gepaeck_ex_2_st_3;Aha !
 sequences_a07_kabine_baronin_gepaeck_ex_2#5;[Ohi reaches into the handbag and takes out a small leather-bound diary and places it next to the bag. Then he goes back into the normal position.]
-spokentexts_a07_kabine_baronin_gepaeck_ex_2_st_4;Un petit livre avec une couverture en cuir. 1964 est imprimé sur le devant. Ce doit être le journal de la baronne.
+spokentexts_a07_kabine_baronin_gepaeck_ex_2_st_4;Un petit livre avec une couverture en cuir. 1964 est imprimé sur le devant. Ce doit être le journal de la Baronne.
 sequences_a07_kabine_baronin_gepaeck_ex_2#7;[From now on the handbag and the diary are activated, the luggage is idle.]
 texts_a07_kabine_baronin_handtasche_mo_ex_1__2;Fouiller le sac à main
 sequences_a07_kabine_baronin_handtasche_ex_1#1;[Ohi grabs the bag and pushes it open with his hands and looks inside. (Idle).]
@@ -526,15 +526,15 @@ spokentexts_a07_kabine_baronin_kissenbezug_ex_1_st_1;Quelle découverte ! Cet or
 spokentexts_a07_kabine_baronin_kissenbezug_ex_1_st_2;Legrand, me voilà !
 spokentexts_a07_kabine_baronin_kissenbezug_ex_2_st_1;Je suis persuadé que cet oreiller a été utilisé comme silencieux. Si Legrand ne veut rien entendre, c'est son problème.
 texts_a07_kabine_baronin_kleiderpuppe_mo_ex_1;Examiner le mannequin
-spokentexts_a07_kabine_baronin_kleiderpuppe_ex_1_st_1;The mannequin surely came with the cabin. A mannequin for the baroness' clothes would have... a more generous figure.
+spokentexts_a07_kabine_baronin_kleiderpuppe_ex_1_st_1;Le mannequin sûrement livré avec la cabine. Un mannequin appartenant à la baronne aurait... une silhouette plus généreuse.
 texts_a07_kabine_baronin_lueftungsschacht_mo_ex_1__2;Examiner la grille
 spokentexts_a07_kabine_baronin_lueftungsschacht_ex_1_st_1;Hmm. Il devrait y avoir un conduit de ventilation derrière cette trappe.
 spokentexts_a07_kabine_baronin_lueftungsschacht_ex_1_st_2;Souvent une bonne approche pour entrer et sortir sans être remarqué. Mais nous sommes sur un bateau ! Les conduits de ventilation sont très étroits.
 spokentexts_a07_kabine_baronin_lueftungsschacht_ex_2_st_1;Je ne sais pas pourquoi... Et cela semble impossible...
 spokentexts_a07_kabine_baronin_lueftungsschacht_ex_2_st_2_direction;"emphasis on ""door"""
 spokentexts_a07_kabine_baronin_lueftungsschacht_ex_2_st_2;...mais quelque chose me dit que le meurtrier est entrée ET sorti de la cabine par la porte. Reste à savoir comment.
-texts_a07_kabine_baronin_nachricht_mo_inventar_1__2;Message de la baronne
-spokentexts_a07_kabine_baronin_nachricht_ex_1_st_1;Le message sur le bureau de la baronne est le suivant :
+texts_a07_kabine_baronin_nachricht_mo_inventar_1__2;Message de la Baronne
+spokentexts_a07_kabine_baronin_nachricht_ex_1_st_1;Le message sur le bureau de la Baronne est le suivant :
 spokentexts_a07_kabine_baronin_nachricht_ex_1_st_2_direction;reads out loud
 spokentexts_a07_kabine_baronin_nachricht_ex_1_st_2;"""Inspecteur. Soyez au salon à 22h. Il y a un meurtrier à bord et je vais le démasquer ! B."""
 spokentexts_a07_kabine_baronin_nachricht_ex_2_st_1;Je me demande quelle information Legrand a gardé pour lui.
@@ -544,7 +544,7 @@ texts_a07_kabine_baronin_reiseschrank_mo_useden_1;Ouvrir la commode portable.
 spokentexts_a07_kabine_baronin_reiseschrank_ex_1_st_1;Le porte-manteau le plus impraticable que j'ai jamais vu !
 spokentexts_a07_kabine_baronin_reiseschrank_ex_2_st_1;On dirait plutôt un bar portable.
 spokentexts_a07_kabine_baronin_reiseschrank_ex_2_st_2;Transporter ce monstre autour du globe doit représenter un sacré boulot.
-spokentexts_a07_kabine_baronin_reiseschrank_ex_2_st_3;La baronne a de la chance que les autres voitures de transport n'aient été que légèrement endommagés dans l'explosion.
+spokentexts_a07_kabine_baronin_reiseschrank_ex_2_st_3;La Baronne a de la chance que les autres voitures de transport n'aient été que légèrement endommagés dans l'explosion.
 spokentexts_a07_kabine_baronin_reiseschrank_ex_2_st_4;"Encore que je ne suis pas certain que ce soit une ""chance"" pour une alcoolique comme elle d'avoir autant d'alcool à portée de main en permanence."
 spokentexts_a07_kabine_baronin_reiseschrank_ex_3_st_1;C'est impressionnant mais je doute que cela me soit d'une quelconque aide dans mon enquête.
 sequences_a07_kabine_baronin_reiseschrank_use_1#1;[Ohi releases the clasp of the portable cupboard and opens it.]
@@ -586,7 +586,7 @@ sequences_a07_kabine_baronin_tagebuch_ex_1#13;[Ohi skims over.]
 spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_9;Hmm. Cette entrée est étrange. L'écriture est... tremblante. Difficile à lire...
 spokentexts_a07_kabine_baronin_tagebuch_ex_1_st_10;Rêvé de Bubi. Son anniversaire était hier. La semaine prochaine, celui de J..
 sequences_a07_kabine_baronin_tagebuch_ex_1#17;[Ohi closes the book and places it on the suitcase again.]
-spokentexts_a07_kabine_baronin_tagebuch_ex_2_st_1;La baronne était une femme très occupée et il semble qu'elle avait eu sa part de deuil.
+spokentexts_a07_kabine_baronin_tagebuch_ex_2_st_1;La Baronne était une femme très occupée et il semble qu'elle avait eu sa part de deuil.
 spokentexts_a07_kabine_baronin_tagebuch_ex_2_st_2;"Elle écrit à propos de ""Bubi"" and ""J."" mais aucun ne semble être vivant aujourd'hui."
 spokentexts_a07_kabine_baronin_tagebuch_ex_2_st_3;Presque tout le monde a perdu des êtres aimés pendant la guerre, elle aussi peut être ?
 spokentexts_a07_kabine_baronin_tagebuch_ex_2_st_4;Cela expliquerait aussi ses photos.
@@ -596,7 +596,7 @@ spokentexts_a07_kabine_baronin_tagebuch_take_1_st_2;Je n'ai pas le temps de le l
 texts_a07_kabine_baronin_tonbandgeraet_mo_ex_1-3;Examiner l'enregistreur
 spokentexts_a07_kabine_baronin_tonbandgeraet_ex_1_st_1;L'enregistreur date de mathusalem. Mais il valait beaucoup d'argent à une époque.
 spokentexts_a07_kabine_baronin_tonbandgeraet_ex_1_st_2;Le top du top, et ce n'est pas donné.
-spokentexts_a07_kabine_baronin_tonbandgeraet_ex_2_st_1;Hmm. Etrange.
+spokentexts_a07_kabine_baronin_tonbandgeraet_ex_2_st_1;Hmm. Étrange.
 spokentexts_a07_kabine_baronin_tonbandgeraet_ex_2_st_2;Il n'y a qu'une bobine...
 sequences_a07_kabine_baronin_tonbandgeraet_ex_2#3;[Ohi removes the spool, looks at it (Idle).]
 spokentexts_a07_kabine_baronin_tonbandgeraet_ex_2_st_3;... et ce n'est pas la bonne.
@@ -612,7 +612,7 @@ spokentexts_a07_kabine_baronin_tonbandspule_ex_1_st_1;"Une bobine fabriquée par
 spokentexts_a07_kabine_baronin_tonbandspule_ex_1_st_2;On peut enregistrer de nombreuses fois sur les bandes Seibling sans nuire à la qualité.
 spokentexts_a07_kabine_baronin_tonbandspule_ex_1_st_3;Elles sont utilisées dans des bureaux pour que les dirigeants puissent enregistrer des messages pour leurs secrétaires sur les mêmes bandes encore et encore.
 spokentexts_a07_kabine_baronin_tonbandspule_ex_1_st_4;Mais elle s ne sont pas bonnes à grand chose d'autre. Elles sont solides mais n'offrent qu'une qualité de son moyenne.
-spokentexts_a07_kabine_baronin_tonbandspule_ex_2_st_1;La bobine Seibling de la cabine de la baronne.
+spokentexts_a07_kabine_baronin_tonbandspule_ex_2_st_1;La bobine Seibling de la cabine de la Baronne.
 spokentexts_a07_kabine_baronin_tonbandspule_ex_2_st_2;La bande et la bobine livrées avec l'appareil ont disparu.
 sequences_a07_kabine_baronin_tonbandspule_take_1#1;[Ohi takes the spool and pockets it.]
 texts_a07_kabine_baronin_tuer_mo_leave_1;Quitter la cabine
@@ -620,7 +620,7 @@ sequences_a07_kabine_baronin_tuer_leave_1#1;[Ohi leaves the cabin.]
 texts_a07_kabine_baronin_tuer_schloss_mo_ex_1-3;Examiner la serrure et la chaine
 spokentexts_a07_kabine_baronin_tuer_schloss_ex_1_st_1;Le tour de porte s'est abîmé quand le Dr Gebhardt l'a défoncée.
 spokentexts_a07_kabine_baronin_tuer_schloss_ex_1_st_2;La vraie question étant : pourquoi la porte était-elle fermée ?
-spokentexts_a07_kabine_baronin_tuer_schloss_ex_3_st_2;Si on part du principe que le meurtrier n'est pas un magicien et que la baronne a verrouillée la porte elle-même avant de se coucher...
+spokentexts_a07_kabine_baronin_tuer_schloss_ex_3_st_2;Si on part du principe que le meurtrier n'est pas un magicien et que la Baronne a verrouillée la porte elle-même avant de se coucher...
 spokentexts_a07_kabine_baronin_tuer_schloss_ex_3_st_3;Le meurtrier n'a pas pu quitter la cabine par la porte.
 spokentexts_a07_kabine_baronin_tuer_schloss_ex_3_st_4;Donc le meurtrier devait toujours être dans la pièce quand le Dr Gebhardt a défoncé la porte, ce qui est improbable car quelqu'un l'aurait remarqué...
 spokentexts_a07_kabine_baronin_tuer_schloss_ex_3_st_5;Ou alors il a trouvé une autre sortie.
@@ -643,11 +643,11 @@ texts_a07_kabine_baronin_vase_mo_ex_1-3;Examiner le vase
 texts_a07_kabine_baronin_vase_mo_take_1;Examiner le vase
 texts_a07_kabine_baronin_vase_mo_used_mit_zange_1;Utiliser les pinces avec le vase
 spokentexts_a07_kabine_baronin_vase_ex_1_st_1;Un vase énorme, moche et pas pratique du tout.
-spokentexts_a07_kabine_baronin_vase_ex_1_st_2;Si l'ouverture était plus large, on pourrait au moins l'utiliser pour ranger des parapluies, one could at least use it as an umbrella stand!
+spokentexts_a07_kabine_baronin_vase_ex_1_st_2;Si l'ouverture était plus large, on pourrait au moins l'utiliser pour ranger des parapluies !
 sequences_a07_kabine_baronin_vase_ex_2#2;[Ohi tries to look into the vase but can't see anything there.]
 spokentexts_a07_kabine_baronin_vase_ex_2_st_2;Je ne vois rien.
 sequences_a07_kabine_baronin_vase_ex_2#4;[Ohi grabs the vase, lifts it.]
-spokentexts_a07_kabine_baronin_vase_ex_2_st_3;Wow ! Il est plus lourd qu'on ne le pense.
+spokentexts_a07_kabine_baronin_vase_ex_2_st_3;Ouah ! Il est plus lourd qu'il n'y parait.
 sequences_a07_kabine_baronin_vase_ex_2#6;[Ohi tries to turn the hole of the vase into the light to see better. Finally he turns it upside down. Some down feathers fall to the floor.]
 spokentexts_a07_kabine_baronin_vase_ex_2_st_4_direction;interested, asking
 spokentexts_a07_kabine_baronin_vase_ex_2_st_4;Aha !
@@ -676,7 +676,7 @@ sequences_a07_kabine_baronin_seq_a07_kabine_baronin_nachricht_sichtbar#0;[Ohi pu
 spokentexts_a07_kabine_baronin_seq_a07_kabine_baronin_nachricht_sichtbar_st_2;"Le message est : ""Inspecteur, soyez au salon à 22h. Il y a un meurtrier à bord et je vais le démasquer ! B."""
 spokentexts_a07_kabine_baronin_seq_a07_kabine_baronin_nachricht_sichtbar_st_3_direction;surprised breathing out, whistling
 spokentexts_a07_kabine_baronin_seq_a07_kabine_baronin_nachricht_sichtbar_st_3;*siffle*
-spokentexts_a07_kabine_baronin_seq_a07_kabine_baronin_nachricht_sichtbar_st_4;LA baronne connaissait le meurtrier...
+spokentexts_a07_kabine_baronin_seq_a07_kabine_baronin_nachricht_sichtbar_st_4;LA Baronne connaissait le meurtrier...
 spokentexts_a07_kabine_baronin_seq_a07_kabine_baronin_nachricht_sichtbar_st_5;Le Corbeau ne peut donc pas être le meurtrier. Il n' a jamais tué personne !
 spokentexts_a07_kabine_baronin_seq_a07_kabine_baronin_nachricht_sichtbar_st_6;Legrand n'a surement jamais eu le message, sinon il me l'aurait dit.
 texts_a07_kabine_baronin_schreibblock_ausgang_mo_leave;Terminer l'enquête
@@ -689,8 +689,8 @@ spokentexts_a07_kabine_baronin_schreibblock_papier_ex_1_st_2;Il y a des marques 
 spokentexts_a07_kabine_baronin_schreibblock_papier_ex_2_st_1_direction;schaut genug hin
 spokentexts_a07_kabine_baronin_schreibblock_papier_ex_2_st_1;Hmm. Non. Impossible à déchiffrer.
 sequences_a07_kabine_baronin_schreibblock_papier_used_mit_bleistift#2;"[Minigame ""notepad"" starts]"
-spokentexts__seq_minigame_notizblock_lose_st_1;Non. Je n'arrive toujours pa sà lire le message.
-spokentexts__seq_minigame_notizblock_win_st_1;Ca devrait le faire.
+spokentexts__seq_minigame_notizblock_lose_st_1;Non. Je n'arrive toujours pas à lire le message.
+spokentexts__seq_minigame_notizblock_win_st_1;Ça devrait le faire.
 texts_a07_kabine_ermittler_chemikalien_mo_ex_1__2;Examiner les produits chimiques
 spokentexts_a07_kabine_ermittler_chemikalien_ex_1_st_1;Mon dieu.
 spokentexts_a07_kabine_ermittler_chemikalien_ex_1_st_3;Lequel de produits permet d'analyser du sang ?
@@ -755,7 +755,7 @@ sequences_a07_kabine_ermittler_luminol_use_1#3;[In the bowl appears a clear liqu
 spokentexts_a07_kabine_ermittler_luminol_use_2_st_1;Et voilà le luminol !
 spokentexts_a07_kabine_ermittler_luminol_use_2_st_2;Je vais l'ajouter au peroxyde d'hydrogène dans le bol.
 sequences_a07_kabine_ermittler_luminol_use_2#3;[A second clear liquid is poured in the bowl.]
-spokentexts_a07_kabine_ermittler_luminol_use_2_st_3;Okay...
+spokentexts_a07_kabine_ermittler_luminol_use_2_st_3;C'est fait...
 spokentexts_a07_kabine_ermittler_luminol_use_2_st_4;Je peux détecter la présence de sang avec cette solution. Elle deviendra bleue au contact du sang.
 texts_a07_kabine_ermittler_pinsel_mo_ex_1;Examiner la brosse
 spokentexts_a07_kabine_ermittler_pinsel_ex_1_st_1;La moitié des outils de cette boîte serait tout autant utile à un archéologue.
@@ -790,20 +790,20 @@ spokentexts_a07_kabine_ermittler_wasserstoffperoxyd_use_2_st_2;Je vais l'ajouter
 sequences_a07_kabine_ermittler_wasserstoffperoxyd_use_2#3;[A second clear liquid is poured into the bowl.]
 texts_a07_kabine_ermittler_wattestaebchen_mo_ex_1;Examiner les petits sachets
 texts_a07_kabine_ermittler_wattestaebchen_mo_ex_2;Tampons en coton
-texts_a07_kabine_ermittler_wattestaebchen_mo_ex_3;Echantillon de sang
+texts_a07_kabine_ermittler_wattestaebchen_mo_ex_3;Échantillon de sang
 texts_a07_kabine_ermittler_wattestaebchen_mo_ex_4;Coton avec le faux sang
 texts_a07_kabine_ermittler_wattestaebchen_mo_used_mit_pipette;Vérifier l'échantillon de sang
 texts_a07_kabine_ermittler_wattestaebchen_mo_used_mit_pipette_02;Déposer la solution sur le coton.
 sequences_a07_kabine_ermittler_wattestaebchen_ex_1#1;[One of the cotton sticks disappears from the suitcase.]
 spokentexts_a07_kabine_ermittler_wattestaebchen_ex_1_st_1_direction;reads, searching for something
-spokentexts_a07_kabine_ermittler_wattestaebchen_ex_1_st_1;Qu'ets ce que c'est que ça ? 
+spokentexts_a07_kabine_ermittler_wattestaebchen_ex_1_st_1;Qu'est-ce que c'est que ça ? 
 spokentexts_a07_kabine_ermittler_wattestaebchen_ex_1_st_2;Oh ! Comme c'est pratique !
 spokentexts_a07_kabine_ermittler_wattestaebchen_ex_1_st_3;Un tampon en coton isolé de façon hermétique pour récolter des échantillons.
 spokentexts_a07_kabine_ermittler_wattestaebchen_ex_1_st_4;Je vais le prendre avec moi.
 sequences_a07_kabine_ermittler_wattestaebchen_ex_1#6;[The cotton stick appears in the inventory.]
 spokentexts_a07_kabine_ermittler_wattestaebchen_ex_2_st_1;Il y a un tampon en coton dans le papier pour récolter des indices sur la scène du crime.
-spokentexts_a07_kabine_ermittler_wattestaebchen_ex_3_st_1;La coton a imbibé quelques traces de sang du lit de la baronne, espérons que ce soit suffisant pour l'analyser !
-spokentexts_a07_kabine_ermittler_wattestaebchen_ex_4_st_1;La baronne gisait dans une mare de faux sang... Qu'est ce que cela signifie ? ?
+spokentexts_a07_kabine_ermittler_wattestaebchen_ex_3_st_1;La coton a imbibé quelques traces de sang du lit de la Baronne, espérons que ce soit suffisant pour l'analyser !
+spokentexts_a07_kabine_ermittler_wattestaebchen_ex_4_st_1;La Baronne gisait dans une mare de faux sang... Qu'est ce que cela signifie ? ?
 spokentexts_a07_kabine_ermittler_wattestaebchen_ex_4_st_2;Et pourquoi le Dr Gebhardt n'a-t-il rien remarqué ?
 spokentexts_a07_kabine_ermittler_wattestaebchen_used_mit_pipette_st_1;Qu'avons nous là...
 sequences_a07_kabine_ermittler_wattestaebchen_used_mit_pipette#3;[Ohi reaches into the bag, takes out a cotton stick and removes a bit paper from the top.]
@@ -813,7 +813,7 @@ spokentexts_a07_kabine_ermittler_wattestaebchen_used_mit_pipette_st_4;Ce n'est p
 sequences_a07_kabine_ermittler_wattestaebchen_used_mit_pipette#9;[Ohi puts away the pipette, turns a bit with the cotton stick in his hands to see it in a different light.]
 spokentexts_a07_kabine_ermittler_wattestaebchen_used_mit_pipette_st_5;Absolument aucune réaction !
 sequences_a07_kabine_ermittler_wattestaebchen_used_mit_pipette#11;[Ohi pulls a bit paper over the top again and slides in the cotton stick.]
-spokentexts_a07_kabine_ermittler_wattestaebchen_used_mit_pipette_st_6;Sauf erreur de ma part, et ce n'était vraiment pas compliqué, la tâche sur le lit de la baronne n'est pas du sang.
+spokentexts_a07_kabine_ermittler_wattestaebchen_used_mit_pipette_st_6;Sauf erreur de ma part, et ce n'était vraiment pas compliqué, la tâche sur le lit de la Baronne n'est pas du sang.
 spokentexts_a07_kabine_ermittler_wattestaebchen_used_mit_pipette_st_7_direction;thinking
 spokentexts_a07_kabine_ermittler_wattestaebchen_used_mit_pipette_st_7;Mais si ce n'est pas du sang, quoi d'autre ? Et surtout pourquoi le Dr Gebhardt n'a-t-il rien remarqué ?
 spokentexts_a07_kabine_ermittler_wattestaebchen_used_mit_pipette_st_8_direction;decisive in the end
@@ -823,7 +823,7 @@ spokentexts_a07_kabine_ermittler_wattestaebchen_used_mit_pipette_3_st_1;Il faut 
 texts_a07_kabine_ermittler_mikroskop_ausgang_mo_leave;Terminer l'enquête
 texts_a07_kabine_ermittler_mikroskop_patrone_baronin_mo_ex_1;Examiner la balle
 texts_a07_kabine_ermittler_mikroskop_patrone_baronin_mo_use_1;Tourner la balle
-spokentexts_a07_kabine_ermittler_mikroskop_patrone_baronin_ex_1_st_1;C'est la balle extraite du corps de la baronne.
+spokentexts_a07_kabine_ermittler_mikroskop_patrone_baronin_ex_1_st_1;C'est la balle extraite du corps de la Baronne.
 sequences_a07_kabine_ermittler_mikroskop_patrone_baronin_use_1#1;[You can click on the cartridge and turn it both sides by holding the cursor.]
 texts_a07_kabine_ermittler_mikroskop_patrone_frachtraum_mo_use_1;Tourner la balle
 spokentexts_a07_kabine_ermittler_mikroskop_patrone_frachtraum_ex_1_st_1;C'est la balle de la soute.
@@ -840,21 +840,21 @@ spokentexts_a07_kabine_ermittler_mikroskop_seq_a07_kabine_ermittler_mikroskop_sc
 spokentexts_a07_kabine_ermittler_mikroskop_seq_a07_kabine_ermittler_mikroskop_scharf_st_5;Les rayures sur la balle sont dues au canon de l'arme. Elles sont uniques.
 spokentexts_a07_kabine_ermittler_mikroskop_seq_a07_kabine_ermittler_mikroskop_uebereinstimmung_st_1_direction;content
 spokentexts_a07_kabine_ermittler_mikroskop_seq_a07_kabine_ermittler_mikroskop_uebereinstimmung_st_1;Voilà la preuve !
-spokentexts_a07_kabine_ermittler_mikroskop_seq_a07_kabine_ermittler_mikroskop_uebereinstimmung_st_2;La personne qui a tué la baronne est la même qui a tiré dans la soute.
+spokentexts_a07_kabine_ermittler_mikroskop_seq_a07_kabine_ermittler_mikroskop_uebereinstimmung_st_2;La personne qui a tué la Baronne est la même qui a tiré dans la soute.
 spokentexts_a07_kabine_ermittler_mikroskop_seq_a07_kabine_ermittler_mikroskop_uebereinstimmung_st_4;Qu'est ce que cela signifie ?
 texts_a07_krankenstation_briefchen_patrone_mo_ex_1;Balle
-spokentexts_a07_krankenstation_briefchen_patrone_ex_1_st_1;C'est la balle extrait du corps de la baronne...
+spokentexts_a07_krankenstation_briefchen_patrone_ex_1_st_1;C'est la balle extrait du corps de la Baronne...
 spokentexts_a07_krankenstation_briefchen_patrone_ex_1_st_2;Je ne m'y connais pas en arme à feu. Legrand pourra m'en dire plus.
 texts_a07_krankenstation_gummihandschuh_mo_ex_1__2;Examiner les gants en caoutchouc
 spokentexts_a07_krankenstation_gummihandschuh_ex_1_st_1;Le Docteur Gebhardt va avoir du mal à expliquer comment des gants remplis de faux sang ont atterri dans sa poubelle.
-spokentexts_a07_krankenstation_gummihandschuh_ex_1_st_2;D'abord il rate le faux sang dans la cabine de la baronne et maintenant ça. Ca sent pas bon pour le docteur.
+spokentexts_a07_krankenstation_gummihandschuh_ex_1_st_2;D'abord il rate le faux sang dans la cabine de la Baronne et maintenant ça. Ca sent pas bon pour le docteur.
 spokentexts_a07_krankenstation_gummihandschuh_ex_2_st_1;A mes yeux cela prouve que le docteur est impliqué dans tout cela.
 spokentexts_a07_krankenstation_gummihandschuh_ex_2_st_2;Je devrais en informer Legrand.
-texts_a07_krankenstation_kuehlfach_mo_ex_1;Regarder le corps de la baronne
+texts_a07_krankenstation_kuehlfach_mo_ex_1;Regarder le corps de la Baronne
 texts_a07_krankenstation_kuehlfach_mo_use_1;Examiner le corps
 texts_a07_krankenstation_kuehlfach_mo_use_2;Examiner le corps
 spokentexts_a07_krankenstation_kuehlfach_ex_1_st_1;L'infirmerie n'a pas d'air conditionné. Pendant la guerre, les corps étaient inhumés en mer.
-spokentexts_a07_krankenstation_kuehlfach_ex_1_st_2;La baronne va probablement rester ici jusqu'à ce que l'on puisse l'amener chez le légiste au Caire.
+spokentexts_a07_krankenstation_kuehlfach_ex_1_st_2;La Baronne va probablement rester ici jusqu'à ce que l'on puisse l'amener chez le légiste au Caire.
 spokentexts_a07_krankenstation_kuehlfach_use_1_st_1;Le moment de vérité.
 sequences_a07_krankenstation_kuehlfach_use_1#2;[Ohi folds the cloth so he can analyse the corpse. He still keeps the sheet in his hand.]
 spokentexts_a07_krankenstation_kuehlfach_use_1_st_2;La corps a été lavé.
@@ -873,7 +873,7 @@ sequences_a07_krankenstation_muelleimer_ex_1#6;[Ohi takes a look around, finds a
 sequences_a07_krankenstation_muelleimer_ex_1#7;[Then he pushes the bin back and closes the door. He turns to the glove and lifts it with the pincers (Idle).]
 spokentexts_a07_krankenstation_muelleimer_ex_1_st_5;Qu'est ce que c'est que ça ?
 spokentexts_a07_krankenstation_muelleimer_ex_1_st_6;Un gant en caoutchouc percé. Il y a un noeud et du liquide rouge ressemblant à du sang partout à l'intérieur.
-spokentexts_a07_krankenstation_muelleimer_ex_1_st_7;Je parie que c'est le même faux sang que j'ai trouvé dans la cabine de la baronne !
+spokentexts_a07_krankenstation_muelleimer_ex_1_st_7;Je parie que c'est le même faux sang que j'ai trouvé dans la cabine de la Baronne !
 sequences_a07_krankenstation_muelleimer_ex_1#11;[Ohi puts away the glove and the pincers next to it.]
 texts_a07_krankenstation_rollstuhl_mo_ex_1;Examiner la chaise roulante
 spokentexts_a07_krankenstation_rollstuhl_ex_1_st_1;C'est surement réservé aux cas d'urgence, si un passager tombe et ne peut plus marcher.
@@ -884,19 +884,19 @@ sequences_a07_krankenstation_schublade_use_1#1;[Ohi opens the drawer, looks insi
 spokentexts_a07_krankenstation_schublade_use_1_st_1;Intéressant...
 sequences_a07_krankenstation_schublade_use_1#3;[Ohi takes out an audiotape, looks at it.]
 spokentexts_a07_krankenstation_schublade_use_1_st_2;Une bande sur une bobine.
-spokentexts_a07_krankenstation_schublade_use_1_st_3;La bobine provient d'un appareil de bien meilleure qualité... Comme celui dans la cabine de la baronne.
-spokentexts_a07_krankenstation_schublade_use_1_st_4;Impossible d'être certain que c'est bien la bobine manquante de la cabine de la baronne, mais cela semble très plausible !
+spokentexts_a07_krankenstation_schublade_use_1_st_3;La bobine provient d'un appareil de bien meilleure qualité... Comme celui dans la cabine de la Baronne.
+spokentexts_a07_krankenstation_schublade_use_1_st_4;Impossible d'être certain que c'est bien la bobine manquante de la cabine de la Baronne, mais cela semble très plausible !
 sequences_a07_krankenstation_schublade_use_1#7;[Ohi places the audiotape on the shelf.]
 texts_a07_krankenstation_tonband_mo_use_1;Utiliser la bande avec...
-spokentexts_a07_krankenstation_tonband_ex_1_st_1;Impossible d'être certain que c'est bien la bobine manquante de la cabine de la baronne, mais cela semble très plausible !
+spokentexts_a07_krankenstation_tonband_ex_1_st_1;Impossible d'être certain que c'est bien la bobine manquante de la cabine de la Baronne, mais cela semble très plausible !
 sequences_a07_krankenstation_tonband_use_1#1;[With a left-click the audiotape sticks to the cursor.]
 texts_a07_krankenstation_tonbandgeraet_mo_betrachte_1__2__3;Examiner l'enregistreur
 texts_a07_krankenstation_tonbandgeraet_mo_used_mit_tonband;Charger la bande audio
-spokentexts_a07_krankenstation_tonbandgeraet_ex_1_st_1;Un enregistreur de Seibling, intéressant. La bobine dans la cabine de la baronne est de la même marque.
+spokentexts_a07_krankenstation_tonbandgeraet_ex_1_st_1;Un enregistreur de Seibling, intéressant. La bobine dans la cabine de la Baronne est de la même marque.
 spokentexts_a07_krankenstation_tonbandgeraet_ex_1_st_2;Hmm. Un microphone a été raccordé à l'enregistreur.
-spokentexts_a07_krankenstation_tonbandgeraet_ex_1_st_3;Peut être que le  Docteur. Gebhardt enregistre les résultats de ses examens and les recopie plus tard.
+spokentexts_a07_krankenstation_tonbandgeraet_ex_1_st_3;Peut être que le  Docteur Gebhardt enregistre les résultats de ses examens et pour les recopier plus tard.
 spokentexts_a07_krankenstation_tonbandgeraet_ex_2_st_1;Le lecteur est assez basique. Simple, solide, pratique.
-spokentexts_a07_krankenstation_tonbandgeraet_ex_3_st_1;On peut entendre un coup de feu sur la bande, et la bobine vient de la cabine de la baronne... Je commence à comprendre !
+spokentexts_a07_krankenstation_tonbandgeraet_ex_3_st_1;On peut entendre un coup de feu sur la bande, et la bobine vient de la cabine de la Baronne... Je commence à comprendre !
 sequences_a07_krankenstation_tonbandgeraet_used_mit_tonband#1;[Ohi takes the audiotape from the shelf and puts it into the tape recorder.]
 spokentexts_a07_krankenstation_tonbandgeraet_used_mit_tonband_st_1;OK...
 sequences_a07_krankenstation_tonbandgeraet_used_mit_tonband#3;[Ohi presses the start button, the audiotape starts.]
@@ -915,7 +915,7 @@ texts_a07_krankenstation_tuer_mo_leave_1a__1b__2;Quitter l'infirmerie
 spokentexts_a07_krankenstation_tuer_leave_1a_st_1;Je devrais en profiter pour fouiller correctement.
 spokentexts_a07_krankenstation_tuer_leave_1a_st_2;Je n'aurai peut être pas une seconde chance.
 spokentexts_a07_krankenstation_tuer_leave_1b_st_1;Non. Je suis sûr qu'il y a autre chose à découvrir ici.
-spokentexts_a07_krankenstation_tuer_leave_2_st_1;Il ets temps d'aller voir Legrand !
+spokentexts_a07_krankenstation_tuer_leave_2_st_1;Il est temps d'aller voir Legrand !
 sequences_a07_krankenstation_tuer_leave_2#2;[Ohi pulls the door open and freezes. In front of him stands doctor Gebhard.]
 spokentexts_a07_krankenstation_tuer_leave_2_st_2_direction;faster, surprised breathing in
 spokentexts_a07_krankenstation_tuer_leave_2_st_2;Hhh !
@@ -968,8 +968,8 @@ sequences_a07_nebendeck_seq_abschnitt_start#3;[You hear a bang and squeaking sou
 texts_a07_oberdeck_ausgang_treppe_mo_leave_1;Aller en bas
 sequences_a07_oberdeck_ausgang_treppe_leave_1#1;[Ohi starts to go downstairs.]
 texts_a07_oberdeck_axt_mo_ex_1;Examiner la hache
-spokentexts_a07_oberdeck_axt_ex_1_st_1;Pourquoi a-t-il une hache ici ?
-spokentexts_a07_oberdeck_axt_ex_1_st_2;Hmm... J'imagine que... Ca doit être pour couper les cordes si les canots de sauvetage se retrouvent coincés ?
+spokentexts_a07_oberdeck_axt_ex_1_st_1;Pourquoi y a-t-il une hache ici ?
+spokentexts_a07_oberdeck_axt_ex_1_st_2;Hmm... J'imagine que... Ça doit être pour couper les cordes si les canots de sauvetage se retrouvent coincés ?
 spokentexts_a07_oberdeck_axt_ex_1_st_3;Ou alors ils s'en servent pour déterminer qui est admis sur le bateau.
 texts_a07_oberdeck_dreck_mo_ex_1;Fouiller le coin
 spokentexts_a07_oberdeck_dreck_ex_1_st_1;Des saletés sont empilées dans le coin. 
@@ -992,22 +992,22 @@ sequences_a07_oberdeck_lueftungsschacht_ex_1#3;[Ohi gets closer to the grid and 
 spokentexts_a07_oberdeck_lueftungsschacht_ex_1_st_3;La grille bouge !
 sequences_a07_oberdeck_lueftungsschacht_ex_1#5;[Ohi opens the grid.]
 spokentexts_a07_oberdeck_lueftungsschacht_ex_1_st_4;Hmm. C'est bien ce que je pensais... Un tuyau de ventilation qui disparaît à l'intérieur du navire.
-spokentexts_a07_oberdeck_lueftungsschacht_ex_2_st_1;La grille ne devrait pas s'ouvrir si facilement... La clandestin l'a-t-il ouverte et l'avons nous attrapé la main dans le sac ?
+spokentexts_a07_oberdeck_lueftungsschacht_ex_2_st_1;La grille ne devrait pas s'ouvrir si facilement... Le clandestin l'a-t-il ouverte et l'avons nous attrapé la main dans le sac ?
 spokentexts_a07_oberdeck_lueftungsschacht_ex_2_st_2;Hmm. Non. Le tuyau est trop étroit. Il ne rentrerait pas là dedans. Je suppose que ce défaut existe depuis un moment.
 sequences_a07_oberdeck_lueftungsschacht_ex_2#3;[Ohi closes the grid again.]
 spokentexts_a07_oberdeck_lueftungsschacht_ex_3_st_1;Je pourrais informer le capitaine que la grille doit être réparée.
-spokentexts_a07_oberdeck_lueftungsschacht_ex_3_st_2;Mais si je commence à notre tous les petits problèmes du bateau autant oublier tout de suite mon enquête de meurtre.
+spokentexts_a07_oberdeck_lueftungsschacht_ex_3_st_2;Mais si je commence à noter tous les petits problèmes du bateau autant oublier tout de suite mon enquête de meurtre.
 texts_a07_oberdeck_rettungsboot_mo_ex_1__2;Examiner la canot de sauvetage
-spokentexts_a07_oberdeck_rettungsboot_ex_1_st_1;Hmm. Un bateau comme celui-ci ferait une bonne cachette pour un clandestin.
+spokentexts_a07_oberdeck_rettungsboot_ex_1_st_1;Hmm. Un canot comme celui-ci ferait une bonne cachette pour un clandestin.
 spokentexts_a07_oberdeck_rettungsboot_ex_2_st_1;Si les bâches étaient positionnées volontairement de cette façon, personne ne pourrait les remettre en ordre en étant à l'intérieur ?
 spokentexts_a07_oberdeck_rettungsboot_ex_2_st_2;Il est facile de voir avec un coup d'oeil que tout est en ordre sur ce bateau.
 texts_a07_oberdeck_rohre_mo_ex_1;Examiner les tuyaux
-spokentexts_a07_oberdeck_rohre_ex_1_st_1;Ce n'est pas un pont panoramique pour les visiteurs. Il y a des tuyaux, des cables en acier, des chaines... On sent la fumée venant de la cheminée.
-spokentexts_a07_oberdeck_rohre_ex_1_st_2;J'ai n'ai aucune de comment fonctionne ce navire mais je m'en fiche du moment qu'il reste à flots.
+spokentexts_a07_oberdeck_rohre_ex_1_st_1;Ce n'est pas un pont panoramique pour les visiteurs. Il y a des tuyaux, des câbles en acier, des chaines... On sent la fumée venant de la cheminée.
+spokentexts_a07_oberdeck_rohre_ex_1_st_2;J'ai n'ai aucune idée de comment fonctionne ce navire mais je m'en fiche du moment qu'il reste à flots.
 texts_a07_oberdeck_tuer_mo_ex_1__2;Examiner la porte
-spokentexts_a07_oberdeck_tuer_ex_1_st_1;Le pont du bateau... Deux hommes dont un responsable de la navigation.
-spokentexts_a07_oberdeck_tuer_ex_1_st_2;J'ai l'impression que ce sont les officiers qui mènent la barque. Le capitine a plutôt l'air de se concentrer sur les passagers et sur le bar.
-spokentexts_a07_oberdeck_tuer_ex_2_st_1;Je ferais mieux de laisser travailler. Si l'un des d'eux avait vu quelque chose hier, il en aurait déjà informé Legrand ou la capitaine.
+spokentexts_a07_oberdeck_tuer_ex_1_st_1;La timonerie... Deux hommes dont un responsable de la navigation.
+spokentexts_a07_oberdeck_tuer_ex_1_st_2;J'ai l'impression que ce sont les officiers qui mènent la barque. Le capitaine a plutôt l'air de se concentrer sur les passagers et sur le bar.
+spokentexts_a07_oberdeck_tuer_ex_2_st_1;Je ferais mieux de les laisser travailler. Si l'un des d'eux avait vu quelque chose hier, il en aurait déjà informé Legrand ou le Capitaine.
 sequences_a07_oberdeck_seq_a07_oberdeck_betreten#0;[Ohi walks down the last steps of the stairs and goes back to the normal position.]
 sequences_a07_oberdeck_seq_a07_oberdeck_betreten_erstmalig#0;[Ohi walks down the last steps of the stairs and goes back to the normal position.]
 sequences_a07_oberdeck_seq_a07_oberdeck_betreten_erstmalig#1;[Ohi looks around.]
@@ -1026,7 +1026,7 @@ spokentexts_a07_salon_eiskuebel_use_1_st_2;De la glace fraîche et des pinces...
 sequences_a07_salon_eiskuebel_use_1#7;[Ohi takes the tongs out of the bowl and pockets them. Then he closes the bowl again and goes back to the normal position.]
 sequences_a07_salon_eiskuebel_use_1#8;[The captain looks over to Ohi.]
 spokentexts_a07_salon_eiskuebel_use_1_st_3_direction;gespielt vorwurfsvoll
-spokentexts_a07_salon_eiskuebel_use_1_st_3;Officier Zellner! Qu'est ce que vous faîtes ?
+spokentexts_a07_salon_eiskuebel_use_1_st_3;Officier Zellner ! Qu'est ce que vous faîtes ?
 spokentexts_a07_salon_eiskuebel_use_1_st_4;Mêmes les policiers se laissent aller de nos jours ?
 sequences_a07_salon_eiskuebel_use_1#11;[Ohi switches into the talking-position.]
 spokentexts_a07_salon_eiskuebel_use_1_st_5;J'ai besoin de cet outil pour mon enquête.
@@ -1069,24 +1069,24 @@ texts_a07_salon_windergarten_mo_ex_1;Regarder dehors
 texts_a07_salon_windergarten_mo_ex_2;Examiner la verrière
 spokentexts_a07_salon_windergarten_ex_1_st_1;C'est magnifique ! Du grand soleil et un ciel bleu au dessus de la Mer Méditerranée.
 spokentexts_a07_salon_windergarten_ex_1_st_2;Ce serait un jour parfait pour une croisière s'il n'y avait pas eu un meurtre.
-spokentexts_a07_salon_windergarten_ex_2_st_1;Le navire a dû être reconstruit à un moment. Je doute que cette verrière soit d'origine.
+spokentexts_a07_salon_windergarten_ex_2_st_1;Le navire a dû être rénové à un moment. Je doute que cette verrière soit d'origine.
 sequences_a07_salon_seq_a07_salon_betreten#0;[The door slowly closes behind Ohi while he is already standing inside the room.]
 sequences_a07_salon_seq_a07_salon_betreten_ermittler_erstmalig#0;[Ohi enters the room, heads to the inspector who already interrogates he violinist.]
 spokentexts_a07_salon_seq_a07_salon_betreten_ermittler_erstmalig_st_1;Mr Kreutzer. Allons, vous devez m'en dire un peu plus !
 spokentexts_a07_salon_seq_a07_salon_betreten_ermittler_erstmalig_st_2;Vous êtes la seule personne qui était à bord du train et n'a aucun alibi pour la nuit dernière.
 spokentexts_a07_salon_seq_a07_salon_betreten_ermittler_erstmalig_st_3;Je vous l'ai déjà dit, j'étais dans ma cabine.
-spokentexts_a07_salon_seq_a07_salon_betreten_ermittler_erstmalig_st_4;Etes vous sûr que c'était bien votre cabine et pas celle de la baronne ?
+spokentexts_a07_salon_seq_a07_salon_betreten_ermittler_erstmalig_st_4;Êtes-vous sûr que c'était bien votre cabine et pas celle de la Baronne ?
 sequences_a07_salon_seq_a07_salon_betreten_ermittler_erstmalig#5;[Ohi moves a few steps away from them.]
-spokentexts_a07_salon_seq_a07_salon_betreten_ermittler_erstmalig_st_5;Legrand va interroger les passagers le suns après les autres.
+spokentexts_a07_salon_seq_a07_salon_betreten_ermittler_erstmalig_st_5;Legrand va interroger les passagers les uns après les autres.
 spokentexts_a07_salon_seq_a07_salon_betreten_ermittler_erstmalig_st_6;S'il n'obtient pas les réponses qu'il attend, cela pourrait devenir très déplaisant pour eux.
 sequences_a07_salon_seq_salon_betreten_vom_hinterdeck#0;[The door to the afterdeck slowly closes behind Ohi while he is already standing inside the room.]
 texts_a07_treppensaal_ausgang_nebendeck_mo_leave_1;Aller sur le pont-promenade
 sequences_a07_treppensaal_ausgang_nebendeck_leave_1#1;[Ohi goes to side deck.]
 texts_a07_treppensaal_globus_mo_ex_1__2;Examiner le globe
 spokentexts_a07_treppensaal_globus_ex_1_st_1;Un ancien globe en bois.
-spokentexts_a07_treppensaal_globus_ex_1_st_2;Si Galilée n'avait pas insité à l'époque, ce serait un disque tout plat aujourd'hui.
+spokentexts_a07_treppensaal_globus_ex_1_st_2;Si Galilée n'avait pas insisté à l'époque, ce serait un disque tout plat aujourd'hui.
 spokentexts_a07_treppensaal_globus_ex_2_st_1;Le globe illustre bien le fait que quatre cinquièmes de la surface de la Terre sont recouverts d'eau.
-spokentexts_a07_treppensaal_globus_ex_2_st_2;C'est le moins que l'on puisse dire quand on regarde par le fenêtre.
+spokentexts_a07_treppensaal_globus_ex_2_st_2;C'est le moins que l'on puisse dire quand on regarde par la fenêtre.
 texts_a07_treppensaal_portemonnaie_mo_ex1;Portefeuille
 spokentexts_a07_treppensaal_portemonnaie_ex_1_st_1;J'imagine que le clandestin m'a assommé.
 spokentexts_a07_treppensaal_portemonnaie_ex_1_st_2;Quoi qu'il en dise, ce n'est pas un voleur. Il ne manque rien dans mon portefeuille.
@@ -1094,7 +1094,7 @@ texts_a07_treppensaal_treppe_mo_leave_1;Aller en bas
 sequences_a07_treppensaal_treppe_leave_1#1;[Ohi begins to go downstairs.]
 texts_a07_treppensaal_tuer_kabine_baronin_mo_ex_1;Examiner la porte de la cabine
 texts_a07_treppensaal_tuer_kabine_baronin_mo_ex_2__3;Examiner la porte scellée
-texts_a07_treppensaal_tuer_kabine_baronin_mo_leave_1;Entrer dans la cabine de la baronn
+texts_a07_treppensaal_tuer_kabine_baronin_mo_leave_1;Entrer dans la cabine de la Baronne
 texts_a07_treppensaal_tuer_kabine_baronin_mo_use_1;Couper la bande
 spokentexts_a07_treppensaal_tuer_kabine_baronin_ex_1_st_1;Hmm. La cabine a été scellée.
 spokentexts_a07_treppensaal_tuer_kabine_baronin_ex_1_st_2;Je pense que la bande n'a aucune valeur juridique en pleine mer.
@@ -1150,7 +1150,7 @@ sequences_a07_unterdeck_kabine_ermittler_ex_2#10;[Minigame cracking_the_lock_ins
 spokentexts_a07_unterdeck_kabine_ermittler_ex_3_st_1;Il me faut quelque chose pour crocheter la serrure, la clé serait parfaite mais un fil suffirait.
 sequences_a07_unterdeck_kabine_ermittler_ex_3#6;[Ohi kneels down in front of the door, looks at the lock (Idle).]
 sequences_a07_unterdeck_kabine_ermittler_ex_3#7;[Ohi takes out the wire, slides it into the lock.]
-sequences_a07_unterdeck_kabine_ermittler_ex_3#8;"minigame "" cracking the lock"" inspector starts"
+sequences_a07_unterdeck_kabine_ermittler_ex_3#8;"mini jeu "" forçage de coffre"" l'inspecteur commence"
 sequences_a07_unterdeck_kabine_ermittler_leave_1#1;[Ohi knocks on the door.]
 spokentexts_a07_unterdeck_kabine_ermittler_leave_1_st_1_direction;through closed door
 spokentexts_a07_unterdeck_kabine_ermittler_leave_1_st_1;Entrez !
@@ -1160,7 +1160,7 @@ sequences_a07_unterdeck_kabine_ermittler_leave_3#1;[Ohi quickly looks around, op
 sequences_a07_unterdeck_kabine_ermittler_used_mit_draht#2;[Ohi knees down in front of the door, looks at the lock (Idle).]
 sequences_a07_unterdeck_kabine_ermittler_used_mit_draht#3;[Ohi takes out the wire, slides it into the lock.]
 sequences_a07_unterdeck_kabine_ermittler_used_mit_draht#4;[Minigame cracking_the_lock_inspector starts.]
-texts_a07_unterdeck_krankenstation_fenster_mo_ex_1__2;Examiner les fenêtres de l'infirmerie
+texts_a07_unterdeck_krankenstation_fenster_mo_ex_1__2;Examiner la vitre de l'infirmerie
 spokentexts_a07_unterdeck_krankenstation_fenster_ex_1_st_1;Nous avons de la chance que le Lydia ait une infirmerie bien remplie à sa disposition.
 spokentexts_a07_unterdeck_krankenstation_fenster_ex_1_st_2;J'imagine qu'elle a été ajoutée pendant la guerre. Un navire de cette taille ne devrait pas avoir une telle infirmerie.
 spokentexts_a07_unterdeck_krankenstation_fenster_ex_2_st_1;Le Docteur Gebhardt a fermé les rideaux de l'intérieur, à raison.
@@ -1168,8 +1168,8 @@ spokentexts_a07_unterdeck_krankenstation_fenster_ex_2_st_2;Qui voudrait rencontr
 texts_a07_unterdeck_krankenstation_tuer_mo_leave_1-3;Entrer dans l'infirmerie
 texts_a07_unterdeck_krankenstation_tuer_mo_leave_4;Ouvrir la porte de l'infirmerie
 texts_a07_unterdeck_krankenstation_tuer_mo_used_mit_draht_1__2;Crocheter la serrure de l'infirmerie
-spokentexts_a07_unterdeck_krankenstation_tuer_seq_a07_unterdeck_krankenstation_tuer_leave_4_st_1;Il est impossible que le Docteur Gebhardt ait tué la baronne. Il était à mes côtés quand le coup de feu a retenti.
-spokentexts_a07_unterdeck_krankenstation_tuer_seq_a07_unterdeck_krankenstation_tuer_leave_4_st_2;Mais il a bien dû remarquer que la baronne gisait dans une flaque de faux sang. Peut être qu'il couvre quelqu'un ?
+spokentexts_a07_unterdeck_krankenstation_tuer_seq_a07_unterdeck_krankenstation_tuer_leave_4_st_1;Il est impossible que le Docteur Gebhardt ait tué la Baronne. Il était à mes côtés quand le coup de feu a retenti.
+spokentexts_a07_unterdeck_krankenstation_tuer_seq_a07_unterdeck_krankenstation_tuer_leave_4_st_2;Mais il a bien dû remarquer que la Baronne gisait dans une flaque de faux sang. Peut être qu'il couvre quelqu'un ?
 spokentexts_a07_unterdeck_krankenstation_tuer_seq_a07_unterdeck_krankenstation_tuer_leave_4_st_3;Allons voir ça.
 sequences_a07_unterdeck_krankenstation_tuer_leave_4#3;[Here come the animations for how he kneels down etc., as usual. The door opens.]
 spokentexts_a07_unterdeck_krankenstation_tuer_seq_a07_unterdeck_krankenstation_tuer_leave_4_st_4;Bonjour ?
@@ -1190,7 +1190,7 @@ sequences_a07_unterdeck_krankenstation_tuer_used_mit_draht_2#1;[Ohi changes clot
 sequences_a07_unterdeck_krankenstation_tuer_used_mit_draht_2#2;"[Start Minigame ""Breaking_the_lock_hospital_ward"".]"
 texts_a07_unterdeck_pinnwand_mo_ex_1;Examiner la tableau
 spokentexts_a07_unterdeck_pinnwand_ex_1_st_1;Un plan d'évacuation et quelques conseils du docteur pour éviter le mal de mer, les coups de soleil et autres.
-spokentexts_a07_unterdeck_pinnwand_ex_1_st_2;Et ici ? Un programme d'activités... Un verre avec le capitaine, une compétition de jeu de palets sur le gaillard avant... C'est à peu près tout.
+spokentexts_a07_unterdeck_pinnwand_ex_1_st_2;Et là  ? Un programme d'activités... Un verre avec le capitaine, une compétition de jeu de palets sur le gaillard avant... C'est à peu près tout.
 spokentexts_a07_unterdeck_pinnwand_ex_1_st_3_direction;ironically
 spokentexts_a07_unterdeck_pinnwand_ex_1_st_3;Du rire en barre.
 texts_a07_unterdeck_schiffsmodell_mo_ex_1__2;Examiner le modèle réduit
@@ -1237,8 +1237,8 @@ spokentexts_a07_unterdeck_seq_a07_unterdeck_betreten_aus_richtung_krankenstation
 spokentexts_a07_unterdeck_seq_a07_unterdeck_betreten_aus_richtung_krankenstation_st_6;Bonne nuit Officier Zellner !
 sequences_a07_unterdeck_seq_a07_unterdeck_betreten_aus_richtung_treppensaal#0;[Ohi walks down the last steps, then stands in the normal position again.]
 sequences_a07_unterdeck_seq_a07_unterdeck_ermittler_verlaesst_kabine#0;[Ohi comes out of the cabin to talk to the inspector who follows him out of the cabin and who now wears a jacket, closes the door and locks it.]
-spokentexts_a07_unterdeck_seq_a07_unterdeck_ermittler_verlaesst_kabine_st_1;Nous n'avons aucune preuve que le Corbeau et le meurtrier sont la même personne.
-spokentexts_a07_unterdeck_seq_a07_unterdeck_ermittler_verlaesst_kabine_st_2;Au contraire, le message de la baronne indique qu'elle connaissait le meurtrier et qu'il avait déjà tué auparavant.
+spokentexts_a07_unterdeck_seq_a07_unterdeck_ermittler_verlaesst_kabine_st_1;Nous n'avons aucune preuve que le Corbeau et le meurtrier soit la même personne.
+spokentexts_a07_unterdeck_seq_a07_unterdeck_ermittler_verlaesst_kabine_st_2;Au contraire, le message de la Baronne indique qu'elle connaissait le meurtrier et qu'il avait déjà tué auparavant.
 sequences_a07_unterdeck_seq_a07_unterdeck_ermittler_verlaesst_kabine#3;[The inspector turns around, just wants to go for Ohi's throat, can barely pull himself together.]
 spokentexts_a07_unterdeck_seq_a07_unterdeck_ermittler_verlaesst_kabine_st_4_direction;angry
 spokentexts_a07_unterdeck_seq_a07_unterdeck_ermittler_verlaesst_kabine_st_4;Vous n'êtes peut être pas convaincu, mais je le suis ! Je vais l'attraper. Avec ou sans votre aide.
@@ -1265,7 +1265,7 @@ texts_araber_mo_1;Examiner l'arabe
 texts_araber_top_a07_araber_ablenkung_tseq_title;Distraction
 spokentexts_araber_top_a07_araber_ablenkung_tseq_st_1;Qui vous a payé pour nous distraire ?
 spokentexts_araber_top_a07_araber_ablenkung_tseq_st_2;Quoi ?
-spokentexts_araber_top_a07_araber_ablenkung_tseq_st_3;Vous êtes vous faire remarquer et marcher sur le pont. Tout le monde part à votre poursuite et pendant ce temps votre partenaire tue la baronne en paix !
+spokentexts_araber_top_a07_araber_ablenkung_tseq_st_3;Vous êtes vous faire remarquer et marcher sur le pont. Tout le monde part à votre poursuite et pendant ce temps votre partenaire tue la Baronne en paix !
 spokentexts_araber_top_a07_araber_ablenkung_tseq_st_4_direction;shocked, timid
 spokentexts_araber_top_a07_araber_ablenkung_tseq_st_4;Non ! Je n'ai rien fait ! Je ne voulais pas distraire qui que ce soit !
 spokentexts_araber_top_a07_araber_ablenkung_tseq_st_5_direction;quieter, depressed
@@ -1305,9 +1305,9 @@ texts_araber_top_a07_araber_was_wollte_er_an_deck_tseq_title;Meurtre
 spokentexts_araber_top_a07_araber_was_wollte_er_an_deck_tseq_st_1;Que cherchiez vous sur le pont hier soir ?
 spokentexts_araber_top_a07_araber_was_wollte_er_an_deck_tseq_st_2;Je me suis caché toute la soirée. Je voulais sortir et profiter de l'air frais. Voir les étoiles !
 spokentexts_araber_top_a07_araber_was_wollte_er_an_deck_tseq_st_3;Mais ensuite, tout à coup, ils étaient après moi.
-spokentexts_araber_top_a07_araber_was_wollte_er_an_deck_tseq_st_4;Etiez vous dans une des cabines ?
+spokentexts_araber_top_a07_araber_was_wollte_er_an_deck_tseq_st_4;Étiez-vous dans une des cabines ?
 spokentexts_araber_top_a07_araber_was_wollte_er_an_deck_tseq_st_5;Non!
-spokentexts_araber_top_a07_araber_was_wollte_er_an_deck_tseq_st_6;Avez vous vu quelqu'un sur le pont ou sur le toit ?
+spokentexts_araber_top_a07_araber_was_wollte_er_an_deck_tseq_st_6;Avez-vous vu quelqu'un sur le pont ou sur le toit ?
 spokentexts_araber_top_a07_araber_was_wollte_er_an_deck_tseq_st_7;Non.
 spokentexts_araber_top_a07_araber_was_wollte_er_an_deck_tseq_st_9;Et après votre arrestation ?
 spokentexts_araber_top_a07_araber_was_wollte_er_an_deck_tseq_st_10;Le policier anglais m'a mis dans cette cellule. Ensuite il est parti et je n'ai pas bougé depuis.
@@ -1331,8 +1331,8 @@ spokentexts_araber_ex_1__einmalig__st_2;Quand on a entendu le coup de feu, il é
 spokentexts_araber_ex_2__einmalig__danach_off__st_1;Il pourrait être responsable d ela bosse sur ma tête et peut être a-t-il aussi dérobé quelques trucs sur le buffet.
 spokentexts_araber_ex_2__einmalig__danach_off__st_2;Mais ce n'est pas un maître du crime.
 spokentexts_araber_ex_2__einmalig__danach_off__st_3;Quel dommage. J'espérais plus de cet interrogatoire. Legrand peut avoir son tour.
-texts_archaeologe_mo_ex_1;Examiner Mlle Miller and le Professeur Lucien.
-texts_archaeologe_mo_talk_mit_1__2;Parler à Mlle Miller and au Professeur Lucien
+texts_archaeologe_mo_ex_1;Examiner Mlle Miller et le Professeur Lucien.
+texts_archaeologe_mo_talk_mit_1__2;Parler à Mlle Miller et au Professeur Lucien
 texts_archaeologe_top_a07_archaeologe_der_schuft_tseq_title;La nuit dernière
 spokentexts_archaeologe_top_a07_archaeologe_der_schuft_tseq_st_1;"qui appelez vous ""le misérable""?"
 spokentexts_archaeologe_top_a07_archaeologe_der_schuft_tseq_st_2;"Ce clandestin ! Ce ""Nouveau Corbeau""!"
@@ -1340,7 +1340,7 @@ spokentexts_archaeologe_top_a07_archaeologe_der_schuft_tseq_st_3;Le jeune homme 
 spokentexts_archaeologe_top_a07_archaeologe_der_schuft_tseq_st_6;L'Officier Oliver l'avait déjà appréhendé avant que le coup de feu ne soit tiré.
 spokentexts_archaeologe_top_a07_archaeologe_der_schuft_tseq_st_7_direction;shocked
 spokentexts_archaeologe_top_a07_archaeologe_der_schuft_tseq_st_7;Vous voulez dire...
-spokentexts_archaeologe_top_a07_archaeologe_der_schuft_tseq_st_8;La responsable du meurtre de la baronne est toujours au large.
+spokentexts_archaeologe_top_a07_archaeologe_der_schuft_tseq_st_8;La responsable du meurtre de la Baronne est toujours libre comme l'air.
 spokentexts_archaeologe_top_a07_archaeologe_der_schuft_tseq_st_9_direction;shattered
 spokentexts_archaeologe_top_a07_archaeologe_der_schuft_tseq_st_9;Je crois...Je dois vous laisser. Je... J'aimerais me reposer un moment.
 sequences_archaeologe_top_a07_archaeologe_der_schuft_tseq#9;[The archaeologist stands up, takes a few steps towards the side deck.]
@@ -1349,12 +1349,12 @@ sequences_archaeologe_top_a07_archaeologe_der_schuft_tseq#11;[The archaeologist 
 texts_archaeologe_top_a07_archaeologe_schluessel_tseq_title;Clé du coffre
 spokentexts_archaeologe_top_a07_archaeologe_schluessel_tseq_st_1;Le coffre dans la cabine de Legrand ne peut être ouvert qu'avec trois clés, n'est ce pas ?
 spokentexts_archaeologe_top_a07_archaeologe_schluessel_tseq_st_2;C'est exact.
-spokentexts_archaeologe_top_a07_archaeologe_schluessel_tseq_st_3;Nous avons envoyé la première par avion à Monsieur Mokhtar de l'Egyptian Museum. J'en ai une et l'inspecteur a la troisième.
+spokentexts_archaeologe_top_a07_archaeologe_schluessel_tseq_st_3;Nous avons envoyé la première par avion à Monsieur Mokhtar du Musée Égyptien. J'en ai une et l'inspecteur a la troisième.
 spokentexts_archaeologe_top_a07_archaeologe_schluessel_tseq_st_4;Mais initialement quelqu'un d'autre était sensé garder la troisième clé, non ?
 spokentexts_archaeologe_top_a07_archaeologe_schluessel_tseq_st_5;Vous êtes bien informé, Officier !
-spokentexts_archaeologe_top_a07_archaeologe_schluessel_tseq_st_6;La baronne von Trebitz aurait dû la transporter.
+spokentexts_archaeologe_top_a07_archaeologe_schluessel_tseq_st_6;La Baronne von Trebitz aurait dû la transporter.
 spokentexts_archaeologe_top_a07_archaeologe_schluessel_tseq_st_7;Mais nous avions quelques... doutes. En conséquence, l'Inspecteur Legrand en a pris la charge.
-spokentexts_archaeologe_top_a07_archaeologe_schluessel_tseq_st_8;Etait-ce son idée ?
+spokentexts_archaeologe_top_a07_archaeologe_schluessel_tseq_st_8;Était-ce son idée ?
 spokentexts_archaeologe_top_a07_archaeologe_schluessel_tseq_st_9;Eh bien oui. On peut dire ça.
 spokentexts_archaeologe_top_a07_archaeologe_schluessel_tseq_st_12;Donc personne ne peut ouvrir le coffre ?
 spokentexts_archaeologe_top_a07_archaeologe_schluessel_tseq_st_13;Pas avant notre arrivée au Caire.
@@ -1367,7 +1367,7 @@ spokentexts_archaeologe_top_a07_archaeologe_schluessel_tseq_st_16;A plus tard !
 texts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_title;Oeil du Sphinx
 spokentexts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_st_1;Pensez vous que l'Oeil est suffisamment en sécurité dans le coffre de la cabine de Legrand ?
 spokentexts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_st_2;Bien sûr.
-spokentexts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_st_3;On m'a assuré que qu'il faudrait de l'équipement lourd et de nombreuses heures de travail pour le forcer.
+spokentexts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_st_3;On m'a assuré qu'il faudrait de l'équipement lourd et de nombreuses heures de travail pour le forcer.
 spokentexts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_st_4;Et si Legrand n'est pas dans sa cabine, l'Officer Oliver ou moi vérifions toutes les heures que tout est en ordre.
 spokentexts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_st_5_direction;thoughtfully
 spokentexts_archaeologe_top_a07_archaeologe_sicherheit_des_auges_tseq_st_5;Je vois...
@@ -1391,7 +1391,7 @@ spokentexts_arzt_top_a07_arzt_projektil_tseq_st_5;...que je m'efforce de produir
 spokentexts__seq_arzt_top_a07_arzt_projektil_tseq_st_6;Avez vous déjà extrait la balle ?
 spokentexts__seq_arzt_top_a07_arzt_projektil_tseq_st_7;Est-ce Legrand qui vous envoie ? Quel est donc le problème de ce français?
 spokentexts__seq_arzt_top_a07_arzt_projektil_tseq_st_8;Je vous ai déjà dit que je vous contacterais dès que je l'aurais.
-spokentexts_arzt_top_a07_arzt_projektil_tseq_st_6;J'ai dit la même chose à l'officer qu'il s'est obstiné à m'envoyer toute la nuit, après que je me sois débarassé de Legrand lui-même.
+spokentexts_arzt_top_a07_arzt_projektil_tseq_st_6;J'ai dit la même chose à l'Officier qu'il s'est obstiné à m'envoyer toute la nuit, après que je me sois débarrassé de Legrand lui-même.
 spokentexts_arzt_top_a07_arzt_projektil_tseq_st_7;Regardait-il par-dessus votre épaule ?
 spokentexts_arzt_top_a07_arzt_projektil_tseq_st_8;Il aurait certainement préféré me prendre le scalpel et tailler lui même ! Mais c'est MA chambre opératoire et je n'ai aucune intention de laisser des amateurs interférer dans mon travail.
 spokentexts_arzt_top_a07_arzt_projektil_tseq_st_9;C'est compréhensible. Dans combien de temps aurez vous terminé ?
@@ -1401,16 +1401,16 @@ sequences_arzt_top_a07_arzt_projektil_tseq#15;[The doctor takes a sachet from a 
 spokentexts_arzt_top_a07_arzt_projektil_tseq_st_11;Transmettez mon estime à Sa Majesté.
 sequences_arzt_top_a07_arzt_projektil_tseq#17;[Ohi takes the sachet, pockets it.]
 spokentexts_arzt_top_a07_arzt_projektil_tseq_st_12;Merci.
-texts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_title;La baronne droguée ?
-spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_1;Pensez vous que la baronne puisse avoir été droguée ?
+texts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_title;La Baronne droguée ?
+spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_1;Pensez-vous que la Baronne puisse avoir été droguée ?
 spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_2;Elle était très fatiguée et fébrile quand Legrand et moi l'avons vue.
 spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_3;J'ai entendu cela. J'ai dû la rater de peu dans le salon.
-spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_4;Et sans l'avoir vue, il est diffilce d'arriver à un diagnostic.
+spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_4;Et sans l'avoir vue, il est difficile d'arriver à un diagnostic.
 spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_5;Bien sûr. Pouvez vous nous parler de son état de santé général ?
 spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_6;Elle était largement en sur-poids et le majordome a dit qu'elle était atteinte de diabète. Malgré cela, elle n'avait pas été voir un docteur depuis plusieurs années.
 spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_7;Cela n'augure rien de bon.
 spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_8;Cela arrive plus fréquemment que vous ne pensez. Certaines personnes ont peur des docteurs et le paient avec une mort prématurée.
-spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_9;Il est possible que la baronne n'aurait guère vécu plus longtemps dans son état.
+spokentexts_arzt_top_a07_arzt_schlafmittel_baronin_tseq_st_9;Il est possible que la Baronne n'aurait guère vécu plus longtemps dans son état.
 texts_arzt_top_a07_arzt_schlafmittel_tseq_title;Drogues
 spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_1;On m'a dit que j'avais été drogué.
 spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_2;Il semblerait en effet.
@@ -1418,18 +1418,18 @@ spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_3;Vous pouvez m'en dire plus 
 spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_4_direction;surprised
 spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_4;Moi ?
 spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_5;En quoi est-ce de mon ressort ?
-spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_6;N'avez vous pas analysé le verre ?
+spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_6;N'avez-vous pas analysé le verre ?
 spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_7_direction;annoyed
 spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_7;Non.
 spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_8;L'Inspecteur a dit que, de nous deux, il était le meilleur chimiste.
 spokentexts_arzt_top_a07_arzt_schlafmittel_tseq_st_9;Je l'ai laissé faire. De cette façon, je peux me concentrer sur le corps !
 texts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_title;Analyser le corps
-spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_1;Qu'avez vous pu déterminer grâce à l'examination de la victime ?
+spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_1;Qu'avez-vous pu déterminer grâce à l'examination de la victime ?
 spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_2;Elle est morte.
 spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_3_direction;"annoyed, emphasis on ""I"""
 spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_3;Je ne suis pas celui qui vous a fait travailler toute la nuit, Docteur Gebhardt.
 spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_4;Hmrrmm.
-spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_5;On lui a tiré dessus. A bout portant, probablament avec un pistolet.
+spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_5;On lui a tiré dessus. A bout portant, probablement avec un pistolet.
 spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_6;Il semblerait qu'elle était allongée sur son lit. Le tir a touché son coeur. Elle est morte sur le coup.
 spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_7_direction;"emphasis on ""one"""
 spokentexts_arzt_top_a07_arzt_untersuchung_der_leiche_tseq_st_7;Un seul tir ?
@@ -1451,7 +1451,7 @@ spokentexts_arzt_top_a07_arzt_verabschieden_tseq_st_6;Pouvez vous dire ça à vo
 spokentexts_arzt_top_a07_arzt_verabschieden_tseq_st_7_direction;surprised, weak protest
 spokentexts_arzt_top_a07_arzt_verabschieden_tseq_st_7;Mais...
 sequences_arzt_top_a07_arzt_verabschieden_tseq#8;[The doctor pushes Ohi softly but decidedly towards the door, opens it and pushes Ohi outside. He follows straight after him, reaches into his trouser pocket to take out the keys.]
-texts_arzt_top_a07_arzt_wessen_glas_tseq_title;Whose glass did I drink from?
+texts_arzt_top_a07_arzt_wessen_glas_tseq_title;D'où venait le verre dans lequel j'ai bu ?
 spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_1;Savez vous dans quel verre j'ai bu ?
 spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_2;Que voulez vous dire ?
 spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_3;Le Capitaine di Conti m'a offert un verre de champagne. Mais où a-t-il pris ce verre ?
@@ -1464,21 +1464,21 @@ spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_8;Ce qui, avec le recul, est u
 spokentexts_arzt_top_a07_arzt_wessen_glas_tseq_st_9;Vous avez bien raison.
 texts_butler_mo_ex_1;Regarder le majordome
 texts_butler_mo_talk_1__2;Parler au majordome
-texts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_title;Consommation d'alcool de la barone
-spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_1;La baronne avait l'air complètement ivre quand je l'ai vue pour la dernière fois.
+texts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_title;Consommation d'alcool de la Baronne
+spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_1;La Baronne avait l'air complètement ivre quand je l'ai vue pour la dernière fois.
 spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_2_direction;überrascht
 spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_2;Vraiment ?
-spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_3;Cale vous surprend il ? La baronne ne buvait-elle pas ?
+spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_3;Cela vous surprend t-il ? La Baronne ne buvait-elle pas ?
 spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_4;Oh si, elle buvait... Ce n'était pas un secret.
 spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_5;Je vois.
 spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_6;Cette...habitude était-elle prononcée ?
 spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_7;Très prononcée, monsieur.
-spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_8;Etait-elle suivie médicalement ?
+spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_8;Était-elle suivie médicalement ?
 spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_9;Certainement pas, monsieur. Elle refusait résolument de voir un docteur.
 spokentexts_butler_top_a07_butler_alkoholkonsum_der_baronin_tseq_st_10;Comme beaucoup de femmes âgées, elle avait une aversion prononcée contre les hôpitaux et consorts.
 texts_butler_top_a07_butler_durchwuehlte_kabine_tseq_title;Cabine mise à sac
-spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_1;La cabine de la baronne semble avoir avoir été mise à sac...
-spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_2;En effet, monsieur. Par la baronne elle-même !
+spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_1;La cabine de la Baronne semble avoir avoir été mise à sac...
+spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_2;En effet, monsieur. Par la Baronne elle-même !
 spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_3_direction;surprised
 spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_3;Vraiment ?
 spokentexts_butler_top_a07_butler_durchwuehlte_kabine_tseq_st_4;Elle a cherché quelque chose tout l'après midi.
@@ -1493,25 +1493,25 @@ spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_schuss_tseq_st_3;No
 spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_schuss_tseq_st_4;Seulement l'alarme, monsieur.
 texts_butler_top_a07_butler_irgendwelche_beobachtungen_tseq_title;La nuit dernière
 spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_tseq_st_1;Avez vous remarqué quelque chose de suspect la nuit dernière ?
-spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_tseq_st_2;Non, monsieur. Une fois que la baronne est allée au salon, je suis parti sur le gaillard avant.
-spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_tseq_st_3;J'y suis resté jusqu'à ce que l'alarme ne sonne. Ensuite je suis arrivé sur le pont-promenade peu de temps après le Professeur Lucien et Mlle Miller.
+spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_tseq_st_2;Non, monsieur. Une fois que la Baronne est allée au salon, je suis parti sur le gaillard avant.
+spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_tseq_st_3;J'y suis resté jusqu'à ce que l'alarme sonne. Ensuite je suis arrivé sur le pont-promenade peu de temps après le Professeur Lucien et Mlle Miller.
 spokentexts_butler_top_a07_butler_irgendwelche_beobachtungen_tseq_st_4;Nous vous avons retrouvé là bas, avec l'Inspecteur Legrand. Vous étiez inconscient et l'inspecteur a demandé à ce que l'on s'occupe de vous.
 texts_butler_top_a07_butler_irgendwelche_freizeit_tseq_title;Temps de repos
-spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_3;Vous avez dit être sur le gaillard avant. On dirait que la baronne vous avait donné le reste de votre soirée ?
-spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_4;Pas complètement, monsieur. Un des membres d'équipage m'a informé que la baronne voulait qu'on vienne la chercher à dix heures moins dix.
+spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_3;Vous avez dit être sur le gaillard avant. On dirait que la Baronne vous avait donné le reste de votre soirée ?
+spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_4;Pas complètement, monsieur. Un des membres d'équipage m'a informé que la Baronne voulait qu'on vienne la chercher à dix heures moins dix.
 spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_5;Bien. Et pourquoi cela ?
-spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_6;Je suppose qu'elle voulait partager le succès de ce voyage avec la capitaine et les autres passagers.
+spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_6;Je suppose qu'elle voulait partager le succès de ce voyage avec le Capitaine et les autres passagers.
 spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_7;Elle n'avait pas l'intention de dormir alors ?
 spokentexts_butler_top_a07_butler_irgendwelche_freizeit_tseq_st_8;Elle n'était pas comme ça, monsieur. Elle avait beaucoup de... caractère, dirons nous... quand il s'agissait de rendez-vous sociaux et d'un ou deux glasses de champagne. She had a lot of... spirit, shall we say... when it came to social engagements and a glass or two of champagne.
 texts_butler_top_a07_butler_ordentliche_frau_tseq_title;Une femme bien ordonnée ?
-spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_1;Décririez vous la baronne comme quelqu'un de bien ordonné ?
+spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_1;Décririez-vous la Baronne comme quelqu'un de bien ordonné ?
 spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_4;Eh bien, elle... Elle avait beaucoup de responsabilités, monsieur.
-spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_3;Ca ne répond pas à ma question.
+spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_3;Ça ne répond pas à ma question.
 spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_5;Elle avait l'habitude d'emmener beaucoup de bagages lors de ses voyages. Et je l'aidais à s'en occuper du mieux possible.
 spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_6;Elle était toujours très en colère si quelque chose venait à manquer.
-spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_7;Que sont les des photos et les documents que j'ai vu dans sa cabine ?
-spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_9;Je ne peux vraiment pas vous dire. Ils étaient hors limite pour moi, monsieur.
-spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_11;Des mémoires de la guerre je dirais. Ils lui tenaient beaucoup à coeur.
+spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_7;Que sont les photos et les documents que j'ai vu dans sa cabine ?
+spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_9;Je ne peux vraiment pas vous dire. Elles étaient hors limite pour moi, monsieur.
+spokentexts_butler_top_a07_butler_ordentliche_frau_tseq_st_11;Des mémoires de la guerre je dirais. Elles lui tenaient très à coeur.
 texts_butler_top_a07_butler_steifer_arm_tseq_title;Bras handicapé
 spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_1;Puis je vous demander ce qui est arrivé à votre bras ?
 spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_2;Un souvenir de la guerre, monsieur.
@@ -1521,13 +1521,13 @@ spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_4;Si monsieur, évidemment
 spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_5_direction;a bit ashamed
 spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_5;Je ne voulais pas vous offenser.
 spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_6_direction;traurig
-spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_6;La baronne avait un petit faible pour les anciens combattants handicapés. Je pense qu'elle a dû beaucoup souffrir elle aussi.
+spokentexts_butler_top_a07_butler_steifer_arm_tseq_st_6;La Baronne avait un petit faible pour les anciens combattants handicapés. Je pense qu'elle a dû beaucoup souffrir elle aussi.
 texts_butler_top_a07_butler_verabschieden_tseq_title;Dire au revoir
 spokentexts_butler_top_a07_butler_verabschieden_tseq_st_1;Je pense que c'est tout pour le moment.
 spokentexts_butler_top_a07_butler_verabschieden_tseq_st_2;S'il vous plait monsieur, trouvez le meurtrier ! Vous devez prouver que je n'avais rien à voir dans tout cela ! 
 sequences_butler_top_a07_butler_verabschieden_tseq#2;[Butler goes back to his normal Idle.]
-texts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_title;Travail pour la baronne
-spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_1;Depuis combien de temps travailliez vous pour la baronne ?
+texts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_title;Travail pour la Baronne
+spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_1;Depuis combien de temps travailliez vous pour la Baronne ?
 spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_2;Six mois, monsieur.
 spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_3;Seulement six mois ?!
 spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_4;J'ai toujours cru que les majordomes accompagnaient leurs employeurs pendant des décennies !
@@ -1535,7 +1535,7 @@ spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_5;Les décennies
 spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_6;Mon prédécesseur n'était plus capable d'assumer les tâches requises. La goutte, monsieur.
 spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_7;Je comprends.
 spokentexts_butler_top_a07_butler_wie_lange_bei_baronin_tseq_st_8;J'ai obtenu le poste et espérait avoir assuré ma carrière pour les vingt prochaines années !
-spokentexts_butler_ex_1_st_1;"Le majordome de la baronne n'a pas l'air d'avoir beaucoup dormi. Je décrirais son visage comme ""inquiet""."
+spokentexts_butler_ex_1_st_1;"Le majordome de la Baronne n'a pas l'air d'avoir beaucoup dormi. Je décrirais son visage comme ""inquiet""."
 sequences_butler_ex_1#2;[The butler sits nervously in one of the arm chairs, rubs his hands over his thighs, runs his fingers through his hair from time to time, drums his fingers on the table etc.]
 spokentexts_butler_talk_1_st_1;Bonjour, Mr Inch.
 spokentexts_butler_talk_1_st_2;Oh, Officier. Bonjour.
@@ -1550,7 +1550,7 @@ spokentexts_butler_talk_1_st_14;Si !
 spokentexts_butler_talk_1_st_15;Mais dans le cas contraire ? Qui d'autre pourraient ils accuser ?!
 spokentexts_butler_talk_1_st_16;Il n'y a aucun jardinier à bord !
 spokentexts_butler_talk_1_st_17_direction;amused
-spokentexts_butler_talk_1_st_17;Heh. Je comprends votre problème.
+spokentexts_butler_talk_1_st_17;Hé. Je comprends votre problème.
 spokentexts_butler_talk_1_st_18;Vu les circonstances, je suis certain que vous voudrez bien répondre à quelques questions qui pourraient vous innnocenter, n'est ce pas ?
 spokentexts_butler_talk_1_st_19;Bien sûr !
 spokentexts_butler_talk_2_st_1;J'ai d'autres questions à vous poser, Mr Inch.
@@ -1560,8 +1560,8 @@ texts_ermittler_mo_ex_1__2;Regarder l'Inspecteur Legrand
 texts_ermittler_mo_used_mit_kissenbezug_1;Montrer la taie d'oreiller brûlée à Legrand
 texts_ermittler_mo_used_mit_patrone_1;Montrer la balle à Legrand
 texts_ermittler_top_a07_ermittler_blutfleck_tseq_title;Tâche de sang
-spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_1;J'ai observé plus précisément la tâche de sang sur le lit de la baronne.
-spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_2;J'ai pris un échantillon du sang sur le lit de la baronne. Il y a quelque chose qui me dérange.
+spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_1;J'ai observé plus précisément la tâche de sang sur le lit de la Baronne.
+spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_2;J'ai pris un échantillon du sang sur le lit de la Baronne. Il y a quelque chose qui me dérange.
 spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_3;Oui ? Qu'est ce qui cloche ?
 spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_4;Il a l'air...bizarre.
 spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_5_direction;doubtful
@@ -1576,10 +1576,10 @@ spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_10;Et vous faites comp
 spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_11_direction;somewhat threatening
 spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_11;Je fais confiance à quiconque dans les limites du raisonnable.
 spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_12;Il y aura une autopsie complète à notre arrivée au Caire. En attendant, le docteur est un des rares individus qui n'est pas considéré comme un suspect.
-spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_13;Vous, lui, le clandestin, Officier Oliver and moi même avons tous des alibis.
+spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_13;Vous, lui, le clandestin, Officier Oliver et moi même avons tous des alibis.
 spokentexts_ermittler_top_a07_ermittler_blutfleck_tseq_st_15;A côté de cela, il reste suffisamment de suspects disponibles.
 texts_ermittler_top_a07_ermittler_daunen_tseq_title;Plumes
-spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_1;J'ai trouvé des plumes dans la cabine de la baronne !
+spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_1;J'ai trouvé des plumes dans la cabine de la Baronne !
 spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_2_direction;uninterested
 spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_2;Vraiment ?
 spokentexts_ermittler_top_a07_ermittler_daunen_tseq_st_3;Oui, sous son lit !
@@ -1601,9 +1601,9 @@ spokentexts_ermittler_top_a07_ermittler_geiger_tseq_st_2;C'est la première pers
 spokentexts_ermittler_top_a07_ermittler_geiger_tseq_st_3;Il assure n'avoir aucun souvenir des dernières heures. Il aurait englouti une bouteille de schnapps.
 spokentexts_ermittler_top_a07_ermittler_geiger_tseq_st_4;Il était dans le train et il n'a aucun alibi. Son état d'ébriété n'est peut être qu'une ruse. 
 spokentexts_ermittler_top_a07_ermittler_geiger_tseq_st_5_direction;confirming
-spokentexts_ermittler_top_a07_ermittler_geiger_tseq_st_5;Il colle au profil. Il voyage beaucoup, fréquente les hautes sphères de la sociétée... Ca pourrait être intéressant.
+spokentexts_ermittler_top_a07_ermittler_geiger_tseq_st_5;Il colle au profil. Il voyage beaucoup, fréquente les hautes sphères de la société... Ca pourrait être intéressant.
 texts_ermittler_top_a07_ermittler_notiz_tseq_title;Note
-spokentexts_ermittler_top_a07_ermittler_notiz_tseq_st_1;Je suis parvennu à rendre lisible les marques sur le bloc-notes de la baronne !
+spokentexts_ermittler_top_a07_ermittler_notiz_tseq_st_1;Je suis parvenu à rendre lisible les marques sur le bloc-notes de la Baronne !
 spokentexts_ermittler_top_a07_ermittler_notiz_tseq_st_2;Elle a écrit q'un meurtrier était à bord et et qu'elle allait le démasquer. Elle demandait ensuite au destinataire de la retrouver dans la salon à 22 heures.
 spokentexts_ermittler_top_a07_ermittler_notiz_tseq_st_3;Si vous nous parvenons à trouver qui est le destinataire...
 spokentexts_ermittler_top_a07_ermittler_notiz_tseq_st_4;C'était moi.
@@ -1620,11 +1620,11 @@ spokentexts_ermittler_top_a07_ermittler_notiz_tseq_st_10_direction;distant
 spokentexts_ermittler_top_a07_ermittler_notiz_tseq_st_10;Pas vraiment. Vous m'assistez jusqu'à ce que nous arrivions au Caire car vous êtes parvenus à rester à bord.
 spokentexts_ermittler_top_a07_ermittler_notiz_tseq_st_11;Mais...
 spokentexts_ermittler_top_a07_ermittler_notiz_tseq_st_12_direction;emphatically
-spokentexts_ermittler_top_a07_ermittler_notiz_tseq_st_12;Avec qui et quand je paratge mes informations reste à mon entière discrétion.
-spokentexts_ermittler_top_a07_ermittler_notiz_tseq_st_13;Soit vous acceptez ceci et vous pouvez continuer à m'assister, soit vous pouvez pvous prélasser sur une chaise-longue pendant le reste du voyage et réfléchir aux actes manqués.
+spokentexts_ermittler_top_a07_ermittler_notiz_tseq_st_12;Avec qui et quand je partage mes informations reste à mon entière discrétion.
+spokentexts_ermittler_top_a07_ermittler_notiz_tseq_st_13;Soit vous acceptez ceci et vous pouvez continuer à m'assister, soit vous pouvez vous prélasser sur une chaise-longue pendant le reste du voyage et réfléchir aux actes manqués.
 spokentexts_ermittler_top_a07_ermittler_notiz_tseq_st_14_direction;upset, cheeky
 spokentexts_ermittler_top_a07_ermittler_notiz_tseq_st_14;Et rien de tout cela n'est lié au fait que ces informations ne collent pas avec votre théorie sur le Corbeau ?
-spokentexts_ermittler_top_a07_ermittler_notiz_tseq_st_15;La baronne avait rencontré le meurtrier par le passé. Et cette personne était déjà un meurtrier quand il a embarqué. Le Corbeau n'a toujours été qu'un voleur, jamais un meurtrier !
+spokentexts_ermittler_top_a07_ermittler_notiz_tseq_st_15;La Baronne avait rencontré le meurtrier par le passé. Et cette personne était déjà un meurtrier quand il a embarqué. Le Corbeau n'a toujours été qu'un voleur, jamais un meurtrier !
 spokentexts_ermittler_top_a07_ermittler_notiz_tseq_st_16_direction;dangerously
 spokentexts_ermittler_top_a07_ermittler_notiz_tseq_st_16;Faîtes attention, Officier. M'accusez vous de fausser les faits ?
 spokentexts_ermittler_top_a07_ermittler_notiz_tseq_st_17_direction;chickens out
@@ -1634,27 +1634,27 @@ texts_ermittler_top_a07_ermittler_rabe_der_juwelendieb_tseq_title;Le Corbeau vol
 spokentexts_ermittler_top_a07_ermittler_rabe_der_juwelendieb_tseq_st_1_direction;carefully
 spokentexts_ermittler_top_a07_ermittler_rabe_der_juwelendieb_tseq_st_1;Pensez vous... pensez vous vraiment que le Corbeau est derrière tout ça ?
 spokentexts_ermittler_top_a07_ermittler_rabe_der_juwelendieb_tseq_st_2;Il a écrit la lettre posée sur le coffre dans le train. Sans elle, nous n'aurions pas ouvert le coffre et la bombe n'aurait pas explosé.
-spokentexts_ermittler_top_a07_ermittler_rabe_der_juwelendieb_tseq_st_3;Mais... Ca ne lui ressemble pas pourtant. Le Corbeau était célèbre pour n'avoir jamais blssé, et encore moins tué, quiconque lors de ses cambriolages.
+spokentexts_ermittler_top_a07_ermittler_rabe_der_juwelendieb_tseq_st_3;Mais... Ça ne lui ressemble pas pourtant. Le Corbeau était célèbre pour n'avoir jamais blessé, et encore moins tué, quiconque lors de ses cambriolages.
 spokentexts_ermittler_top_a07_ermittler_rabe_der_juwelendieb_tseq_st_4;"C'est son écriture. Et il m'a appelé ""Nico"". Personne d'autre ne le fait."
 spokentexts_ermittler_top_a07_ermittler_rabe_der_juwelendieb_tseq_st_5_direction;quietly in the end
 spokentexts_ermittler_top_a07_ermittler_rabe_der_juwelendieb_tseq_st_5;J'ai pourchassé cet homme pendant des années à travers l'Europe. C'EST LUI. Ca ne peut être que lui.
 spokentexts_ermittler_top_a07_ermittler_rabe_der_juwelendieb_tseq_st_6_direction;trying to protest
 spokentexts_ermittler_top_a07_ermittler_rabe_der_juwelendieb_tseq_st_6;Mais les preuves...
 spokentexts_ermittler_top_a07_ermittler_rabe_der_juwelendieb_tseq_st_7_direction;strictly, interrupts him
-spokentexts_ermittler_top_a07_ermittler_rabe_der_juwelendieb_tseq_st_7;Ca suffit.
+spokentexts_ermittler_top_a07_ermittler_rabe_der_juwelendieb_tseq_st_7;Ça suffit.
 texts_ermittler_top_a07_ermittler_rabe_taeter_tseq_title;Le voleur de bijoux le meurtrier ?
 spokentexts_ermittler_top_a07_ermittler_rabe_taeter_tseq_st_1;Vous pensez que le voleur de bijoux est le meurtrier ?
 sequences_ermittler_top_a07_ermittler_rabe_taeter_tseq#8;[The inspector points at the safe (Idle).]
-spokentexts_ermittler_top_a07_ermittler_rabe_taeter_tseq_st_10;Notre ami aurait eu besoin d'une autre clé pour ouvrir le coffre et dérober le second Oeil, celle de la baronne.
+spokentexts_ermittler_top_a07_ermittler_rabe_taeter_tseq_st_10;Notre ami aurait eu besoin d'une autre clé pour ouvrir le coffre et dérober le second Oeil, celle de la Baronne.
 sequences_ermittler_top_a07_ermittler_rabe_taeter_tseq#13;[The inspector stands normal again.]
 spokentexts_ermittler_top_a07_ermittler_rabe_taeter_tseq_st_13_direction;barely controlled
 spokentexts_ermittler_top_a07_ermittler_rabe_taeter_tseq_st_13;En tout cas, c'est ce que nous avons laissé entendre.
 spokentexts_ermittler_top_a07_ermittler_rabe_taeter_tseq_st_15;Que voulez vous dire ?
 sequences_ermittler_top_a07_ermittler_rabe_taeter_tseq#4;[The inspector shows Ohi a key.]
-spokentexts_ermittler_top_a07_ermittler_rabe_taeter_tseq_st_14;La baronne était connue comme très étourdie. J'ai l'ai convaincue de me donner la troisième clé.
+spokentexts_ermittler_top_a07_ermittler_rabe_taeter_tseq_st_14;La Baronne était connue comme très étourdie. Je l'ai convaincue de me donner la troisième clé.
 spokentexts_ermittler_top_a07_ermittler_rabe_taeter_tseq_st_16_direction;grim, reproaching himself
 spokentexts_ermittler_top_a07_ermittler_rabe_taeter_tseq_st_16;Cela semblait plus sûr... pour l'Oeil.
-spokentexts_ermittler_top_a07_ermittler_rabe_taeter_tseq_st_19;Le voleur fouille la cabine de la baronne à la recherche de la troisième clé...
+spokentexts_ermittler_top_a07_ermittler_rabe_taeter_tseq_st_19;Le voleur fouille la cabine de la Baronne à la recherche de la troisième clé...
 spokentexts_ermittler_top_a07_ermittler_rabe_taeter_tseq_st_20;Elle rentre du salon plus tôt que prévu...
 spokentexts_ermittler_top_a07_ermittler_rabe_taeter_tseq_st_21;...le surprend... et il ne peut pas se permettre de la laisser l'identifier.
 spokentexts_ermittler_top_a07_ermittler_rabe_taeter_tseq_st_22;Il la séquestre jusqu'à ce qu'une ouverture se profile et ensuite il lui tire dessus.
@@ -1681,14 +1681,14 @@ spokentexts_ermittler_top_a07_ermittler_schlafmittel_antwort3_tseq_st_8_directio
 spokentexts_ermittler_top_a07_ermittler_schlafmittel_antwort3_tseq_st_8;Le docteur Gebhardt ? C'est son verre que le Capitaine m'a donné.
 spokentexts_ermittler_top_a07_ermittler_schlafmittel_antwort3_tseq_st_9;Hmm. Un docteur d'équipage inconscient... Ce serait plus utile à un meurtrier qu'un officier évanoui.
 spokentexts_ermittler_top_a07_ermittler_schlafmittel_antwort3_tseq_st_10_direction;doubtful
-spokentexts_ermittler_top_a07_ermittler_schlafmittel_antwort3_tseq_st_10;Vraiment ? Le meurtrier aurait donc pensé que son tir n'allait pas tuer la baronne sur le coup, et que le Docteur Gebhardt allait avoir le temps de la sauver ?
+spokentexts_ermittler_top_a07_ermittler_schlafmittel_antwort3_tseq_st_10;Vraiment ? Le meurtrier aurait donc pensé que son tir n'allait pas tuer la Baronne sur le coup, et que le Docteur Gebhardt allait avoir le temps de la sauver ?
 spokentexts_ermittler_top_a07_ermittler_schlafmittel_antwort3_tseq_st_11_direction;thoughtfully
 spokentexts_ermittler_top_a07_ermittler_schlafmittel_antwort3_tseq_st_11;Vous avez raison. C'est improbable.
 spokentexts_ermittler_top_a07_ermittler_schlafmittel_antwort3_tseq_st_12_direction;jokingly
 spokentexts_ermittler_top_a07_ermittler_schlafmittel_antwort3_tseq_st_12;Mon égo cherche simplement des raisons expliquant qu'on veule la tuer ELLE et pas MOI !
 spokentexts_ermittler_top_a07_ermittler_schlafmittel_antwort3_tseq_st_13;Bon travail, Zellner.
 texts_ermittler_top_a07_ermittler_schlafmittel_erstmalig_tseq_title;Drogues
-spokentexts_ermittler_top_a07_ermittler_schlafmittel_erstmalig_tseq_st_1;Et cet...hydrate de chloral ?
+spokentexts_ermittler_top_a07_ermittler_schlafmittel_erstmalig_tseq_st_1;Et cet... Hydrate de chloral ?
 spokentexts_ermittler_top_a07_ermittler_schlafmittel_erstmalig_tseq_st_2;... est un sédatif. Peut être dissout dans l'alcool. Il fait effet en à peine quelques minutes et dure pendant plusieurs heures.
 spokentexts_ermittler_top_a07_ermittler_schlafmittel_erstmalig_tseq_st_3;Qui vous a donné le verre de champagne ?
 texts_ermittler_top_a07_ermittler_schlafmittel_tseq_title;Sédatif
@@ -1696,11 +1696,11 @@ spokentexts_ermittler_top_a07_ermittler_schlafmittel_tseq_st_1;A propose du séd
 spokentexts_ermittler_top_a07_ermittler_schlafmittel_tseq_st_2;Savez vous comment le verre a atterri dans vos mains ?
 spokentexts_ermittler_top_a07_ermittler_schlafmittel_tseq_st_3;Pas encore.
 spokentexts_ermittler_top_a07_ermittler_schlafmittel_tseq_st_4_direction;annoyed
-spokentexts_ermittler_top_a07_ermittler_schlafmittel_tseq_st_4;Donc vous devriez arrêter de me faire perdre mon temps and retournez au travail !
+spokentexts_ermittler_top_a07_ermittler_schlafmittel_tseq_st_4;Donc vous devriez arrêter de me faire perdre mon temps et retournez au travail !
 spokentexts_ermittler_top_a07_ermittler_schlafmittel_tseq_st_6;Qui vous a donné la verre de champagne ?
 texts_ermittler_top_a07_ermittler_stand_der_ermittlungen_tseq_title;Circonstances du crime
 spokentexts_ermittler_top_a07_ermittler_stand_der_ermittlungen_tseq_st_1;Qu'avez vous découvert jusqu'à présent ?
-spokentexts_ermittler_top_a07_ermittler_stand_der_ermittlungen_tseq_st_2;La baronne a été tué d'une balle dans la poitrine à bout-portant. Nous avons entendu le coup de feu.
+spokentexts_ermittler_top_a07_ermittler_stand_der_ermittlungen_tseq_st_2;La Baronne a été tué d'une balle dans la poitrine à bout-portant. Nous avons entendu le coup de feu.
 spokentexts_ermittler_top_a07_ermittler_stand_der_ermittlungen_tseq_st_3;Le meurtrier a fui la cabine rapidement et jeté l'arme du crime plus tard par dessus la rambarde. Une histoire simple pour le moment.
 spokentexts_ermittler_top_a07_ermittler_stand_der_ermittlungen_tseq_st_4;Mais pourquoi la porte de la cabine était-elle verrouillée ?
 spokentexts_ermittler_top_a07_ermittler_stand_der_ermittlungen_tseq_st_5;Précisément. Si le meurtrier avait voulu faire croire au suicide, il lui aurait tiré dans la tête et aurait laissé l'arme sur la scène du crime.
@@ -1712,17 +1712,17 @@ spokentexts_ermittler_top_a07_ermittler_stand_der_ermittlungen_tseq_st_11;Parfai
 texts_ermittler_top_a07_ermittler_tatwaffe_art_tseq_title;Type d'arme à feu
 spokentexts_ermittler_top_a07_ermittler_tatwaffe_art_tseq_st_1;Quel est ce type d'arme ?
 spokentexts_ermittler_top_a07_ermittler_tatwaffe_art_tseq_st_2;Un pistolet. Un Luger 08.
-spokentexts_ermittler_top_a07_ermittler_tatwaffe_art_tseq_st_3;Un Luger 08 ? David Kreutzer, le violiniste, en possède un !
+spokentexts_ermittler_top_a07_ermittler_tatwaffe_art_tseq_st_3;Un Luger 08 ? David Kreutzer, le violoniste, en possède un !
 spokentexts_ermittler_top_a07_ermittler_tatwaffe_art_tseq_st_4;Une antiquité...
 spokentexts_ermittler_top_a07_ermittler_tatwaffe_art_tseq_st_5;Fabriqué un million de fois pendant et après la 1ère Guerre Mondiale. Modèle autrichien.
-spokentexts_ermittler_top_a07_ermittler_tatwaffe_art_tseq_st_6;Le propriétaire est David Kreutzer, le violiniste.
+spokentexts_ermittler_top_a07_ermittler_tatwaffe_art_tseq_st_6;Le propriétaire est David Kreutzer, le violoniste.
 spokentexts_ermittler_top_a07_ermittler_tatwaffe_art_tseq_st_7;On l'a trouvé hier soir à la proue du navire, complètement ivre. Il a confirmé que c'était bien son pistolet. Mais il assure qu'on le lui avait volé.
 spokentexts_ermittler_top_a07_ermittler_tatwaffe_art_tseq_st_8;Des empreintes ?
 spokentexts_ermittler_top_a07_ermittler_tatwaffe_art_tseq_st_9;Rien du tout.
 spokentexts_ermittler_top_a07_ermittler_tatwaffe_art_tseq_st_10;Par contre, il manquait DEUX balles dans le chargeur.
 spokentexts_ermittler_top_a07_ermittler_tatwaffe_art_tseq_st_11;Hmm. Et nous sommes sûrs que c'est bien l'arme du crime ?
 spokentexts_ermittler_top_a07_ermittler_tatwaffe_art_tseq_st_12;Les examens balistiques sont incomplets.
-spokentexts_ermittler_top_a07_ermittler_tatwaffe_art_tseq_st_13;D'ailleurs cela fait trop longtemps que j'attends de recevoir la belle extraite du corps.
+spokentexts_ermittler_top_a07_ermittler_tatwaffe_art_tseq_st_13;D'ailleurs cela fait trop longtemps que j'attends de recevoir la balle extraite du corps.
 spokentexts_ermittler_top_a07_ermittler_tatwaffe_art_tseq_st_14;Allez donc rendre visite au docteur, Zellner, et assurez vous qu'il fasse son travail !
 texts_ermittler_top_a07_ermittler_tatwaffe_projektil_erstmalig_tseq_title;Balle
 spokentexts__seq_ermittler_top_a07_ermittler_tatwaffe_projektil_erstmalig_tseq_st_1;A propos de la balle...
@@ -1739,14 +1739,14 @@ spokentexts_ermittler_top_a07_ermittler_tatwaffe_projektil_erstmalig_tseq_st_11_
 spokentexts_ermittler_top_a07_ermittler_tatwaffe_projektil_erstmalig_tseq_st_11;Ne voulez vous pas l'observer plus en détail ?
 spokentexts_ermittler_top_a07_ermittler_tatwaffe_projektil_erstmalig_tseq_st_12;Quand j'aurai le temps.
 spokentexts_ermittler_top_a07_ermittler_tatwaffe_projektil_erstmalig_tseq_st_13;En attendant, nous pouvons supposer être en possession de l'arme du crime. Je doute qu'il y ait beaucoup d'authentiques pistolets Luger 8 à bord.
-spokentexts_ermittler_top_a07_ermittler_tatwaffe_projektil_erstmalig_tseq_st_14;Puis-je jeter un oeil à la cabine de la baronne ?
+spokentexts_ermittler_top_a07_ermittler_tatwaffe_projektil_erstmalig_tseq_st_14;Puis-je jeter un oeil à la cabine de la Baronne ?
 texts_ermittler_top_a07_ermittler_tatwaffe_projektil_tseq_title;Balle
 spokentexts_ermittler_top_a07_ermittler_tatwaffe_projektil_tseq_st_2;Le Docteur Gebhardt vous l'a-t-il donnée ?
 sequences_ermittler_top_a07_ermittler_tatwaffe_projektil_tseq#7;[Ohi reaches into his bag, takes out the sachet.]
 spokentexts_ermittler_top_a07_ermittler_tatwaffe_projektil_tseq_st_6;La voilà.
 sequences_ermittler_top_a07_ermittler_tatwaffe_projektil_tseq#10;[Ohi goes to the inspector hands him the projectile. The inspector takes it, looks into the sachet.
 sequences_ermittler_top_a07_ermittler_tatwaffe_projektil_tseq#12;[The inspector closes the sachet, puts it aside.]
-spokentexts_ermittler_top_a07_ermittler_tatwaffe_projektil_tseq_st_12;Puis-je jeter un oeil à la cabine de la baronne ?
+spokentexts_ermittler_top_a07_ermittler_tatwaffe_projektil_tseq_st_12;Puis-je jeter un oeil à la cabine de la Baronne ?
 texts_ermittler_top_a07_ermittler_tatwaffe_tseq_title;Arme du crime
 spokentexts_ermittler_top_a07_ermittler_tatwaffe_tseq_st_1;Avez vous trouvé l'arme du crime ?
 spokentexts_ermittler_top_a07_ermittler_tatwaffe_tseq_st_2;Et l'arme du crime ?
@@ -1790,13 +1790,13 @@ spokentexts_ermittler_ex_2_st_1_direction;makes a decision
 spokentexts_ermittler_ex_2_st_1;Legrand va se concentrer sur les interrogatoires et moi sur l'enquête.
 spokentexts_ermittler_ex_2_st_2;Je ne vais pas lui reparler avant de pouvoir lui amener le meurtrier.
 spokentexts_ermittler_ex_3_st_1;Tant qu'il est occupé ici à interroger les passagers, je peux aller dans sa cabine et analyser la balle de la soute.
-spokentexts_ermittler_ex_3_st_2;La balle de la soute a été tirée par la même arme que celle qui a tué la baronne.
+spokentexts_ermittler_ex_3_st_2;La balle de la soute a été tirée par la même arme que celle qui a tué la Baronne.
 spokentexts_ermittler_ex_3_st_3;Une avancée importante, mais je ne suis toujours pas en mesure d'annoncer l'identité du meurtrier à Legrand. Il me faut plus de preuves !
 spokentexts_ermittler_ex_3_st_4;J'hésite à informer Legrand à propos du faux sang. Mais... il vaudrait mieux que je puisse lui amener le meurtrier.
-spokentexts_ermittler_ex_3_st_5;Je ferais bien de jeter un oeil au corps de la baronne et de tester mes théories.
+spokentexts_ermittler_ex_3_st_5;Je ferais bien de jeter un oeil au corps de la Baronne et de tester mes théories.
 texts_frau_mo_ex_1;Regarder Mlle Mayers
 texts_frau_mo_talk_mit_1-3;Parler à Mlle Mayers
-texts_frau_top_a07_frau_beobachtungen_tseq_title;Evènements
+texts_frau_top_a07_frau_beobachtungen_tseq_title;Évènements
 spokentexts_frau_top_a07_frau_beobachtungen_tseq_st_1;Avez vous vu ou entendu quelque chose de particulier hier soir ?
 spokentexts_frau_top_a07_frau_beobachtungen_tseq_st_2;Non. Je ne me sentais pas très bien hier soir. Je suis allé me coucher rapidement.
 spokentexts_frau_top_a07_frau_beobachtungen_tseq_st_3;Et vous vous sentez mieux ce matin ?
@@ -1807,7 +1807,7 @@ spokentexts_frau_top_a07_frau_eltern_tseq_st_2;Peut être, mais je ne suis plus 
 spokentexts_frau_top_a07_frau_eltern_tseq_st_3;Et puis penser à mon fiancé me maintient à flots.
 spokentexts_frau_top_a07_frau_eltern_tseq_st_4_direction;surprised
 spokentexts_frau_top_a07_frau_eltern_tseq_st_4;Vous... Vous êtes fiancée ?
-spokentexts_frau_top_a07_frau_eltern_tseq_st_5;Oui. Mon pétit ami et moi nous sommes fiancés juste avant le voyage. Je veux faire la surprise à mes parents. Surtout mon père !
+spokentexts_frau_top_a07_frau_eltern_tseq_st_5;Oui. Mon petit ami et moi nous sommes fiancés juste avant le voyage. Je veux faire la surprise à mes parents. Surtout mon père !
 spokentexts_frau_top_a07_frau_eltern_tseq_st_6;Je suis sûr qu'il sera très surpris !
 spokentexts_frau_top_a07_frau_eltern_tseq_st_7;Mais que ferez vous si votre père s'oppose aux fiançailles ?
 spokentexts_frau_top_a07_frau_eltern_tseq_st_8;Quel choix a-t-il ? Surtout quand c'est lui qui m'a laissée sur un bateau rempli de voleurs et de meurtriers ?
@@ -1820,7 +1820,7 @@ spokentexts_frau_top_a07_frau_sonnen_tseq_st_3;Une femme a été tuée la nuit d
 spokentexts_frau_top_a07_frau_sonnen_tseq_st_4;Si s'abstenir de bronzer pouvait la ramener à la vie je rentrerais dans ma cabine sur le champ !
 texts_frau_top_a07_frau_verabschieden_tseq_title;Dire au revoir
 spokentexts_frau_top_a07_frau_verabschieden_tseq_st_1;Profitez bien du soleil, Mlle Mayers. J'espère qu'on ne vous dérangera pas trop.
-spokentexts_frau_top_a07_frau_verabschieden_tseq_st_2;Si vous essayez de me faire culpabiliser, Officer, sachez que ce n'est très efficace.
+spokentexts_frau_top_a07_frau_verabschieden_tseq_st_2;Si vous essayez de me faire culpabiliser, Officier, sachez que ce n'est très efficace.
 spokentexts_frau_ex_1_st_1;Mlle Mayers semble avoir trouvé l'occasion de ne rien faire.
 sequences_frau_ex_1#3;[The young woman lies on the sunbed with her eyes closed and sunbathes.(Idle).]
 spokentexts_frau_talk_mit_1_st_1;Bonjour, Mlle Mayers.
@@ -1862,7 +1862,7 @@ spokentexts_junge_top_a07_junge_leave_tseq_st_2;D'accord.
 sequences_junge_top_a07_junge_leave_tseq#4;[End of the dialogue, continues at the forecastle.]
 texts_junge_top_a07_junge_seine_mom_tseq_title;Sa mère
 spokentexts_junge_top_a07_junge_seine_mom_tseq_st_1;On m'a dit que ta mère et toi vous disputiez beaucoup ?
-spokentexts_junge_top_a07_junge_seine_mom_tseq_st_2;Avant oui. Rien n'allait. La maison, l'écolé, les autres enfants...
+spokentexts_junge_top_a07_junge_seine_mom_tseq_st_2;Avant oui. Rien n'allait. La maison, l'école, les autres enfants...
 spokentexts_junge_top_a07_junge_seine_mom_tseq_st_3;Nous avions pas beaucoup d'argent et j'étais toujours tout seul.
 spokentexts_junge_top_a07_junge_seine_mom_tseq_st_4;Mais tu sais bien que ta mère aurait préféré être à tes côtés, n'est ce pas ? Elle devait aller travailler, pour gagner de l'argent.
 spokentexts_junge_top_a07_junge_seine_mom_tseq_st_5;Elle n'en aurait pas eu besoin si... si Papa était resté.
@@ -1875,7 +1875,7 @@ spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_1;Allons y !
 spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_2_direction;is happy
 spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_2;Oh oui !
 spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_3;Pour quoi joue-t-on ?
-spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_4;Err... Je pensais juste jouer pour s'amuser...
+spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_4;Euhh... Je pensais juste jouer pour s'amuser...
 spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_5_direction;reproachfully
 spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_5;C'est nul !
 spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_6;On doit parier quelque chose ! Sinon ce n'est pas amusant !
@@ -1886,8 +1886,8 @@ spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_9;Je ne veux pas rien me
 spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_10;Pourquoi pas une glace au Caire ?
 spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_11;OK. Si je gagne, le lance-pierre est à moi, si je perds j'ai droit à une glace à notre arrivée au Caire.
 spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_12_direction;acting upset
-spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_12;Hey !
-spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_13;N'essayez jamais de tricher contre Matt Miller! Alors qu'ets ce que vous en pensez ? Glace contre lance-pierre ?
+spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_12;Hé !
+spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_13;N'essayez jamais de tricher contre Matt Miller ! Alors qu'est-ce que vous en pensez ? Glace contre lance-pierre ?
 spokentexts_junge_top_a07_junge_spiel_antwort_1_tseq_st_14;Hmm. Très bien. Que le jeu commence !
 texts_junge_top_a07_junge_spiel_antwort_2_tseq_title;Les règles
 spokentexts_junge_top_a07_junge_spiel_antwort_2_tseq_st_1;Tu devrais commencer par m'expliquer les règles...
@@ -1916,7 +1916,7 @@ spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_3;Je n'y ai jamais joué
 spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_4;C'est facile. Le Professeur Lucien m'a expliqué comment faire.
 spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_5;Et qui a gagné ?
 spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_6;Nous n'avons pas joué.
-spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_7;Tu ne veux pas jouer avec lui, n'ets ce pas ?
+spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_7;Tu ne veux pas jouer avec lui, n'est-ce pas ?
 sequences_junge_top_a07_junge_spiel_erstmalig_tseq#7;[The boy looks away, hunches his shoulders. Doesn't want to answer.]
 spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_8;Veux tu faire une partie avec moi ?
 spokentexts_junge_top_a07_junge_spiel_erstmalig_tseq_st_9_direction;happy
@@ -1942,7 +1942,7 @@ spokentexts_junge_top_a07_junge_wie_geht_es_ihm_tseq_st_16;D'accord.
 texts_junge_top_a07_junge_zwille_zurueck_tseq_title;Lance-pierre
 sequences_junge_top_a07_junge_zwille_zurueck_tseq#0;[See used with slingshot sequence]
 spokentexts_junge_ex_1_st_1;Matt est occupé avec son jeu étrange. Il a l'air d'aller bien.
-spokentexts_junge_ex_1_st_2;Mais j'aurais pensé le voir courrir dans tous les sens si il s'était vraiment remis de ce qui est arrivé à bord du train.
+spokentexts_junge_ex_1_st_2;Mais j'aurais pensé le voir courir dans tous les sens si il s'était vraiment remis de ce qui est arrivé à bord du train.
 spokentexts_junge_talk_mit_1_st_1;Salut, camarade !
 spokentexts_junge_talk_mit_1_st_2;Salut !
 spokentexts_junge_talk_mit_1_st_3;Comment vas tu ?
@@ -1977,29 +1977,29 @@ spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_2;J'ai peur que non.
 spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_3;Il y a des alarmes dans tous les coins du navire.
 spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_4;J'ai vu qu'elles étaient scellées. Ne peut-on pas vérifier si les sceaux sont brisés ?
 spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_5_direction;unangenehm berührt
-spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_5;J'ai bien peur qu'ils soient manquants sur pas mal d'alrmes. Ca navire n'est plus tout jeune et au fil du temps...
+spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_5;J'ai bien peur qu'ils soient manquants sur pas mal d'alarmes. Çe navire n'est plus tout jeune et au fil du temps...
 spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_6;Vous suggérez que les alarmes n'ont pas été maintenues en ordre ?
 spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_7_direction;eifrig
 spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_7;Je vais prévenir l'équipage immédiatement, évidemment...
-spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_8;Evidemment.
+spokentexts_kapitaen_top_a07_kapitaen_alarm_tseq_st_8;Évidemment.
 texts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_title;Baronne fatiguée
 spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_1;Mais à un moment elle ne sentait plus très bien ?
-spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_2;Plus tôt vous avez dit que la baronne était de bonne humeur et trinquait avec vous.
-spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_3;Que s'ets-il passé ensuite ? Nous vous avons recontré devant le salon...
+spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_2;Plus tôt vous avez dit que la Baronne était de bonne humeur et trinquait avec vous.
+spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_3;Que s'est-il passé ensuite ? Nous vous avons rencontré devant le salon...
 spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_4;Elle a un peu abusé. Brusquement elle a commencé à s'évanouir et a failli renverser son verre.
 spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_5;Je lui ai suggéré d'aller se reposer un peu dans sa cabine. Au début elle s'est obstiné, elle voulait vraiment rester au salon.
 spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_6;Mais finalement elle a compris qu'elle avait vraiment besoin d'un peu de repos.
 spokentexts_kapitaen_top_a07_kapitaen_baronin_ko_tseq_st_7;Je l'ai accompagnée. Vous connaissez la suite.
-texts_kapitaen_top_a07_kapitaen_baronin_tseq_title;La baronne
-spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_1;Comment était la baronne ?
+texts_kapitaen_top_a07_kapitaen_baronin_tseq_title;La Baronne
+spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_1;Comment était la Baronne ?
 spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_2;J'ai été très surpris !
 spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_3;Après avoir été si distante lors de l'accueil et n'être pas sortie de tout l'après midi, j'avais peur qu'elle fasse partie des aristocrates méprisants.
 spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_7;Mais elle était d'humeur radieuse quand elle est arrivée en début de soirée. Elle avait déjà pris un peu d'avance, si vous voyez ce que je veux dire. Ha ha.
 spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_8;Vous a-t-elle dit quelque chose ?
-spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_9;Elle m'a demandé où était la cabine de Legrand. Après lui avoir répondu je lui ai proposé de venir boire un verre et s'amuser dans la soirée.
+spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_9;Elle m'a demandé où était la cabine de Legrand. Après lui avoir répondu je lui ai proposé de venir boire un verre et de s'amuser à la soirée.
 spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_10;"""Tout le monde sera là, vous ne voulez pas manquer ça,"" Je lui ai dit."
 spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_11;Et ensuite ?
-spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_12;Elle a semblé apprécier l'idée. Elle a souri et s'est éclipsé quelques minutes.
+spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_12;Elle a semblé apprécier l'idée. Elle a sourit et s'est éclipsé quelques minutes.
 spokentexts_kapitaen_top_a07_kapitaen_baronin_tseq_st_13;Quand elle est revenu elle avait l'air très heureuse. Nous avons trinqué à la Vie !
 texts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_title;Mon verre
 spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_1;Où avez vous trouvé la verre que vous m'avez offert hier soir ?
@@ -2009,7 +2009,7 @@ spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_4;L'avez vous remp
 spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_5_direction;denkt nach
 spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_5;Non... J'ai vu que vous n'aviez pas l'air très bien et j'ai voulu vous sortir de cette situation.
 spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_6;J'ai attrapé le premier verre venu et vous l'ai tendu.
-spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_7;Etait-il sur la table ?
+spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_7;Était-il sur la table ?
 spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_8_direction;denkt nach
 spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_8;Non... Je me suis hâté vers vous, avec le Docteur Gebhardt qui... bien sûr !
 spokentexts_kapitaen_top_a07_kapitaen_champagner_glas_tseq_st_9;Il avait le verre dans sa main ! Il cherchait un endroit pour le poser et pouvoir vous examiner.
@@ -2022,18 +2022,18 @@ texts_kapitaen_top_a07_kapitaen_champagner_tseq_title;Champagne empoisonné
 spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_1;Tout le monde a-t-il bu de la même bouteille de champagne hier soir ?
 spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_2_direction;verteidigt sich
 spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_2;On a bu plus d'une bouteille, si c'est ce à quoi vous pensez. Il y avait pas mal d'invités et la soirée s'est étendue sur plusieurs heures...
-spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_3;La dernière bouteille de champagne, celle dont a bu la baronne. D'autres personnes ont-elles bu de cette bouteille ?
+spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_3;La dernière bouteille de champagne, celle dont a bu la Baronne. D'autres personnes ont-elles bu de cette bouteille ?
 spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_4;Certainement.
 spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_5;Nous pensons que le champagne a été drogué.
 spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_6_direction;erschrocken, empört
 spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_6;Incroyable !
-spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_7;Mais... Cela n'aurait-il pas rendu tout le monde endormi ?
-spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_8;Pas si seul le verre de la baronne a été drogué.
+spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_7;Mais... Cela n'aurait-il pas endormi tout le monde ?
+spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_8;Pas si seul le verre de la Baronne a été drogué.
 spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_9;Je vois. C'est possible. Dans une telle soirée, beaucoup de verres sont remplis et vidés.
 spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_10;Il y a plusieurs garçons, de nombreux invités... Personne n'est responsable du suivi des bouteilles et de chaque verre...
 spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_11;Quelques gouttes dans un verre...
 spokentexts_kapitaen_top_a07_kapitaen_champagner_tseq_st_12;Oui, c'est certainement une possibilité.
-texts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_title;Evénements de la nuit dernière
+texts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_title;Événements de la nuit dernière
 spokentexts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_st_1;Comment avez vécu la nuit dernière ?
 spokentexts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_st_2;Phew ! Désastreux !
 spokentexts_kapitaen_top_a07_kapitaen_letzte_nacht_tseq_st_3;Le dîner était fantastique ! Tout le monde était excité à l'idée de partager un verre à la belle étoile, et ensuite ceci.
@@ -2050,7 +2050,7 @@ spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_4;Il y a quelques régu
 spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_5;Mais vous les avez déjà rencontrés dans le train.
 spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_6;On dirait qu'il y a peu de passagers à bord ?
 spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_7;Ces satanés avions nous mènent la vie dure.
-spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_8;Imaginez vous. Des gens qui préfèrent se serrer dans des petits cercueils en métal plutôt que de profiter du bon air frais marin sur un navire !
+spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_8;Vous imaginez ça. Des gens qui préfèrent se serrer dans des petits cercueils en métal plutôt que de profiter du bon air frais marin sur un navire !
 spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_9;Tout pour gagner du temps.
 spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_10_direction;überzeugt, leidenschaftlich
 spokentexts_kapitaen_top_a07_kapitaen_passagiere_tseq_st_10;Ce n'est pas le temps pour aller de A à B qui devrait compter mais la façon dont vous passez ce temps ! Tout ce que vous rencontrez pendant votre voyage ! Voilà ce qui compte !
@@ -2074,7 +2074,7 @@ sequences_kapitaen_top_a07_kapitaen_verabschieden_tseq#7;[Captain goes back into
 spokentexts_kapitaen_ex_1_st_1;Le Capitaine di Conti a l'air vieux et fatigué. Je suppose que c'est le prix à payer pour une vie comme la sienne.
 sequences_kapitaen_ex_1#2;[The captain sits on a chair, places a hand on his stomach from time to time (seems to be in pain, but doesn't want to show it).]
 spokentexts_kapitaen_ex_2_st_1;Le Capitaine di Conti est encore assis au bar. Il m'a donné le verre de champagne hier soir.
-spokentexts_kapitaen_talk_mit_1_st_1;Excusez moi, Capitaine di Conti?
+spokentexts_kapitaen_talk_mit_1_st_1;Excusez moi, Capitaine di Conti ?
 sequences_kapitaen_talk_mit_1#2;[The captain looks up (Idle).]
 spokentexts_kapitaen_talk_mit_1_st_2;Officier ! Que puis-je pour vous ?
 spokentexts_kapitaen_talk_mit_1_st_3_direction;warmly
@@ -2082,9 +2082,9 @@ spokentexts_kapitaen_talk_mit_1_st_3;Vous allez bien ?
 spokentexts_kapitaen_talk_mit_1_st_4;Oui, oui !
 spokentexts_kapitaen_talk_mit_1_st_5;Je profite de l'air frais. Il n'y a rien de mieux de bon matin !
 spokentexts_kapitaen_talk_mit_1_st_6;Il est presque midi.
-spokentexts_kapitaen_talk_mit_1_st_7;Hahaha ! Etre capitaine a ses avantages, comme définir ses propores horaires. Je ne suis à l'aise que l'après midi et la nuit.
+spokentexts_kapitaen_talk_mit_1_st_7;Ha ha ha ! Etre capitaine a ses avantages, comme définir ses propores horaires. Je ne suis à l'aise que l'après midi et la nuit.
 spokentexts_kapitaen_talk_mit_1_st_8;Mais bon, je suis également en service le matin quand des circonstances exceptionnelles le demande !
-spokentexts_kapitaen_talk_mit_1_st_9;Evidemment. Je vais vous laisser.
+spokentexts_kapitaen_talk_mit_1_st_9;Évidemment. Je vais vous laisser.
 spokentexts_kapitaen_talk_mit_1_st_10;Oui, faites donc, faites donc. J'imagine que vous avez du travail.
 spokentexts_kapitaen_talk_mit_2_st_1;Je doute qu'il puisse m'aider. Il a un alibi pour l'heure du crime and n'a aucun mobile.
 spokentexts_kapitaen_talk_mit_2_st_2_direction;happy
@@ -2098,15 +2098,15 @@ spokentexts_kapitaen_talk_mit_5_st_1;Excusez moi, Capitaine di Conti ?
 spokentexts_kapitaen_talk_mit_5_st_2_direction;erfreut
 spokentexts_kapitaen_talk_mit_5_st_2;Officier !
 sequences_kapitaen_talk_mit_5#3;[Dialogue between Ohi and the captain starts.]
-spokentexts_kapitaen_talk_mit_6_st_1;Je suis sûr que la Capitaine di Conti aimerait bien discuter, mais je ne pense pas qu'il puisse m'aider pour le moment.
-texts_pflegerin_mo_ex_1;Regarder Mlle Miller and le Professeur Lucien.
+spokentexts_kapitaen_talk_mit_6_st_1;Je suis sûr que le Capitaine di Conti aimerait bien discuter, mais je ne pense pas qu'il puisse m'aider pour le moment.
+texts_pflegerin_mo_ex_1;Regarder Mlle Miller et le Professeur Lucien.
 texts_pflegerin_mo_ex_2;Regarder Mlle Miller
-texts_pflegerin_mo_talk_mit_1__2;Parler à Mlle Miller and au Professeur Lucien
+texts_pflegerin_mo_talk_mit_1__2;Parler à Mlle Miller et au Professeur Lucien
 texts_pflegerin_mo_talk_mit_3-5;Parler à Mlle Miller
 texts_pflegerin_mo_used_mit_zwille;Donner le lance-pierre à la mère de Matt
 texts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_title;Sédatif
 spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_1;Ayant travaillé dans une pharmacie vous devez avoir des connaissances sur les médicaments et les poisons.
-spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_2;Tout est potentiellement un poison, Officier. Ca dépend de la dose.
+spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_2;Tout est potentiellement un poison, Officier. Ça dépend de la dose.
 spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_3;Connaissez vous l'hydrate de chloral ?
 spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_4;C'est un sédatif, n'est ce pas ?
 spokentexts_pflegerin_top_a07_pflegerin_betaeubungsmittel_tseq_st_5;J'ai posé la question.
@@ -2119,7 +2119,7 @@ spokentexts_pflegerin_top_a07_pflegerin_blut_tseq_st_1;Pourriez vous me dire com
 spokentexts_pflegerin_top_a07_pflegerin_blut_tseq_st_2;Moi ? Non, malheureusement.
 spokentexts_pflegerin_top_a07_pflegerin_blut_tseq_st_3;Je pensais, vu que vous aviez travaillé dans une pharmacie pendant la guerre...
 spokentexts_pflegerin_top_a07_pflegerin_blut_tseq_st_4;Dans une pharmacie publique, pas un hôpital !
-spokentexts_pflegerin_top_a07_pflegerin_blut_tseq_st_5;Je ne suis pas vraiment faite pour une carrière hospitalière. Je m'évanouie à la vue du sang.
+spokentexts_pflegerin_top_a07_pflegerin_blut_tseq_st_5;Je ne suis pas vraiment faite pour une carrière hospitalière. Je m'évanouis à la vue du sang.
 spokentexts_pflegerin_top_a07_pflegerin_blut_tseq_st_6;Dans ce cas je ne vais pas vous déranger plus longtemps avec ça.
 texts_pflegerin_top_a07_pflegerin_das_internat_tseq_title;Matt au pensionnat
 spokentexts_pflegerin_top_a07_pflegerin_das_internat_tseq_st_1;Lady Westmacott m'a dit que Matt était devenu un vrai petit athlète à son pensionnat ?
@@ -2133,9 +2133,9 @@ spokentexts_pflegerin_top_a07_pflegerin_das_internat_tseq_st_7;Je n'aurais jamai
 texts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_title;Le Professeur Lucien
 spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_1;Le Professeur Lucien et vous sembliez partager une vive conversation.
 spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_2_direction;excited
-spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_2;Oh, oui ! Il est expert en art d'Egypte antique et prééminent en recherche hyéroglyphique.
+spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_2;Oh, oui ! Il est expert en art d'Egypte antique et prééminent en recherche hiéroglyphique.
 spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_3_direction;excited
-spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_3;Saviez vous q'il était le chef du département égyptien au British Museum ? Et il vient au Caire pour ouvrir une exposition à l'Egyptian Museum.
+spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_3;Saviez vous qu'il était le chef du département égyptien au British Museum ? Et il vient au Caire pour ouvrir une exposition à l'Egyptian Museum.
 spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_4;Oui. Pour l'Oeil.
 spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_5;Ils devaient exposer les deux joyaux ensemble pour la première fois depuis des décennies mais ce n'est malheureusement plus à l'ordre du jour maintenant.
 spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_6_direction;worried
@@ -2145,7 +2145,7 @@ spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_8;Je sais. Je va
 spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_9_direction;friendly, with a twinkle in his eyes
 spokentexts_pflegerin_top_a07_pflegerin_der_archaeologe_tseq_st_9;Et le Professeur Lucien vous offrira probablement une visite privée.
 texts_pflegerin_top_a07_pflegerin_der_butler_tseq_title;La majordome
-spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_1;Le majordome de la baronne assure avoir été lui aussi sur le gaillard avant ?
+spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_1;Le majordome de la Baronne assure avoir été lui aussi sur le gaillard avant ?
 spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_2;Oui, il fumait une cigarette de l'autre côté du pont.
 spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_3;Est-il resté en permanence sur le gaillard avant ?
 spokentexts_pflegerin_top_a07_pflegerin_der_butler_tseq_st_4_direction;in deep thought
@@ -2162,18 +2162,18 @@ spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_3;Il était très 
 spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_4;Mais je souhaitais voir Lady Westmacott donc il m'a laissé partir sans attendre. Il a dit qu'il prendrait ma déposition complète aujourd'hui.
 spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_5;Je vois.
 spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_6_direction;carefully
-spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_6;Pensez vous que l'homme du train est aussi responsable du meurtre de la baronne, Officier Zellner ?
+spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_6;Pensez vous que l'homme du train est aussi responsable du meurtre de la Baronne, Officier Zellner ?
 spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_7;Il est trop tôt pour le dire.
 spokentexts_pflegerin_top_a07_pflegerin_der_ermittler_tseq_st_8;C'est horrible. Des explosions, des voleurs, des meurtriers ! Ce n'est pas un endroit pour une femme et un jeune enfant.
 texts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_title;La nuit dernière
 spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_1;Comment avez vous vécu la nuit dernière ?
 spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_2;C'était horrible ! Je discutait avec Edgar... Le Professeur Lucien... ici sur le gaillard avant.
 spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_3;J'ai ensuite voulu aller voir Lady Westmacott, en passant par le pont-promenade.
-spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_4;J'ai entendu un cri étouffé en passant devant la cabine de la baronne.
+spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_4;J'ai entendu un cri étouffé en passant devant la cabine de la Baronne.
 spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_5_direction;surprised, interested
 spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_5;Vous avez entendu un cri ?
-spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_6;Oui ! J'ai pensé que la baronne était tombée. J'ai écouté à la porte quelques instants.
-spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_7;N4entendant rien, j'ai frappé à la porte et demandé si tout allait bien. Mais je n'ai pas eu de réponse.
+spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_6;Oui ! J'ai pensé que la Baronne était tombée. J'ai écouté à la porte quelques instants.
+spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_7;N'entendant rien, j'ai frappé à la porte et demandé si tout allait bien. Mais je n'ai pas eu de réponse.
 spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_8_direction;thoughtfully
 spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_8;Intéressant. Ensuite ?
 spokentexts_pflegerin_top_a07_pflegerin_der_gestrige_abend_tseq_st_9;Je ne savais pas quoi faire donc j'ai essayé d'ouvrir la porte. Elle était verrouillée.
@@ -2189,18 +2189,18 @@ spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_6_direction;overwhelme
 spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_6;Je n'ose pas imaginer...
 sequences_pflegerin_top_a07_pflegerin_der_junge_tseq#6;[The carer turns away slightly, has to contain her tears.]
 spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_7_direction;soothing her
-spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_7;Ce n'est rien.
+spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_7;N'y pensez plus.
 sequences_pflegerin_top_a07_pflegerin_der_junge_tseq#8;[Ohi tenderly takes her arm, she stands normal again.]
 spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_8_direction;soothing her
 spokentexts_pflegerin_top_a07_pflegerin_der_junge_tseq_st_8;Tout va bien.
 texts_pflegerin_top_a07_pflegerin_der_schrei_tseq_title;Le cri
 spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_1;A quoi ressemblait le cri ?
 spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_2;C'était une courte... exclamation. Très effrayée, comme si quelqu'un avait été surpris.
-spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_3;Etait-ce une voix de femme ?
+spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_3;Était-ce une voix de femme ?
 spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_4;Oui, la voix était aigue.
-spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_5;Hmm. La baronne a plutôt une voix grave...
+spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_5;Hmm. La Baronne a plutôt une voix grave...
 spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_6;C'est vrai. Mais qui sait comment elle sonnait quand elle criait ? Même certains cris masculins sont aigus.
-spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_7;Ce pourrait donc être un cri de la baronne. Peut être car elle aurait surpris quelqu'un dans sa cabine.
+spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_7;Ce pourrait donc être un cri de la Baronne. Peut être car elle aurait surpris quelqu'un dans sa cabine.
 spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_8;Possible...
 spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_9;Cette personne aurait pu la menacer avec une arme pour éviter qu'elle appelle à l'aide.
 spokentexts_pflegerin_top_a07_pflegerin_der_schrei_tseq_st_10_direction;shocked
@@ -2253,7 +2253,7 @@ spokentexts_pflegerin_top_a07_pflegerin_manuscript_tseq_st_3;Manuscrit ?
 spokentexts_pflegerin_top_a07_pflegerin_manuscript_tseq_st_4;"Lady Westmacott m'a parlé de ""la dernière affaire de Partout"". Que savez vous du manuscrit ?"
 spokentexts_pflegerin_top_a07_pflegerin_manuscript_tseq_st_5;Il est toujours avec elle. C'est un roman de Partout non publié.
 spokentexts_pflegerin_top_a07_pflegerin_manuscript_tseq_st_6;Une fois, je lui ai demandé pourquoi elle ne l'avait pas fait publié. Elle m'a expliqué qu'en accord avec son testament, le roman ne serait publié qu'après sa mort.
-spokentexts_pflegerin_top_a07_pflegerin_manuscript_tseq_st_7;And dans celui-ci Partout sera tué ?
+spokentexts_pflegerin_top_a07_pflegerin_manuscript_tseq_st_7;Et dans celui-ci Partout sera tué ?
 spokentexts_pflegerin_top_a07_pflegerin_manuscript_tseq_st_8;Peut être. Je ne l'ai jamais lu. Personne ne l'a lu. Vous devriez lui demander directement.
 texts_pflegerin_top_a07_pflegerin_verabschieden_tseq_title;Dire au revoir
 spokentexts_pflegerin_top_a07_pflegerin_verabschieden_tseq_st_1_direction;puzzled
@@ -2269,14 +2269,14 @@ sequences_pflegerin_talk_mit_1#1;[Ohi briefly touches his non-existing hat.]
 spokentexts_pflegerin_talk_mit_1_st_1;Bonjour, Mlle Miller !
 sequences_pflegerin_talk_mit_1#3;[Ohi nods in the direction of the archaeologist.]
 spokentexts_pflegerin_talk_mit_1_st_2;Professeur Lucien.
-spokentexts_pflegerin_talk_mit_1_st_3;Officier Zellner! Comment allez vous ? On m'a dit que vous vous étiez évanoui hier soir ?
+spokentexts_pflegerin_talk_mit_1_st_3;Officier Zellner ! Comment allez vous ? On m'a dit que vous vous étiez évanoui hier soir ?
 spokentexts_pflegerin_talk_mit_1_st_4;Eh bien... Pas tout à fait. J'ai été empoisonné.
 spokentexts_pflegerin_talk_mit_1_st_5_direction;surprised, frightened
 spokentexts_pflegerin_talk_mit_1_st_5;Oh !
 spokentexts_pflegerin_talk_mit_1_st_6_direction;grim
 spokentexts_pflegerin_talk_mit_1_st_6;Le misérable !
 spokentexts_pflegerin_talk_mit_2_st_1;Puis-je vous déranger à nouveau ?
-spokentexts_pflegerin_talk_mit_2_st_2;Bien sûr, Officier Zellner! Maintenant que ce misérable est derrière les barreaux, nous pouvons respirer un peu !
+spokentexts_pflegerin_talk_mit_2_st_2;Bien sûr, Officier Zellner ! Maintenant que ce misérable est derrière les barreaux, nous pouvons respirer un peu !
 sequences_pflegerin_talk_mit_2#3;[Conversation between Ohi and the ARCHAEOLOGIST starts.]
 spokentexts_pflegerin_talk_mit_3_st_1_direction;ashamed
 spokentexts_pflegerin_talk_mit_3_st_1;Je... Je ne voulais interrompre si subitement votre conversation avec le Professeur Lucien !
@@ -2323,7 +2323,7 @@ spokentexts_schriftstellerin_top_a07_schriftstellerin_dieb_tseq_st_3;"Legrand pe
 spokentexts_schriftstellerin_top_a07_schriftstellerin_dieb_tseq_st_4_direction;stunned
 spokentexts_schriftstellerin_top_a07_schriftstellerin_dieb_tseq_st_4;Il a dit cela ?
 spokentexts_schriftstellerin_top_a07_schriftstellerin_dieb_tseq_st_5;Pensez-vous cela possible ? Tout le monde pense qu'il est mort.
-spokentexts_schriftstellerin_top_a07_schriftstellerin_dieb_tseq_st_6;Du point de vue d'un dramaturge le retour du Corbeau serait fantastique ! Une légende revient d'entre le smorts pour un dernier casse... C'est assez romantique !
+spokentexts_schriftstellerin_top_a07_schriftstellerin_dieb_tseq_st_6;Du point de vue d'un dramaturge le retour du Corbeau serait fantastique ! Une légende revient d'entre les morts pour un dernier casse... C'est assez romantique !
 spokentexts_schriftstellerin_top_a07_schriftstellerin_dieb_tseq_st_7;D'un autre côté, je serais aussi déçue.
 spokentexts_schriftstellerin_top_a07_schriftstellerin_dieb_tseq_st_8;Pourquoi cela ?
 spokentexts_schriftstellerin_top_a07_schriftstellerin_dieb_tseq_st_9;J'ai suivi de près la carrière du Corbeau. Peu de voleurs alliaient son charme et son caractère.
@@ -2345,7 +2345,7 @@ spokentexts_schriftstellerin_top_a07_schriftstellerin_ermittler_tseq_st_12_direc
 spokentexts_schriftstellerin_top_a07_schriftstellerin_ermittler_tseq_st_12;Ou complètement fou.
 texts_schriftstellerin_top_a07_schriftstellerin_internat_tseq_title;Le pensionnat de Matt
 spokentexts_schriftstellerin_top_a07_schriftstellerin_internat_tseq_st_1;Et l'idée d'envoyer Matt au pensionnat...?
-spokentexts_schriftstellerin_top_a07_schriftstellerin_internat_tseq_st_2;Etait la mienne.
+spokentexts_schriftstellerin_top_a07_schriftstellerin_internat_tseq_st_2;Était la mienne.
 spokentexts_schriftstellerin_top_a07_schriftstellerin_internat_tseq_st_3;Matthew idolâtrait son père et tenait sa mère pour responsable de son absence.
 spokentexts_schriftstellerin_top_a07_schriftstellerin_internat_tseq_st_4;J'avais peur que la situation n'empire si il avait dû vivre sur une large propriété seul avec sa mère et des personnes âgées. Je pense que j'avais raison.
 spokentexts_schriftstellerin_top_a07_schriftstellerin_internat_tseq_st_5;Il s'est vite fait des amis au pensionnat. Il est populaire et apprécié. Un vrai athlète si on en croit ses professeurs.
@@ -2364,14 +2364,14 @@ spokentexts_schriftstellerin_top_a07_schriftstellerin_manuscript_tseq_st_12_dire
 spokentexts_schriftstellerin_top_a07_schriftstellerin_manuscript_tseq_st_12;Madame !
 spokentexts_schriftstellerin_top_a07_schriftstellerin_manuscript_tseq_st_13;J'en avais tellement de n'écrire que des romans de Partout.
 spokentexts_schriftstellerin_top_a07_schriftstellerin_manuscript_tseq_st_14;J'avais très envie de le poignarder... Et, il y a 20 ans, je l'ai fait.
-spokentexts_schriftstellerin_top_a07_schriftstellerin_manuscript_tseq_st_15;Evidemment je ne voulais pas décevoir tous mes admirateurs.
+spokentexts_schriftstellerin_top_a07_schriftstellerin_manuscript_tseq_st_15;Évidemment je ne voulais pas décevoir tous mes admirateurs.
 spokentexts_schriftstellerin_top_a07_schriftstellerin_manuscript_tseq_st_16;Donc je l'ai laissé continuer à résoudre des affaires, les unes après les autres.
 spokentexts_schriftstellerin_top_a07_schriftstellerin_manuscript_tseq_st_17_direction;content, triumphantly
 spokentexts_schriftstellerin_top_a07_schriftstellerin_manuscript_tseq_st_17;Mais je savais au moins qu'il ne m'échapperait pas. Quand tout sera dit, j'aurai le dernier mot.
 spokentexts_schriftstellerin_top_a07_schriftstellerin_manuscript_tseq_st_18_direction;smiling
 spokentexts_schriftstellerin_top_a07_schriftstellerin_manuscript_tseq_st_18;Je comprends...
 spokentexts_schriftstellerin_top_a07_schriftstellerin_manuscript_tseq_st_19;Espérons que ce roman ne soit pas publié avant de nombreuses années.
-texts_schriftstellerin_top_a07_schriftstellerin_mord_tseq_title;Meurtre de la baronne
+texts_schriftstellerin_top_a07_schriftstellerin_mord_tseq_title;Meurtre de la Baronne
 spokentexts_schriftstellerin_top_a07_schriftstellerin_mord_tseq_st_1;Avez vous remarqué quelque chose de particulier en rapport avec le meurtre ?
 spokentexts_schriftstellerin_top_a07_schriftstellerin_mord_tseq_st_2;Malheureusement non !
 spokentexts_schriftstellerin_top_a07_schriftstellerin_mord_tseq_st_3;J'étais déjà dans ma cabine et ai tout raté. Satanée vieillesse !
@@ -2380,7 +2380,7 @@ spokentexts_schriftstellerin_top_a07_schriftstellerin_mord_tseq_st_5;Oh, vous ê
 spokentexts_schriftstellerin_top_a07_schriftstellerin_mord_tseq_st_7;J'ai beau avoir écrit beaucoup d'histoires de meurtre, je n'ai jamais été aux premières loges auparavant. C'est excitant !
 spokentexts_schriftstellerin_top_a07_schriftstellerin_mord_tseq_st_8;Je ne suis pas sûr que tout le monde soit si... décontracté... dans une telle situation.
 spokentexts_schriftstellerin_top_a07_schriftstellerin_mord_tseq_st_9;"""Sans coeur"" est l'expression que vous cherchez, n'est ce pas Officier ?"
-spokentexts_schriftstellerin_top_a07_schriftstellerin_mord_tseq_st_10;Je ne souhaitais certainement pas que la baronne soit tuée. Mais si je ne peux pas inverser les choses, autant en profiter !
+spokentexts_schriftstellerin_top_a07_schriftstellerin_mord_tseq_st_10;Je ne souhaitais certainement pas que la Baronne soit tuée. Mais si je ne peux pas inverser les choses, autant en profiter !
 texts_schriftstellerin_top_a07_schriftstellerin_pflegerin_und_archaeologe_tseq_title;Mlle Miller et le Professeur Lucien...
 spokentexts_schriftstellerin_top_a07_schriftstellerin_pflegerin_und_archaeologe_tseq_st_1;Mlle Miller et le Professeur Lucien ont l'air de bien s'entendre.
 spokentexts_schriftstellerin_top_a07_schriftstellerin_pflegerin_und_archaeologe_tseq_st_2_direction;interested
@@ -2416,7 +2416,7 @@ spokentexts_schriftstellerin_top_a07_schriftstellerin_verabschieden_tseq_st_1;Je
 spokentexts_schriftstellerin_top_a07_schriftstellerin_verabschieden_tseq_st_2;Revenez quand vous aurez réfléchi , Officier Zellner.
 sequences_schriftstellerin_top_a07_schriftstellerin_verabschieden_tseq#3;[End of the dialogue.]
 spokentexts_schriftstellerin_top_a07_schriftstellerin_verabschieden_tseq_st_3;Je dois y aller, Lady Westmacott.
-spokentexts_schriftstellerin_top_a07_schriftstellerin_verabschieden_tseq_st_4;Tenez moi informée s'il vous plait, Officier Zellner!
+spokentexts_schriftstellerin_top_a07_schriftstellerin_verabschieden_tseq_st_4;Tenez moi informée s'il vous plait, Officier Zellner !
 spokentexts_schriftstellerin_top_a07_schriftstellerin_verabschieden_tseq_st_5;Bien sûr.
 texts_schriftstellerin_top_a07_schriftstellerin_verhoer_tseq_title;Interrogatoire
 sequences_schriftstellerin_top_a07_schriftstellerin_verhoer_tseq#0;[Ohi nods in the direction of the inspector or points at him.]
@@ -2493,8 +2493,8 @@ texts_wachmann_top_a07_wachmann_ausgeschlafen_antwort2_tseq_title;Je ne me suis 
 spokentexts_wachmann_top_a07_wachmann_ausgeschlafen_antwort2_tseq_st_1;e ne me suis pas endormi volontairement.
 spokentexts_wachmann_top_a07_wachmann_ausgeschlafen_antwort2_tseq_st_2;Peu importe. Nous nous sommes très bien débrouillés sans vous.
 texts_wachmann_top_a07_wachmann_ausgeschlafen_antwort3_tseq_title;Statut de l'enquête
-spokentexts_wachmann_top_a07_wachmann_ausgeschlafen_antwort3_tseq_st_1;Epargnez moi. Où en est l'enquête ?
-spokentexts_wachmann_top_a07_wachmann_ausgeschlafen_antwort3_tseq_st_2;Evitez ce ton avec moi ! Pendant que vous dormiez, NOUS TRAVAILLIONS !
+spokentexts_wachmann_top_a07_wachmann_ausgeschlafen_antwort3_tseq_st_1;Épargnez-moi. Où en est l'enquête ?
+spokentexts_wachmann_top_a07_wachmann_ausgeschlafen_antwort3_tseq_st_2;Évitez ce ton avec moi ! Pendant que vous dormiez, NOUS TRAVAILLIONS !
 texts_wachmann_top_a07_wachmann_blinden_passagier_verhoeren_tseq_title;Interroger la clandestin
 spokentexts_wachmann_top_a07_wachmann_blinden_passagier_verhoeren_tseq_st_1;Puis-je descendre et interroger notre invité ?
 spokentexts_wachmann_top_a07_wachmann_blinden_passagier_verhoeren_tseq_st_2;Non, c'est hors de question.
@@ -2546,7 +2546,7 @@ spokentexts_wachmann_top_a07_wachmann_der_rabe_tseq_st_5;Tout à fait. C'est de 
 spokentexts_wachmann_top_a07_wachmann_der_rabe_tseq_st_6;Mais personne n'a jamais pu identifier le Corbeau. Certains ont même avoué ne pas savoir qu'ils travaillaient pour lui.
 spokentexts_wachmann_top_a07_wachmann_der_rabe_tseq_st_7;C'est fascinant. Il aurait pu engager quelqu'un dans le besoin pour déclencher l'alarme à un moment précis, sans que cette personne n'en sache la raison.
 spokentexts_wachmann_top_a07_wachmann_der_rabe_tseq_st_8;L'homme que Legrand a tué à l'époque était un célèbre forceur de coffre. Mais il aurait très bien pu être un homme de main.
-spokentexts_wachmann_top_a07_wachmann_der_rabe_tseq_st_9;Ou le vrai Corbeau. Se faire passer pour un petit voleur est probablement est une des meilleures couvertures pour un maître criminel.
+spokentexts_wachmann_top_a07_wachmann_der_rabe_tseq_st_9;Ou le vrai Corbeau. Se faire passer pour un petit voleur est probablement est une des meilleures couvertures pour un grand criminel.
 texts_wachmann_top_a07_wachmann_essen_tseq_title;Nourriture
 spokentexts_wachmann_top_a07_wachmann_essen_tseq_st_1;Que voulez vous manger ?
 spokentexts_wachmann_top_a07_wachmann_essen_tseq_st_2;Peu importe. Une pomme ou quelque chose comme ça.
@@ -2571,7 +2571,7 @@ spokentexts_wachmann_top_a07_wachmann_frachtraum_antwort2_tseq_st_2;Vraiment ? D
 texts_wachmann_top_a07_wachmann_frachtraum_antwort3_tseq_title;VOUS étiez distrait !
 spokentexts_wachmann_top_a07_wachmann_frachtraum_antwort3_tseq_st_1;Très bien.
 spokentexts_wachmann_top_a07_wachmann_frachtraum_antwort3_tseq_st_2;Allons voir Legrand et racontons lui ce qui s'est passé.
-spokentexts_wachmann_top_a07_wachmann_frachtraum_antwort3_tseq_st_3;VOUS vous êtes endormi and ensuite vous avez laissé la porte SANS SURVEILLANCE.
+spokentexts_wachmann_top_a07_wachmann_frachtraum_antwort3_tseq_st_3;VOUS vous êtes endormi et ensuite vous avez laissé la porte SANS SURVEILLANCE.
 sequences_wachmann_top_a07_wachmann_frachtraum_antwort3_tseq#9;[The guard's face seems stressed, but he doesn't know what to say.]
 spokentexts_wachmann_top_a07_wachmann_frachtraum_antwort3_tseq_st_4;Alors ? On y va ?
 spokentexts_wachmann_top_a07_wachmann_frachtraum_antwort3_tseq_st_5;Hmm ?
@@ -2579,7 +2579,7 @@ spokentexts_wachmann_top_a07_wachmann_frachtraum_antwort3_tseq_st_6;Hmpf... Nan.
 spokentexts_wachmann_top_a07_wachmann_frachtraum_antwort3_tseq_st_7_direction;melodramatically, in disgust
 spokentexts_wachmann_top_a07_wachmann_frachtraum_antwort3_tseq_st_7;Bien sûr que non !
 sequences_wachmann_top_a07_wachmann_frachtraum_antwort3_tseq#7;[The guard sits back on the chair again. From now on he is awake and stays awake. There are 2-3 Idle variations like he is yawning, rubbing his eyes, stretching etc.]
-texts_wachmann_top_a07_wachmann_hinweise_tseq_title;Preuves sur la scène du crime
+texts_wachmann_top_a07_wachmann_hinweise_tseq_title;Indices sur la scène du crime
 spokentexts_wachmann_top_a07_wachmann_hinweise_tseq_st_1;J'imagine que Legrand et vous avez inspecté la scène du crime et ses alentours ?
 spokentexts_wachmann_top_a07_wachmann_hinweise_tseq_st_2;Évidemment.
 spokentexts_wachmann_top_a07_wachmann_hinweise_tseq_st_3;Et on a déjà touché le jackpot ! L'arme du crime !
@@ -2606,11 +2606,11 @@ spokentexts_wachmann_top_a07_wachmann_selber_essen_tseq_st_3_direction;sarcastic
 spokentexts_wachmann_top_a07_wachmann_selber_essen_tseq_st_3;Vu votre âge et votre grade, vous avez dû résoudre pas mal d'affaires spectaculaires.
 spokentexts_wachmann_top_a07_wachmann_selber_essen_tseq_st_4;Non. J'étais sur la touche et passait mes journées planté sur une chaise. Ca vous dit quelque chose ?
 texts_wachmann_top_a07_wachmann_tathergang_tseq_title;Progression des faits
-spokentexts_wachmann_top_a07_wachmann_tathergang_tseq_st_1;Où en est on ? Comment la baronne a-t-elle été tué ?
-spokentexts_wachmann_top_a07_wachmann_tathergang_tseq_st_2;La baronne a tué d'une balle à bout-portant en pleine poitrine.
+spokentexts_wachmann_top_a07_wachmann_tathergang_tseq_st_1;Où en est on ? Comment la Baronne a-t-elle été tué ?
+spokentexts_wachmann_top_a07_wachmann_tathergang_tseq_st_2;La Baronne a tué d'une balle à bout-portant en pleine poitrine.
 spokentexts_wachmann_top_a07_wachmann_tathergang_tseq_st_3;Nous en saurons plus quand le docteur aura terminer l'examen du corps à l'infirmerie.
 spokentexts_wachmann_top_a07_wachmann_tathergang_tseq_st_4;Et personne n'a vu quoi que ce soit d'anormal ?
-spokentexts_wachmann_top_a07_wachmann_tathergang_tseq_st_5;Personne n'a aperçu l'ombre du corbeau quittant la cabine de la baronne, si c'est ce que vous voulez dire.
+spokentexts_wachmann_top_a07_wachmann_tathergang_tseq_st_5;Personne n'a aperçu l'ombre du Corbeau quittant la cabine de la Baronne, si c'est ce que vous voulez dire.
 spokentexts_wachmann_top_a07_wachmann_tathergang_tseq_st_6;Beaucoup de gens ont entendu le coup de feu.
 spokentexts_wachmann_top_a07_wachmann_tathergang_tseq_st_7;L'Inspecteur Legrand veut interroger les passagers à nouveau ce matin. Ils seront plus calmes et il aura eu le temps d'analyser les indices.
 texts_wachmann_top_a07_wachmann_tathergang_vorderdeck_tseq_title;Progression des faits
@@ -2618,7 +2618,7 @@ spokentexts_wachmann_top_a07_wachmann_tathergang_tseq_st_8;En effet.
 texts_wachmann_top_a07_wachmann_theorie_tseq_title;Quelle est votre théorie ?
 spokentexts_wachmann_top_a07_wachmann_theorie_tseq_st_1;Qu'en pensez vous ? Que s'est-il passé ici hier soir ?
 spokentexts_wachmann_top_a07_wachmann_theorie_tseq_st_2_direction;detached
-spokentexts_wachmann_top_a07_wachmann_theorie_tseq_st_2;Le Corbeau s'ets introduit dans la cabine de la baronne, elle l'a surpris et il lui a tiré dessus.
+spokentexts_wachmann_top_a07_wachmann_theorie_tseq_st_2;Le Corbeau s'est introduit dans la cabine de la Baronne, elle l'a surpris et il lui a tiré dessus.
 spokentexts_wachmann_top_a07_wachmann_theorie_tseq_st_3;Que cherchait-il dans sa cabine ?
 spokentexts_wachmann_top_a07_wachmann_theorie_tseq_st_4_direction;hunching his shoulders
 spokentexts_wachmann_top_a07_wachmann_theorie_tseq_st_4;Elle était riche.
@@ -2630,7 +2630,7 @@ spokentexts_wachmann_top_a07_wachmann_theorie_tseq_st_8;Pourquoi pas ?
 spokentexts_wachmann_top_a07_wachmann_theorie_tseq_st_9;De l'intérieur ? C'est impressionnant. 
 spokentexts_wachmann_top_a07_wachmann_theorie_tseq_st_10_direction;upset
 spokentexts_wachmann_top_a07_wachmann_theorie_tseq_st_10;Je n'ai pas dit savoir comment il avait fait. J'ai juste dit que c'était lui !
-spokentexts_wachmann_top_a07_wachmann_theorie_tseq_st_13;Pourquoi n'a-t-il pas laissé une plume de corbeau ?
+spokentexts_wachmann_top_a07_wachmann_theorie_tseq_st_13;Pourquoi n'a-t-il pas laissé une plume de Corbeau ?
 spokentexts_wachmann_top_a07_wachmann_theorie_tseq_st_14;Vous êtes sérieux ? On aurait tout de suite su que c'était lui.
 spokentexts_wachmann_top_a07_wachmann_theorie_tseq_st_15_direction;sarcastically
 spokentexts_wachmann_top_a07_wachmann_theorie_tseq_st_15;Mais heureusement, nous le savons malgré tout.
@@ -2645,7 +2645,7 @@ spokentexts_wachmann_top_a07_wachmann_verabschieden_treppensaal_tseq_st_9;L'Insp
 spokentexts_wachmann_top_a07_wachmann_verabschieden_treppensaal_tseq_st_10;Mais ce n'est pas mon cas.
 sequences_wachmann_top_a07_wachmann_verabschieden_treppensaal_tseq#10;[The guard leaves the location, heading to the side deck. While leaving, he calls back.]
 spokentexts_wachmann_top_a07_wachmann_verabschieden_treppensaal_tseq_st_11_direction;calling over his shoulder while he is walking
-spokentexts_wachmann_top_a07_wachmann_verabschieden_treppensaal_tseq_st_11;Pas si simple de jouer dans la cour des grands, Officier Zellner!
+spokentexts_wachmann_top_a07_wachmann_verabschieden_treppensaal_tseq_st_11;Pas si simple de jouer dans la cour des grands, Officier Zellner !
 sequences_wachmann_top_a07_wachmann_verabschieden_treppensaal_tseq#12;[From now on he sits on a chair at the forecastle.]
 spokentexts_wachmann_top_a07_wachmann_verabschieden_treppensaal_tseq_st_12_direction;grimly, to himself
 spokentexts_wachmann_top_a07_wachmann_verabschieden_treppensaal_tseq_st_12;Non, pas du tout.
@@ -2654,15 +2654,15 @@ spokentexts_wachmann_top_a07_wachmann_verabschieden_vorderdeck_tseq_st_1;Je ne v
 spokentexts_wachmann_top_a07_wachmann_verabschieden_vorderdeck_tseq_st_2;Bonne idée.
 sequences_wachmann_top_a07_wachmann_verabschieden_vorderdeck_tseq#2;[The guard sinks down onto the chair again and struggles against the tiredness.]
 texts_wachmann_top_a07_wachmann_verdaechtige_tseq_title;Des suspects ?
-spokentexts_wachmann_top_a07_wachmann_verdaechtige_tseq_st_1;Avez vous déjà arrêté quelqu'un?
+spokentexts_wachmann_top_a07_wachmann_verdaechtige_tseq_st_1;Avez vous déjà arrêté quelqu'un ?
 spokentexts_wachmann_top_a07_wachmann_verdaechtige_tseq_st_2;Vous voulez dire en plus de l'arabe ?
 spokentexts_wachmann_top_a07_wachmann_verdaechtige_tseq_st_3;Il pourrait difficilement être responsable du meurtre. Vous étiez à ses côtés quand c'est arrivé.
 spokentexts_wachmann_top_a07_wachmann_verdaechtige_tseq_st_4_direction;confirming
 spokentexts_wachmann_top_a07_wachmann_verdaechtige_tseq_st_4;On a entendu le coup de feu sur le gaillard avant.
-spokentexts_wachmann_top_a07_wachmann_verdaechtige_tseq_st_5;J'enfermé notre ami dans la cellule de la soute et je suis remonté pour aider Legrand.
+spokentexts_wachmann_top_a07_wachmann_verdaechtige_tseq_st_5;J'enfermai notre ami dans la cellule de la soute et je suis remonté pour aider Legrand.
 spokentexts_wachmann_top_a07_wachmann_verdaechtige_tseq_st_6;VOUS profitiez déjà du sommeil des braves !
 texts_wachmann_top_a07_wachmann_was_hat_mich_ausgeknockt_tseq_title;Qu'est ce qui m'a assommé comme ça ?
-spokentexts_wachmann_top_a07_wachmann_was_hat_mich_ausgeknockt_tseq_st_1;Je ne me suis pas évanoui à cause du coup sur ma tête, n'ets ce pas ?
+spokentexts_wachmann_top_a07_wachmann_was_hat_mich_ausgeknockt_tseq_st_1;Je ne me suis pas évanoui à cause du coup sur ma tête, n'est-ce pas ?
 spokentexts_wachmann_top_a07_wachmann_was_hat_mich_ausgeknockt_tseq_st_2;C'est peu probable.
 spokentexts_wachmann_top_a07_wachmann_was_hat_mich_ausgeknockt_tseq_st_3;L'Inspecteur Legrand pense que vous avez été drogué.
 spokentexts_wachmann_top_a07_wachmann_was_hat_mich_ausgeknockt_tseq_st_4;Mais comment...?
@@ -2675,7 +2675,7 @@ spokentexts_wachmann_top_a07_wachmann_was_hat_mich_ausgeknockt_tseq_st_8_directi
 spokentexts_wachmann_top_a07_wachmann_was_hat_mich_ausgeknockt_tseq_st_8;Intéressant...
 texts_wachmann_top_a07_wachmann_was_hat_mich_ausgeknockt_vorderdeck_tseq_title;Qu'est ce qui m'a assommé comme ça ?
 sequences_wachmann_ex_1#1;[The guard sits on a chair in front of the door to the cargo hold (Idle).]
-spokentexts_wachmann_ex_1_st_1;On ne dirait pas comme ça, mais l'Officier Oliver est en fiat un très bon vigile.
+spokentexts_wachmann_ex_1_st_1;On ne dirait pas comme ça, mais l'Officier Oliver est en fait un très bon vigile.
 spokentexts_wachmann_ex_1_st_2;Il s'endort juste devant la porte de la soute.
 spokentexts_wachmann_ex_2_st_1;L'officier étanche sa soif avec une bouteille d'eau. Il aura un souci quand elle sera vide, mais je ne peux pas attendre si longtemps.
 spokentexts_wachmann_ex_3_st_1;L'officier se bat contre la fatigue. Dans son intérêt, j'espère qu'il va l'emporter.

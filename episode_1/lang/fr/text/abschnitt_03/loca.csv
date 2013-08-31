@@ -100,7 +100,7 @@ texts_a03_grossraumwagon_tuer_zum_tender_mo_use_4-5;Ramper
 texts_a03_grossraumwagon_tuer_zum_tender_mo_used_mit_axt;Forcer la porte
 texts_a03_grossraumwagon_tuer_zum_tender_mo_used_mit_handtuch_01;Sortir avec la serviette
 texts_a03_grossraumwagon_tuer_zum_tender_mo_used_mit_handtuch_1-3;Utiliser la serviette avec la poignée de la porte 
-spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_1_st_1;Cette porte mène a l'attelage. Ça va pas être confortable, sans aucun doute, mais je ne crois pas que les flammes sont directement derrière la porte.
+spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_1_st_1;Cette porte mène à l'attelage. Ça va pas être confortable, sans aucun doute, mais je ne crois pas que les flammes sont directement derrière la porte.
 spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_1_st_2;Je suppose qu'il y a un endroit relativement sûr à l'abri de tout ça où l'on pourrait rester un petit moment.
 spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_2_st_1;La hache fonctionne comme un coin pour garder la porte fermée. La fumée n'est pas toxique, elle est composée de particules de charbon et d'étincelles volantes.
 spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_2_st_2;Si tout ça me rentre dans les poumons et les yeux, je serai hors de combat !
@@ -167,7 +167,7 @@ texts_a03_salonwagen__notbremse_mo_use;Tirer le frein d'urgence
 spokentexts_a03_salonwagen__notbremse_ex_2_st_2_direction;unsure
 spokentexts_a03_salonwagen__notbremse_ex_2_st_2;Je... Je pense que je devrais essayer de découpler la locomotive. Pour faire simple, comment puis-je arrêter le train ?
 sequences_a03_salonwagen__notbremse_use_1#3;[Ohi turns in the direction of the boy.]
-spokentexts_a03_salonwagen__notbremse_use_1_st_1;Tiens bon, Matt !
+spokentexts_a03_salonwagen__notbremse_use_1_st_1;Tiens toi bien, Matt !
 sequences_a03_salonwagen__notbremse_use_1#5;[Ohi puts a hand on the emergency brake, with the other he is holding itself. He closes his eyes, flexes his body. Then he pulls the emergency brake abruptly down ... nothing happens. He opens his eyes, tried two more times then he strikes frustrated against the brake.]
 texts_a03_salonwagen__tisch_mo_ex_2;Regarder Matt sous la table
 texts_a03_salonwagen__tisch_mo_talk_mit_1-3;Parler à Matt
@@ -250,7 +250,7 @@ spokentexts_a03_salonwagen_seq_a03_salonwagen_junge_kommt_raus_st_4;Viens nous d
 sequences_a03_salonwagen_seq_a03_salonwagen_junge_kommt_raus#5;[Ohi moves to the side, or turns himself so that the boy has space to get out.]
 sequences_a03_salonwagen_seq_a03_salonwagen_junge_kommt_raus#6;[The boy comes out, looks around carefully.]
 spokentexts_a03_salonwagen_seq_a03_salonwagen_junge_kommt_raus_st_5_direction;calm, friendly
-spokentexts_a03_salonwagen_seq_a03_salonwagen_junge_kommt_raus_st_5;J'ai vérifié l'ensemble du train. Il n'y a personne, sauf pour nous.
+spokentexts_a03_salonwagen_seq_a03_salonwagen_junge_kommt_raus_st_5;J'ai vérifié l'ensemble du train. Il n'y a personne, sauf nous.
 sequences_a03_salonwagen_seq_a03_salonwagen_junge_kommt_raus#8;[The boy is still not entirely convinced, stays with one knee on the ground. Ohi sees that and exhales.]
 spokentexts_a03_salonwagen_seq_a03_salonwagen_junge_kommt_raus_st_6;Ah. D'un autre côté... Le meilleur endroit pour s'asseoir est sur ​​le sol, non ?
 sequences_a03_salonwagen_seq_a03_salonwagen_junge_kommt_raus#10;[Ohi sits down with his back to the wall, the boy sits next to him. Ohi puts his arm around the boy.]
@@ -328,7 +328,7 @@ sequences_a03_tender_kopplung_used_mit_axt_2#7;[He throws the ax (from the train
 spokentexts_a03_tender_kopplung_used_mit_axt_2_st_3_direction;Triumph, cheers
 spokentexts_a03_tender_kopplung_used_mit_axt_2_st_3;Yaho-ho-ho-ho !
 spokentexts_a03_tender_kopplung_used_mit_axt_2_st_4_direction;strong cough
-spokentexts_a03_tender_kopplung_used_mit_axt_2_st_4;*tousse tousse*!
+spokentexts_a03_tender_kopplung_used_mit_axt_2_st_4;*tousse tousse*
 sequences_a03_tender_kopplung_used_mit_axt_2#10;[Ohi exaggerated and took the smok. He pulls back the towel over his head, letting themselves fall backward and presses down on his back with his legs lying through the door towerds the Big-Wagon.]
 sequences_a03_tender_kopplung_used_mit_axt_2a#1;[Ohi raises his head, looking toward the coupling. Then he gets the ax. He puts them in front of him, to gathers some power again.]
 sequences_a03_tender_kopplung_used_mit_axt_2a#2;[Ohi raises the ax and strikes with one hand as hard as he can against the coupling. Again. Nothing happens. He puts the ax beside. Then he grabs it with both hands and trys again.]
@@ -403,10 +403,10 @@ spokentexts_03_junge_top_a03_junge_tisch_was_tut_er_hier_tseq_st_2;Je... Je voul
 spokentexts_03_junge_top_a03_junge_tisch_was_tut_er_hier_tseq_st_3_direction;irritated
 spokentexts_03_junge_top_a03_junge_tisch_was_tut_er_hier_tseq_st_3;Ton pistolet ?
 sequences_03_junge_top_a03_junge_tisch_was_tut_er_hier_tseq#6;[Boy stops talikng, looks at Ohi (idle).]
-spokentexts_03_junge_top_a03_junge_tisch_was_tut_er_hier_tseq_st_4;Si il y a tellement de flics et de voleurs et d'explosions partout - alors j'avais besoin d'un pistolet, aussi !
+spokentexts_03_junge_top_a03_junge_tisch_was_tut_er_hier_tseq_st_4;il y avait tellement de flics, de voleurs et d'explosions partout - alors j'avais besoin d'un pistolet, aussi !
 spokentexts_03_junge_top_a03_junge_tisch_was_tut_er_hier_tseq_st_5_direction;frustrated
 spokentexts_03_junge_top_a03_junge_tisch_was_tut_er_hier_tseq_st_5;C'est pas idiot.
-texts_03_junge_top_a03_junge_wand_mann_erkannt_tseq_title;Reconnu l'homme?
+texts_03_junge_top_a03_junge_wand_mann_erkannt_tseq_title;Reconnu l'homme ?
 spokentexts_03_junge_top_a03_junge_wand_mann_erkannt_tseq_st_1;Tu as reconnu cet homme ? Tu l'as déjà rencontré ?
 spokentexts_03_junge_top_a03_junge_wand_mann_erkannt_tseq_st_2;Je ne pense pas...
 spokentexts_03_junge_top_a03_junge_wand_mann_erkannt_tseq_st_3;Tu pourrais le reconnaitre si tu le voyais à nouveau ?
