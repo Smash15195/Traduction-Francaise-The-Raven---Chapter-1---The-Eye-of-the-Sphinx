@@ -1769,7 +1769,7 @@ spokentexts_ermittler_top_a07_ermittler_tonband_tseq_st_5;Un indice tiré par le
 texts_ermittler_top_a07_ermittler_tresor_tseq_title;Coffre
 sequences_ermittler_top_a07_ermittler_tresor_tseq#0;[Ohi briefly points at the safe.]
 spokentexts_ermittler_top_a07_ermittler_tresor_tseq_st_4;Êtes vous sûr qu'il n'y a pas de bombe à l'intérieur cette fois ?
-spokentexts_ermittler_top_a07_ermittler_tresor_tseq_st_5;Le Professeur Lucien l'a verrouillé devant un public and il ne sera ouvert pour le première fois qu'à notre arrivé au Caire.
+spokentexts_ermittler_top_a07_ermittler_tresor_tseq_st_5;Le Professeur Lucien l'a verrouillé devant un public and il ne sera ouvert pour la première fois qu'à notre arrivé au Caire.
 spokentexts_ermittler_top_a07_ermittler_tresor_tseq_st_6;Espérons le.
 spokentexts_ermittler_top_a07_ermittler_tresor_tseq_st_7;Il faudrait des heures pour le forcer, et vous auriez besoin d'équipement lourd.
 spokentexts_ermittler_top_a07_ermittler_tresor_tseq_st_8;Ou des clés.
@@ -2490,7 +2490,7 @@ spokentexts_wachmann_top_a07_wachmann_ausgeschlafen_antwort1_tseq_st_1_direction
 spokentexts_wachmann_top_a07_wachmann_ausgeschlafen_antwort1_tseq_st_1;J'aime me coucher tard quand je suis en croisière.
 spokentexts_wachmann_top_a07_wachmann_ausgeschlafen_antwort1_tseq_st_2;Pendant que tous les autres travaillent !
 texts_wachmann_top_a07_wachmann_ausgeschlafen_antwort2_tseq_title;Je ne me suis pas endormi volontairement.
-spokentexts_wachmann_top_a07_wachmann_ausgeschlafen_antwort2_tseq_st_1;e ne me suis pas endormi volontairement.
+spokentexts_wachmann_top_a07_wachmann_ausgeschlafen_antwort2_tseq_st_1;Je ne me suis pas endormi volontairement.
 spokentexts_wachmann_top_a07_wachmann_ausgeschlafen_antwort2_tseq_st_2;Peu importe. Nous nous sommes très bien débrouillés sans vous.
 texts_wachmann_top_a07_wachmann_ausgeschlafen_antwort3_tseq_title;Statut de l'enquête
 spokentexts_wachmann_top_a07_wachmann_ausgeschlafen_antwort3_tseq_st_1;Épargnez-moi. Où en est l'enquête ?
@@ -2526,7 +2526,7 @@ spokentexts_wachmann_top_a07_wachmann_champagnerglas_tseq_st_3;C'est exactement 
 spokentexts_wachmann_top_a07_wachmann_champagnerglas_tseq_st_4_direction;surprised
 spokentexts_wachmann_top_a07_wachmann_champagnerglas_tseq_st_4;Sans laboratoire ?
 spokentexts_wachmann_top_a07_wachmann_champagnerglas_tseq_st_5_direction;amazed
-spokentexts_wachmann_top_a07_wachmann_champagnerglas_tseq_st_5;Oh, il a un laboratoire ! Sa cabine est rempli du dernier cri en matière de médecine légale !
+spokentexts_wachmann_top_a07_wachmann_champagnerglas_tseq_st_5;Oh, il a un laboratoire ! Sa cabine est remplie du dernier cri en matière de médecine légale !
 spokentexts_wachmann_top_a07_wachmann_champagnerglas_tseq_st_6;Ce que l'inspecteur peut faire est assez impressionnant.
 spokentexts_wachmann_top_a07_wachmann_champagnerglas_tseq_st_8;Un homme compétent, sans le moindre doute. Et étonnement bien préparé.
 spokentexts_wachmann_top_a07_wachmann_champagnerglas_tseq_st_9;Et appliqué ! Il a passé la nuit entière à travailler comme un démon avec ses brosses, colorants, récipients et autres.
@@ -2590,7 +2590,7 @@ spokentexts_wachmann_top_a07_wachmann_hinweise_tseq_st_6;Sur la passerelle !
 spokentexts_wachmann_top_a07_wachmann_hinweise_tseq_st_7_direction;irritated
 spokentexts_wachmann_top_a07_wachmann_hinweise_tseq_st_7;Pardon ?
 spokentexts_wachmann_top_a07_wachmann_hinweise_tseq_st_8;La passerelle permettant de monter à bord se plie et s'accroche sur la coque quand elle n'est pas utilisée.
-spokentexts_wachmann_top_a07_wachmann_hinweise_tseq_st_10;Le meurtrier a surement voulu jeté l'arme à la mer. Il l'a discrètement lâchée par dessus bord...
+spokentexts_wachmann_top_a07_wachmann_hinweise_tseq_st_10;Le meurtrier a surement voulu jeter l'arme à la mer. Il l'a discrètement lâchée par dessus bord...
 spokentexts_wachmann_top_a07_wachmann_hinweise_tseq_st_11;...mais elle a atterri sur la passerelle.
 spokentexts_wachmann_top_a07_wachmann_hinweise_tseq_st_12;Pas de chance.
 spokentexts_wachmann_top_a07_wachmann_hinweise_tseq_st_13_direction;thoughtful, doubtful
@@ -2608,7 +2608,7 @@ spokentexts_wachmann_top_a07_wachmann_selber_essen_tseq_st_4;Non. J'étais sur l
 texts_wachmann_top_a07_wachmann_tathergang_tseq_title;Progression des faits
 spokentexts_wachmann_top_a07_wachmann_tathergang_tseq_st_1;Où en est on ? Comment la Baronne a-t-elle été tué ?
 spokentexts_wachmann_top_a07_wachmann_tathergang_tseq_st_2;La Baronne a tué d'une balle à bout-portant en pleine poitrine.
-spokentexts_wachmann_top_a07_wachmann_tathergang_tseq_st_3;Nous en saurons plus quand le docteur aura terminer l'examen du corps à l'infirmerie.
+spokentexts_wachmann_top_a07_wachmann_tathergang_tseq_st_3;Nous en saurons plus quand le docteur aura terminé l'examen du corps à l'infirmerie.
 spokentexts_wachmann_top_a07_wachmann_tathergang_tseq_st_4;Et personne n'a vu quoi que ce soit d'anormal ?
 spokentexts_wachmann_top_a07_wachmann_tathergang_tseq_st_5;Personne n'a aperçu l'ombre du Corbeau quittant la cabine de la Baronne, si c'est ce que vous voulez dire.
 spokentexts_wachmann_top_a07_wachmann_tathergang_tseq_st_6;Beaucoup de gens ont entendu le coup de feu.
@@ -2640,7 +2640,7 @@ spokentexts_wachmann_top_a07_wachmann_verabschieden_treppensaal_tseq_st_2_direct
 spokentexts_wachmann_top_a07_wachmann_verabschieden_treppensaal_tseq_st_2;Faites comme bon vous semble.
 spokentexts_wachmann_top_a07_wachmann_verabschieden_treppensaal_tseq_st_4;Vous ne vous débarrasserez pas de moi. Je suis là et j'y reste, Officier Oliver.
 spokentexts_wachmann_top_a07_wachmann_verabschieden_treppensaal_tseq_st_7;Quoi qu'il en soit, l'Inspecteur Legrand m'a ordonné de surveiller la soute et notre invité.
-spokentexts_wachmann_top_a07_wachmann_verabschieden_treppensaal_tseq_st_8;Tant mieux pour vous.
+spokentexts_wachmann_top_a07_wachmann_verabschieden_treppensaal_tseq_st_8;Ca me va bien.
 spokentexts_wachmann_top_a07_wachmann_verabschieden_treppensaal_tseq_st_9;L'Inspecteur Legrand réussit peut être à se passer de sommeil pendant des jours.
 spokentexts_wachmann_top_a07_wachmann_verabschieden_treppensaal_tseq_st_10;Mais ce n'est pas mon cas.
 sequences_wachmann_top_a07_wachmann_verabschieden_treppensaal_tseq#10;[The guard leaves the location, heading to the side deck. While leaving, he calls back.]
@@ -2659,7 +2659,7 @@ spokentexts_wachmann_top_a07_wachmann_verdaechtige_tseq_st_2;Vous voulez dire en
 spokentexts_wachmann_top_a07_wachmann_verdaechtige_tseq_st_3;Il pourrait difficilement être responsable du meurtre. Vous étiez à ses côtés quand c'est arrivé.
 spokentexts_wachmann_top_a07_wachmann_verdaechtige_tseq_st_4_direction;confirming
 spokentexts_wachmann_top_a07_wachmann_verdaechtige_tseq_st_4;On a entendu le coup de feu sur le gaillard avant.
-spokentexts_wachmann_top_a07_wachmann_verdaechtige_tseq_st_5;J'enfermai notre ami dans la cellule de la soute et je suis remonté pour aider Legrand.
+spokentexts_wachmann_top_a07_wachmann_verdaechtige_tseq_st_5;J'ai enfermé notre ami dans la cellule de la soute et je suis remonté pour aider Legrand.
 spokentexts_wachmann_top_a07_wachmann_verdaechtige_tseq_st_6;VOUS profitiez déjà du sommeil des braves !
 texts_wachmann_top_a07_wachmann_was_hat_mich_ausgeknockt_tseq_title;Qu'est ce qui m'a assommé comme ça ?
 spokentexts_wachmann_top_a07_wachmann_was_hat_mich_ausgeknockt_tseq_st_1;Je ne me suis pas évanoui à cause du coup sur ma tête, n'est-ce pas ?

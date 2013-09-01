@@ -53,7 +53,7 @@ texts_ermittler_top_a00_ermittler_fragespiel_runde3_keine_aufmerksamkeit_tseq_ti
 spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_keine_aufmerksamkeit_tseq_st_1;Vous ne voulez pas éveiller l'attention.
 spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_keine_aufmerksamkeit_tseq_st_2_direction;little impatient
 spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_keine_aufmerksamkeit_tseq_st_2;Evident. Mais pourquoi pas ?
-texts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_title;Plus les hommes serait inutile
+texts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_title;Plus d'hommes serait inutile
 spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_st_1;Il y a assez de policiers dans ce train comme ça. S'il y en avait plus ils ne feraient que se gêner les uns les autres.
 spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_st_2_direction;seriously
 spokentexts_ermittler_top_a00_ermittler_fragespiel_runde3_nicht_noetig_tseq_st_2;Je peux vous assurer que je bouclerais chaque siège dans toutes les voitures de ce train avec des policiers s'il s'agissait d'une question de dissuasion.
@@ -207,7 +207,7 @@ sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#3;[Ohi irri
 sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#4;[Scene: The camera is initially on Ohis face in close-up. Then a cut and you can see that Ohi is in a police uniform and a little boy in front of him with a wooden gun stands]
 sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#5;[Idle from boy as he aims his gun at Ohi.]
 sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#6;"[Ohi breathes lightly annoyed and, while he looks further at the boy. When he is thinking, ""Is that really necessary?"" Then he looks to the left and right, whether guardians are seen, which can take the boy. Nobody there. Back in the idle.]"
-spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen_st_2;Je n'est pas le temps pour jouer. Je suis en service.
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen_st_2;Je n'ai pas le temps pour jouer. Je suis en service.
 sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#8;[Ohi his book raises again and continues reading. Back in the Read-Idle. The boy lowers the gun disappointed.]
 sequences_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen#9;[The boy puts Ohi tongue out.]
 spokentexts_grossraumwagon_seq_grossraumwagon_oehi_lernt_jungen_kennen_st_3_direction;Sticking tongue out
@@ -252,7 +252,7 @@ spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_21;Pe
 spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_22;Trop de bagages.
 sequences_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler#30;[Scene: The investigator wants to interject something, but Ohi interrupts him]
 spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_24;Et non, il ne prend pas sa retraite en Italie non plus.
-spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_25;Ses valises sont trop minable pour moi pour croire qu'il peut se permettre de prendre sa retraite avant la cinquantaine.
+spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_25;Ses valises sont trop minables pour moi pour croire qu'il peut se permettre de prendre sa retraite avant la cinquantaine.
 sequences_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler#34;[Scene: The investigator thinks for a moment.]
 spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_26;Bon, et alors, gendarme...
 spokentexts_grossraumwagon_seq_grossraumwagon_oehi_ueberzeugt_ermittler_st_27;Zellner.
@@ -318,7 +318,7 @@ sequences_a00_startintro_seq_a00_startintro_teil_4#0;[Slow fade-in. A newspaper.
 sequences_a00_startintro_seq_a00_startintro_teil_4#1;[The camera zooms back slowly. One can see hands holding the newspaper.]
 sequences_a00_startintro_seq_a00_startintro_teil_4#2;"[This is an English newspaper. The translation of the headline appears: ""The legacy of the Raven's incredible!""]"
 spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_1_direction;mocking
-spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_1;"hein, ""L'héritier du Corbeau !"""
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_1;"Hein, ""L'héritier du Corbeau !"""
 spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_2_direction;indignantly
 spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_2;Dès que l'un d'eux est pris, un autre prend sa place !
 sequences_a00_startintro_seq_a00_startintro_teil_4#5;"[Cut back. You see a Museumswae behind a ""security bar"" in a dark museum.]"
@@ -329,7 +329,7 @@ spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_4;Harold ?
 sequences_a00_startintro_seq_a00_startintro_teil_4#10;[Because still is no reaction, stands guard on the cautious and turns on a flashlight. With the other hand on the gun he goes into a dark corridor.]
 sequences_a00_startintro_seq_a00_startintro_teil_4#11;[Cut. Deeper in the corridor (the guard has been a fair bit away from his table). Big Ben in the background is heard. Two clock in the morning.]
 spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_5_direction;chuchotement, un peu anxieux
-spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_5;Harold ! Tu m'écoutes ? C'-c'est pas le moment pour jouer à faire des blagues !
+spokentexts_a00_startintro_seq_a00_startintro_teil_4_st_5;Harold ! Tu m'écoutes ? C'-c'est pas le moment de jouer à faire des blagues !
 sequences_a00_startintro_seq_a00_startintro_teil_4#13;[The guard goes to a larger showroom. In the middle is a display case with the eye of the Sphinx. The guard scans the room, stands close to a wall.]
 sequences_a00_startintro_seq_a00_startintro_teil_4#14;[Blurred in the background you can see how is passing a figure.]
 sequences_a00_startintro_seq_a00_startintro_teil_4#15;[The Intro_Guard turns, lights in the hallway, but the figure is gone.]

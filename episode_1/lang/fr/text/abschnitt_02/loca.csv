@@ -19,12 +19,12 @@ spokentexts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_2_tseq_st_2_directi
 spokentexts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_2_tseq_st_2;J'ai fait la guerre et ce n'était pas une petite explosion...
 spokentexts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_2_tseq_st_3;Je doute que le wagon était plein à craquer de bonbonnes de gaz.
 spokentexts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_2_tseq_st_5;Bien sûr !
-texts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_3_tseq_title;Fuir.
+texts_02_arzt_top_a02_arzt__hat_er_was_gesehen_antwort_3_tseq_title;Eviter la question.
 texts_02_arzt_top_a02_arzt_andere_passagiere_tseq_title;Et pour les passagers ?
 spokentexts_02_arzt_top_a02_arzt_andere_passagiere_tseq_st_1;Et pour les passagers ?
 spokentexts_02_arzt_top_a02_arzt_andere_passagiere_tseq_st_2;Ils sont en état de choc, bien sûr.
-spokentexts_02_arzt_top_a02_arzt_andere_passagiere_tseq_st_3;La panne d'électricité et l'arrêt brutal ont été effrayant. Mais l'explosion et la poussière...
-spokentexts_02_arzt_top_a02_arzt_andere_passagiere_tseq_st_4;Tout le monde s'est précipité vers la sortie. J'ai aidé l'américaine Lady Westmacott a se mettre à l'abri.
+spokentexts_02_arzt_top_a02_arzt_andere_passagiere_tseq_st_3;La panne d'électricité et l'arrêt brutal ont été effrayants. Mais l'explosion et la poussière...
+spokentexts_02_arzt_top_a02_arzt_andere_passagiere_tseq_st_4;Tout le monde s'est précipité vers la sortie. J'ai aidé l'américaine à mettre Lady Westmacott à l'abri.
 spokentexts_02_arzt_top_a02_arzt_andere_passagiere_tseq_st_6;Ils attendent à l'extérieur du tunnel. Une entrée est bloquée par un incendie et l'autre semble s'être effondré.
 texts_02_arzt_top_a02_arzt_gespraech_ende_tseq_title;Terminer la conversation
 spokentexts_02_arzt_top_a02_arzt_gespraech_ende_tseq_st_1;Continuez à chercher dans le train. Je vais découpler le wagon.
@@ -250,7 +250,7 @@ texts_a02_salonwagen_bonbonschale_mo_used_mit_streichhoelzer;Mettre le feu au rh
 texts_a02_salonwagen_bonbonschale_mo_used_mit_stuhlbein;Mettre le feu au pied de chaise
 texts_a02_salonwagen_bonbonschale_mo_used_mit_vorhang_1-3;Mettre le feu au  rideau
 sequences_a02_salonwagen_bonbonschale_ex_1#1;[Ohi kneels down, picks up the bowl and looks at it, kneeling in his hand.]
-spokentexts_a02_salonwagen_bonbonschale_ex_1_st_1;Beaucoup de chose ont été endommagé par l'arrêt soudain.
+spokentexts_a02_salonwagen_bonbonschale_ex_1_st_1;Beaucoup de choses ont été endommagées par l'arrêt soudain.
 spokentexts_a02_salonwagen_bonbonschale_ex_1_st_2;Mais le bol était assez résistant pour survivre à la chute.
 sequences_a02_salonwagen_bonbonschale_ex_1#4;[Ohi gets up and place the dish back casually on the counter.]
 spokentexts_a02_salonwagen_bonbonschale_ex_2_st_1;Les derniers bonbons ont disparu. Comparer à un wagon explosé, je pense que les chemins de fer arriveront à se faire à cette perte.
@@ -277,7 +277,7 @@ spokentexts_a02_salonwagen_bonbonschale_used_mit_streichhoelzer_st_1;Hmm... Comm
 spokentexts_a02_salonwagen_bonbonschale_used_mit_stuhlbein_01__st_1;Ça prend trop de temps ! Et le temps est compté !
 spokentexts_a02_salonwagen_bonbonschale_used_mit_vorhang_1_st_1;La flamme est certainement plus grande et plus chaude qu'une allumette, mais même ainsi, le rideau brûlerait probablement lentement.
 spokentexts_a02_salonwagen_bonbonschale_used_mit_vorhang_2_st_1;L'alcool sur les rideaux brûlerait tout aussi faiblement que dans le bol. Ça ne sert à rien.
-spokentexts_a02_salonwagen_bonbonschale_used_mit_vorhang_3_st_1;La température à la pointe des flammes doivent être suffisamment élevé pour mettre le feu à l'huile et à la graisse sur le rideau.
+spokentexts_a02_salonwagen_bonbonschale_used_mit_vorhang_3_st_1;La température à la pointe des flammes doit être suffisamment élevée pour mettre le feu à l'huile et à la graisse sur le rideau.
 spokentexts_a02_salonwagen_bonbonschale_used_mit_vorhang_3_st_2;Mais si ça fonctionne, je ferais mieux de ne pas le tenir dans mes mains !
 texts_a02_salonwagen_fackel_mo_ex_1-3;Torche
 texts_a02_salonwagen_fackel_mo_inv_brennende;Torche allumée
@@ -338,7 +338,7 @@ sequences_a02_salonwagen_hinterer_eingang_leave_2#3;"[Continue with the scene ""
 texts_a02_salonwagen_rum_mo_ex_1;Examiner la bouteille de rhum fort
 texts_a02_salonwagen_rum_mo_use_1;Utiliser le rhum fort avec...
 texts_a02_salonwagen_rum_mo_used_mit_streichhoelzer;Faire flamber le rhum
-spokentexts_a02_salonwagen_rum_ex_1_st_1;Du rhum d'Autriche, croyez-le ou non, c'est 80% d'alcool par volume ! Il n'y a aucun moyen que quelqu'un puisse le boire directement.
+spokentexts_a02_salonwagen_rum_ex_1_st_1;Du rhum d'Autriche, croyez-le ou non, c'est 80% d'alcool par volume ! Il n'y a aucun moyen que quelqu'un puisse le boire sec.
 sequences_a02_salonwagen_rum_use_1#1;[The Rum is attached to the cursor and can now be used.]
 spokentexts_a02_salonwagen_rum_used_mit_streichhoelzer_1_st_1;Je m'attends à ce que le rhum brûle comme du méthanol, mais je ferais mieux de ne pas tester cette théorie dans la bouteille.
 texts_a02_salonwagen_streichhoelzer_mo_ex_2;Allumettes
@@ -378,7 +378,7 @@ spokentexts_a02_salonwagen_stuhlbein_take_1_st_1;Très bien... Allons-y !
 spokentexts_a02_salonwagen_stuhlbein_used_mit_streichhoelzer_1_st_1;Je ne mettrais jamais le feu au pied de la chaise en utilisant des allumettes. J'ai besoin d'un meilleur plan.
 spokentexts_a02_salonwagen_stuhlbein_used_mit_vorhang_2_st_1;Cela ne fait aucun sens.
 texts_a02_salonwagen_tuer_zum_grossraumwagon_mo_leave_1a__1b;Aller dans la voiture suivante
-spokentexts_a02_salonwagen_tuer_zum_grossraumwagon_leave_1a_st_1;Je dois me concentrer sur le désaccouplement du wagon. Je suis sûre que Legrand a tout le reste sous contrôle.
+spokentexts_a02_salonwagen_tuer_zum_grossraumwagon_leave_1a_st_1;Je dois me concentrer sur le désaccouplement du wagon. Je suis sûr que Legrand a tout le reste sous contrôle.
 spokentexts_a02_salonwagen_tuer_zum_grossraumwagon_leave_1b_st_1;My job is back at the freight car.
 spokentexts_a02_salonwagen_tuer_zum_grossraumwagon_leave_1b_st_2;La vie des gens là-bas dépendra de la rapidité que je met !
 texts_a02_salonwagen_tuer_zum_uebergang_mo_leave_1;Aller à l'extérieur

@@ -8,14 +8,14 @@ characters_unbekannter;Unbekannter
 characters_wachmann;Wachmann
 texts__top_a06_kapitaen_niedergeschlagen_tseq_title;Je me suis fait attaqué
 spokentexts__top_a06_kapitaen_niedergeschlagen_tseq_st_1;Je pense que vous avez un passager clandestin à bord. J'ai été attaqué.
-spokentexts__top_a06_kapitaen_niedergeschlagen_tseq_st_2;C'est intolérable ! L'équipage va fouillé chaque coin et recoin du navire!
+spokentexts__top_a06_kapitaen_niedergeschlagen_tseq_st_2;C'est intolérable ! L'équipage va fouiller chaque coin et recoin du navire!
 spokentexts__top_a06_kapitaen_niedergeschlagen_tseq_st_3;Et bien sûr, M. Zellner, vous êtes cordialement invité à voyager comme notre invité spécial !
 spokentexts__top_a06_kapitaen_niedergeschlagen_tseq_st_4_direction;Confirming played grateful
 spokentexts__top_a06_kapitaen_niedergeschlagen_tseq_st_4;Content de savoir qu'au moins un homme ne veut pas me jeter par-dessus bord.
 texts__top_a06_kapitaen_warum_wurde_ich_nicht_gesucht_tseq_title;Pourquoi personne ne m'a recherché ?
 spokentexts__top_a06_kapitaen_warum_wurde_ich_nicht_gesucht_tseq_st_1;Pourquoi personne n'est venu à ma recherche ?
 spokentexts__top_a06_kapitaen_warum_wurde_ich_nicht_gesucht_tseq_st_2;Personne n'a remarqué que je ne suis pas revenu de la soute ?
-spokentexts__top_a06_kapitaen_warum_wurde_ich_nicht_gesucht_tseq_st_5;Nous vous avons recherché, mais nous ne vous trouvions pas.
+spokentexts__top_a06_kapitaen_warum_wurde_ich_nicht_gesucht_tseq_st_5;Nous vous avons recherché, mais impossible de vous trouver.
 spokentexts__top_a06_kapitaen_warum_wurde_ich_nicht_gesucht_tseq_st_6;Qui était censé chercher dans la soute ?
 spokentexts__top_a06_kapitaen_warum_wurde_ich_nicht_gesucht_tseq_st_7;L'Officier Oliver. Je vais avoir une discussion avec lui à ce sujet plus tard.
 spokentexts__top_a06_kapitaen_warum_wurde_ich_nicht_gesucht_tseq_st_8;Je l'espère bien.
@@ -33,7 +33,7 @@ spokentexts_arzt_top_a06_arzt_antwort_finger_fuenf_tseq_st_3;OK.
 texts_arzt_top_a06_arzt_antwort_finger_fuenf_tseq_title;Cinq doigts
 spokentexts_arzt_top_a06_arzt_antwort_finger_fuenf_tseq_st_1;Je vois cinq doigts.
 spokentexts_arzt_top_a06_arzt_antwort_finger_fuenf_tseq_st_2;Trois d'entre eux sont tendus.
-texts_arzt_top_a06_arzt_antwort_finger_was_fuer_finger_tseq_title;Quel doigts ?
+texts_arzt_top_a06_arzt_antwort_finger_was_fuer_finger_tseq_title;Quels doigts ?
 spokentexts_arzt_top_a06_arzt_antwort_finger_was_fuer_finger_tseq_st_1_direction;irritated
 spokentexts_arzt_top_a06_arzt_antwort_finger_was_fuer_finger_tseq_st_1;Des doigts ?
 spokentexts_arzt_top_a06_arzt_antwort_finger_was_fuer_finger_tseq_st_2_direction;annoyed, challenging
@@ -63,7 +63,7 @@ sequences_ermittler_top_a06_ermittler_niedergeschlagen_tseq#1;[Ohi opens the doo
 sequences_ermittler_top_a06_ermittler_niedergeschlagen_tseq#5;[The investigator puts his gun back, takes the bar.]
 spokentexts_ermittler_top_a06_ermittler_niedergeschlagen_tseq_st_4_direction;Emphasis - on the side, not on the other
 spokentexts_ermittler_top_a06_ermittler_niedergeschlagen_tseq_st_4;Attention à la manière dont vous le tenez ! Il pourrait y avoir des empreintes digitales dessus !
-spokentexts_ermittler_top_a06_ermittler_niedergeschlagen_tseq_st_5;Vous ne pensez pas que je vous croie ?
+spokentexts_ermittler_top_a06_ermittler_niedergeschlagen_tseq_st_5;Vous ne pensez pas que je vous crois ?
 texts_ermittler_top_a06_ermittler_warum_bedrohen_sie_mich_tseq_title;Pourquoi me menace t-il ?
 spokentexts_ermittler_top_a06_ermittler_warum_bedrohen_sie_mich_tseq_st_1;La vraie question est: pourquoi VOUS me menacez avec une arme ?
 spokentexts_ermittler_top_a06_ermittler_warum_bedrohen_sie_mich_tseq_st_2_direction;threatening
@@ -292,7 +292,7 @@ sequences_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig#0;[Ohi goes the ra
 sequences_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig#1;[The doctor comes in, goes to Ohi.]
 spokentexts_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig_st_1_direction;bewildered
 spokentexts_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig_st_1;Vous allez bien ?
-spokentexts_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig_st_2;Peut-être que vous feriez mieux de prendre un repos, dans le cas où le coup serait plus sévère...
+spokentexts_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig_st_2;Peut-être que vous feriez mieux de vous reposer, au cas où le coup serait plus sévère...
 spokentexts_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig_st_4_direction;far away
 spokentexts_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig_st_4;ZELLNER ! Ici !
 sequences_a06_nebendeck_seq_a06_nebendeck_rabenjagd_erstmalig#6;"[Ohi makes a powerless ""Leave me alone / Is already"" gesture and gets up right again.]"
@@ -328,17 +328,17 @@ sequences_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitae
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_8_direction;drunk
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_8;Je contrôle la situation, je peux me débrouiller
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_9_direction;drunk
-spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_9;Dites à James qu'il doit absolument me réveiller à vingt-deux heures moins le quart.
+spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_9;Dites à James qu'il doit absolument me réveiller à dix heures moins le quart.
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_10;Certainement, madame.
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_11_direction;drunk
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_11;Absolument !
-spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_12;Je vais voir ce qu'il fait.
+spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_12;J'y veillerai.
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_13_direction;drunk
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_13;Maintenant, je vais retourner dans ma cabine !
 sequences_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen#17;[The Baroness takes a few steps, then stays next to the investigator and holds him ar the shoulder (idle).]
 sequences_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen#18;[Cut to a closeup of the face of the investigator and the backhead of the Baroness.]
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_14_direction;drunk
-spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_14;Vous serez dans le bar ce soir à vingt-deux heures, inspecteur ?
+spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_14;Vous serez au bar ce soir à vingt-deux heures, inspecteur ?
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_15_direction;thoughtfully
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_15;Si... C'est ce que vous souhaitez...
 sequences_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen#21;[The investigator looking pensive. Then cut back to a long shot.]
@@ -353,7 +353,7 @@ sequences_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitae
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_18_direction;Happy
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_18;Mais je suis content que vous ayez décidé de vous joindre à nous pour notre voyage au Caire !
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_19_direction;apologetic
-spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_19;De manière pas tout à fait volontairement.
+spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_19;De manière pas tout à fait volontaire.
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_20;Qu'il dit.
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_21_direction;slightly annoyed
 spokentexts_a06_treppensaal_seq_a06_treppensaal_oehi_und_ermittler_treffen_kapitaen_st_21;J'ai été attaqué.
@@ -435,14 +435,14 @@ spokentexts_a06_oberdeck_seq_a06_oberdeck_oehi_wird_erwischt_st_5_direction;a li
 spokentexts_a06_oberdeck_seq_a06_oberdeck_oehi_wird_erwischt_st_5;Vous avez passé du temps caché dans une malle récemment ?
 spokentexts_a06_oberdeck_seq_a06_oberdeck_oehi_wird_erwischt_st_6_direction;strong emphasis
 spokentexts_a06_oberdeck_seq_a06_oberdeck_oehi_wird_erwischt_st_6;Moi rien fait.
-spokentexts_a06_oberdeck_seq_a06_oberdeck_oehi_wird_erwischt_st_7;Il prétend faire partie de l'équipage. Il voulais juste prendre l'air.
+spokentexts_a06_oberdeck_seq_a06_oberdeck_oehi_wird_erwischt_st_7;Il prétend faire partie de l'équipage. Il voulait juste prendre l'air.
 spokentexts_a06_oberdeck_seq_a06_oberdeck_oehi_wird_erwischt_st_8_direction;a little tired / struck
 spokentexts_a06_oberdeck_seq_a06_oberdeck_oehi_wird_erwischt_st_8;Bien sûr.
 sequences_a06_oberdeck_seq_a06_oberdeck_oehi_wird_erwischt#11;[Cut to the stairs.]
 sequences_a06_oberdeck_seq_a06_oberdeck_oehi_wird_erwischt#12;[The guard is walking up the stairs without breath.]
 spokentexts_a06_oberdeck_seq_a06_oberdeck_oehi_wird_erwischt_st_18_direction;Breathless
 spokentexts_a06_oberdeck_seq_a06_oberdeck_oehi_wird_erwischt_st_18;La Baronne n'ouvre pas la porte, monsieur !
-spokentexts_a06_oberdeck_seq_a06_oberdeck_oehi_wird_erwischt_st_9;Compris. Emmenez-le à la cellule, Robert.
+spokentexts_a06_oberdeck_seq_a06_oberdeck_oehi_wird_erwischt_st_9;Compris. Emmenez-le dans la cellule, Robert.
 sequences_a06_oberdeck_seq_a06_oberdeck_oehi_wird_erwischt#14;[Cut back on investigator and Arab.]
 sequences_a06_oberdeck_seq_a06_oberdeck_oehi_wird_erwischt#15;[The investigator swipes with the weapon toward the stairs.]
 sequences_a06_oberdeck_seq_a06_oberdeck_oehi_wird_erwischt#17;[The Arab takes down his arms and goes with his head hung to the guard.]
@@ -477,12 +477,12 @@ sequences_a06_salon_seq_a06_salon_finger#1;[Cut. Now we see what Ohi sees.]
 sequences_a06_salon_seq_a06_salon_finger#2;[The doctor's hand is pushed into view. He has pointed three fingers out.]
 spokentexts_a06_salon_seq_a06_salon_ist_es_schlimm_st_1;C'est grave ?
 spokentexts_a06_salon_seq_a06_salon_ist_es_schlimm_st_2;Oui, ça fait très mal.
-spokentexts_a06_salon_seq_a06_salon_ist_es_schlimm_st_3;J'ai parlé avec le Dr Gebhardt.
+spokentexts_a06_salon_seq_a06_salon_ist_es_schlimm_st_3;Je m'adressait au Dr Gebhardt.
 spokentexts_a06_salon_seq_a06_salon_ist_es_schlimm_st_4;Il a subi un violent coup à l'arrière de la tête. Je ne peux pas vraiment dire si c'est grave.
 spokentexts_a06_salon_seq_a06_salon_ist_es_schlimm_st_5_direction;angry because he is ignored
 spokentexts_a06_salon_seq_a06_salon_ist_es_schlimm_st_5;Mais je peux: CA FAIT VRAIMENT MAL !
 spokentexts_a06_salon_seq_a06_salon_oehi_ist_in_ordnung_st_1;Vous allez bien maintenant, Officier.
-spokentexts_a06_salon_seq_a06_salon_oehi_ist_in_ordnung_st_2;Le saignement s'est arrêté et la plaie à l'air jolie.
+spokentexts_a06_salon_seq_a06_salon_oehi_ist_in_ordnung_st_2;Le saignement s'est arrêté et la plaie a l'air d'aller.
 spokentexts_a06_salon_seq_a06_salon_oehi_ist_in_ordnung_st_3;Vous pourrez avoir une légère commotion cérébrale.
 spokentexts_a06_salon_seq_a06_salon_oehi_ist_in_ordnung_st_4;Vous avez juste besoin d'une bonne nuit de sommeil et demain votre seule séquelle sera un mal de tête et une bosse impressionnante.
 sequences_a06_salon_seq_a06_salon_oehi_ist_in_ordnung#4;[Ohi throws his feets off the couch, sits down.]
