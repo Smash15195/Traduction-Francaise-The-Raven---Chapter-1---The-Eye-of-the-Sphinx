@@ -17,9 +17,9 @@ Traduction Francaise The Raven - Chapitre 1 : L'Oeil du Sphinx
 
 ### Note de Version
 ```
-V1 : Indisponible (en cours de traduction).
+V1 : Disponible.
 ```
 
 ### Windows
 
-Pour télécharger la traduction, cliquez sur [Download](Indisponible).
+Pour télécharger la traduction, cliquez sur [Download](http://www.chez-smash15195.com/traduction-francaise/the-raven-chapter-1-contruc/chapitre-1-loeil-du-sphinx/).
