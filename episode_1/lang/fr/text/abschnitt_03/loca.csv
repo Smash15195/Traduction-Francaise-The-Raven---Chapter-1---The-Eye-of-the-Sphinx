@@ -100,7 +100,7 @@ texts_a03_grossraumwagon_tuer_zum_tender_mo_use_4-5;Ramper
 texts_a03_grossraumwagon_tuer_zum_tender_mo_used_mit_axt;Forcer la porte
 texts_a03_grossraumwagon_tuer_zum_tender_mo_used_mit_handtuch_01;Sortir avec la serviette
 texts_a03_grossraumwagon_tuer_zum_tender_mo_used_mit_handtuch_1-3;Utiliser la serviette avec la poignée de la porte 
-spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_1_st_1;Cette porte mène à l'attelage. Ça va pas être confortable, sans aucun doute, mais je ne crois pas que les flammes sont directement derrière la porte.
+spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_1_st_1;Cette porte mène à l'attelage. Ça va pas être confortable, sans aucun doute, mais je ne crois pas que les flammes soient directement derrière la porte.
 spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_1_st_2;Je suppose qu'il y a un endroit relativement sûr à l'abri de tout ça où l'on pourrait rester un petit moment.
 spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_2_st_1;La hache fonctionne comme un coin pour garder la porte fermée. La fumée n'est pas toxique, elle est composée de particules de charbon et d'étincelles volantes.
 spokentexts_a03_grossraumwagon_tuer_zum_tender_ex_2_st_2;Si tout ça me rentre dans les poumons et les yeux, je serai hors de combat !
@@ -143,7 +143,7 @@ sequences_a03_grossraumwagon_tuer_zur_kabine_archaeologe_leave_1#1;[Ohi opens th
 sequences_a03_grossraumwagon_tuer_zur_kabine_archaeologe_leave_2#1;[Ohi enters the cabin with ax in hand]
 texts_a03_grossraumwagon_tuer_zur_kabine_baronin_mo_leave_1;Entrer dans le compartiment de la Baronne
 sequences_a03_grossraumwagon_tuer_zur_kabine_baronin_leave_1#1;[Ohi trys to open the door of the cabin of the Baroness. But he succeeds only about 10 cm, then the door shuts again.]
-spokentexts_a03_grossraumwagon_tuer_zur_kabine_baronin_leave_1;Impossible d'y entrer, je suppose que les bagages de la Baronne sont tombés et bloque la porte.
+spokentexts_a03_grossraumwagon_tuer_zur_kabine_baronin_leave_1;Impossible d'y entrer, je suppose que les bagages de la Baronne sont tombés et bloquent la porte.
 sequences_a03_grossraumwagon_seq_a03_grossraumwagon_kabine_archaeologe_leave#0;[Ohi comes out out the cabin, the door closes behind him. The door was open.]
 sequences_a03_grossraumwagon_seq_a03_grossraumwagon_tender_leave#0;[Ohi grabs the towel from his head and stands up. The door, he has already wedged with the ax]
 sequences_a03_grossraumwagon_seq_a03_grossraumwagon_tender_leave_erstmalig#1;[Ohi pushes back one last time with the arms. Then he kneels down, takes the Axe and moves with the help of it the hot door tightly. Then he leans against it and wedged the door with an ax. He took the towel from his head and stands up.]
@@ -160,7 +160,7 @@ spokentexts_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt_st_3_d
 spokentexts_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt_st_3;Ouah. Ce n'est pas seulement de la fumée ! Je ne peux sentir des cendres dans ma bouche !
 sequences_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt#5;[Ohi gets up, place one foot before the door. Then he rips the towel off his head, stuffed it under the door and hits twice after it with his his feet.]
 sequences_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt#7;[Ohi turns around, wipes his face and through his hair, then wipes off his hands.]
-spokentexts_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt_st_5;C'est l'heure de l'histoire de mon shérif adjoint !
+spokentexts_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt_st_5;C'est l'heure de mon histoire de shérif adjoint !
 sequences_a03_grossraumwagon_seq_a03_grossraumwagon_tender_lok_getrennt#9;[Ohi walks away towards saloon wagon.]
 texts_a03_salonwagen__notbremse_mo_ex_2;Examiner le frein d'urgence
 texts_a03_salonwagen__notbremse_mo_use;Tirer le frein d'urgence
@@ -188,7 +188,7 @@ sequences_a03_salonwagen__tisch_use_1#9;[The boy looks guiltily down.]
 sequences_a03_salonwagen__tisch_use_1#10;[Cut to Ohi.]
 sequences_a03_salonwagen__tisch_use_1#11;[Ohi is slightly annoyed, but his anger dissipates slowly. He does not scold the boy.]
 spokentexts_a03_salonwagen__tisch_use_1_st_4_direction;less angry
-spokentexts_a03_salonwagen__tisch_use_1_st_4;Bah. Sort de là.
+spokentexts_a03_salonwagen__tisch_use_1_st_4;Bah. Sors de là.
 sequences_a03_salonwagen__tisch_use_1#13;[The boy looks up, but does not want to come out.]
 spokentexts_a03_salonwagen__tisch_use_1_st_5;Il est plus là ?
 spokentexts_a03_salonwagen__tisch_use_1_st_6;Qui ça ?
@@ -276,7 +276,7 @@ spokentexts_a03_salonwagen_seq_a03_salonwagen_oehi_kommt_rein_st_2;Rghmm.
 sequences_junge_seq_a03_salonwagen_geschichte_des_jungen_ende#0;[Ohi and the boy still sitting on the floor next to the table and talk to each other.]
 spokentexts_junge_seq_a03_salonwagen_geschichte_des_jungen_ende_st_1;Et puis ?
 spokentexts_junge_seq_a03_salonwagen_geschichte_des_jungen_ende_st_2;Quand le gars est parti, je me suis levé et j'ai frappé à la fenêtre. Je voulais sortir de là !
-spokentexts_junge_seq_a03_salonwagen_geschichte_des_jungen_ende_st_3;Mais ensuite j'ai pensé: qu'est-ce qui allait se passer si le gars m'entendait dans le wagon à coté ? Alors, j'ai eu peur et je me suis caché à nouveau.
+spokentexts_junge_seq_a03_salonwagen_geschichte_des_jungen_ende_st_3;Mais ensuite j'ai pensé : qu'est-ce qui allait se passer si le gars m'entendait dans le wagon à coté ? Alors, j'ai eu peur et je me suis caché à nouveau.
 spokentexts_junge_seq_a03_salonwagen_geschichte_des_jungen_ende_st_4;Tu as bien fait.
 texts_a03_tender_axt_mo_use;Utiliser la hache
 spokentexts_a03_tender_axt_ex_1_st_1;La hache fonctionne parfaitement comme un coin. Mais elle pourrait être utile à autre chose aussi.
@@ -321,7 +321,7 @@ sequences_a03_tender_kopplung_used_mit_axt_1#8;[Ohi turns with the ax a bit more
 sequences_a03_tender_kopplung_used_mit_axt_1#9;[Cut to a long shot.]
 sequences_a03_tender_kopplung_used_mit_axt_1#10;[With a final stroke from Ohi, the coupling is loose enough. With his last strength took Ohi back the ax and puts it next to him.]
 spokentexts_a03_tender_kopplung_used_mit_axt_1_st_2_direction;against the wind, from exhaustion out of breath
-spokentexts_a03_tender_kopplung_used_mit_axt_1_st_2;Hhh hhh-. Ça devrait faire l'affaire.
+spokentexts_a03_tender_kopplung_used_mit_axt_1_st_2;Hhh hhh. Ça devrait faire l'affaire.
 sequences_a03_tender_kopplung_used_mit_axt_1#12;[Ohi goes back to idle.]
 sequences_a03_tender_kopplung_used_mit_axt_2#6;[Cut back on Ohi.]
 sequences_a03_tender_kopplung_used_mit_axt_2#7;[He throws the ax (from the train), the pulls his arms up and cheers.]
@@ -389,7 +389,7 @@ texts_03_junge_top_a03_junge_tisch_mann_tseq_title;Quel homme ?
 spokentexts_03_junge_top_a03_junge_tisch_mann_tseq_st_1;Quel homme ?
 spokentexts_03_junge_top_a03_junge_tisch_mann_tseq_st_2;"A propos de cet ""homme""?"
 spokentexts_03_junge_top_a03_junge_tisch_mann_tseq_st_3;Il y avait un homme. Il toussait.
-spokentexts_03_junge_top_a03_junge_tisch_mann_tseq_st_4;un passager ?
+spokentexts_03_junge_top_a03_junge_tisch_mann_tseq_st_4;Un passager ?
 sequences_03_junge_top_a03_junge_tisch_mann_tseq#6;[The boy shakes his head.]
 spokentexts_03_junge_top_a03_junge_tisch_mann_tseq_st_5_direction;whispers
 spokentexts_03_junge_top_a03_junge_tisch_mann_tseq_st_5;Je pense qu'il venait du toit.
@@ -428,9 +428,9 @@ texts_03_junge_top_a03_junge_wand_war_es_ein_mann_tseq_title;Vraiment, un homme 
 spokentexts_03_junge_top_a03_junge_wand_war_es_ein_mann_tseq_st_1;Es-tu sûr que c'était un homme ?
 spokentexts_03_junge_top_a03_junge_wand_war_es_ein_mann_tseq_st_2;Totalement ! Qu'est-ce qu'il pourrait être d'autre ?
 spokentexts_03_junge_top_a03_junge_wand_war_es_ein_mann_tseq_st_3;Une femme ?
-spokentexts_03_junge_top_a03_junge_wand_war_es_ein_mann_tseq_st_4;Pff ! Nan. Les filles ne peuvent pas être des voleurs. Les filles sont toujours honnête.
+spokentexts_03_junge_top_a03_junge_wand_war_es_ein_mann_tseq_st_4;Pff ! Nan. Les filles ne peuvent pas être des voleurs. Les filles sont toujours honnêtes.
 spokentexts_03_junge_top_a03_junge_wand_war_es_ein_mann_tseq_st_5_direction;laughing
-spokentexts_03_junge_top_a03_junge_wand_war_es_ein_mann_tseq_st_5;Si seulement tu savez...
+spokentexts_03_junge_top_a03_junge_wand_war_es_ein_mann_tseq_st_5;Si seulement tu savais...
 texts_03_junge_top_a03_junge_wand_wo_ist_briefumschlag_tseq_title;Enveloppe
 spokentexts_03_junge_top_a03_junge_wand_wo_ist_briefumschlag_tseq_st_1;Et... L'enveloppe que l'étranger a perdu ?
 spokentexts_03_junge_top_a03_junge_wand_wo_ist_briefumschlag_tseq_st_2;L'enveloppe que l'homme a perdu. Où est-elle ?
@@ -456,7 +456,7 @@ sequences_03_junge_top_a03_junge_wand_wo_ist_briefumschlag_tseq#19;[Ohi looks ba
 spokentexts_03_junge_top_a03_junge_wand_wo_ist_briefumschlag_tseq_st_12_direction;thoughtful
 spokentexts_03_junge_top_a03_junge_wand_wo_ist_briefumschlag_tseq_st_12;Intéressant...
 sequences_03_junge_top_a03_junge_wand_wo_ist_briefumschlag_tseq#21;[After a short pause he put the ticket back in the envelope. But he don't put the Envelope back into his packet (idle).]
-spokentexts_03_junge_top_a03_junge_wand_wo_ist_briefumschlag_tseq_st_13;Je devrais peut-être les garder ?
+spokentexts_03_junge_top_a03_junge_wand_wo_ist_briefumschlag_tseq_st_13;Puis-je les garder ?
 spokentexts_03_junge_top_a03_junge_wand_wo_ist_briefumschlag_tseq_st_14;Que voulez-vous faire en faire ?
 sequences_03_junge_top_a03_junge_wand_wo_ist_briefumschlag_tseq#24;[Ohi Is smiling and puts in the envelope.]
 spokentexts_03_junge_top_a03_junge_wand_wo_ist_briefumschlag_tseq_st_15;Prendre des vacances.
