@@ -3,9 +3,9 @@ loading;Chargement
 menu_continue;Reprendre Partie
 menu_new;Nouvelle Partie
 menu_new_game_na;Indisponible
-menu_new_episode_1;Chapitre 1
-menu_new_episode_2;Chapitre 2
-menu_new_episode_3;Chapitre 3
+menu_new_episode_1;L'Oeil du Sphinx
+menu_new_episode_2;La Genèse des Mensonges
+menu_new_episode_3;L'extinction des Corbeaux
 episode_1_tooltip;Choisir chapitre 1
 episode_2_tooltip;Choisir chapitre 2
 episode_3_tooltip;Choisir chapitre 3

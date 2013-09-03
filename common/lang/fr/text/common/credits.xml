@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <credits>		
 	<title value="Traduction Française">
-		<function value="Textes">
+		<function value="L'Oeil du Sphinx">
 			<name value="Nimo" />
 			<name value="Smash15195" />
+		</function>
+		<function value="La Genèse des Mensonges">
+			<name value="Nimo" />
+			<name value="Pitiben" />
+			<name value="Smash15195" />
+		</function>
+		<function value="Correction / Relecture">
+		<name value="CeDdu69" />
+		<name value="Nimo" />
+		<name value="Smash15195" />
 		</function>
 	</title>
 	<title value="KING Art Games">
