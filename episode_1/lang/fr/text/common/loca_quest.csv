@@ -22,7 +22,7 @@ hint_quest04_slot05;Je peux peut-être le distraire, de sorte qu'il laisse son �
 text_quest05_slot01_titel;Découpler le wagon de marchandises
 text_quest05_slot01_content;Je dois découpler le wagon de marchandises avant que la fumée de ce tunnel ne nous étouffe.
 text_quest05_slot02_content;Je ne peux pas me pencher sur le mécanisme de couplage dans l'obscurité. J'ai besoin de plus de lumière !
-text_quest05_slot03_content;Les allumetees ne marcheront pas - J'ai besoin d'une meilleure source de lumière.
+text_quest05_slot03_content;Les allumettes ne marcheront pas - J'ai besoin d'une meilleure source de lumière.
 hint_quest05_slot03;Je devrais me faire une torche avec quelque chose.
 text_quest05_slot04_content;La torche ne brûle pas de manière assez lumineuse et elle s'éteint aux moindres mouvements. J'ai besoin d'une plus grosse flamme.
 hint_quest05_slot04;Il n'y aurait pas de la cire, de l'huile ou quoi que ce soit du même genre dans le coin ?
@@ -72,7 +72,7 @@ hint02_quest09_slot07;Pourquoi le sang sur le lit de la baronne à l'air si étr
 text_quest10_slot01_titel;Chercher des indices
 text_quest10_slot01_content;Peut-être que je trouverai plus d'indices dans l'infirmerie.
 text_quest10_slot02_content;Le Docteur Gebhardt m'a attaché et veut me tuer. Je dois agir vite.
-hint_quest10_slot02;J dois pouvoir gagner du temps...
+hint_quest10_slot02;Je dois pouvoir gagner du temps...
 text_quest11_slot01_titel;Jeter un coup d'oeil
 text_quest11_slot01_content;Je devrais jeter un coup d'oeil avant que le coffre-fort arrive.
 text_quest11_slot02_titel;Entrer dans la Salle du trésor
@@ -89,7 +89,7 @@ hint_quest03_slot03;Peut-être que le directeur du musée peut la traduire pour 
 text_quest12_slot04_content;“Les Fils d'Horus”. Man, babouin, chacal et faucon.  
 hint_quest04_slot04;Je peux probablement en apprendre plus sur les fils d'Horus dans le musée.
 text_quest13_slot01_titel;Monter dans le train
-text_quest13_slot01_content;Je dois prendre le train, mais y aller simplement ​​n'est pas une option.
+text_quest13_slot01_content;Je dois prendre le train, mais y aller simplement n'est pas une option.
 text_quest13_slot02_content;Je ne peux pas laisser quelqu'un me voir monter dans le train.
 hint_quest13_slot02;Tant que le policier parle au médecin, je ne serai pas en mesure de passer inaperçu.
 text_quest14_slot01_titel;Quitter le compartiment
@@ -97,8 +97,8 @@ text_quest14_slot01_content;J'ai besoin de sortir du compartiment inaperçu - ma
 text_quest14_slot02_titel;Examiner le wagon de marchandises
 text_quest14_slot02_content;La vue dans le wagons de marchandises est bloqué. Je dois trouver un moyen de jeter un oeil à l'intérieur.
 hint_quest14_slot02;Un miroir pourrait être utile.
-text_quest14_slot03_titel;Ouvrir le hublot sur ​​le toit
-text_quest14_slot03_content;Le hublot sur le toit du wagon de marchandises est boulonné. J'ai besoin d'outils pour l'ouvrir.
+text_quest14_slot03_titel;Ouvrir la trappe sur le toit
+text_quest14_slot03_content;La trappe sur le toit du wagon de marchandises est boulonné. J'ai besoin d'outils pour l'ouvrir.
 text_quest14_slot04_content;L'écrou qui est tombé m'a presque trahi. J'ai besoin d'empêcher que cela se reproduise.
 hint_quest14_slot04;Je peux peut-être tenir le second écrou pour qu'il ne tombe pas quand lorsque je dévisse le boulon.
 text_quest15_slot01_titel;S'échapper de la malle
@@ -156,7 +156,7 @@ text_quest20_slot04_titel;Ouvrir la vitrine
 text_quest20_slot04_content;Je suis dans la salle du trésor, mais il y a toujours le verre pare-balles de la vitrine entre l'oeil et moi.
 hint_quest20_slot04;Je peux peut-être utiliser quelque chose pour briser la vitre.
 index_note_start_01;Le retour du Corbeau ?
-a00_common_01_diary;Ceci est l'ordinateur portable privé du Gendarme Anton Jakob Zellner. Si vous trouvez ce livre, veuillez l'envoyer directement au siège de la police de Zurich.
+a00_common_01_diary;Ceci est le bloc-notes privé du Gendarme Anton Jakob Zellner. Si vous trouvez ce livre, veuillez l'envoyer directement au siège de la police de Zurich.
 a00_common_02_museum;23 Sept. 1963 \n Un précieux rubis a été volé au British Museum à Londres. L'un des deux "Oeil du Sphinx" légendaires. La presse est dans tous ses états, comme on pourrait s'y attendre. Ils reprochent au "Nouveeau Corbeau" de salir la réputation de l'ancien. Ce dernier n'ayant jamais blessé quiconque au cours de ses exploits.
 a00_common_03_task;24 Sept. 1963 \n Je l'ai fait ! Je me suis levé et j'ai dit au capitaine droit dans les yeux que je - je ! - voulais cette affectation. Il était trop choqué pour dire non. L'inspecteur Nicolas Legrand, ici, en Suisse ! C'est une opportunité que je ne peut tout simplement pas laisser passer. Mais qu'est-ce qu'il fait ici ?
 a00_common_04_newspaper_a;London Post, 11 Sept. 1963 \n Legrand chasse “l'Hertier du Corbeau”! \n Selon les informations obtenues par le journal, Nicolas Legrand, 33 ans, de nationalité française et enquêteur spécial à Interpol, a repris l'affaire de "l'Héritier du Corbeau". Legrand est reconnu parmi ses collègues à travers l'Europe comme un enquêteur incisif et un fin limier. Il a d'abord démontré ses talents il y a cinq ans, lorsque le jeune policier a surpris le monde en attrapant le Corbeau, le criminel le plus recherché dans toute l'Europe. Une fusillade a éclaté alors qu'il tentait d'appréhender le voleur, entraînant la mort du cambrioleur.
