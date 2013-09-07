@@ -47,23 +47,23 @@ text_quest08_slot05_titel;Chasse du Corbeau
 text_quest08_slot05_content;Une silhouette vêtu de noir a été aperçu sur le toit. Pourrait-elle être le Corbeau ?
 hint_quest08_slot05;Je devrais jeter un coup d'oeil à bâbord.
 
-text_quest09a_slot01_titel;Qui est le meurtrier ?
-text_quest09a_slot01_content;Toujours aucun suspect pour l'assassinat de la baronne. Je vais voir si je peux obtenir des informations auprès des autres passagers.
-text_quest09a_slot02_content;Je suis à la recherche d'indices qui pourraient nous mener au tueur.
-hint_quest09a_slot02;Peut-être que le coup de feu que j'ai entendu dans la soute est lié à l'assassinat.
-text_quest09a_slot03_content;Legrand m'a donné la permission de fouiller la cabine de la baronne.
-hint_quest09a_slot03;Je dois fouiller plus minutieusement la cabine pour trouver des indices.
-text_quest09a_slot04_content;Je pense qu'il y a plus que des plumes coincées dans le vase, mais ma main est trop grande.
+text_quest09_slot01_titel;Qui est le meurtrier ?
+text_quest09_slot01_content;Toujours aucun suspect pour l'assassinat de la baronne. Je vais voir si je peux obtenir des informations auprès des autres passagers.
+text_quest09_slot02_content;Je suis à la recherche d'indices qui pourraient nous mener au tueur.
+hint_quest09_slot02;Peut-être que le coup de feu que j'ai entendu dans la soute est lié à l'assassinat.
+text_quest09_slot03_content;Legrand m'a donné la permission de fouiller la cabine de la baronne.
+hint_quest09_slot03;Je dois fouiller plus minutieusement la cabine pour trouver des indices.
+text_quest09_slot04_content;Je pense qu'il y a plus que des plumes coincées dans le vase, mais ma main est trop grande.
 
-text_quest09b_slot05_titel;Examiner la tache de sang
-text_quest09b_slot05_content;La tache de sang sur le matelas semble étrange.
-hint_quest09b_slot05;Si je prends un échantillon de sang, je peux l'examiner plus en détail.
-text_quest09b_slot08_content;Entrer dans l'infirmerie
+text_quest09_slot05_titel;Examiner la tache de sang
+text_quest09_slot05_content;La tache de sang sur le matelas semble étrange.
+hint_quest09_slot05;Si je prends un échantillon de sang, je peux l'examiner plus en détail.
+text_quest09_slot08_content;Entrer dans l'infirmerie
 
-text_quest09c_slot06_titel;Parler au passager clandestin
-text_quest09c_slot06_content;L'Officier Oliver ne veut pas me laisser parler au passager clandestin dans la soute. Je dois le distraire.
-hint01_quest09c_slot06;Peut-être qu'il s'en ira s'il doit faire face à des besoins naturels...
-hint02_quest09c_slot06;Matt a une plus une tête de chenapan que moi.
+text_quest09_slot06_titel;Parler au passager clandestin
+text_quest09_slot06_content;L'Officier Oliver ne veut pas me laisser parler au passager clandestin dans la soute. Je dois le distraire.
+hint01_quest09_slot06;Peut-être qu'il s'en ira s'il doit faire face à des besoins naturels...
+hint02_quest09_slot06;Matt a une plus une tête de chenapan que moi.
 
 text_quest09_slot07_content;Je pourrais examiner les preuves moi-même dans la cabine de Legrand.
 hint01_quest09_slot07;Les balles de la soute et de la cabine de la baronne proviennent de la même arme ?
@@ -111,21 +111,21 @@ text_quest15_slot05_content;Il y a peut-être un moyen pour avoir un tuyaux.
 hint_quest15_slot05;Je peux peut-être aller “pêcher”...
 text_quest15_slot06_content;J'ai le tuyau, mais je suis toujours coincé dans la malle.
 
-text_quest16a_slot01_titel;Entrer la cabine de la baronne
-text_quest16a_slot01_content;J'ai besoin d'entrer dans la cabine de la baronne et d'ouvrir son compartiment secret.
-text_quest16a_slot02_content;Je ne peux pas entrer par la porte. Le risque d'être pris est trop grand.
-text_quest16a_slot03_content;Le conduit de ventilation serait idéal, mais il est boulonné.
-hint_quest16a_slot03;Il y a peut-être des outils dans notre cabine.
-text_quest16a_slot04_content;Je ne peux pas appliquer une force suffisante sur le pen pour le tourner à mains nues. J'ai besoin de plus de prise.
-text_quest16a_slot05_content;Tant qu'il n'y a aucun moyen de repartir sans laisser d'indices derrière, je ne descendrais pas dans la cabine.
-hint_quest16a_slot05;: J'ai besoin de quelque chose pour descendre.
+text_quest16_slot01_titel;Entrer la cabine de la baronne
+text_quest16_slot01_content;J'ai besoin d'entrer dans la cabine de la baronne et d'ouvrir son compartiment secret.
+text_quest16_slot02_content;Je ne peux pas entrer par la porte. Le risque d'être pris est trop grand.
+text_quest16_slot03_content;Le conduit de ventilation serait idéal, mais il est boulonné.
+hint_quest16_slot03;Il y a peut-être des outils dans notre cabine.
+text_quest16_slot04_content;Je ne peux pas appliquer une force suffisante sur le pen pour le tourner à mains nues. J'ai besoin de plus de prise.
+text_quest16_slot05_content;Tant qu'il n'y a aucun moyen de repartir sans laisser d'indices derrière, je ne descendrais pas dans la cabine.
+hint_quest16_slot05;: J'ai besoin de quelque chose pour descendre.
 
-text_quest16b_slot06_titel;Ouvrir la cachette secrète
-text_quest16b_slot06_content;La cachette secrète doit être quelque part dans la cabine - mais où ?
-text_quest16b_slot07content;Adil avait raison. J'ai besoin d'entrer une combinaison pour ouvrir le compartiment secret.
-text_quest16b_slot08_content;Peut-être que les autres passagers savent quelque chose.
-hint01_quest16b_slot08;Chaque indice peuvent m'aider pour une conversation avec les autres passagers.
-hint02_quest16b_slot08;Adil pourrait également être en mesure d'aider.
+text_quest16_slot06_titel;Ouvrir la cachette secrète
+text_quest16_slot06_content;La cachette secrète doit être quelque part dans la cabine - mais où ?
+text_quest16_slot07content;Adil avait raison. J'ai besoin d'entrer une combinaison pour ouvrir le compartiment secret.
+text_quest16_slot08_content;Peut-être que les autres passagers savent quelque chose.
+hint01_quest16_slot08;Chaque indice peuvent m'aider pour une conversation avec les autres passagers.
+hint02_quest16_slot08;Adil pourrait également être en mesure d'aider.
 
 text_quest17_slot01_titel;Quitter la cellule
 text_quest17_slot01_content;Plus de victimes. Je dois sortir de cette cellule et avertir l'Offcier Zellner.
@@ -157,7 +157,7 @@ text_quest20_slot04_content;Je suis dans la salle du trésor, mais il y a toujou
 hint_quest20_slot04;Je peux peut-être utiliser quelque chose pour briser la vitre.
 index_note_start_01;Le retour du Corbeau ?
 a00_common_01_diary;Ceci est le bloc-notes privé du Gendarme Anton Jakob Zellner. Si vous trouvez ce livre, veuillez l'envoyer directement au siège de la police de Zurich.
-a00_common_02_museum;23 Sept. 1963 \n Un précieux rubis a été volé au British Museum à Londres. L'un des deux "Oeil du Sphinx" légendaires. La presse est dans tous ses états, comme on pourrait s'y attendre. Ils reprochent au "Nouveeau Corbeau" de salir la réputation de l'ancien. Ce dernier n'ayant jamais blessé quiconque au cours de ses exploits.
+a00_common_02_museum;23 Sept. 1963 \n Un précieux rubis a été volé au British Museum à Londres. L'un des deux "Oeil du Sphinx" légendaires. La presse est dans tous ses états, comme on pourrait s'y attendre. Ils reprochent au "Nouveau Corbeau" de salir la réputation de l'ancien. Ce dernier n'ayant jamais blessé quiconque au cours de ses exploits.
 a00_common_03_task;24 Sept. 1963 \n Je l'ai fait ! Je me suis levé et j'ai dit au capitaine droit dans les yeux que je - je ! - voulais cette affectation. Il était trop choqué pour dire non. L'inspecteur Nicolas Legrand, ici, en Suisse ! C'est une opportunité que je ne peut tout simplement pas laisser passer. Mais qu'est-ce qu'il fait ici ?
 a00_common_04_newspaper_a;London Post, 11 Sept. 1963 \n Legrand chasse “l'Hertier du Corbeau”! \n Selon les informations obtenues par le journal, Nicolas Legrand, 33 ans, de nationalité française et enquêteur spécial à Interpol, a repris l'affaire de "l'Héritier du Corbeau". Legrand est reconnu parmi ses collègues à travers l'Europe comme un enquêteur incisif et un fin limier. Il a d'abord démontré ses talents il y a cinq ans, lorsque le jeune policier a surpris le monde en attrapant le Corbeau, le criminel le plus recherché dans toute l'Europe. Une fusillade a éclaté alors qu'il tentait d'appréhender le voleur, entraînant la mort du cambrioleur.
 a00_common_04_newspaper_b;Le Corbeau, il faut le dire, était très estimé par le public pour ses habiles vols audacieux. \n Un criminel imitateur nous tourmente depuis plusieurs mois maintenant - si l'imitateur laisse des plumes de corbeau sur les scènes de ses crimes, ses vols présentent aucun raffinement des tactiques du Corbeau original. Les trois derniers vols ont abouti à un total de cinq blessés dont un grièvement mais par la grâce de Dieu, aucun décès. \n Scotland Yard, Interpol et l'inspecteur Legrand n'ont pas pu être joint pour donner leur avis.
